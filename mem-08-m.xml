@@ -1942,7 +1942,7 @@ The queen is called the {maqSung SoS:n@@maqSung:n, SoS:n} or {maqSung SoS'a':n@@
       <column name="_id"></column>
       <column name="entry_name">marvargh</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">Klingon ballet</column>
+      <column name="definition">ballet (Klingon classical ballet, a form of martial arts)</column>
       <column name="definition_de">Klingonisches Ballet</column>
       <column name="definition_fa">باله کلینگون [AUTOTRANSLATED]</column>
       <column name="definition_sv">klingonsk balett</column>
@@ -1961,7 +1961,9 @@ The queen is called the {maqSung SoS:n@@maqSung:n, SoS:n} or {maqSung SoS'a':n@@
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">This word appears to contain {mar:v} "use the big toe", but it's unclear where the rest of the word comes from.</column>
+      <column name="hidden_notes">Information about Klingon classical ballet may be found in {HQ 10.2, Jun. 2001:src}.
+
+This word appears to contain {mar:v} "use the big toe", but it's unclear where the rest of the word comes from.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
