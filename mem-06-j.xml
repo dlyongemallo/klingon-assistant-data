@@ -1315,7 +1315,7 @@ Klingonissa otsikot ovat yleensä nimen perässä, joten "kapteeni Jean-Luc Pica
       <column name="_id"></column>
       <column name="entry_name">jantor</column>
       <column name="part_of_speech">n:being</column>
-      <column name="definition">witness</column>
+      <column name="definition">witness (observer of an event)</column>
       <column name="definition_de">Zeuge</column>
       <column name="definition_fa">شاهد [AUTOTRANSLATED]</column>
       <column name="definition_sv">bevittna [AUTOTRANSLATED]</column>
