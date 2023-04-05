@@ -10733,7 +10733,7 @@ Nousu alaspäin ilmaistaan ​​negatiivisella kulmalla (katso {taH:v:2}). [AUT
       <column name="_id"></column>
       <column name="entry_name">to'baj</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">type of animal, tobbaj</column>
+      <column name="definition">type of animal, tobbaj (legs are stuffed and eaten)</column>
       <column name="definition_de">Tobbaj</column>
       <column name="definition_fa">نوع حیوان، تنباج [AUTOTRANSLATED]</column>
       <column name="definition_sv">ett slags djur, tobbaj</column>

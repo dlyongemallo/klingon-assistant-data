@@ -13710,7 +13710,7 @@ It's likely that these sentences were made up by a writer who consulted {TKD:src
       <column name="_id"></column>
       <column name="entry_name">bolmaq</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">type of animal (makes bleating sounds and tends to run around in circles)</column>
+      <column name="definition">type of animal (animal that makes bleating sounds and tends to run around in circles)</column>
       <column name="definition_de">eine Tierart</column>
       <column name="definition_fa">نوع حیوانات [AUTOTRANSLATED]</column>
       <column name="definition_sv">typ av djur [AUTOTRANSLATED]</column>
@@ -14383,7 +14383,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
       <column name="_id"></column>
       <column name="entry_name">ghIlo'meH</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">glo'meH, glommer, type of animal</column>
+      <column name="definition">glo'meH, glommer, type of animal (bred to eat tribbles)</column>
       <column name="definition_de">Glommer</column>
       <column name="definition_fa">گلومر، گلومر [AUTOTRANSLATED]</column>
       <column name="definition_sv">glo'meH, glommar [AUTOTRANSLATED]</column>
@@ -15677,7 +15677,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="_id"></column>
       <column name="entry_name">qu'vatlh</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">type of animal noted for stubbornness</column>
+      <column name="definition">animal noted for stubbornness, type of animal</column>
       <column name="definition_de">stures Tier</column>
       <column name="definition_fa">حیوان برای استبداد یاد شده است [AUTOTRANSLATED]</column>
       <column name="definition_sv">djur noterat för envishet [AUTOTRANSLATED]</column>
