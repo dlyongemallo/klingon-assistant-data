@@ -6556,7 +6556,7 @@ Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolin
           <column name="_id"></column>
           <column name="entry_name">bIQDep</column>
           <column name="part_of_speech">n:anim,deriv</column>
-          <column name="definition">fish, sea creature</column>
+          <column name="definition">fish, sea creature (covers most animals that live in the sea, but not smaller creatures or amphibians)</column>
           <column name="definition_de">Fisch</column>
           <column name="definition_fa">ماهی، موجود دریایی</column>
           <column name="definition_sv">fisk</column>
@@ -10803,7 +10803,7 @@ Tätä sanaa käytetään sanastoissa {bo'Dagh'a' lo':sen} ja {bo'DaghHom lo':se
       <column name="_id"></column>
       <column name="entry_name">bo'Degh</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">bird, the most general word for a bird-like creature</column>
+      <column name="definition">bird (most general word for a bird-like creature)</column>
       <column name="definition_de">Vogel (allgemein)</column>
       <column name="definition_fa">پرنده، کلمه کلیدی برای موجودی پرنده مانند [AUTOTRANSLATED]</column>
       <column name="definition_sv">fågel</column>
