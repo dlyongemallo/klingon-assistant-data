@@ -12073,7 +12073,7 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="_id"></column>
       <column name="entry_name">muj</column>
       <column name="part_of_speech">v:is,klcp1</column>
-      <column name="definition">be wrong</column>
+      <column name="definition">be wrong, be incorrect, be factually wrong</column>
       <column name="definition_de">inkorrekt, falsch sein</column>
       <column name="definition_fa">اشتباه</column>
       <column name="definition_sv">ha fel, vara fel</column>
@@ -12092,7 +12092,7 @@ Tätä verbiä käytetään myös musiikissa ({much:v:2}) ja taistelulajeissa ({
       <column name="notes_zh_HK">請注意，這意味著「不正確，實際上是錯誤的」，而不是{waS:v}「不對，就算錯了」。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Observe que isso significa "estar incorreto, factualmente errado", em oposição a {waS:v} "estar errado, errado". [AUTOTRANSLATED]</column>
       <column name="notes_fi">Huomaa, että tämä tarkoittaa "ole väärä, tosiasiallisesti väärä", toisin kuin {waS:v} "ole väärin, väärin". [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">This is missing from the E-K side of {TKD:src}.</column>
+      <column name="hidden_notes">This is missing from the E-K side of {TKD:src}, and is defined only as "be wrong" in the K-E side.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>

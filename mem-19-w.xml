@@ -1311,7 +1311,7 @@ Obi-Wan Kenobi is a character in Star Wars.</column>
       <column name="_id"></column>
       <column name="entry_name">waS</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be wrong, be awry</column>
+      <column name="definition">be wrong, be awry, be amiss</column>
       <column name="definition_de">schief gelaufen</column>
       <column name="definition_fa">اشتباه می کنم [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara fel, dålig [AUTOTRANSLATED]</column>
