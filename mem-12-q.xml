@@ -13480,7 +13480,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="_id"></column>
       <column name="entry_name">qutluch</column>
       <column name="part_of_speech">n:fic,weap</column>
-      <column name="definition">kut'luch, type of hand weapon</column>
+      <column name="definition">kut'luch (type of hand weapon)</column>
       <column name="definition_de">Kut'luch, Handwaffe</column>
       <column name="definition_fa">kut'luch، نوع سلاح دست [AUTOTRANSLATED]</column>
       <column name="definition_sv">ett slags handvapen, kut'luch (traditionell lönnmördarkniv)</column>
