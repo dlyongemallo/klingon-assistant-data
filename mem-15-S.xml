@@ -7454,7 +7454,7 @@ The {SkyBox 21:src} example appears to be missing a conjunction.</column>
       <column name="_id"></column>
       <column name="entry_name">SolbIS</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">whale, dolphin, porpoise (generic word for any fishlike creature which has to come up to breathe air)</column>
+      <column name="definition">whale, dolphin, porpoise (generic word for any fish-like creature which has to come up to breathe air)</column>
       <column name="definition_de">Wal, Delfin, Tümmler</column>
       <column name="definition_fa">نهنگ ، دلفین ، خوکچه [AUTOTRANSLATED]</column>
       <column name="definition_sv">val, delfin, tumlare [AUTOTRANSLATED]</column>
