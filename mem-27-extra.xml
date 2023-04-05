@@ -13620,8 +13620,8 @@ Kursivoidun kirjasimen kuvaamiseen voidaan käyttää {chongHa':v@@chong:v:1, -H
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">be'joy'</column>
-      <column name="part_of_speech">n:extcan</column>
-      <column name="definition">a form of ritualistic torture</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">torture (a specific form of ritualistic torture)</column>
       <column name="definition_de">eine Form der rituellen Folter</column>
       <column name="definition_fa">یک شکل شکنجه روحانی [AUTOTRANSLATED]</column>
       <column name="definition_sv">en form av ritualistisk tortyr [AUTOTRANSLATED]</column>
@@ -13663,7 +13663,7 @@ Kursivoidun kirjasimen kuvaamiseen voidaan käyttää {chongHa':v@@chong:v:1, -H
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">bIHnuch</column>
-      <column name="part_of_speech">n:archaic,extcan</column>
+      <column name="part_of_speech">n:archaic</column>
       <column name="definition">coward</column>
       <column name="definition_de">Feigling</column>
       <column name="definition_fa">ترسو</column>
@@ -13709,7 +13709,7 @@ It's likely that these sentences were made up by a writer who consulted {TKD:src
       <!-- https://twitter.com/KRADeC/status/219789081108946944 -->
       <column name="_id"></column>
       <column name="entry_name">bolmaq</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">type of animal (makes bleating sounds and tends to run around in circles)</column>
       <column name="definition_de">eine Tierart</column>
       <column name="definition_fa">نوع حیوانات [AUTOTRANSLATED]</column>
@@ -13994,7 +13994,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">buran</column>
-      <column name="part_of_speech">n:name,extcan,fic</column>
+      <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Buran (name of Federation ship)</column>
       <column name="definition_de">Buran</column>
       <column name="definition_fa">بوران [AUTOTRANSLATED]</column>
@@ -14038,7 +14038,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
       <!-- http://nordicebm.wordpress.com/2014/11/12/igniting-the-hidden-fire-of-demand-for-understandable-scientific-evidence/ -->
       <column name="_id"></column>
       <column name="entry_name">chalqut ngat</column>
-      <column name="part_of_speech">n:deriv,extcan</column>
+      <column name="part_of_speech">n:deriv</column>
       <column name="definition">copper sulfate</column>
       <column name="definition_de">Kupfersulfat</column>
       <column name="definition_fa">سولفات مس [AUTOTRANSLATED]</column>
@@ -14382,7 +14382,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ghIlo'meH</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">glo'meH, glommer, type of animal</column>
       <column name="definition_de">Glommer</column>
       <column name="definition_fa">گلومر، گلومر [AUTOTRANSLATED]</column>
@@ -14425,7 +14425,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ghInaq</column>
-      <column name="part_of_speech">n:extcan,fic</column>
+      <column name="part_of_speech">n:fic</column>
       <column name="definition">grinnak (a gambling game)</column>
       <column name="definition_de">Grinnak (ein Spiel)</column>
       <column name="definition_fa">grinnak (یک بازی قمار) [AUTOTRANSLATED]</column>
@@ -14468,7 +14468,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ghIntaq</column>
-      <column name="part_of_speech">n:2,being,extcan</column>
+      <column name="part_of_speech">n:2,being</column>
       <column name="definition">gin'tak, trusted adviser of a Klingon House</column>
       <column name="definition_de">Berater eines Klingonischen Hauses</column>
       <column name="definition_fa">مشاور اعتماد یک خانه کلینگان [AUTOTRANSLATED]</column>
@@ -14511,7 +14511,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">ghonglIq</column>
-      <column name="part_of_speech">n:extcan,fic,food</column>
+      <column name="part_of_speech">n:fic,food</column>
       <column name="definition">gonklik, a kind of vegetable</column>
       <column name="definition_de">Gonlik, eine Art Gemüse</column>
       <column name="definition_fa">gonklik، یک نوع سبزیجات [AUTOTRANSLATED]</column>
@@ -14640,8 +14640,8 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">Habnagh</column>
-      <column name="part_of_speech">n:extcan</column>
-      <column name="definition">type of stone</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">type of stone (used in statuary)</column>
       <column name="definition_de">eine Steinart</column>
       <column name="definition_fa">نوع سنگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">typ av sten [AUTOTRANSLATED]</column>
@@ -14683,7 +14683,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">HurqIq</column>
-      <column name="part_of_speech">n:extcan,fic,food</column>
+      <column name="part_of_speech">n:fic,food</column>
       <column name="definition">hurkik, a kind of fruit</column>
       <column name="definition_de">Hurkik (Obst)</column>
       <column name="definition_fa">hurkik، یک نوع میوه [AUTOTRANSLATED]</column>
@@ -14855,8 +14855,8 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">logh ghotI''a'</column>
-      <column name="part_of_speech">n:deriv,extcan</column>
-      <column name="definition">space whale</column>
+      <column name="part_of_speech">n:deriv</column>
+      <column name="definition">space whale (referring to the gormagander)</column>
       <column name="definition_de">Weltraum-Wal</column>
       <column name="definition_fa">نهنگ فضایی [AUTOTRANSLATED]</column>
       <column name="definition_sv">rymdval [AUTOTRANSLATED]</column>
@@ -14941,8 +14941,8 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">maqtagh</column>
-      <column name="part_of_speech">n:extcan</column>
-      <column name="definition">Maktag, name of a month or season?</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">Maktag (name of a period on a Klingon calendar)</column>
       <column name="definition_de">Maktag, Name eines Monats oder Jahreszeit?</column>
       <column name="definition_fa">مکتگ، نام یک ماه یا فصل؟ [AUTOTRANSLATED]</column>
       <column name="definition_sv">Maktag, namn på en månad eller säsong? [AUTOTRANSLATED]</column>
@@ -14984,8 +14984,8 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">may'qochvan</column>
-      <column name="part_of_speech">n:archaic,deriv,extcan,fic</column>
-      <column name="definition">temporary truce (old concept)</column>
+      <column name="part_of_speech">n:archaic,deriv,fic</column>
+      <column name="definition">temporary truce between rivals after a limited alliance (old concept)</column>
       <column name="definition_de">vorübergehender Waffenstillstand</column>
       <column name="definition_fa">موقت موقت [AUTOTRANSLATED]</column>
       <column name="definition_sv">tillfällig våldsamhet [AUTOTRANSLATED]</column>
@@ -15027,7 +15027,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">meqHoD</column>
-      <column name="part_of_speech">n:extcan</column>
+      <column name="part_of_speech">n</column>
       <column name="definition">bypass</column>
       <column name="definition_de">Bypass [AUTOTRANSLATED]</column>
       <column name="definition_fa">میان بر [AUTOTRANSLATED]</column>
@@ -15072,8 +15072,8 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">meyvaQ</column>
-      <column name="part_of_speech">n:extcan</column>
-      <column name="definition">some kind of device?</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">sex aid (a kind of Klingon sex toy)</column>
       <column name="definition_de">ein Gerät?</column>
       <column name="definition_fa">نوعی دستگاه؟ [AUTOTRANSLATED]</column>
       <column name="definition_sv">någon typ av enhet? [AUTOTRANSLATED]</column>
@@ -15115,7 +15115,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">mInHor</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">type of animal, minn'hor (ox-like carnivorous beast of burden, whose milk is used to make cheese)</column>
       <column name="definition_de">Tierart, Minn'hor [AUTOTRANSLATED]</column>
       <column name="definition_fa">نوع حیوان، minn'hor [AUTOTRANSLATED]</column>
@@ -15158,7 +15158,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">moratlh ro'</column>
-      <column name="part_of_speech">n:deriv,extcan,fic,weap</column>
+      <column name="part_of_speech">n:deriv,fic,weap</column>
       <column name="definition">Morath's Fist (type of torpedo)</column>
       <column name="definition_de">Moraths Faust (Torpedo)</column>
       <column name="definition_fa">مشت مورات (اژدر) [AUTOTRANSLATED]</column>
@@ -15244,7 +15244,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">notqa' pach</column>
-      <column name="part_of_speech">n:deriv,extcan,fic,weap</column>
+      <column name="part_of_speech">n:deriv,fic,weap</column>
       <column name="definition">Eagle's Claw (type of ordnance which can be used as torpedo or mine)</column>
       <column name="definition_de">Adlerklaue (Torpedo oder Mine)</column>
       <column name="definition_fa">پنجه عقاب (اژدر یا مین) [AUTOTRANSLATED]</column>
@@ -15287,7 +15287,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">pach peng</column>
-      <column name="part_of_speech">n:deriv,extcan,fic,weap</column>
+      <column name="part_of_speech">n:deriv,fic,weap</column>
       <column name="definition">Talon's Strike (standard torpedo type on {toQDuj:n})</column>
       <column name="definition_de">Krallen-Torpedo</column>
       <column name="definition_fa">اعتصاب تالون (اژدر) [AUTOTRANSLATED]</column>
@@ -15633,7 +15633,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <!-- http://nordicebm.wordpress.com/2014/11/12/igniting-the-hidden-fire-of-demand-for-understandable-scientific-evidence/ -->
       <column name="_id"></column>
       <column name="entry_name">qulSo'</column>
-      <column name="part_of_speech">n:deriv,extcan</column>
+      <column name="part_of_speech">n:deriv</column>
       <column name="definition">phosphorous</column>
       <column name="definition_de">Phosphor</column>
       <column name="definition_fa">فسفر [AUTOTRANSLATED]</column>
@@ -15676,7 +15676,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">qu'vatlh</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">type of animal noted for stubbornness</column>
       <column name="definition_de">stures Tier</column>
       <column name="definition_fa">حیوان برای استبداد یاد شده است [AUTOTRANSLATED]</column>
@@ -15766,8 +15766,8 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">QInHom</column>
-      <column name="part_of_speech">n:deriv,extcan</column>
-      <column name="definition">comment</column>
+      <column name="part_of_speech">n:deriv</column>
+      <column name="definition">comment (small piece of text attached to, e.g., a document)</column>
       <column name="definition_de">Kommentar</column>
       <column name="definition_fa">اظهار نظر [AUTOTRANSLATED]</column>
       <column name="definition_sv">kommentar [AUTOTRANSLATED]</column>
@@ -15895,7 +15895,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">Quv'eq</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">type of animal, kuvrek</column>
       <column name="definition_de">Tiersorte: Kuvrek</column>
       <column name="definition_fa">نوع حیوانات، نمایشگر [AUTOTRANSLATED]</column>
@@ -15981,7 +15981,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rISwI'</column>
-      <column name="part_of_speech">n:deriv,extcan</column>
+      <column name="part_of_speech">n:deriv</column>
       <column name="definition">transponder</column>
       <column name="definition_de">Transponder</column>
       <column name="definition_fa">ترانسپوندر [AUTOTRANSLATED]</column>
@@ -16110,7 +16110,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">rotarran</column>
-      <column name="part_of_speech">n:name,extcan,fic</column>
+      <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Rotarran</column>
       <column name="definition_de">Rotarran</column>
       <column name="definition_fa">روتاران [AUTOTRANSLATED]</column>
@@ -16239,7 +16239,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">SIl</column>
-      <column name="part_of_speech">v:t,extcan</column>
+      <column name="part_of_speech">v:t</column>
       <column name="definition">divert</column>
       <column name="definition_de">umleiten [AUTOTRANSLATED]</column>
       <column name="definition_fa">منحرف کردن [AUTOTRANSLATED]</column>
@@ -16411,7 +16411,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">taqnar</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">type of animal, taknar (gizzards used as food; droppings are particularly foul-smelling)</column>
       <column name="definition_de">Tiersorte, Taknar</column>
       <column name="definition_fa">نوع حیوان ، تکنار [AUTOTRANSLATED]</column>
@@ -16497,8 +16497,8 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tIq'ghob</column>
-      <column name="part_of_speech">n:archaic,deriv,extcan</column>
-      <column name="definition">Heart of Virtue</column>
+      <column name="part_of_speech">n:archaic,deriv</column>
+      <column name="definition">Heart of Virtue (old name for Klingon emblem)</column>
       <column name="definition_de">Herz der Tugend</column>
       <column name="definition_fa">قلب فضیلت [AUTOTRANSLATED]</column>
       <column name="definition_sv">Hjärta av Dygd [AUTOTRANSLATED]</column>
@@ -16585,7 +16585,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">torghotlh</column>
-      <column name="part_of_speech">n:anim,extcan</column>
+      <column name="part_of_speech">n:anim</column>
       <column name="definition">type of animal, torgot (large animal native to {rura' pente':n})</column>
       <column name="definition_de">Tiersorte, Torgot</column>
       <column name="definition_fa">نوع حیوانات، توریوت [AUTOTRANSLATED]</column>
@@ -16628,8 +16628,8 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tuQloS</column>
-      <column name="part_of_speech">n:archaic,extcan</column>
-      <column name="definition">a kind of vitamin pill</column>
+      <column name="part_of_speech">n:archaic</column>
+      <column name="definition">vitamin pill (taken by Klingon spies to supplement non-Klingon diet)</column>
       <column name="definition_de">eine Art Vitaminpille</column>
       <column name="definition_fa">نوعی قرص ویتامین [AUTOTRANSLATED]</column>
       <column name="definition_sv">ett slags vitaminpiller [AUTOTRANSLATED]</column>
@@ -16844,8 +16844,8 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'aDanjI'</column>
-      <column name="part_of_speech">n:extcan</column>
-      <column name="definition">adanji, a kind of incense</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">incense, adanji (kind of incense used in the {ma'to'vor:n} ritual)</column>
       <column name="definition_de">Adandji, ein Duftstoff</column>
       <column name="definition_fa">adanji، یک نوع بخور دادن [AUTOTRANSLATED]</column>
       <column name="definition_sv">adanji, en slags rökelse [AUTOTRANSLATED]</column>
