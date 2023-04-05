@@ -3574,7 +3574,7 @@ Obi-Wan Kenobi is a character in Star Wars.</column>
       <column name="_id"></column>
       <column name="entry_name">weQmoQnaQ</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">World Wide Web</column>
+      <column name="definition">"World Wide Web", Klingon information distribution network</column>
       <column name="definition_de">World Wide Web (Teil des Internets)</column>
       <column name="definition_fa">وب جهان گستر [AUTOTRANSLATED]</column>
       <column name="definition_sv">webben</column>
