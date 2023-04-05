@@ -4849,7 +4849,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="_id"></column>
       <column name="entry_name">meqleH</column>
       <column name="part_of_speech">n:fic,weap</column>
-      <column name="definition">type of weapon, mek'leth</column>
+      <column name="definition">mek'leth (type of weapon; smaller, one-handed version of bat'leth)</column>
       <column name="definition_de">Mek'leth (Waffe)</column>
       <column name="definition_fa">نوع سلاح ، mek'leth [AUTOTRANSLATED]</column>
       <column name="definition_sv">ett slags vapen, mek'leth</column>
@@ -4868,7 +4868,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">O {meqleH:n:nolink} também é chamado de {meqleH matlh:n:nolink}, para diferenciá-lo do som semelhante {betleH:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">{meqleH:n:nolink}: tä kutsutaan myös {meqleH matlh:n:nolink}: ksi, jotta se erotettaisiin vastaavasta kuulostavasta {betleH:n}: sta. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This is defined as "mek'leth (type of weapon)" in the word lists.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
