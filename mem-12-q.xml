@@ -13480,7 +13480,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="_id"></column>
       <column name="entry_name">qutluch</column>
       <column name="part_of_speech">n:fic,weap</column>
-      <column name="definition">kut'luch, type of hand weapon</column>
+      <column name="definition">kut'luch (type of hand weapon)</column>
       <column name="definition_de">Kut'luch, Handwaffe</column>
       <column name="definition_fa">kut'luch، نوع سلاح دست [AUTOTRANSLATED]</column>
       <column name="definition_sv">ett slags handvapen, kut'luch (traditionell lönnmördarkniv)</column>
@@ -13499,7 +13499,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="notes_zh_HK">該武器象徵性地與刺客聯繫在一起。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta arma está associada simbolicamente a assassinos. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä ase liittyy symbolisesti salamurhaajiin. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This is defined as just "type of hand weapon" in {TKDA:src}. The spelling "kut'luch" comes from the body of {KGT:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
