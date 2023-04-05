@@ -1192,7 +1192,7 @@ Kun yhdistetään useita lauseita, tarvitaan vain viimeinen yhdistelmä. Katso e
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">paq 'ay'mey</column>
-      <column name="part_of_speech">n:deriv</column>
+      <column name="part_of_speech">n:plural,deriv</column>
       <column name="definition">contents, table of contents (of a book)</column>
       <column name="definition_de">Inhaltsverzeichnis (eines Buches)</column>
       <column name="definition_fa">مطالب، فهرست مطالب (کتاب) [AUTOTRANSLATED]</column>
