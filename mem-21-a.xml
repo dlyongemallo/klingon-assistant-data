@@ -2273,7 +2273,7 @@ Huomaa, että sääennusteissa (katso {muD Dotlh:n}) käytetään yleensä {'e' 
       <column name="_id"></column>
       <column name="entry_name">'aqleH</column>
       <column name="part_of_speech">n:fic,weap</column>
-      <column name="definition">type of weapon (half ax, half bat'leth)</column>
+      <column name="definition">ak'leth (type of weapon; half ax, half bat'leth)</column>
       <column name="definition_de">Waffe: Halb Axt, halb Bat'leth.</column>
       <column name="definition_fa">نوع سلاح (نیمه تبر، نیم بته) [AUTOTRANSLATED]</column>
       <column name="definition_sv">ett slags vapen (hälften yxa, hälften bat'leth)</column>
