@@ -3465,7 +3465,7 @@ Seuraavissa esimerkeissä voidaan käyttää tiettyä sormen tai varpaan nimeä 
       <column name="_id"></column>
       <column name="entry_name">vem'eq</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">a kind of bird</column>
+      <column name="definition">a bird that feeds almost exclusively on serpent worms</column>
       <column name="definition_de">eine Vogelart</column>
       <column name="definition_fa">یک نوع پرنده [AUTOTRANSLATED]</column>
       <column name="definition_sv">en slags fågel</column>
@@ -3829,7 +3829,7 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">veqlargh</column>
       <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">devil, demon, Fek'lhr</column>
+      <column name="definition">"devil", demon, Fek'lhr (guardian of Gre'thor)</column>
       <column name="definition_de">Fek'lhr</column>
       <column name="definition_fa">شیطان ، دیو ، فاکلهر [AUTOTRANSLATED]</column>
       <column name="definition_sv">djävul, demon, Fek'lhr</column>

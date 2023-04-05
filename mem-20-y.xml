@@ -1477,7 +1477,7 @@ Sotilasmerkityksen lisäksi tämä sana voi viitata säännöstelyvaltaa käytt�
       <column name="_id"></column>
       <column name="entry_name">yatqap</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">a kind of bird</column>
+      <column name="definition">a gray (sometimes white) bird that can travel particularly long distances without pausing</column>
       <column name="definition_de">Art Vogel</column>
       <column name="definition_fa">یک نوع پرنده [AUTOTRANSLATED]</column>
       <column name="definition_sv">en slags fågel</column>

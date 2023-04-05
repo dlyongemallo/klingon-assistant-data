@@ -3677,7 +3677,7 @@ Huomaa, että {jemS:n:nolink} ja {qIrq:n:nolink} eivät noudata oikeaa klingonif
       <column name="_id"></column>
       <column name="entry_name">jentu'</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">flightless aquatic bird</column>
+      <column name="definition">a flightless aquatic bird</column>
       <column name="definition_de">flugunfähiger Wasservogel</column>
       <column name="definition_fa">پرنده آبزی پرنده [AUTOTRANSLATED]</column>
       <column name="definition_sv">flyglös vattenlevande fågel [AUTOTRANSLATED]</column>
