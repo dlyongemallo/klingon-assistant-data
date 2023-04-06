@@ -7508,8 +7508,8 @@ This was clarified to mean "mental confusion" at {qep'a' 24 (2017):src}.</column
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">mIStaq</column>
-      <column name="part_of_speech">n:name,fic,nodict</column>
-      <column name="definition">?Mishtak</column>
+      <column name="part_of_speech">n:name,fic</column>
+      <column name="definition">Mish'tak</column>
       <column name="definition_de">?Mischtak</column>
       <column name="definition_fa">؟ میستک [AUTOTRANSLATED]</column>
       <column name="definition_sv">en känd skulptör</column>
