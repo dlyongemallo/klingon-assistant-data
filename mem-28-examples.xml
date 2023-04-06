@@ -3197,7 +3197,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="definition_fi">merkityksetön taivutettu verbi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{wot:n}, {mojaq:n}, {QaghHommeyHeylIjmo':n}</column>
+      <column name="see_also">{wot:n}, {mojaQ:n}, {QaghHommeyHeylIjmo':n}</column>
       <column name="notes">This is a verb with one of each type of suffix. It doesn't really mean anything.</column>
       <column name="notes_de">Dies ist ein Verb mit einem Suffix jeder Art. Es hat eigentlich nichts zu bedeuten. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این فعل با یکی از هر نوع پسوند است. این به معنای چیزی نیست. [AUTOTRANSLATED]</column>
@@ -3982,7 +3982,7 @@ Toisin kuin jotkut väittävät, lause "Urkuk lu Stalga" ei tarkoita "rakastan s
       <column name="definition_fi">ilmeisten pienten virheidesi vuoksi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{DIp:n}, {mojaq:n}, {bIQong'eghqangchoHmoHlaHchu'pu'neSchugh:v}</column>
+      <column name="see_also">{DIp:n}, {mojaQ:n}, {bIQong'eghqangchoHmoHlaHchu'pu'neSchugh:v}</column>
       <column name="notes">This is used in {TKD:src} as an example of a noun with all five suffix types.</column>
       <column name="notes_de">Dies wird in {TKD:src} als Beispiel für ein Substantiv mit allen fünf Suffix-Typen verwendet. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این در {TKD:src} به عنوان نمونه ای از اسم با هر پنج نوع پسوند استفاده می شود. [AUTOTRANSLATED]</column>
