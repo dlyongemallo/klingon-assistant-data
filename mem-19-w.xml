@@ -261,7 +261,7 @@
       <column name="_id"></column>
       <column name="entry_name">wab qoSta' 'aplo'</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">cassette</column>
+      <column name="definition">cassette (audio cassette)</column>
       <column name="definition_de">Kassette</column>
       <column name="definition_fa">کاست [AUTOTRANSLATED]</column>
       <column name="definition_sv">kassett, band</column>
