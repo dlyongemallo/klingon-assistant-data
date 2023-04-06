@@ -11081,7 +11081,7 @@ Huomaa myös, että "Mitkä ovat tilauksesi?" ilmaistaan ​​Klingonissa nimel
       <column name="_id"></column>
       <column name="entry_name">nuqneH</column>
       <column name="part_of_speech">excl</column>
-      <column name="definition">what do you want? (greeting)</column>
+      <column name="definition">what do you want? (closest thing to a greeting; not normally used by Klingons)</column>
       <column name="definition_de">Was willst du? (Gruß)</column>
       <column name="definition_fa">چه چیزی می خواهید؟ (تبریک) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vad vill du? (hälsning)</column>
