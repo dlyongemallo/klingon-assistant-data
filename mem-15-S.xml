@@ -5471,7 +5471,7 @@ Jotkut vertailulämpötilat {SImyon:sen:nolink}-asteikolle (vasen) vs. Celsius (
       <column name="_id"></column>
       <column name="entry_name">SIprat</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">bristle, stiff hair or filament</column>
+      <column name="definition">bristle, stiff hair, filament</column>
       <column name="definition_de">Borsten, steifes Haar oder Filament</column>
       <column name="definition_fa">مو ، سفت یا موی محکم [AUTOTRANSLATED]</column>
       <column name="definition_sv">borste, hårt hår eller filament [AUTOTRANSLATED]</column>
