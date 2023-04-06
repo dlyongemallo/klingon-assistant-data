@@ -793,7 +793,7 @@ Katso {qach:n}-osat {qoD:n}-osasta kohdasta {pa':n:1}. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">qagh</column>
       <column name="part_of_speech">n:food</column>
-      <column name="definition">serpent worm (as food)</column>
+      <column name="definition">serpent worm (as food), "gagh"</column>
       <column name="definition_de">Schlagenwurm (als Speise)</column>
       <column name="definition_fa">کرم مار (به عنوان غذا) [AUTOTRANSLATED]</column>
       <column name="definition_sv">orm-mask (som mat), gagh</column>
