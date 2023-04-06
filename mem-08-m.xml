@@ -9183,7 +9183,7 @@ Verbiä {'al:v:2} käytetään satunnaislukuihin ({mI' 'al:n}). [AUTOTRANSLATED]
       <column name="definition_pt">prefixo</column>
       <column name="definition_fi">etuliite, prefiksi</column>
       <column name="synonyms"></column>
-      <column name="antonyms">{mojaq:n}</column>
+      <column name="antonyms">{mojaQ:n}</column>
       <column name="see_also"></column>
       <column name="notes">In Klingon, verb prefixes indicate both the subject and the object of a sentence.
 
@@ -9340,7 +9340,7 @@ In British English, this word refers to what would be called a general irregular
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mojaq</column>
+      <column name="entry_name">mojaQ</column>
       <column name="part_of_speech">n</column>
       <column name="definition">suffix</column>
       <column name="definition_de">Suffix, Anhängsel</column>
@@ -9353,28 +9353,28 @@ In British English, this word refers to what would be called a general irregular
       <column name="synonyms"></column>
       <column name="antonyms">{moHaq:n}</column>
       <column name="see_also">{QaghHommeyHeylIjmo':n}, {bIQong'eghqangchoHmoHlaHchu'pu'neSchugh:v}</column>
-      <column name="notes">This word may also be written {mojaQ:n:nolink}.
+      <column name="notes">This word may also be written {mojaq:n:nolink}.
 
 There are five types of noun suffixes and nine types of verb suffixes in Klingon, for which see {DIp:n} and {wot:n}, respectively.</column>
-      <column name="notes_de">Dieses Wort kann auch {mojaQ:n:nolink} geschrieben werden.
+      <column name="notes_de">Dieses Wort kann auch {mojaq:n:nolink} geschrieben werden.
 
 Im Klingonischen gibt es fünf Arten von Substantivsuffixen und neun Arten von Verbsuffixen, siehe {DIp:n} bzw. {wot:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این کلمه ممکن است {mojaQ:n:nolink} نیز نوشته شود.
+      <column name="notes_fa">این کلمه ممکن است {mojaq:n:nolink} نیز نوشته شود.
 
 پنج نوع پسوند اسمی و نه نوع پسوند فعل در کلینگون وجود دارد که به ترتیب می توانید به {DIp:n} و {wot:n} مراجعه کنید. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta ord kan också skrivas {mojaQ:n:nolink}.
+      <column name="notes_sv">Detta ord kan också skrivas {mojaq:n:nolink}.
 
 Det finns fem typer av substantivsuffix och nio typer av verbsuffikser i Klingon, för vilka se {DIp:n} respektive {wot:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это слово также может быть записано, как {mojaQ:n:nolink}.
+      <column name="notes_ru">Это слово также может быть записано, как {mojaq:n:nolink}.
 
 Есть 5 типов суффиксов существительных и 9 типов глагольных суффиксов в Клингонском языке, для которых смотрите {DIp:n} и {wot:n}, соответственно.</column>
-      <column name="notes_zh_HK">這個詞也可以寫成{mojaQ:n:nolink}。
+      <column name="notes_zh_HK">這個詞也可以寫成{mojaq:n:nolink}。
 
 在克林崗語中，名詞後綴有五種，動詞後綴有九種，分別參見{DIp:n}和{wot:n}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esta palavra também pode ser escrita {mojaQ:n:nolink}.
+      <column name="notes_pt">Esta palavra também pode ser escrita {mojaq:n:nolink}.
 
 Existem cinco tipos de sufixos nominais e nove tipos de sufixos verbais em Klingon, para os quais ver {DIp:n} e {wot:n}, respectivamente. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä sana voidaan myös kirjoittaa {mojaQ:n:nolink}.
+      <column name="notes_fi">Tämä sana voidaan myös kirjoittaa {mojaq:n:nolink}.
 
 Klingonissa on viiden tyyppisiä substantiiviliitteitä ja yhdeksän tyyppisiä verbiliitteitä, joista ks. {DIp:n} ja {wot:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
@@ -9397,49 +9397,49 @@ Klingonissa on viiden tyyppisiä substantiiviliitteitä ja yhdeksän tyyppisiä 
       <column name="search_tags_fi">jälkiliite, liite</column>
       <column name="source">[1] {TKD:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">mojaQ</column>
-      <column name="part_of_speech">n:alt</column>
-      <column name="definition">{mojaq:n}</column>
-      <column name="definition_de">{mojaq:n}</column>
-      <column name="definition_fa">{mojaq:n}</column>
-      <column name="definition_sv">{mojaq:n}</column>
-      <column name="definition_ru">{mojaq:n}</column>
-      <column name="definition_zh_HK">{mojaq:n}</column>
-      <column name="definition_pt">{mojaq:n}</column>
-      <column name="definition_fi">{mojaq:n}</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="hidden_notes">This is written {mojaq:n:nolink} in the K-E word list but {mojaQ:n:nolink} in the E-K word list.</column>
-      <column name="components"></column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">mojaq</column>
+          <column name="part_of_speech">n:alt</column>
+          <column name="definition">{mojaQ:n}</column>
+          <column name="definition_de">{mojaQ:n}</column>
+          <column name="definition_fa">{mojaQ:n}</column>
+          <column name="definition_sv">{mojaQ:n}</column>
+          <column name="definition_ru">{mojaQ:n}</column>
+          <column name="definition_zh_HK">{mojaQ:n}</column>
+          <column name="definition_pt">{mojaQ:n}</column>
+          <column name="definition_fi">{mojaQ:n}</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes">This is written {mojaq:n:nolink} in the K-E word list but {mojaQ:n:nolink} in the E-K word list.</column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {TKD:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">mol</column>
