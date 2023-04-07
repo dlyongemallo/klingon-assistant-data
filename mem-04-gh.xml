@@ -4427,7 +4427,7 @@ On myös alueellinen sana {ley':n}, joka tarkoittaa "nenä". [AUTOTRANSLATED]</c
       <column name="_id"></column>
       <column name="entry_name">ghIntaq</column>
       <column name="part_of_speech">n:1,weap</column>
-      <column name="definition">battle spear, Gin'tak</column>
+      <column name="definition">battle spear, gin'tak</column>
       <column name="definition_de">Gin'tak, Kampfspeer</column>
       <column name="definition_fa">نیزه جنگ ، گینتاک [AUTOTRANSLATED]</column>
       <column name="definition_sv">stridsspjut, gin'tak</column>
