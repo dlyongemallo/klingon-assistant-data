@@ -88,7 +88,7 @@
       <column name="_id"></column>
       <column name="entry_name">bach</column>
       <column name="part_of_speech">v:t_c,klcp1,weap</column>
-      <column name="definition">shoot</column>
+      <column name="definition">shoot, fire (an energy beam)</column>
       <column name="definition_de">schießen</column>
       <column name="definition_fa">(تیر) زدن</column>
       <column name="definition_sv">skjuta</column>
@@ -415,7 +415,7 @@ That the target is marked with {-Daq:n:nolink} is known from {SkyBox 14:src} and
       <column name="_id"></column>
       <column name="entry_name">baH</column>
       <column name="part_of_speech">v:t_c,klcp1,weap</column>
-      <column name="definition">fire (torpedo, rocket, missile)</column>
+      <column name="definition">fire, shoot (torpedo, rocket, missile)</column>
       <column name="definition_de">feuern</column>
       <column name="definition_fa">(موشک و غیره) انداختن</column>
       <column name="definition_sv">eld, avfyra (torped, raket, missil)</column>

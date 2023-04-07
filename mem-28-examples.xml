@@ -4034,7 +4034,7 @@ Toisin kuin jotkut väittävät, lause "Urkuk lu Stalga" ei tarkoita "rakastan s
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This was an example used to illustrate how to use {ben:n:2} in a noun phrase.</column>
       <column name="components">{wa'maH:n:num}, {ben:n:2}, {loDnI':n}, {-wI':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
