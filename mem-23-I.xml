@@ -659,7 +659,7 @@
       <column name="definition_fi">sulattaa, keittää (rasvaa)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{pub:v}, {tlhagh:n}, {mIQ:v}</column>
+      <column name="see_also">{pub:v}, {tlhagh:n:1}, {mIQ:v}</column>
       <column name="notes">While the general word for "boil" is {pub:v}, the verb used specifically to refer to the boiling of fat is {'Im:v:nolink}.[1, p.94]</column>
       <column name="notes_de">Während das allgemeine Wort für "kochen" {pub:v} ist, ist das Verb, das speziell für das Kochen von Fett verwendet wird, {'Im:v:nolink}.[1, p.94] [AUTOTRANSLATED]</column>
       <column name="notes_fa">در حالی که کلمه اصلی "جوش" {pub:v} است ، فعل مورد استفاده برای اشاره به جوشاندن چربی {'Im:v:nolink}.[1, p.94] است [AUTOTRANSLATED]</column>

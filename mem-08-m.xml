@@ -357,7 +357,7 @@ René Magritte painted "La Trahison des images".</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">magh</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:1</column>
       <column name="definition">grass</column>
       <column name="definition_de">Gras</column>
       <column name="definition_fa">چمن، علف</column>
@@ -421,7 +421,7 @@ René Magritte painted "La Trahison des images".</column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{magh:n}, {yotlh:n}</column>
+      <column name="components">{magh:n:1}, {yotlh:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -463,7 +463,7 @@ René Magritte painted "La Trahison des images".</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">A potboiler ({magh:n} + {pub:v}) is a work of dubious literary merit.</column>
+      <column name="hidden_notes">A potboiler ({magh:n:1} + {pub:v}) is a work of dubious literary merit.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -2436,9 +2436,10 @@ Another way to refer to the crescent moon is {maS'e' loQHa' So'lu'bogh:n}.[2]</c
       <column name="source">[1] {PK:src}</column>
     </table>
     <table name="mem">
+      <!-- This may be a mispronunciation and backfit of {matlh:n:name}. -->
       <column name="_id"></column>
       <column name="entry_name">matHa'</column>
-      <column name="part_of_speech">n:being</column>
+      <column name="part_of_speech">n:1,being</column>
       <column name="definition">gunner</column>
       <column name="definition_de">Schütze, Kanonier</column>
       <column name="definition_fa">تفنگدار [AUTOTRANSLATED]</column>
@@ -2451,7 +2452,6 @@ Another way to refer to the crescent moon is {maS'e' loQHa' So'lu'bogh:n}.[2]</c
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes"></column>
-      <!-- This may be a mispronunciation and backfit of {matlh:n:name}. -->
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -10272,7 +10272,7 @@ Huomaa, että sydämenlyönnissä käytetty verbi on {joq:v}.[1, p.75] [AUTOTRAN
       <column name="_id"></column>
       <column name="entry_name">moratlh</column>
       <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Morath</column>
+      <column name="definition">Morath (brother of Kahless)</column>
       <column name="definition_de">Morath</column>
       <column name="definition_fa">مورات [AUTOTRANSLATED]</column>
       <column name="definition_sv">Morath [AUTOTRANSLATED]</column>

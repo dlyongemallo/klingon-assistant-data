@@ -8168,7 +8168,7 @@ Tällä on täsmällinen merkitys lentokoneista puhuttaessa, ks. {ron:v:2}.</col
       <column name="definition_fi">olla lihava</column>
       <column name="synonyms">{pI':v}</column>
       <column name="antonyms">{lang:v}</column>
-      <column name="see_also">{tlhagh:n}, {juch:v}, {vaS:v}</column>
+      <column name="see_also">{tlhagh:n:1}, {juch:v}, {vaS:v}</column>
       <column name="notes">This implies bulk due to body fat or the like, while {pI':v} does not have this connotation. Both can be used to express "not thin", but {ror:v:nolink} is more appropriate to convey "not lean". When this verb is used to describe an inanimate object, there is usually a bit of anthropomorphizing, likening the object to a person or an animal.[2]
 
 A "fat book" would be a {paq qargh:n@@paq:n:1, qargh:v}, unless the book comes to life as a character in a cartoon or something like that. (In that case, the plural suffix {-pu':n:suff} might also be expected.)[2]</column>

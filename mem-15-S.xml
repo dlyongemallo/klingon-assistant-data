@@ -2307,7 +2307,7 @@ Maltz ei tiennyt yleistä verbiä tälle[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{Say':v}, {-moH:v}, {-wI':v}, {tlhagh:n}</column>
+      <column name="components">{Say':v}, {-moH:v}, {-wI':v}, {tlhagh:n:1}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
