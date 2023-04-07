@@ -8752,7 +8752,7 @@ In the {TNG:src} novel {Power Hungry:src}, this was described as a four-stringed
       <column name="_id"></column>
       <column name="entry_name">chuv</column>
       <column name="part_of_speech">n:2</column>
-      <column name="definition">change (money)</column>
+      <column name="definition">change (money owed for overpayment)</column>
       <column name="definition_de">Wechselgeld</column>
       <column name="definition_fa">تغییر پول [AUTOTRANSLATED]</column>
       <column name="definition_sv">växel (pengar)</column>
