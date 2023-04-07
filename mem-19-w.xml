@@ -7343,7 +7343,7 @@ Jos ihmisen silmät ovat "herkkiä valolle", ne voivat olla herkkiä {wovtaHghac
       <column name="_id"></column>
       <column name="entry_name">wu'DIy</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">beaver (Klingon beaver-like animal)</column>
+      <column name="definition">type of animal, beaver (Klingon beaver-like animal)</column>
       <column name="definition_de">Biber, klingonisches biberähnliches Tier</column>
       <column name="definition_fa">سگ آبی، حیوانی شبیه سگ آبی کلینگون</column>
       <column name="definition_sv">bäver, klingonsk bäverliknande djur [AUTOTRANSLATED]</column>
