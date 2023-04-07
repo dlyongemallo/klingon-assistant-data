@@ -17363,7 +17363,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">amar</column>
+      <column name="entry_name">'amar</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Amar</column>
       <column name="definition_de"></column>
