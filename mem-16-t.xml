@@ -2659,7 +2659,7 @@ Tämä murre on tavallaan puolivälissä tavallisen murteen ja {Qotmagh Sep:n}-m
       <column name="_id"></column>
       <column name="entry_name">targhoroj</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">crab</column>
+      <column name="definition">crab (one of several crab-like animals found on {Qo'noS:n}), type of animal</column>
       <column name="definition_de">Krabbe, Krebs</column>
       <column name="definition_fa">خرچنگ [AUTOTRANSLATED]</column>
       <column name="definition_sv">krabba [AUTOTRANSLATED]</column>
