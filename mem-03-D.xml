@@ -9035,7 +9035,7 @@ This was defined as "side". The clarification "direction, face" was added to dif
       <column name="_id"></column>
       <column name="entry_name">DoQ</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">claim (territory)</column>
+      <column name="definition">claim, lay claim to (e.g., territory, item, authority)</column>
       <column name="definition_de">beanspruchen (Territorium)</column>
       <column name="definition_fa">ادعا (قلمرو) [AUTOTRANSLATED]</column>
       <column name="definition_sv">göra anspråk på (territorium)</column>
