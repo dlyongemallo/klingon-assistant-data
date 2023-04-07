@@ -1735,7 +1735,7 @@ Tätä sanaa käytetään ihmisiin ja eläimiin[2] [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">qanjIt</column>
       <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Kanjit</column>
+      <column name="definition">Kanjit (father of Kahless)</column>
       <column name="definition_de">Kanjit</column>
       <column name="definition_fa">کانجیت [AUTOTRANSLATED]</column>
       <column name="definition_sv">Kanjit [AUTOTRANSLATED]</column>
@@ -6129,7 +6129,7 @@ Kuuluisa kirjailija {Qa'taq:n:name} kirjoitti kommentin tähän teokseen. [AUTOT
       <column name="_id"></column>
       <column name="entry_name">qeSnoDmaj</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">jellyfish</column>
+      <column name="definition">jellyfish (Klingon equivalent), type of animal</column>
       <column name="definition_de">Qualle</column>
       <column name="definition_fa">عروس دریایی [AUTOTRANSLATED]</column>
       <column name="definition_sv">manet [AUTOTRANSLATED]</column>

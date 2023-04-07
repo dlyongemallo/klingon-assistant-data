@@ -5579,7 +5579,7 @@ A line which was cut from {Star Trek Into Darkness:src} reveals that the person 
       <column name="definition_fi">olla ruohoinen, vehreä</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{magh:n}</column>
+      <column name="see_also">{magh:n:1}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -5675,7 +5675,7 @@ A line which was cut from {Star Trek Into Darkness:src} reveals that the person 
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
           <column name="hidden_notes"></column>
-          <column name="components">{nIm:n}, {tlhagh:n}</column>
+          <column name="components">{nIm:n}, {tlhagh:n:1}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

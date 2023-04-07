@@ -5403,7 +5403,7 @@ Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta my�
       <column name="definition_fi">leikata (hiuksia, ruohoa, tms.)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{jIb:n}, {pob:n}, {pe':v}, {magh:n}</column>
+      <column name="see_also">{jIb:n}, {pob:n}, {pe':v}, {magh:n:1}</column>
       <column name="notes">This word can be used to cut or trim other things, like grass, fringes on clothing, fingernails, etc.[2]</column>
       <column name="notes_de">Dieses Wort kann verwendet werden, um andere Dinge wie Gras, Fransen an Kleidung, Fingernägeln usw. zu schneiden oder zu schneiden.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fa">این کلمه را می توان برای برش دادن یا ترسیم چیزهای دیگر ، مانند علف ، حاشیه لباس ، ناخن انگشت و غیره استفاده کرد.[2] [AUTOTRANSLATED]</column>
