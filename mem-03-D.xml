@@ -3831,7 +3831,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/7qXuTn9Hp
       <column name="_id"></column>
       <column name="entry_name">Deq</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">(be) erstwhile, former, prior, ex-</column>
+      <column name="definition">be erstwhile, be former, be prior, ex-</column>
       <column name="definition_de">ehemalig, vorheriger, ex-</column>
       <column name="definition_fa">(ب) پیشین، پیشین، پیشین، [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara tidigare, vara föregående, vara före detta, ex-</column>
