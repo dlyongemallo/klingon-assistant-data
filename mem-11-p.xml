@@ -2270,7 +2270,7 @@ The example sentence was suggested to Okrand in Klingon, who provided the Englis
       <column name="_id"></column>
       <column name="entry_name">paw</column>
       <column name="part_of_speech">v:t_c,klcp1</column>
-      <column name="definition">arrive</column>
+      <column name="definition">arrive (at)</column>
       <column name="definition_de">ankommen</column>
       <column name="definition_fa">رسیدن</column>
       <column name="definition_sv">anlända, komma</column>
