@@ -8776,7 +8776,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="_id"></column>
       <column name="entry_name">por pur</column>
       <column name="part_of_speech">sen:phrase</column>
-      <column name="definition">inhale leaf</column>
+      <column name="definition">inhale leaf (i.e., to smoke)</column>
       <column name="definition_de">Blatt einatmen</column>
       <column name="definition_fa">برگ درج [AUTOTRANSLATED]</column>
       <column name="definition_sv">andas in blad [AUTOTRANSLATED]</column>
