@@ -6171,7 +6171,7 @@ Kuuluisa kirjailija {Qa'taq:n:name} kirjoitti kommentin tähän teokseen. [AUTOT
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">qet</column>
-      <column name="part_of_speech">v:i,klcp1</column>
+      <column name="part_of_speech">v:i_c,klcp1</column>
       <column name="definition">run, jog</column>
       <column name="definition_de">rennen, laufen</column>
       <column name="definition_fa">اجرا کردن [AUTOTRANSLATED]</column>
