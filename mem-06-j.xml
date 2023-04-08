@@ -3632,7 +3632,7 @@ Huomaa, että {jemS:n:nolink} ja {qIrq:n:nolink} eivät noudata oikeaa klingonif
       <column name="_id"></column>
       <column name="entry_name">jen</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be high</column>
+      <column name="definition">be high (in height)</column>
       <column name="definition_de">hoch sein</column>
       <column name="definition_fa">بالا بودن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara hög</column>
