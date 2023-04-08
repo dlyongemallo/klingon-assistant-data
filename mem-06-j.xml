@@ -709,7 +709,7 @@ Jongleeraaminen eli esineiden heittäminen ilmaan ja kiinniottaminen rytmikkää
       <column name="_id"></column>
       <column name="entry_name">jaH</column>
       <column name="part_of_speech">v:t_c,klcp1</column>
-      <column name="definition">go</column>
+      <column name="definition">go (to)</column>
       <column name="definition_de">gehen</column>
       <column name="definition_fa">برو [AUTOTRANSLATED]</column>
       <column name="definition_sv">fara, åka, gå, färdas, resa</column>
