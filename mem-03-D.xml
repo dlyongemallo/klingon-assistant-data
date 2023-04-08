@@ -8257,7 +8257,7 @@ If this verb follows the example of {qawmoH:v}, then the subject of {DoHmoH:v:no
           <column name="notes_zh_HK">這個詞可以指人或其他。即使僅指具有語言能力的人，通常也會說{Dojmey:n:nolink}而不是{Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
           <column name="notes_pt">Esta palavra pode se referir a pessoas ou não. Mesmo se referindo apenas a seres capazes de usar a linguagem, normalmente se diria {Dojmey:n:nolink} em vez de {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
           <column name="notes_fi">Tämä sana voi viitata ihmisiin tai muuten. Vaikka viitattaisiin vain olentoihin, jotka kykenevät käyttämään kieltä, sanotaan yleensä {Dojmey:n:nolink} eikä {Dojpu':n:nolink}.[1] [AUTOTRANSLATED]</column>
-          <column name="hidden_notes">The example sentence is a lip-match for {'ej DochmeywIj vItlhapqa'meH}.</column>
+          <column name="hidden_notes">The example sentence is a lip-match for {'ej DochmeywIj vItlhapqa'meH:sen@@'ej:conj, Doch:n, -mey:n, -wIj:n, vI-:v, tlhapqa':v, -meH:v}.</column>
           <column name="components">{Doj:n}, {-mey:n}</column>
           <column name="examples">
 ▶ {'ej Dojmey wID, vInDa'ma' peq.:sen@@'ej:conj, Dojmey:n, wID:v, vInDa':n, -ma':n, peq:v} "He has killed many of our people."[2]

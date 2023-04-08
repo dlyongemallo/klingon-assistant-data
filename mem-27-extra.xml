@@ -10861,7 +10861,7 @@ The scientific name for each planet is {Sol:n:nolink} followed by a name, e.g., 
       <column name="notes_pt">Isso foi usado no plural ({tlhagh patat 'oQqar naQHommey:n:nolink}) para traduzir "batatas fritas" (como em "batatas fritas"). [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä käytettiin monikkomuodossa ({tlhagh patat 'oQqar naQHommey:n:nolink}) kääntämään "perunat" (kuten "ranskalaiset"). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
-      <column name="components">{tlhagh:n}, {patat 'oQqar:n}, {naQ:n:1}, {-Hom:n}</column>
+      <column name="components">{tlhagh:n:1}, {patat 'oQqar:n}, {naQ:n:1}, {-Hom:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -21406,7 +21406,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">Qo'noS wa'</column>
-      <column name="part_of_speech">n:name,fic,deriv</column>
+      <column name="part_of_speech">n:name,deriv,fic</column>
       <column name="definition">Kronos One (imperial flagship)</column>
       <column name="definition_de"></column>
       <column name="definition_fa"></column>

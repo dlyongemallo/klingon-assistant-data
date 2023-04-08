@@ -616,19 +616,22 @@
       <column name="synonyms"></column>
       <column name="antonyms">{nob:v}</column>
       <column name="see_also"></column>
-      <column name="notes">When used with the suffix {-qa':v}, the result has the sense of "retrieve".</column>
-      <column name="notes_de">Bei Verwendung mit dem Suffix {-qa':v} hat das Ergebnis den Sinn "Abrufen". [AUTOTRANSLATED]</column>
-      <column name="notes_fa">نتیجه با استفاده از پسوند {-qa':v} ، نتیجه "بازیابی" دارد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">När det används med suffixet {-qa':v} har resultatet känslan av "hämta". [AUTOTRANSLATED]</column>
-      <column name="notes_ru">При использовании с суффиксом {-qa':v} результат имеет смысл «извлекать». [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">與後綴{-qa':v}一起使用時，結果具有「檢索」的感覺。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Quando usado com o sufixo {-qa':v}, o resultado tem o sentido de "recuperar". [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Kun sitä käytetään loppuliitteen {-qa':v} kanssa, tuloksella on tunne "noutaa". [AUTOTRANSLATED]</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {jagh Duj DaQaw' 'ach pagh qama' Datlhapqa'.:sen:nolink} "Destroy enemy vessel without retrieving prisoners."[2]
-▶ {qeylIS 'etlh Datlhapqa' 'e' DaQapbe'.:sen:nolink} "Fail to retrieve the Sword of Kahless."[2]</column>
+▶ {bImejDI' reH betleHlIj yItlhap.:sen}
+▶ {juHwIjDaq Dochvetlh vItlhap.:sen}
+▶ {"GO" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink}[2]
+▶ {jopDI' 'ovwI' veb, 'echletHom tlhap:sen@@jop:v:1, -DI':v, 'ovwI':n, veb:v, 'echletHom:n, tlhap:v} "When the next player takes his/her turn, he/she takes a card"[2]
+▶ {ngIq gholvo' wa'maH QaS yItlhap.:sen:nolink} "Collect 10 forces from every player."[2]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -646,6 +649,51 @@
       <column name="search_tags_fi"></column>
       <column name="source">[1] {TKD:src}, [2] {Klingon Monopoly:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">tlhapqa'</column>
+          <column name="part_of_speech">v:t_c,deriv</column>
+          <column name="definition">retrieve</column>
+          <column name="definition_de">abrufen [AUTOTRANSLATED]</column>
+          <column name="definition_fa">بازیابی [AUTOTRANSLATED]</column>
+          <column name="definition_sv">hämta [AUTOTRANSLATED]</column>
+          <column name="definition_ru">забрать [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">取回 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">recuperar [AUTOTRANSLATED]</column>
+          <column name="definition_fi">hakea [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{tlhap:v}, {-qa':v}</column>
+          <column name="examples">
+▶ {jagh Duj DaQaw' 'ach pagh qama' Datlhapqa'.:sen:nolink} "Destroy enemy vessel without retrieving prisoners."[1]
+▶ {qeylIS 'etlh Datlhapqa' 'e' DaQapbe'.:sen:nolink} "Fail to retrieve the Sword of Kahless."[1]</column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source">[1] {Klingon Monopoly:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tlhapragh</column>
