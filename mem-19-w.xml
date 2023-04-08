@@ -4270,7 +4270,7 @@ Kun sitä käytetään {-lu':v}: n kanssa, tämä etuliite tarkoittaa "Joku (mä
       <column name="notes_zh_HK">這個詞表示不分青紅皂白的殺戮。[1] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta palavra denota assassinato indiscriminado.[1] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä sana merkitsee mielivaltaista tappamista.[1] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">The example sentence is a lip-match for {'ej DochmeywIj vItlhapqa'meH}.</column>
+      <column name="hidden_notes">The example sentence is a lip-match for {'ej DochmeywIj vItlhapqa'meH:sen@@'ej:conj, Doch:n, -mey:n, -wIj:n, vI-:v, tlhapqa':v, -meH:v}.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {'ej Dojmey wID, vInDa'ma' peq.:sen@@'ej:conj, Dojmey:n, wID:v, vInDa':n, -ma':n, peq:v} "He has killed many of our people."[2]</column>
