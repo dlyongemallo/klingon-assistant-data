@@ -1366,7 +1366,7 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="_id"></column>
       <column name="entry_name">'or</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">pilot, operate (an aircraft)</column>
+      <column name="definition">pilot, operate (aircraft, shuttlecraft)</column>
       <column name="definition_de">steuern, lenken (ein Flugzeug)</column>
       <column name="definition_fa">خلبان، کار (یک هواپیما) [AUTOTRANSLATED]</column>
       <column name="definition_sv">manövrera, styra (en flygmaskin)</column>
@@ -1377,7 +1377,9 @@ Um verbo comumente usado com {'olQan:n:nolink} é {'uch:v:1}. [AUTOTRANSLATED]</
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SeD:v}, {puv:v}, {muD Duj:n}, {'orwI':n}, {chIj:v}, {raQ:v}</column>
-      <column name="notes">Verbs related to aircraft (or spacecraft) movement include: {Dav:v:2}, {Der:v:2}, {jer:v}, {jIm:v:2}, {lol:v:2}, {ron:v:2}, {tor:v:2}.</column>
+      <column name="notes">This would not be used for what a captain or helmsman of a spacecraft (larger than a shuttlecraft) does.[1]
+
+Verbs related to aircraft (or spacecraft) movement include: {Dav:v:2}, {Der:v:2}, {jer:v}, {jIm:v:2}, {lol:v:2}, {ron:v:2}, {tor:v:2}.</column>
       <column name="notes_de">Verben im Zusammenhang mit der Bewegung von Flugzeugen (oder Raumfahrzeugen) umfassen: {Dav:v:2}, {Der:v:2}, {jer:v}, {jIm:v:2}, {lol:v:2}, {ron:v:2}, {tor:v:2}. [AUTOTRANSLATED]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
