@@ -4272,7 +4272,7 @@ The movie "When Harry Met Sally" has an infamous lunch scene. Sally is played by
       <column name="_id"></column>
       <column name="entry_name">mej</column>
       <column name="part_of_speech">v:t_c,klcp1</column>
-      <column name="definition">leave, depart</column>
+      <column name="definition">leave, depart (from)</column>
       <column name="definition_de">verlassen, abfahren, weggehen</column>
       <column name="definition_fa">ترک، ترک [AUTOTRANSLATED]</column>
       <column name="definition_sv">lämna, avvika, ge sig av, avlägsna sig</column>
@@ -12990,7 +12990,7 @@ Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoami
       <column name="_id"></column>
       <column name="entry_name">muv</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">join</column>
+      <column name="definition">join (with)</column>
       <column name="definition_de">anschließen</column>
       <column name="definition_fa">پیوستن [AUTOTRANSLATED]</column>
       <column name="definition_sv">förena</column>
@@ -13123,7 +13123,7 @@ Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoami
       <column name="_id"></column>
       <column name="entry_name">muvtay</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">initiation</column>
+      <column name="definition">initiation (into a group)</column>
       <column name="definition_de">(feierliche) Einführung, Initiationsritus</column>
       <column name="definition_fa">شروع [AUTOTRANSLATED]</column>
       <column name="definition_sv">invigning, initiering</column>
