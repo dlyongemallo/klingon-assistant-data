@@ -5249,7 +5249,7 @@ The information about the length comes from {The Star Trek Encyclopedia, 4th ed.
       <column name="_id"></column>
       <column name="entry_name">qempa'QeH</column>
       <column name="part_of_speech">n:being,deriv</column>
-      <column name="definition">Qempa'keh, the Warriors of the Dead</column>
+      <column name="definition">"Qempa'keh", the Warriors of the Dead</column>
       <column name="definition_de">Qempa'keh, die Krieger der Toten</column>
       <column name="definition_fa">قمپاکه، رزمندگان مردگان [AUTOTRANSLATED]</column>
       <column name="definition_sv">Qempa'keh, de dödas krigare [AUTOTRANSLATED]</column>
@@ -5280,7 +5280,7 @@ This word is a fossilized form. It refers to a unique group, the "proudest spiri
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">Qempa'keh</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
