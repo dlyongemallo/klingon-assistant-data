@@ -5402,8 +5402,8 @@ The spelling of "klorn" comes from the script to {DS9 - Blood Oath:src}.[2]</col
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tlhuch</column>
-      <column name="part_of_speech">v:t</column>
-      <column name="definition">exhaust</column>
+      <column name="part_of_speech">v:t_c</column>
+      <column name="definition">exhaust (expel gas or steam)</column>
       <column name="definition_de">ausstoßen</column>
       <column name="definition_fa">اگزوز [AUTOTRANSLATED]</column>
       <column name="definition_sv">tömma, förbruka, göra slut på, pumpa ut</column>
@@ -5794,7 +5794,7 @@ Previously, some people believed that this word means "to expel exhaust", based 
       <column name="_id"></column>
       <column name="entry_name">tlhut</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be stuffed</column>
+      <column name="definition">be stuffed (to make a shape, as in taxidermy or stuff animals)</column>
       <column name="definition_de">ausgestopft sein</column>
       <column name="definition_fa">پر شده [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara fyllda [AUTOTRANSLATED]</column>
