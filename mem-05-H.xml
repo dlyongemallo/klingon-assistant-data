@@ -4635,7 +4635,7 @@ Katso sormiin liittyvät verbit kohdasta {nItlh:n}. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">Hey</column>
       <column name="part_of_speech">v:t</column>
-      <column name="definition">battle or fight against one's own group</column>
+      <column name="definition">battle or fight against one's own group, engage in infighting</column>
       <column name="definition_de">gegen die eigenen Leute kämpfen</column>
       <column name="definition_fa">نبرد یا مبارزه با گروه خودتان [AUTOTRANSLATED]</column>
       <column name="definition_sv">slåss eller slåss mot sin egen grupp [AUTOTRANSLATED]</column>

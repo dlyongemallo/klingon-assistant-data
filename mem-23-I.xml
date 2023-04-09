@@ -2484,7 +2484,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="_id"></column>
       <column name="entry_name">'Iw HIq</column>
       <column name="part_of_speech">n:deriv,fic,food</column>
-      <column name="definition">blood wine</column>
+      <column name="definition">bloodwine</column>
       <column name="definition_de">Blutwein</column>
       <column name="definition_fa">شراب خون [AUTOTRANSLATED]</column>
       <column name="definition_sv">blodvin</column>
@@ -2513,7 +2513,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags">bloodwine</column>
+      <column name="search_tags">blood wine</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>

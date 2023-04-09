@@ -1316,7 +1316,7 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">San'on</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">bit</column>
+      <column name="definition">bit (binary unit of information)</column>
       <column name="definition_de">Bit</column>
       <column name="definition_fa">بیت [AUTOTRANSLATED]</column>
       <column name="definition_sv">bit [AUTOTRANSLATED]</column>
@@ -1345,7 +1345,7 @@ Tätä sanaa ei käytetä lajittelujärjestykseen.[3] [AUTOTRANSLATED]</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">binary</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
