@@ -11713,7 +11713,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/tAK-hgXMH
       <column name="_id"></column>
       <column name="entry_name">Humlaw'</column>
       <column name="part_of_speech">n:anim</column>
-      <column name="definition">a creature like a {ghargh:n}, but with lots of wiggly legs</column>
+      <column name="definition">a creature like a {ghargh:n}, but with lots of wiggly legs, type of animal</column>
       <column name="definition_de">wie ein {ghargh:n}, aber mit vielen beweglichen Beinen</column>
       <column name="definition_fa">موجودی مانند {ghargh:n} ، اما با پاهای پر زرق و برق [AUTOTRANSLATED]</column>
       <column name="definition_sv">en varelse som en {ghargh:n}, men med massor av wiggly ben [AUTOTRANSLATED]</column>

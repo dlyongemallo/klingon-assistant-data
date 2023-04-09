@@ -1822,7 +1822,7 @@ Hyväksyttävä tapa muotoilla tämä vaatimus kysymykseksi on {nuq DaDab?:sen:n
       <column name="_id"></column>
       <column name="entry_name">Daqtagh</column>
       <column name="part_of_speech">n:fic,weap</column>
-      <column name="definition">warrior's knife, d'k tahg</column>
+      <column name="definition">warrior's knife, "d'k tahg"</column>
       <column name="definition_de">Kriegermesser, D'ktahg</column>
       <column name="definition_fa">چاقوی جنگجو ، d tahg [AUTOTRANSLATED]</column>
       <column name="definition_sv">krigares kniv, d'k tahg</column>
@@ -1851,7 +1851,7 @@ Hyväksyttävä tapa muotoilla tämä vaatimus kysymykseksi on {nuq DaDab?:sen:n
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">d'k tahg</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -1865,7 +1865,7 @@ Hyväksyttävä tapa muotoilla tämä vaatimus kysymykseksi on {nuq DaDab?:sen:n
       <column name="_id"></column>
       <column name="entry_name">Daqturaq</column>
       <column name="part_of_speech">n:being</column>
-      <column name="definition">d'akturak, "ice man"</column>
+      <column name="definition">"d'akturak", "ice man"</column>
       <column name="definition_de">D'akturak, "Eismann"</column>
       <column name="definition_fa">d'akturak ، "مرد یخی" [AUTOTRANSLATED]</column>
       <column name="definition_sv">d'akturak, "isman"</column>
@@ -1894,7 +1894,7 @@ Hyväksyttävä tapa muotoilla tämä vaatimus kysymykseksi on {nuq DaDab?:sen:n
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags">iceman, ice man</column>
+      <column name="search_tags">d'akturak, iceman, ice man</column>
       <column name="search_tags_de">Eismann</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -7628,7 +7628,7 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="_id"></column>
       <column name="entry_name">Do Qe'</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">fast-food restaurant, Dok'e</column>
+      <column name="definition">fast-food restaurant, "Dok'e"</column>
       <column name="definition_de">Fast-Food Restaurant, wörtl. Geschwindigkeit-Restaurant</column>
       <column name="definition_fa">رستوران فست فود</column>
       <column name="definition_sv">hastighetsrestaurang, snabbmatsservering, Dok'e</column>
@@ -7657,7 +7657,7 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">Dok'e</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>

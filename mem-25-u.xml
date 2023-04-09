@@ -725,7 +725,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="_id"></column>
           <column name="entry_name">'ul gho</column>
           <column name="part_of_speech">n:deriv</column>
-          <column name="definition">circuit</column>
+          <column name="definition">circuit (electrical)</column>
           <column name="definition_de">Schaltkreis</column>
           <column name="definition_fa">جریان [AUTOTRANSLATED]</column>
           <column name="definition_sv">krets [AUTOTRANSLATED]</column>
