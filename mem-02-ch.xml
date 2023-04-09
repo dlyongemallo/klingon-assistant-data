@@ -6048,7 +6048,7 @@ Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta my�
       <column name="_id"></column>
       <column name="entry_name">choH</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">change</column>
+      <column name="definition">change (alteration), reaction (chemical, nuclear)</column>
       <column name="definition_de">Änderung</column>
       <column name="definition_fa">تغییر دادن [AUTOTRANSLATED]</column>
       <column name="definition_sv">förändring</column>
@@ -6067,7 +6067,7 @@ Tätä verbiä voidaan käyttää avainten väärään sijoittamiseen, mutta my�
       <column name="notes_zh_HK">這也可以指化學或核反應。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso também pode se referir a uma reação química ou nuclear. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä voi viitata myös kemialliseen tai ydinreaktioon. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This was defined as "change" in {TKD:src}. The definition was expanded in {MAGIC:src}.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {choH lISbogh Hap'e':n}</column>
