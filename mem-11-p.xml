@@ -9864,7 +9864,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="_id"></column>
       <column name="entry_name">puchpa'</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">washroom, bathroom</column>
+      <column name="definition">washroom, bathroom, restroom</column>
       <column name="definition_de">Toilette (Raum)</column>
       <column name="definition_fa">دستشویی، حمام [AUTOTRANSLATED]</column>
       <column name="definition_sv">badrum, toalett</column>
@@ -9883,7 +9883,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">The word lists say "washroom". The "bathroom" definition comes from the example sentence on p.170.</column>
+      <column name="hidden_notes">The word lists say "washroom". The "bathroom" definition comes from the example sentence on p.170. The "restroom" definition was added in {MAGIC:src}.</column>
       <column name="components">{puch:n}, {pa':n:1}</column>
       <column name="examples">
 ▶ {nuqDaq 'oH puchpa''e'?:sen}
@@ -9904,7 +9904,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {TNK:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {TNK:src}, [3] {MAGIC:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
