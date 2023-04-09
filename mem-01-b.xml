@@ -7040,7 +7040,7 @@ The clarification about clothing was made during the Q &amp; A session at {qep'a
       <column name="_id"></column>
       <column name="entry_name">bIraqlul</column>
       <column name="part_of_speech">n:fic</column>
-      <column name="definition">brak'lul (redundancy in body parts)</column>
+      <column name="definition">"brak'lul" (redundancy in body parts)</column>
       <column name="definition_de">Brak'lul (Überfluss der Klingonischen Körperteile)</column>
       <column name="definition_fa">brak'lul (افزونگی در قسمت های بدن) [AUTOTRANSLATED]</column>
       <column name="definition_sv">brak'lul (dubbel uppsättning av kroppsorgan)</column>
@@ -7069,7 +7069,7 @@ The clarification about clothing was made during the Q &amp; A session at {qep'a
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags">two, double, backup, redundacy, redundant</column>
+      <column name="search_tags">brak'lul, two, double, backup, redundacy, redundant</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>

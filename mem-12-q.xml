@@ -8384,8 +8384,8 @@ The Choctaw word for turkey is "fvkit".</column>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">qIvon</column>
-      <column name="part_of_speech">n:body</column>
-      <column name="definition">body part (not further identified)</column>
+      <column name="part_of_speech">n:1,body</column>
+      <column name="definition">"QiVon" (body part near knee not further identified)</column>
       <column name="definition_de">Körperteil (unbekannt)</column>
       <column name="definition_fa">قسمت بدن (مشخص نشده است) [AUTOTRANSLATED]</column>
       <column name="definition_sv">kroppsdel (inte ytterligare identifierad)</column>
@@ -8424,7 +8424,7 @@ Maltz näytti haluttomalta puhua mitä tämä oikein on[3][2] [AUTOTRANSLATED]</
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">qIvon, knee</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -13308,7 +13308,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="_id"></column>
       <column name="entry_name">quSlab</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">couch, bench, chair for multiple people</column>
+      <column name="definition">couch, bench, chair for multiple people, sofa</column>
       <column name="definition_de">Sofa, Couch, Sitzbank</column>
       <column name="definition_fa">نیمکت، نیمکت، صندلی برای چند نفر [AUTOTRANSLATED]</column>
       <column name="definition_sv">soffa, bänk, stol för flera personer [AUTOTRANSLATED]</column>
@@ -13327,7 +13327,9 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">{quS:n:nolink} + "slab".</column>
+      <column name="hidden_notes">{quS:n:nolink} + "slab".
+
+The definition "sofa" was added in {MAGIC:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -13345,7 +13347,7 @@ Tätä sanaa ei voida käyttää maassa olevaan reikään (josta katso {QemjIq:n
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {qep'a' 23 (2016):src}</column>
+      <column name="source">[1] {qep'a' 23 (2016):src}, [2] {MAGIC:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>

@@ -9733,7 +9733,7 @@ Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin sy
       <column name="_id"></column>
       <column name="entry_name">pub</column>
       <column name="part_of_speech">v:i_c</column>
-      <column name="definition">boil</column>
+      <column name="definition">boil (reach boiling point)</column>
       <column name="definition_de">kochen, sieden</column>
       <column name="definition_fa">جوشیدن [AUTOTRANSLATED]</column>
       <column name="definition_sv">koka</column>
