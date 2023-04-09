@@ -1778,7 +1778,7 @@
       <column name="_id"></column>
       <column name="entry_name">tlheD</column>
       <column name="part_of_speech">v:t_c,klcp1</column>
-      <column name="definition">depart</column>
+      <column name="definition">depart, set out (from)</column>
       <column name="definition_de">aufbrechen, abfahren</column>
       <column name="definition_fa">ترک [AUTOTRANSLATED]</column>
       <column name="definition_sv">avresa, avlägsna sig</column>

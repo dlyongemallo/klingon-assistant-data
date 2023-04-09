@@ -3131,7 +3131,7 @@ Tätä sanaa voidaan käyttää viittaamaan matkustamiseen erityistarkoituksessa
       <column name="_id"></column>
       <column name="entry_name">ler</column>
       <column name="part_of_speech">v:i_c</column>
-      <column name="definition">wobble</column>
+      <column name="definition">wobble, sway while fixed to a pivot</column>
       <column name="definition_de">schwanken, wiegen</column>
       <column name="definition_fa">تکان دادن [AUTOTRANSLATED]</column>
       <column name="definition_sv">vingla [AUTOTRANSLATED]</column>
@@ -3190,7 +3190,7 @@ Katso sivulta {Dav:v:1} liikkuminen sivulle pyörimättä tai kiinnittämättä 
           <column name="_id"></column>
           <column name="entry_name">lerchu'</column>
           <column name="part_of_speech">v:i_c,deriv</column>
-          <column name="definition">oscillate</column>
+          <column name="definition">oscillate (like a pendulum)</column>
           <column name="definition_de">oszillieren</column>
           <column name="definition_fa">نوسان [AUTOTRANSLATED]</column>
           <column name="definition_sv">oscillera [AUTOTRANSLATED]</column>
