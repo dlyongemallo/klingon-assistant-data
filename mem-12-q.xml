@@ -4490,7 +4490,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="_id"></column>
       <column name="entry_name">qa'vaQ</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">qa'vak (traditional game), game played with hoop and stick</column>
+      <column name="definition">"qa'vak" (traditional game), game played with hoop and stick</column>
       <column name="definition_de">Qa'vak (Reifen-und-Stock-Spiel)</column>
       <column name="definition_fa">qa'vak (بازی سنتی)، بازی با حلقه و چوب [AUTOTRANSLATED]</column>
       <column name="definition_sv">käpp-och-tunnbands-övning, qa'vak (traditionell lek)</column>
@@ -4519,7 +4519,7 @@ Sana itsessään tarkoittaa "kaiken alkuperää" tai "kaiken alkua" tai vastaava
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">qa'vak</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>

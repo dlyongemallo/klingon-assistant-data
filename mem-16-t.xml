@@ -2314,7 +2314,7 @@ Tämä murre on tavallaan puolivälissä tavallisen murteen ja {Qotmagh Sep:n}-m
       <column name="_id"></column>
       <column name="entry_name">taQbang</column>
       <column name="part_of_speech">n:1</column>
-      <column name="definition">exhaust</column>
+      <column name="definition">exhaust (waste product)</column>
       <column name="definition_de">Auspuff</column>
       <column name="definition_fa">اگزوز [AUTOTRANSLATED]</column>
       <column name="definition_sv">avgaser, utsläpp</column>

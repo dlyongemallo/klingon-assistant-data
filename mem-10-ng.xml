@@ -3597,7 +3597,7 @@ In some contexts, {ngIq:n:nolink} can be translated as "single" or "individual",
       <column name="_id"></column>
       <column name="entry_name">ngIS</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">lubricant (special type)</column>
+      <column name="definition">lubricant (a type used on disruptor cannons)</column>
       <column name="definition_de">Schmierstoff (besondere Art)</column>
       <column name="definition_fa">نوع روان کننده [AUTOTRANSLATED]</column>
       <column name="definition_sv">typ av smörjmedel [AUTOTRANSLATED]</column>

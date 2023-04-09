@@ -14426,7 +14426,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
       <column name="_id"></column>
       <column name="entry_name">ghInaq</column>
       <column name="part_of_speech">n:fic</column>
-      <column name="definition">grinnak (a gambling game)</column>
+      <column name="definition">"grinnak", a gambling game</column>
       <column name="definition_de">Grinnak (ein Spiel)</column>
       <column name="definition_fa">grinnak (یک بازی قمار) [AUTOTRANSLATED]</column>
       <column name="definition_sv">grinnak (ett spel spel) [AUTOTRANSLATED]</column>
@@ -14455,7 +14455,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">grinnak</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -16543,7 +16543,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
       <column name="_id"></column>
       <column name="entry_name">tISang</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">t'Sang (board game)</column>
+      <column name="definition">t'Sang, a board game played with dice</column>
       <column name="definition_de">T'Sang (Brettspiel)</column>
       <column name="definition_fa">t'Sang (بازی رومیزی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">t'Sang (brädspel) [AUTOTRANSLATED]</column>
