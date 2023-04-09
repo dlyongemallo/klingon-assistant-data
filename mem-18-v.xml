@@ -3786,7 +3786,7 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">vep</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">proclamation, notification, announcement, and the like</column>
+      <column name="definition">proclamation, notification, announcement (and the like)</column>
       <column name="definition_de">Ankündigung, Proklamation, Information usw.</column>
       <column name="definition_fa">اعلان، اطلاع رسانی، اعلام، و مانند آن [AUTOTRANSLATED]</column>
       <column name="definition_sv">proklamation, anmälan, tillkännagivande och liknande [AUTOTRANSLATED]</column>
