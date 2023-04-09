@@ -1925,7 +1925,7 @@ This verb would be reserved only for situations approaching Armageddon.[1]</colu
           <column name="_id"></column>
           <column name="entry_name">HaSta ta</column>
           <column name="part_of_speech">n:deriv</column>
-          <column name="definition">video, visual display record</column>
+          <column name="definition">video recording, visual display record</column>
           <column name="definition_de">Video, visuelle Aufnahme</column>
           <column name="definition_fa">ویدئو، ضبط صفحه نمایش بصری [AUTOTRANSLATED]</column>
           <column name="definition_sv">video, visuell visningsrekord [AUTOTRANSLATED]</column>
