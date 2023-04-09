@@ -16845,7 +16845,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
       <column name="_id"></column>
       <column name="entry_name">'aDanjI'</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">incense, adanji (kind of incense used in the {ma'to'vor:n} ritual)</column>
+      <column name="definition">incense, "adanji" (kind of incense used in the {ma'to'vor:n} ritual)</column>
       <column name="definition_de">Adandji, ein Duftstoff</column>
       <column name="definition_fa">adanji، یک نوع بخور دادن [AUTOTRANSLATED]</column>
       <column name="definition_sv">adanji, en slags rökelse [AUTOTRANSLATED]</column>
@@ -16874,7 +16874,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">adanji</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
