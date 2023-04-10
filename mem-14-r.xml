@@ -4663,7 +4663,7 @@ Tämä on sama sana kuin verbi {ret:v}.[2][1] [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">rev</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">quote</column>
+      <column name="definition">quote (cite someone's speech or writing)</column>
       <column name="definition_de">zitieren</column>
       <column name="definition_fa">نقل قول [AUTOTRANSLATED]</column>
       <column name="definition_sv">Citat [AUTOTRANSLATED]</column>

@@ -7426,7 +7426,7 @@ The term "transport beam" is used throughout {TKD:src}, but this has been change
       <column name="_id"></column>
       <column name="entry_name">jom</column>
       <column name="part_of_speech">v:2,t_c</column>
-      <column name="definition">put clothes on (someone else)</column>
+      <column name="definition">put clothes on, dress (someone else)</column>
       <column name="definition_de">(jemand anderem) Kleidung anziehen</column>
       <column name="definition_fa">لباس پوشیدن (کس دیگری) [AUTOTRANSLATED]</column>
       <column name="definition_sv">ta på dig kläder (någon annan) [AUTOTRANSLATED]</column>
@@ -7860,7 +7860,7 @@ The term "transport beam" is used throughout {TKD:src}, but this has been change
       <column name="_id"></column>
       <column name="entry_name">jop</column>
       <column name="part_of_speech">v:2,i_c</column>
-      <column name="definition">take turn</column>
+      <column name="definition">take turn (take a specific turn in a predefined order)</column>
       <column name="definition_de">sich abwechseln</column>
       <column name="definition_fa">به نوبه خود [AUTOTRANSLATED]</column>
       <column name="definition_sv">ta tur [AUTOTRANSLATED]</column>

@@ -1961,7 +1961,7 @@ Jos puhuja viittaa johonkin tapahtuneeseen, mikä on typerys, mitä on tapahtunu
       <column name="_id"></column>
       <column name="entry_name">chaw'</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">permit</column>
+      <column name="definition">permit, ticket, pass, license</column>
       <column name="definition_de">Erlaubnis, Zulassung</column>
       <column name="definition_fa">مجوز [AUTOTRANSLATED]</column>
       <column name="definition_sv">tillåtelse, tillstånd, licens, biljett</column>
@@ -1996,7 +1996,7 @@ UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado
       <column name="notes_fi">Tätä sanaa käytetään laajemmalle objektijoukolle kuin käännös "lupa" ehdottaa. {chaw':n:nolink}-tyypit sisältävät {HIjmeH chaw':n}, {Huch chaw':n}, {leng chaw':n}, {lojmIt chaw':n:nolink}, {yer ghajwI' chaw':n} ja {'elmeH chaw':n}. Täten {chaw':n:nolink} voi tarkoittaa myös "lippua", "passia" tai "lisenssiä".
 
 {chaw':n:nolink} osoittaa, että sinulla on virallisesti tai laillisesti oikeus tehdä, hankkia tai omistaa jotain, kun taas {Qoyje':n} toimii todisteena tai todisteeksi jonkinlaisesta saavutuksesta tai suorituksesta.[3] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">This is missing from the K-E side of {TKD:src}.</column>
+      <column name="hidden_notes">This is missing from the K-E side of {TKD:src}. In the E-K side, it's defined as "permit". The additional definitions are from {MAGIC:src}.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {cha'puj vIngevmeH chaw' HInobneS.:sen@@cha'puj:n, vI-:v, ngev:v, -meH:v, chaw':n, HI-:v, nob:v, -neS:v} "Give me a permit to sell dilithium, your honor."[2]
@@ -2026,7 +2026,7 @@ UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}, [2] {PK:src}, [3] {KLI mailing list 2015.05.29:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {PK:src}, [3] {KLI mailing list 2015.05.29:src}, [4] {MAGIC:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -8270,7 +8270,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expre
       <column name="_id"></column>
       <column name="entry_name">chuq'a' leghwI'</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">space telescope</column>
+      <column name="definition">telescope (space telescope)</column>
       <column name="definition_de">Weltraum-Teleskop</column>
       <column name="definition_fa">تلسکوپ فضایی</column>
       <column name="definition_sv">rymdteleskop</column>
