@@ -17277,7 +17277,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
       <column name="_id"></column>
       <column name="entry_name">qIvon</column>
       <column name="part_of_speech">n:2,body,alt,reg</column>
-      <column name="definition">{qIv:n}</columnn>
+      <column name="definition">{qIv:n}</column>
       <column name="definition_de">{qIv:n}</column>
       <column name="definition_fa">{qIv:n}</column>
       <column name="definition_sv">{qIv:n}</column>

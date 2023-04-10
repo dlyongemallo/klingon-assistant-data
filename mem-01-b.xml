@@ -7146,7 +7146,7 @@ The clarification about clothing was made during the Q &amp; A session at {qep'a
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{bIr:v}, {-chugh:v}, {qIvon:n}, {tuj:v}, {'Iw:n}</column>
+      <column name="components">{bIr:v}, {-chugh:v}, {qIvon:n:1}, {tuj:v}, {'Iw:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
