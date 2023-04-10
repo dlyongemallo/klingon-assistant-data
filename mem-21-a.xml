@@ -1437,7 +1437,7 @@ Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuut
       <column name="_id"></column>
       <column name="entry_name">'anISyum</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">anicium</column>
+      <column name="definition">anicium (non-Klingon explosive component)</column>
       <column name="definition_de">Anicium</column>
       <column name="definition_fa">آنیسیوم [AUTOTRANSLATED]</column>
       <column name="definition_sv">anicium [AUTOTRANSLATED]</column>
