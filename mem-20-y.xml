@@ -7427,7 +7427,7 @@ The tones of the Klingon musical scale are: {yu:n}, {bIm:n}, {'egh:n}, {loS:n:2}
       <column name="_id"></column>
       <column name="entry_name">yuryum</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">yurium</column>
+      <column name="definition">yurium (non-Klingon explosive component)</column>
       <column name="definition_de">Yurium</column>
       <column name="definition_fa">یوریوم [AUTOTRANSLATED]</column>
       <column name="definition_sv">yurium [AUTOTRANSLATED]</column>
