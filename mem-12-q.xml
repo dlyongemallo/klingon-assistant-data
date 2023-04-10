@@ -3961,7 +3961,7 @@ Tämä verbi näyttäisi olevan johdettu {qa'meH:n}:sta, mahdollisesti tulkitsem
       <column name="_id"></column>
       <column name="entry_name">qa'</column>
       <column name="part_of_speech">n:being</column>
-      <column name="definition">spirit</column>
+      <column name="definition">spirit (life force)</column>
       <column name="definition_de">Geist</column>
       <column name="definition_fa">روح [AUTOTRANSLATED]</column>
       <column name="definition_sv">ande</column>

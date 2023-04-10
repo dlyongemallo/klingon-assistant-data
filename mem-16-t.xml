@@ -12406,7 +12406,7 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
           <column name="_id"></column>
           <column name="entry_name">tuQHa'moH</column>
           <column name="part_of_speech">v:t_c,deriv</column>
-          <column name="definition">undress</column>
+          <column name="definition">undress, doff (remove clothing from oneself)</column>
           <column name="definition_de">(Kleidung) ausziehen</column>
           <column name="definition_fa">تقسیم کردن [AUTOTRANSLATED]</column>
           <column name="definition_sv">klä av sig, ta av sig (kläder)</column>
@@ -12449,7 +12449,7 @@ Tämä rakenne näyttää liittyvän sananlaskuun {reH tay' ghot tuqDaj je.:sen}
           <column name="_id"></column>
           <column name="entry_name">tuQmoH</column>
           <column name="part_of_speech">v:t_c,deriv</column>
-          <column name="definition">put on (clothes)</column>
+          <column name="definition">put on (clothes, on oneself), don</column>
           <column name="definition_de">(Kleidung) anziehen</column>
           <column name="definition_fa">قرار د(ادن بر روی لباس) [AUTOTRANSLATED]</column>
           <column name="definition_sv">klä på sig, sätta på sig (kläder)</column>

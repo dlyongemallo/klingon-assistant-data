@@ -14856,7 +14856,7 @@ Erityiset kiitokset Marc Okrandille ({marq 'oqranD:n:name}) klingonin kielen luo
       <column name="_id"></column>
       <column name="entry_name">logh ghotI''a'</column>
       <column name="part_of_speech">n:deriv</column>
-      <column name="definition">space whale (referring to the gormagander)</column>
+      <column name="definition">space whale (gormagander)</column>
       <column name="definition_de">Weltraum-Wal</column>
       <column name="definition_fa">نهنگ فضایی [AUTOTRANSLATED]</column>
       <column name="definition_sv">rymdval [AUTOTRANSLATED]</column>

@@ -1097,7 +1097,7 @@ Katso, kuinka Gowron sanoo tämän: {YouTube video:url:http://youtu.be/kWP0lgIYM
       <column name="_id"></column>
       <column name="entry_name">baQ</column>
       <column name="part_of_speech">v:3,i_c</column>
-      <column name="definition">take turns</column>
+      <column name="definition">take turns (engage in turn-taking, act in predefined order)</column>
       <column name="definition_de">abwechseln</column>
       <column name="definition_fa">نوبت می گیرند [AUTOTRANSLATED]</column>
       <column name="definition_sv">turas om</column>

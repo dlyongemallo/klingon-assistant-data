@@ -654,7 +654,7 @@
       <column name="_id"></column>
       <column name="entry_name">lanSoy</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">row or line (of people or things expected to be in motion)</column>
+      <column name="definition">row, line (of people or things expected to be in motion)</column>
       <column name="definition_de">Reihe (von Personen oder Gegenständen in Bewegung)</column>
       <column name="definition_fa">ردیف یا خط (از افراد یا مواردی که انتظار می رود در حرکت باشد) [AUTOTRANSLATED]</column>
       <column name="definition_sv">rad eller rad (av personer eller saker som förväntas vara i rörelse) [AUTOTRANSLATED]</column>
