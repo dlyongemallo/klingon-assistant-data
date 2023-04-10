@@ -5426,7 +5426,7 @@ Jotkut vertailulämpötilat {SImyon:sen:nolink}-asteikolle (vasen) vs. Celsius (
       <column name="_id"></column>
       <column name="entry_name">SIpoq</column>
       <column name="part_of_speech">n:name,fic</column>
-      <column name="definition">Spock</column>
+      <column name="definition">Spock (Vulcan name)</column>
       <column name="definition_de">Spock</column>
       <column name="definition_fa">صحبت کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">Spock [AUTOTRANSLATED]</column>
