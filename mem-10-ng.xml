@@ -746,7 +746,7 @@ Begreppet "jungfru" kan uttryckas genom att bokstavligen säga vad en jungfru ä
       <column name="_id"></column>
       <column name="entry_name">ngap</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be consonant</column>
+      <column name="definition">be consonant (musical consonance, sympathetic vibrations)</column>
       <column name="definition_de">konsonant, harmonisch sein</column>
       <column name="definition_fa">همخوان باشد [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara konsonant [AUTOTRANSLATED]</column>

@@ -2351,7 +2351,7 @@ Tätä sanaa ei pidä sekoittaa {'eQway:n}-sanaan. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">'eq</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be early</column>
+      <column name="definition">be early (before an expected time)</column>
       <column name="definition_de">früh sein</column>
       <column name="definition_fa">زود باشید [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara tidig</column>

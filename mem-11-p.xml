@@ -1737,7 +1737,7 @@ Katso myös hypoteettinen samanlainen kieliopillinen rakenne kohdasta {tIq'ghob:
       <column name="_id"></column>
       <column name="entry_name">paS</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be late</column>
+      <column name="definition">be late (after an expected time)</column>
       <column name="definition_de">spät sein</column>
       <column name="definition_fa">دیر شود [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara sen</column>
