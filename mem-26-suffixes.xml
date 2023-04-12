@@ -2885,7 +2885,7 @@ Tämä pääte on liitetty paahtoleivän verbiin, joka tulee aina viimeiseksi pa
       <column name="_id"></column>
       <column name="entry_name">-Ha'</column>
       <column name="part_of_speech">v:suff</column>
-      <column name="definition">undo, do wrongly (verb type R)</column>
+      <column name="definition">undo, do wrongly, do/be the opposite (verb type R)</column>
       <column name="definition_de">Umkehrung (Verb Typ R)</column>
       <column name="definition_fa">لغو، انجام اشتباه (فعل نوع R) [AUTOTRANSLATED]</column>
       <column name="definition_sv">negera, göra ogjort (verbtyp R)</column>
