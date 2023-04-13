@@ -8859,7 +8859,7 @@ Marc Okrand has said that he prefers to call the puns or "Easter Eggs" in the Kl
       <column name="_id"></column>
       <column name="entry_name">lo'</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">use, mode</column>
+      <column name="definition">use, mode (of usage)</column>
       <column name="definition_de">Gebrauch</column>
       <column name="definition_fa">استفاده کنید، حالت [AUTOTRANSLATED]</column>
       <column name="definition_sv">användning, bruk, funktion, nytta</column>
