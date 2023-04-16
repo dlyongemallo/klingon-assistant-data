@@ -19218,7 +19218,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">cha'teng</column>
+      <column name="entry_name">chI'teng</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ch'Tang</column>
       <column name="definition_de">Ch'Tang [AUTOTRANSLATED]</column>
@@ -24980,7 +24980,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">SI'vang</column>
+      <column name="entry_name">SIvang</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">ShiVang</column>
       <column name="definition_de">ShiVang [AUTOTRANSLATED]</column>
