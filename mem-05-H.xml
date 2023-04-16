@@ -9624,7 +9624,7 @@ Tätä verbiä käytetään myös tavallisille monikulmioille ja polyhedeille.[2
           <column name="_id"></column>
           <column name="entry_name">HovpoH</column>
           <column name="part_of_speech">n</column>
-          <column name="definition">stardate</column>
+          <column name="definition">stardate (Federation calendar)</column>
           <column name="definition_de">Sternzeit</column>
           <column name="definition_fa">ستاره دار [AUTOTRANSLATED]</column>
           <column name="definition_sv">stjärndatum</column>
