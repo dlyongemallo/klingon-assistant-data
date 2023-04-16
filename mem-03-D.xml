@@ -2807,7 +2807,7 @@ Tätä verbiä voidaan soveltaa lentokoneisiin, joista ks. {Dav:v:2}.[1] [AUTOTR
       <column name="_id"></column>
       <column name="entry_name">Da'ar</column>
       <column name="part_of_speech">n:fic</column>
-      <column name="definition">Dahar Master</column>
+      <column name="definition">Dahar Master (title given to esteemed warrior)</column>
       <column name="definition_de">Dahar-Meister</column>
       <column name="definition_fa">استاد دهر [AUTOTRANSLATED]</column>
       <column name="definition_sv">daharmästare</column>
