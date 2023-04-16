@@ -5628,7 +5628,7 @@ Ruoanlaiton yhteydessä verbiä käytetään voi käyttää transitiivisessa mer
       <column name="_id"></column>
       <column name="entry_name">mev</column>
       <column name="part_of_speech">v:ambi,klcp1</column>
-      <column name="definition">stop, cease</column>
+      <column name="definition">stop (doing something), cease (to do or be something)</column>
       <column name="definition_de">stoppen, aufhören (etwas zu tun)</column>
       <column name="definition_fa">توقف، متوقف [AUTOTRANSLATED]</column>
       <column name="definition_sv">sluta, upphöra</column>
