@@ -17340,7 +17340,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{botjan:n}, {HoS:n}, {SIl:v}, {-wI':v}</column>
+      <column name="components">{botjan:n}, {HoS:n:1}, {SIl:v}, {-wI':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

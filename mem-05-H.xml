@@ -8960,7 +8960,7 @@ Tätä verbiä käytetään myös tavallisille monikulmioille ja polyhedeille.[2
       <column name="_id"></column>
       <column name="entry_name">HoS</column>
       <column name="part_of_speech">n:2</column>
-      <column name="definition">amplitude</column>
+      <column name="definition">amplitude (physics wave magnitude)</column>
       <column name="definition_de">Amplitude</column>
       <column name="definition_fa">دامنه [AUTOTRANSLATED]</column>
       <column name="definition_sv">amplitud [AUTOTRANSLATED]</column>
