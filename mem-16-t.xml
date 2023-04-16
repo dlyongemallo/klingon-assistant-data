@@ -9050,6 +9050,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="source">[1] {cha' monmey:src} ({Saarbrücken qepHom'a' 2020:src})</column>
     </table>
     <table name="mem">
+      <!-- white knight, prince, frog, toad? -->
       <column name="_id"></column>
       <column name="entry_name">toD</column>
       <column name="part_of_speech">v:t_c</column>
@@ -9070,7 +9071,6 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <!-- white knight, prince, frog, toad? -->
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
