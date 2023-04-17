@@ -7169,7 +7169,7 @@ Katso selitys näiden sormiverbien käytöstä kohdasta {SIq:v}. [AUTOTRANSLATED
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">Its usage in {paq'batlh 2ed:src} shows it isn't about rank.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {Dujeychugh jagh nIv yItuHQo'.:sen}</column>
