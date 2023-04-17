@@ -2973,7 +2973,7 @@ This was defined as "side". The clarification "exterior surface" was added based
       <column name="_id"></column>
       <column name="entry_name">reH</column>
       <column name="part_of_speech">v:t</column>
-      <column name="definition">play</column>
+      <column name="definition">play (in unstructured manner)</column>
       <column name="definition_de">spielen</column>
       <column name="definition_fa">بازی [AUTOTRANSLATED]</column>
       <column name="definition_sv">leka</column>
