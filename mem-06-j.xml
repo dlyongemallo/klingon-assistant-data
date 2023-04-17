@@ -7383,7 +7383,7 @@ The term "transport beam" is used throughout {TKD:src}, but this has been change
       <column name="_id"></column>
       <column name="entry_name">jom</column>
       <column name="part_of_speech">v:1,t_c</column>
-      <column name="definition">install (a device)</column>
+      <column name="definition">install (a device, an object, a thing)</column>
       <column name="definition_de">(ein Gerät) installieren</column>
       <column name="definition_fa">نصب (یک دستگاه) [AUTOTRANSLATED]</column>
       <column name="definition_sv">installera (en apparat)</column>
