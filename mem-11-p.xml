@@ -2565,7 +2565,7 @@ Não confunda isso com {paw:v}. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">pay'an</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">particle</column>
+      <column name="definition">particle (science)</column>
       <column name="definition_de">Partikel</column>
       <column name="definition_fa">ذره [AUTOTRANSLATED]</column>
       <column name="definition_sv">partikel [AUTOTRANSLATED]</column>
@@ -3676,7 +3676,7 @@ Tämä lyhennetään harvoin myös muotoon {pegh vIttlhegh:n:nolink}.[1][2] [AUT
       <column name="_id"></column>
       <column name="entry_name">pem</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">daytime</column>
+      <column name="definition">day (daytime, daylight hours)</column>
       <column name="definition_de">Tageszeit</column>
       <column name="definition_fa">روزی [AUTOTRANSLATED]</column>
       <column name="definition_sv">dag, dagtid</column>
