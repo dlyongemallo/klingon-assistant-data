@@ -13079,7 +13079,7 @@ Kun sitä levitetään {tlhIm:n}: lle, {mutlh:v:nolink} tarkoittaa maton kokoami
           <column name="_id"></column>
           <column name="entry_name">muvmoH</column>
           <column name="part_of_speech">v:t_c,deriv</column>
-          <column name="definition">recruit</column>
+          <column name="definition">recruit (into)</column>
           <column name="definition_de">rekrutieren</column>
           <column name="definition_fa">استخدام [AUTOTRANSLATED]</column>
           <column name="definition_sv">rekrytera, värva</column>

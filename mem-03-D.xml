@@ -10311,7 +10311,7 @@ This was defined as "side". The clarification "direction, face" was added to dif
       <column name="_id"></column>
       <column name="entry_name">Dub</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">improve</column>
+      <column name="definition">improve (status, skill, understanding)</column>
       <column name="definition_de">verbessern</column>
       <column name="definition_fa">بهتر کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">förbättra</column>

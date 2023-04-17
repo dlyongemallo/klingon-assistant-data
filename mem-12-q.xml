@@ -3499,7 +3499,7 @@ The first part of this word is {qaw:n}, but the second part has nothing to do wi
           <column name="_id"></column>
           <column name="entry_name">qawmoH</column>
           <column name="part_of_speech">v:t_c,deriv</column>
-          <column name="definition">remind</column>
+          <column name="definition">remind (of)</column>
           <column name="definition_de">jemanden an etwas erinnern, ermahnen</column>
           <column name="definition_fa">یادآوری کردن [AUTOTRANSLATED]</column>
           <column name="definition_sv">påminna</column>
