@@ -4349,7 +4349,7 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="_id"></column>
       <column name="entry_name">vergh</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">dock, port (seaport, airport, spaceport)</column>
+      <column name="definition">dock, wharf, pier, jetty, port (seaport, airport, spaceport)</column>
       <column name="definition_de">Dock, Hafen</column>
       <column name="definition_fa">اسکله، بندر (بندر، فرودگاه، فضاپورت) [AUTOTRANSLATED]</column>
       <column name="definition_sv">docka (för skepp)</column>
