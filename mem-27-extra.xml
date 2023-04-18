@@ -17404,6 +17404,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_fi"></column>
       <column name="source"></column>
     </table>
+    <!-- Also add entry for "Mutara Nebula". -->
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">logh SupDIng'a'</column>
@@ -17428,8 +17429,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-<!-- ERROR: Mismatched brackets. -->
-      <column name="components">{logh:n}, {SupDIng:n}, {-'a':n}}</column>
+      <column name="components">{logh:n}, {SupDIng:n}, {-'a':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -17950,6 +17950,49 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
       <column name="components">{'op:n}, {pIq:n}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source"></column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">'ejyo' 'anghweD</column>
+      <column name="part_of_speech">n:deriv</column>
+      <column name="definition">Fleet Museum, Starfleet Museum</column>
+      <column name="definition_de">Flottenmuseum, Sternenflottenmuseum [AUTOTRANSLATED]</column>
+      <column name="definition_fa">موزه ناوگان، موزه ستاره فلیت [AUTOTRANSLATED]</column>
+      <column name="definition_sv">Fleet Museum, Starfleet Museum [AUTOTRANSLATED]</column>
+      <column name="definition_ru">Музей флота, Музей Звездного флота [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">艦隊博物館、星際艦隊博物館 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">Museu da Frota, Museu da Frota Estelar [AUTOTRANSLATED]</column>
+      <column name="definition_fi">Laivastomuseo, Tähtilaivastomuseo [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{'ejyo':n}, {'anghweD:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
