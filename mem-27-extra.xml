@@ -17428,7 +17428,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{logh:n}, {SupDIng:n, {-'a':n}}</column>
+      <column name="components">{logh:n}, {SupDIng:n}, {-'a':n}}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
