@@ -178,7 +178,7 @@
       <column name="_id"></column>
       <column name="entry_name">Sach</column>
       <column name="part_of_speech">v:1,i_c</column>
-      <column name="definition">expand</column>
+      <column name="definition">expand (become larger)</column>
       <column name="definition_de">ausbreiten</column>
       <column name="definition_fa">بسط دادن [AUTOTRANSLATED]</column>
       <column name="definition_sv">expandera</column>
