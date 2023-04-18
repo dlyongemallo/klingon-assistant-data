@@ -17404,6 +17404,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_fi"></column>
       <column name="source"></column>
     </table>
+    <!-- Also add entry for "Mutara Nebula". -->
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">logh SupDIng'a'</column>
