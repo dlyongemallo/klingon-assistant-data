@@ -4414,7 +4414,7 @@ The example sentences from the mailing list came out of a discussion about revis
       <column name="source">[1] {Saarbrücken qepHom'a' 2015:src}</column>
     </table>
     <table name="mem">
-      <!-- Is this a body part if it is removed from the body? -->
+      <!-- Is this a body part if it is removed from the body? Maybe it's a substance. -->
       <column name="_id"></column>
       <column name="entry_name">melchoQ</column>
       <column name="part_of_speech">n:body</column>
