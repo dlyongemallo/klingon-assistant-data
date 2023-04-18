@@ -4933,6 +4933,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="search_tags_fi"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
+    <!-- Not marked "v:ambi", since split into different entries. -->
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">meQ</column>
