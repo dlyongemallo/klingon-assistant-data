@@ -2247,7 +2247,7 @@ Tämä sana on myös kirjoitettu {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</co
       <column name="_id"></column>
       <column name="entry_name">'otHel</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">dock</column>
+      <column name="definition">dock, mooring place</column>
       <column name="definition_de">Anlegestelle</column>
       <column name="definition_fa">اسکله [AUTOTRANSLATED]</column>
       <column name="definition_sv">docka [AUTOTRANSLATED]</column>
