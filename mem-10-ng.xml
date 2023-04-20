@@ -3240,7 +3240,7 @@ Kohdassa {TNK:src} "Missä kauppa on?" käännetään nimellä {nuqDaq ghaH ngev
       <column name="_id"></column>
       <column name="entry_name">ngIl</column>
       <column name="part_of_speech">v:t_c</column>
-      <column name="definition">dare</column>
+      <column name="definition">dare (to do something)</column>
       <column name="definition_de">wagen</column>
       <column name="definition_fa">جرات کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">våga</column>
