@@ -7142,7 +7142,7 @@ Jos {Hoch:n:nolink} seuraa substantiivia, se tarkoittaa "koko X".[4] Huomaa, ett
       <column name="_id"></column>
       <column name="entry_name">HoD</column>
       <column name="part_of_speech">n:being,klcp1</column>
-      <column name="definition">captain</column>
+      <column name="definition">captain (rank)</column>
       <column name="definition_de">Kapitän, Captain</column>
       <column name="definition_fa">کاپیتان، ناخدا</column>
       <column name="definition_sv">kapten (rang)</column>

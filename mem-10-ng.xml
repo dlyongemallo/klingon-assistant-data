@@ -1124,7 +1124,7 @@ Voidaan sanoa {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} ja niin edelleen, mutta t�
           <column name="_id"></column>
           <column name="entry_name">ngaQHa'moHwI'</column>
           <column name="part_of_speech">n:deriv</column>
-          <column name="definition">key</column>
+          <column name="definition">key (device)</column>
           <column name="definition_de">Schlüssel</column>
           <column name="definition_fa">کلید</column>
           <column name="definition_sv">nyckel</column>

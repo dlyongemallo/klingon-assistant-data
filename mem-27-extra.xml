@@ -18226,6 +18226,50 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_fi"></column>
       <column name="source"></column>
     </table>
+    <table name="mem">
+      <!-- Decide whether this and {jaghla'} should both be added. -->
+      <column name="_id"></column>
+      <column name="entry_name">jaghHoD</column>
+      <column name="part_of_speech">n:being,deriv,nodict</column>
+      <column name="definition">enemy captain (rank)</column>
+      <column name="definition_de">TRANSLATE</column>
+      <column name="definition_fa">TRANSLATE</column>
+      <column name="definition_sv">TRANSLATE</column>
+      <column name="definition_ru">TRANSLATE</column>
+      <column name="definition_zh_HK">TRANSLATE</column>
+      <column name="definition_pt">TRANSLATE</column>
+      <column name="definition_fi">TRANSLATE</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components">{jagh:n}, {HoD:n}</column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source"></column>
+    </table>
 
     <!-- Section: Magic Names from Klingon Academy -->
     <table name="mem">
