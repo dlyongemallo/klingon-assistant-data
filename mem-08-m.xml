@@ -5639,7 +5639,7 @@ Ruoanlaiton yhteydessä verbiä käytetään voi käyttää transitiivisessa mer
       <column name="definition_fi">lopettaa (jonkin tekeminen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{yev:v}, {vIH:v}, {bup:v}, {taD:v}</column>
+      <column name="see_also">{yev:v}, {vIH:v}, {bup:v:1}, {taD:v}</column>
       <column name="notes">The command {yImev:sen@@yI-:v, mev:v} means to stop doing something. It would not be used for stopping a device (such as an engine).[2]</column>
       <column name="notes_de">Wenn dieses Wort als Befehl verwendet wird, bedeutet dies, dass Sie aufhören sollen, etwas zu tun. Es würde nicht zum Stoppen eines Geräts (z. B. eines Motors) verwendet.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fa">این کلمه هنگامی که به عنوان دستور استفاده می شود ، به معنای متوقف کردن انجام کاری است. این برای متوقف کردن دستگاه (مانند موتور) استفاده نمی شود.[2] [AUTOTRANSLATED]</column>

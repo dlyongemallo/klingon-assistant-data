@@ -9551,7 +9551,7 @@ Tämä etuliite pudotetaan joskus tuntemattomista syistä. Vaikka virhe onkin, t
       <column name="definition_fi">hävitä, epäonnistua</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Qap:v:1}</column>
-      <column name="see_also">{'ov:v}, {vonlu':v}, {bup:v}, {jegh:v}</column>
+      <column name="see_also">{'ov:v}, {vonlu':v}, {bup:v:1}, {jegh:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>

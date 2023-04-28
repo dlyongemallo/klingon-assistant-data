@@ -10029,7 +10029,7 @@ Marc Okrand ({marq 'oqranD:n:name}) is billed as Associate Producer, translated 
       <column name="definition_fi">borg</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{qoq:n}</column>
+      <column name="see_also">{qoq:n}, {lachvoH yab:n}</column>
       <column name="notes">Watch the lecture on Klingon (by Marc Okrand) in which this word appears: {YouTube video:url:https://youtu.be/5G_v20YlwWc?t=3600}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -11407,7 +11407,7 @@ The clarification about clothing was made during the Q &amp; A session at {qep'a
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">A line which was cut from {Star Trek Into Darkness:src} reveals that this can mean to end a relationship: {'ej jIHvo' nIHDI' jIbup:sen@@'ej:conj, jIH:n:1h, -vo':n, nIH:v, -DI':v, jI-:v, bup:v}.</column>
+      <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -11450,7 +11450,7 @@ The clarification about clothing was made during the Q &amp; A session at {qep'a
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="hidden_notes"></column>
+          <column name="hidden_notes">A line which was cut from {Star Trek Into Darkness:src} reveals that this can mean to end a relationship: {'ej jIHvo' nIHDI' jIbup:sen@@'ej:conj, jIH:n:1h, -vo':n, nIH:v, -DI':v, jI-:v, bup:v:2}.</column>
           <column name="components"></column>
           <column name="examples"></column>
           <column name="examples_de"></column>
