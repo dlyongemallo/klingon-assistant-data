@@ -3091,7 +3091,7 @@ The {msn:src} example had a typo: {ghoHtah:sen:nolink} instead of {ghoHtaH:sen:n
       <column name="definition_fi">antautua, luovuttaa</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{bup:v}, {luj:v}, {baq:v}, {jey:v}</column>
+      <column name="see_also">{bup:v:1}, {luj:v}, {baq:v}, {jey:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>

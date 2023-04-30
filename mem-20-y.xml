@@ -2926,7 +2926,7 @@ Tämä sana voi viitata muuhunkin kuin maa-alueeseen tai kiinteään omaisuuteen
       <column name="definition_fi">keskeyttää (oma tekeminen)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{mev:v}, {bup:v}</column>
+      <column name="see_also">{mev:v}, {bup:v:1}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
