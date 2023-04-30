@@ -4594,7 +4594,7 @@ This word takes the suffix {-Du':n:suff} when it refers to a body part, and {-me
       <column name="_id"></column>
       <column name="entry_name">telun Hovtay'</column>
       <column name="part_of_speech">n:place,fic</column>
-      <column name="definition">Tellun Star System</column>
+      <column name="definition">Tellun star system</column>
       <column name="definition_de">Tellun-(Stern)System</column>
       <column name="definition_fa">سیستم تلون استار [AUTOTRANSLATED]</column>
       <column name="definition_sv">Tellunska solsystemet</column>
@@ -4613,7 +4613,7 @@ This word takes the suffix {-Du':n:suff} when it refers to a body part, and {-me
       <column name="notes_zh_HK">這個恆星系統位於聯邦-克林崗州邊界附近，包含兩個行星{Doy'yuS:n}和{'elaS:n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este sistema estelar está localizado próximo à fronteira da Federação-Klingon e contém os dois planetas {Doy'yuS:n} e {'elaS:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This was defined as "Tellun Star System" (with capital letters) in {TKD:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
