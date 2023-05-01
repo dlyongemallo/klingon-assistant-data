@@ -10029,7 +10029,7 @@ Marc Okrand ({marq 'oqranD:n:name}) is billed as Associate Producer, translated 
       <column name="definition_fi">borg</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{qoq:n}, {lachvoH yab:n}</column>
+      <column name="see_also">{qoq:n}, {lachvoH yab [PLACEHOLDER]:n}</column>
       <column name="notes">Watch the lecture on Klingon (by Marc Okrand) in which this word appears: {YouTube video:url:https://youtu.be/5G_v20YlwWc?t=3600}</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
