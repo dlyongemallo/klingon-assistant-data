@@ -18311,7 +18311,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">tlhIngan wo' Duj</column>
-      <column name="part_of_speech">n:name,fic</column>
+      <column name="part_of_speech">n:fic</column>
       <column name="definition">Imperial Klingon Ship, "IKS"</column>
       <column name="definition_de">Imperiales klingonisches Schiff, "IKS" [AUTOTRANSLATED]</column>
       <column name="definition_fa"></column>
@@ -27735,7 +27735,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">vI'raQ [PLACEHOLDER]</column>
-      <column name="part_of_speech">n:name,fic</column>
+      <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Vrax (place name)</column>
       <column name="definition_de">Vrax (Ortsname) [AUTOTRANSLATED]</column>
       <column name="definition_fa"></column>
