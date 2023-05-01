@@ -9106,7 +9106,7 @@ Jos käytetään {-Daq:n}, se tarkoittaa epäonnistumista: ilmaa puhallettiin ko
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{jo':v:2}, {-Ha':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

@@ -2444,7 +2444,7 @@ UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
           <column name="hidden_notes"></column>
-          <column name="components">{cha':n:num}, {-DIch:n:num}</column>
+          <column name="components">{cha':n:num}, {-DIch:n:num,suff}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -2487,7 +2487,7 @@ UM {chaw':n:nolink} mostra que você está oficialmente ou legalmente autorizado
           <column name="notes_pt">Durante alguns procedimentos legais, o acusado deve ter um segundo para defendê-lo. [AUTOTRANSLATED]</column>
           <column name="notes_fi">Joidenkin oikeudenkäyntien aikana syytetyllä on oltava toinen hetki puolustaa häntä. [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
-          <column name="components">{cha':n:num}, {-DIch:n:num}</column>
+          <column name="components">{cha':n:num}, {-DIch:n:num,suff}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
