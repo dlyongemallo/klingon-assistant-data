@@ -2736,7 +2736,7 @@ In {TKD:src} this word is defined as "lord" only, same as {joH:n:nolink}. Howeve
       <column name="_id"></column>
       <column name="entry_name">ja'chuq</column>
       <column name="part_of_speech">v:t_c,deriv</column>
-      <column name="definition">discuss, confer</column>
+      <column name="definition">discuss, confer (with one another)</column>
       <column name="definition_de">diskutieren</column>
       <column name="definition_fa">بحث کن، موافقم [AUTOTRANSLATED]</column>
       <column name="definition_sv">diskutera, konferera</column>
