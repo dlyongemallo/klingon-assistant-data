@@ -4072,7 +4072,7 @@ Klingonin legendassa {qeylIS'e' lIjlaHbe'bogh vay':n:name} vääristi alkuperäi
           <column name="_id"></column>
           <column name="entry_name">betleH bey'</column>
           <column name="part_of_speech">n:deriv,fic,weap</column>
-          <column name="definition">bat'leth display</column>
+          <column name="definition">bat'leth display (type of ceremonial weapons display)</column>
           <column name="definition_de">Bat'leth-Ständer</column>
           <column name="definition_fa">نمایشگر bat'leth [AUTOTRANSLATED]</column>
           <column name="definition_sv">bat'leth-ställ</column>

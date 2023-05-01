@@ -8367,7 +8367,7 @@ Sanan käsite voidaan ilmaista muodossa {puq lut:n@@puq:n, lut:n} tai {lut rorgh
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
-          <column name="notes">This is a slang term based on {roS:v:1} or {roS:v:2} meaning {qIS:v}.[1]</column>
+          <column name="notes">This is a slang term based on {roS:v:1} or {roS:v:2}, and meaning {qIS:v}.[1]</column>
           <column name="notes_de"></column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
