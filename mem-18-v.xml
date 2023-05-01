@@ -3826,9 +3826,10 @@ Yleisempi termi tälle on {qatru':n:nolink}. [AUTOTRANSLATED]</column>
       <column name="source">[1] {qep'a' 24 (2017):src}</column>
     </table>
     <table name="mem">
+      <!-- Not marked as "name" as it seems to be used as a word. -->
       <column name="_id"></column>
       <column name="entry_name">veqlargh</column>
-      <column name="part_of_speech">n:name,fic</column>
+      <column name="part_of_speech">n:fic</column>
       <column name="definition">demon, "devil", Fek'lhr (guardian of Gre'thor)</column>
       <column name="definition_de">Fek'lhr</column>
       <column name="definition_fa">شیطان ، دیو ، فاکلهر [AUTOTRANSLATED]</column>
