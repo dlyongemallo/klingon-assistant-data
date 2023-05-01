@@ -20983,7 +20983,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Divoq [PLACEHOLDER]</column>
+      <column name="entry_name">DIvoq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Divok</column>
       <column name="definition_de">Divok [AUTOTRANSLATED]</column>
@@ -25843,7 +25843,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">Qu'vat mID [PLACEHOLDER]</column>
-      <column name="part_of_speech">n:place,deriv</column>
+      <column name="part_of_speech">n:place,deriv,fic</column>
       <column name="definition">Qu'Vat colony</column>
       <column name="definition_de">Kolonie Qu'Vat [AUTOTRANSLATED]</column>
       <column name="definition_fa"></column>
