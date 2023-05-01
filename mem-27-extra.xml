@@ -17920,6 +17920,49 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
           <column name="search_tags_fi"></column>
           <column name="source"></column>
         </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">berIn DIvI' [PLACEHOLDER]</column>
+          <column name="part_of_speech">n</column>
+          <column name="definition">Breen Confederacy</column>
+          <column name="definition_de">TRANSLATE</column>
+          <column name="definition_fa">TRANSLATE</column>
+          <column name="definition_sv">TRANSLATE</column>
+          <column name="definition_ru">TRANSLATE</column>
+          <column name="definition_zh_HK">TRANSLATE</column>
+          <column name="definition_pt">TRANSLATE</column>
+          <column name="definition_fi">TRANSLATE</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="hidden_notes"></column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="source"></column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">portaS vagh</column>
@@ -18091,7 +18134,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source"></column>
+      <column name="source">[1] {KGT p.107:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -18308,10 +18351,9 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_fi"></column>
       <column name="source"></column>
     </table>
-    <!--
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">maqcha</column>
+      <column name="entry_name">maqcha [PLACEHOLDER]</column>
       <column name="part_of_speech">excl:reg</column>
       <column name="definition">Engage! (Ketha dialect)</column>
       <column name="definition_de">Einsetzen! (Ketha-Dialekt) [AUTOTRANSLATED]</column>
@@ -18352,12 +18394,11 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_fi"></column>
       <column name="source"></column>
     </table>
-    -->
 
     <!-- Section: Magic Placeholders -->
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ba'Say</column>
+      <column name="entry_name">ba'Say [PLACEHOLDER]</column>
       <column name="part_of_speech">n:fic</column>
       <column name="definition">Basai Master (title given to renowned poet)</column>
       <column name="definition_de">Basai-Meister (Titel für einen renommierten Dichter) [AUTOTRANSLATED]</column>
@@ -18400,7 +18441,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">logh SupDIng'a'</column>
+      <column name="entry_name">logh SupDIng'a' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">nebula</column>
       <column name="definition_de">Nebel [AUTOTRANSLATED]</column>
@@ -18443,7 +18484,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mutara' logh SupDIng'a'</column>
+      <column name="entry_name">mutara' logh SupDIng'a' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">Mutara nebula</column>
       <column name="definition_de">Mutara-Nebel [AUTOTRANSLATED]</column>
@@ -18486,7 +18527,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ghebrel lorqa'</column>
+      <column name="entry_name">ghebrel lorqa' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Gabriel Lorca</column>
       <column name="definition_de">Hauptmann Lorca [AUTOTRANSLATED]</column>
@@ -18529,7 +18570,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">luSpet HeH</column>
+      <column name="entry_name">luSpet HeH [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">event horizon (of a black hole)</column>
       <column name="definition_de">Ereignishorizont (eines Schwarzen Lochs) [AUTOTRANSLATED]</column>
@@ -18572,7 +18613,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">rIchwIn'a' wa'DIch</column>
+      <column name="entry_name">rIchwIn'a' wa'DIch [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">Prime Directive (Federation law)</column>
       <column name="definition_de">Oberste Direktive (Bundesgesetz) [AUTOTRANSLATED]</column>
@@ -18615,7 +18656,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">vorSaq</column>
+      <column name="entry_name">vorSaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n</column>
       <column name="definition">"forshak" (substance that gives off an unplesant smell when it rots)</column>
       <column name="definition_de">„forshak“ (Substanz, die einen unangenehmen Geruch verströmt, wenn sie verrottet) [AUTOTRANSLATED]</column>
@@ -18658,7 +18699,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">logh Say'qIS</column>
+      <column name="entry_name">logh Say'qIS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">space dust</column>
       <column name="definition_de">Weltraumstaub [AUTOTRANSLATED]</column>
@@ -18701,7 +18742,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">beyjor</column>
+      <column name="entry_name">beyjor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Bajor</column>
       <column name="definition_de">Bajor [AUTOTRANSLATED]</column>
@@ -18744,7 +18785,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
         <table name="mem">
           <column name="_id"></column>
-          <column name="entry_name">beyjorngan</column>
+          <column name="entry_name">beyjorngan [PLACEHOLDER]</column>
           <column name="part_of_speech">n:being,deriv,fic</column>
           <column name="definition">Bajoran</column>
           <column name="definition_de">Bajoraner [AUTOTRANSLATED]</column>
@@ -18787,7 +18828,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
         </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">HIq pargh</column>
+      <column name="entry_name">HIq pargh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">synthehol</column>
       <column name="definition_de">Synthehol [AUTOTRANSLATED]</column>
@@ -18831,7 +18872,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <!-- Decide whether this and {jaghla'} should both be added. -->
       <column name="_id"></column>
-      <column name="entry_name">jaghHoD</column>
+      <column name="entry_name">jaghHoD [PLACEHOLDER]</column>
       <column name="part_of_speech">n:being,deriv,nodict</column>
       <column name="definition">enemy captain (rank)</column>
       <column name="definition_de">Feindlicher Hauptmann (Rang) [AUTOTRANSLATED]</column>
@@ -18874,7 +18915,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bI'roqanbo</column>
+      <column name="entry_name">bI'roqanbo [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,terran</column>
       <column name="definition">Broken Bow (name of town on Earth)</column>
       <column name="definition_de">Broken Bow (Name einer Stadt auf der Erde) [AUTOTRANSLATED]</column>
@@ -18917,7 +18958,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'oqlaHoma'</column>
+      <column name="entry_name">'oqlaHoma' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,terran</column>
       <column name="definition">Oklahoma</column>
       <column name="definition_de">Oklahoma</column>
@@ -18960,7 +19001,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">rayjel</column>
+      <column name="entry_name">rayjel [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Rigel</column>
       <column name="definition_de">Rigel</column>
@@ -19003,7 +19044,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
         <table name="mem">
           <column name="_id"></column>
-          <column name="entry_name">rayjelngan</column>
+          <column name="entry_name">rayjelngan [PLACEHOLDER]</column>
           <column name="part_of_speech">n:being,deriv,fic</column>
           <column name="definition">Rigellian</column>
           <column name="definition_de">Rigeller</column>
@@ -19046,7 +19087,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
         </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">peghwI' tlhach</column>
+      <column name="entry_name">peghwI' tlhach [PLACEHOLDER]</column>
       <column name="part_of_speech">n</column>
       <column name="definition">Cabal (future faction)</column>
       <column name="definition_de">Cabal (zukünftige Fraktion) [AUTOTRANSLATED]</column>
@@ -19089,7 +19130,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lachvoH yab</column>
+      <column name="entry_name">lachvoH yab [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">hive mind (Borg)</column>
       <column name="definition_de">Schwarmgeist (Borg) [AUTOTRANSLATED]</column>
@@ -19132,7 +19173,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">verIDIyan wej</column>
+      <column name="entry_name">verIDIyan wej [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Veridian III</column>
       <column name="definition_de">Veridian III [AUTOTRANSLATED]</column>
@@ -19175,7 +19216,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIb SIr'o''a'</column>
+      <column name="entry_name">qIb SIr'o''a' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv,fic</column>
       <column name="definition">Nexus (phenomenon)</column>
       <column name="definition_de">Nexus (Phänomen) [AUTOTRANSLATED]</column>
@@ -19218,7 +19259,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">poH HoS qoSta'</column>
+      <column name="entry_name">poH HoS qoSta' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv,fic</column>
       <column name="definition">temporal energy ribbon (phenomenon)</column>
       <column name="definition_de">zeitliches Energieband (Phänomen) [AUTOTRANSLATED]</column>
@@ -19261,7 +19302,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'amarghoSa'</column>
+      <column name="entry_name">'amarghoSa' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Amargosa (star)</column>
       <column name="definition_de">Amargosa (Stern) [AUTOTRANSLATED]</column>
@@ -19304,7 +19345,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
         <table name="mem">
           <column name="_id"></column>
-          <column name="entry_name">'amarghoSa' Hovtay'</column>
+          <column name="entry_name">'amarghoSa' Hovtay' [PLACEHOLDER]</column>
           <column name="part_of_speech">n:place,deriv,fic</column>
           <column name="definition">Amargosa star system</column>
           <column name="definition_de">Amarghosa-Sternensystem [AUTOTRANSLATED]</column>
@@ -19347,7 +19388,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
         </table>
         <table name="mem">
           <column name="_id"></column>
-          <column name="entry_name">'amarghoSa' bejwI' tengchaH</column>
+          <column name="entry_name">'amarghoSa' bejwI' tengchaH [PLACEHOLDER]</column>
           <column name="part_of_speech">n:place,deriv,fic</column>
           <column name="definition">Amargosa observatory (space station)</column>
           <column name="definition_de">Amargosa-Observatorium (Raumstation) [AUTOTRANSLATED]</column>
@@ -19392,7 +19433,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <!-- Section: Magic Names from Klingon Academy -->
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">torleq</column>
+      <column name="entry_name">torleq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Torlek</column>
       <column name="definition_de">Torlek [AUTOTRANSLATED]</column>
@@ -19435,7 +19476,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ro'vagh</column>
+      <column name="entry_name">ro'vagh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ro'vagh</column>
       <column name="definition_de">Ro'vagh [AUTOTRANSLATED]</column>
@@ -19478,7 +19519,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">loraq</column>
+      <column name="entry_name">loraq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Lorak</column>
       <column name="definition_de">Lorak [AUTOTRANSLATED]</column>
@@ -19521,7 +19562,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tal'Inor lojmIt</column>
+      <column name="entry_name">tal'Inor lojmIt [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Tal'Ihnor Gates</column>
       <column name="definition_de">Tore von Tal'lhnor [AUTOTRANSLATED]</column>
@@ -19564,7 +19605,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tolya'</column>
+      <column name="entry_name">tolya' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Tholia</column>
       <column name="definition_de">Tholia [AUTOTRANSLATED]</column>
@@ -19607,7 +19648,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
         <table name="mem">
           <column name="_id"></column>
-          <column name="entry_name">tolya'ngan</column>
+          <column name="entry_name">tolya'ngan [PLACEHOLDER]</column>
           <column name="part_of_speech">n:being,deriv,fic</column>
           <column name="definition">Tholian</column>
           <column name="definition_de">Tholian [AUTOTRANSLATED]</column>
@@ -19650,7 +19691,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
         </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">jI'oH</column>
+      <column name="entry_name">jI'oH [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">G'Iogh</column>
       <column name="definition_de">G'Iogh [AUTOTRANSLATED]</column>
@@ -19693,7 +19734,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qalnor</column>
+      <column name="entry_name">qalnor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kalnor</column>
       <column name="definition_de">Kalnor [AUTOTRANSLATED]</column>
@@ -19736,7 +19777,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Melkor</column>
+      <column name="entry_name">Melkor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">melqor</column>
       <column name="definition_de">melqor [AUTOTRANSLATED]</column>
@@ -19779,7 +19820,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">poqtar'Il</column>
+      <column name="entry_name">poqtar'Il [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Poktarl</column>
       <column name="definition_de">Poktarl [AUTOTRANSLATED]</column>
@@ -19822,7 +19863,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qImaq</column>
+      <column name="entry_name">qImaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'mak</column>
       <column name="definition_de">K'mak [AUTOTRANSLATED]</column>
@@ -19865,7 +19906,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tokmaq</column>
+      <column name="entry_name">tokmaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Thok Mak</column>
       <column name="definition_de">Thok Mak [AUTOTRANSLATED]</column>
@@ -19910,7 +19951,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <!-- Section: Magic Person and Ship Names -->
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'amar</column>
+      <column name="entry_name">'amar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Amar</column>
       <column name="definition_de">Amar [AUTOTRANSLATED]</column>
@@ -19953,7 +19994,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'antaq</column>
+      <column name="entry_name">'antaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Antaak</column>
       <column name="definition_de">Antak [AUTOTRANSLATED]</column>
@@ -19996,7 +20037,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'atul</column>
+      <column name="entry_name">'atul [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Atul</column>
       <column name="definition_de">Atul [AUTOTRANSLATED]</column>
@@ -20039,7 +20080,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ba'el</column>
+      <column name="entry_name">ba'el [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ba'el</column>
       <column name="definition_de">Ba'el [AUTOTRANSLATED]</column>
@@ -20082,7 +20123,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">baqtor</column>
+      <column name="entry_name">baqtor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ba'ktor</column>
       <column name="definition_de">Baktor [AUTOTRANSLATED]</column>
@@ -20125,7 +20166,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qerla</column>
+      <column name="entry_name">qerla [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kerla</column>
       <column name="definition_de">Kerala [AUTOTRANSLATED]</column>
@@ -20168,7 +20209,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qor'ID</column>
+      <column name="entry_name">qor'ID [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Korrd</column>
       <column name="definition_de">Korrd [AUTOTRANSLATED]</column>
@@ -20211,7 +20252,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">be'mot</column>
+      <column name="entry_name">be'mot [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">B'Moth</column>
       <column name="definition_de">B’Moth [AUTOTRANSLATED]</column>
@@ -20254,7 +20295,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bI'jIq</column>
+      <column name="entry_name">bI'jIq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">B'iJik</column>
       <column name="definition_de">B'iJik [AUTOTRANSLATED]</column>
@@ -20297,7 +20338,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bar'el</column>
+      <column name="entry_name">bar'el [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Bar'el</column>
       <column name="definition_de">Bar'el [AUTOTRANSLATED]</column>
@@ -20340,7 +20381,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">baraq qaDan</column>
+      <column name="entry_name">baraq qaDan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Barak-Kadan</column>
       <column name="definition_de">Barak-Kadan [AUTOTRANSLATED]</column>
@@ -20383,7 +20424,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bo'raq</column>
+      <column name="entry_name">bo'raq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Bo'rak</column>
       <column name="definition_de">Bo'rak [AUTOTRANSLATED]</column>
@@ -20426,7 +20467,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bI'roqtan</column>
+      <column name="entry_name">bI'roqtan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Brok'tan</column>
       <column name="definition_de">Brok’tan [AUTOTRANSLATED]</column>
@@ -20469,7 +20510,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bI'rota'</column>
+      <column name="entry_name">bI'rota' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Brota</column>
       <column name="definition_de">Brota [AUTOTRANSLATED]</column>
@@ -20512,7 +20553,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">bu'qaH</column>
+      <column name="entry_name">bu'qaH [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Bu'kaH</column>
       <column name="definition_de">Bu'kaH [AUTOTRANSLATED]</column>
@@ -20555,7 +20596,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">buruq</column>
+      <column name="entry_name">buruq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Buruk</column>
       <column name="definition_de">Buruk [AUTOTRANSLATED]</column>
@@ -20598,7 +20639,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">cha'poq</column>
+      <column name="entry_name">cha'poq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ch'Pok</column>
       <column name="definition_de">Ch'Pok [AUTOTRANSLATED]</column>
@@ -20641,7 +20682,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">cha'regha</column>
+      <column name="entry_name">cha'regha [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ch'Rega</column>
       <column name="definition_de">Ch'Rega [AUTOTRANSLATED]</column>
@@ -20684,7 +20725,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">chI'teng</column>
+      <column name="entry_name">chI'teng [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ch'Tang</column>
       <column name="definition_de">Ch'Tang [AUTOTRANSLATED]</column>
@@ -20727,7 +20768,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">cha'targh</column>
+      <column name="entry_name">cha'targh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ch'Targh</column>
       <column name="definition_de">Ch'Targh [AUTOTRANSLATED]</column>
@@ -20770,7 +20811,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">che'ta'</column>
+      <column name="entry_name">che'ta' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Che'Ta'</column>
       <column name="definition_de">Che'Ta' [AUTOTRANSLATED]</column>
@@ -20813,7 +20854,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">chu'voq</column>
+      <column name="entry_name">chu'voq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Chu'vok</column>
       <column name="definition_de">Chuvok [AUTOTRANSLATED]</column>
@@ -20856,7 +20897,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Daroq</column>
+      <column name="entry_name">Daroq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Darok</column>
       <column name="definition_de">Darok [AUTOTRANSLATED]</column>
@@ -20899,7 +20940,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qerSan DaQ</column>
+      <column name="entry_name">qerSan DaQ [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Curzon Dax</column>
       <column name="definition_de">Curzon Dax [AUTOTRANSLATED]</column>
@@ -20942,7 +20983,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Divoq</column>
+      <column name="entry_name">Divoq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Divok</column>
       <column name="definition_de">Divok [AUTOTRANSLATED]</column>
@@ -20985,7 +21026,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Doran</column>
+      <column name="entry_name">Doran [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Doran</column>
       <column name="definition_de">Doran [AUTOTRANSLATED]</column>
@@ -21028,7 +21069,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Dorgh</column>
+      <column name="entry_name">Dorgh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Dorg</column>
       <column name="definition_de">Dorg [AUTOTRANSLATED]</column>
@@ -21071,7 +21112,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">DIreQ</column>
+      <column name="entry_name">DIreQ [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Drex</column>
       <column name="definition_de">Drex [AUTOTRANSLATED]</column>
@@ -21114,7 +21155,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">DI'rovana'</column>
+      <column name="entry_name">DI'rovana' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Drovana</column>
       <column name="definition_de">Drovana [AUTOTRANSLATED]</column>
@@ -21157,7 +21198,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ghI'req</column>
+      <column name="entry_name">ghI'req [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">G'reck</column>
       <column name="definition_de">Greck [AUTOTRANSLATED]</column>
@@ -21200,7 +21241,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ghI'tIroq</column>
+      <column name="entry_name">ghI'tIroq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">G'trok</column>
       <column name="definition_de">G'trok [AUTOTRANSLATED]</column>
@@ -21243,7 +21284,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ghI'ral</column>
+      <column name="entry_name">ghI'ral [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Gi'ral</column>
       <column name="definition_de">Gi'ral [AUTOTRANSLATED]</column>
@@ -21286,7 +21327,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ghorotlh</column>
+      <column name="entry_name">ghorotlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Goroth</column>
       <column name="definition_de">Goroth [AUTOTRANSLATED]</column>
@@ -21329,7 +21370,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ghIrotlh</column>
+      <column name="entry_name">ghIrotlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Gr'oth</column>
       <column name="definition_de">Gr'oth [AUTOTRANSLATED]</column>
@@ -21372,7 +21413,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">HI'oH</column>
+      <column name="entry_name">HI'oH [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">H'ohk</column>
       <column name="definition_de">H'ohk [AUTOTRANSLATED]</column>
@@ -21415,7 +21456,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Heghta'</column>
+      <column name="entry_name">Heghta' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Hegh'ta</column>
       <column name="definition_de">Hegh'ta [AUTOTRANSLATED]</column>
@@ -21458,7 +21499,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">He'ta</column>
+      <column name="entry_name">He'ta [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">H'ta</column>
       <column name="definition_de">H'ta [AUTOTRANSLATED]</column>
@@ -21501,7 +21542,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">HIjqa'</column>
+      <column name="entry_name">HIjqa' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Hij'qa</column>
       <column name="definition_de">Hij'qa [AUTOTRANSLATED]</column>
@@ -21544,7 +21585,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">HontIl</column>
+      <column name="entry_name">HontIl [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Hon-Tihl</column>
       <column name="definition_de">Hon-Tihl [AUTOTRANSLATED]</column>
@@ -21587,7 +21628,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Horcha'</column>
+      <column name="entry_name">Horcha' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Hor'Cha</column>
       <column name="definition_de">Hor'Cha [AUTOTRANSLATED]</column>
@@ -21630,7 +21671,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Huragha</column>
+      <column name="entry_name">Huragha [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Huraga</column>
       <column name="definition_de">Huraga [AUTOTRANSLATED]</column>
@@ -21673,7 +21714,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">JI'Dan</column>
+      <column name="entry_name">JI'Dan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">J'Dan</column>
       <column name="definition_de">J’Dan [AUTOTRANSLATED]</column>
@@ -21716,7 +21757,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ja'roD</column>
+      <column name="entry_name">ja'roD [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ja'rod</column>
       <column name="definition_de">Ja'rod [AUTOTRANSLATED]</column>
@@ -21759,7 +21800,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">japar</column>
+      <column name="entry_name">japar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Japar</column>
       <column name="definition_de">Japar [AUTOTRANSLATED]</column>
@@ -21802,7 +21843,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">joDmoS</column>
+      <column name="entry_name">joDmoS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Jodmos</column>
       <column name="definition_de">Jodmos [AUTOTRANSLATED]</column>
@@ -21845,7 +21886,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qI'nera</column>
+      <column name="entry_name">qI'nera [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Nera</column>
       <column name="definition_de">K'Nera [AUTOTRANSLATED]</column>
@@ -21888,7 +21929,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qI'nor</column>
+      <column name="entry_name">qI'nor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Nor</column>
       <column name="definition_de">K'Nor [AUTOTRANSLATED]</column>
@@ -21931,7 +21972,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">QIrIn</column>
+      <column name="entry_name">QIrIn [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Rene</column>
       <column name="definition_de">K'Rene [AUTOTRANSLATED]</column>
@@ -21974,7 +22015,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIt'al</column>
+      <column name="entry_name">qIt'al [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Tal</column>
       <column name="definition_de">K'Tal [AUTOTRANSLATED]</column>
@@ -22017,7 +22058,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIte'mang</column>
+      <column name="entry_name">qIte'mang [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Temang</column>
       <column name="definition_de">K'Temang [AUTOTRANSLATED]</column>
@@ -22060,7 +22101,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIte'moq</column>
+      <column name="entry_name">qIte'moq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Temoc</column>
       <column name="definition_de">K'Temoc [AUTOTRANSLATED]</column>
@@ -22103,7 +22144,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qItI'relan</column>
+      <column name="entry_name">qItI'relan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Trelan</column>
       <column name="definition_de">K'Trelan [AUTOTRANSLATED]</column>
@@ -22146,7 +22187,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIva'Da</column>
+      <column name="entry_name">qIva'Da [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Vada</column>
       <column name="definition_de">K'Vada [AUTOTRANSLATED]</column>
@@ -22189,7 +22230,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qI'vagh</column>
+      <column name="entry_name">qI'vagh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Vagh</column>
       <column name="definition_de">K'Vagh [AUTOTRANSLATED]</column>
@@ -22232,7 +22273,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qI'voq</column>
+      <column name="entry_name">qI'voq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'Vok</column>
       <column name="definition_de">K'Vok [AUTOTRANSLATED]</column>
@@ -22275,7 +22316,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qImtar</column>
+      <column name="entry_name">qImtar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'mtar</column>
       <column name="definition_de">K'mtar [AUTOTRANSLATED]</column>
@@ -22318,7 +22359,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qI'noch</column>
+      <column name="entry_name">qI'noch [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'noch</column>
       <column name="definition_de">Knoch [AUTOTRANSLATED]</column>
@@ -22361,7 +22402,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Qetoq</column>
+      <column name="entry_name">Qetoq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">K'retok</column>
       <column name="definition_de">K'retok [AUTOTRANSLATED]</column>
@@ -22404,7 +22445,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qeylISta</column>
+      <column name="entry_name">qeylISta [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kahlest</column>
       <column name="definition_de">Kahlest [AUTOTRANSLATED]</column>
@@ -22447,7 +22488,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qa'mar</column>
+      <column name="entry_name">qa'mar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kahmar</column>
       <column name="definition_de">Kahmar [AUTOTRANSLATED]</column>
@@ -22490,7 +22531,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qalIy</column>
+      <column name="entry_name">qalIy [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kali</column>
       <column name="definition_de">Kali [AUTOTRANSLATED]</column>
@@ -22533,7 +22574,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qarana</column>
+      <column name="entry_name">qarana [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Karana</column>
       <column name="definition_de">Karana [AUTOTRANSLATED]</column>
@@ -22576,7 +22617,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qatogh</column>
+      <column name="entry_name">qatogh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Katogh</column>
       <column name="definition_de">Katog [AUTOTRANSLATED]</column>
@@ -22619,7 +22660,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qeybok</column>
+      <column name="entry_name">qeybok [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kaybok</column>
       <column name="definition_de">Kajak [AUTOTRANSLATED]</column>
@@ -22662,7 +22703,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qa'aS</column>
+      <column name="entry_name">qa'aS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kaz</column>
       <column name="definition_de">Kaz [AUTOTRANSLATED]</column>
@@ -22705,7 +22746,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIy'bor</column>
+      <column name="entry_name">qIy'bor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kee'Bhor</column>
       <column name="definition_de">Kee'Bhor [AUTOTRANSLATED]</column>
@@ -22748,7 +22789,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIyDera</column>
+      <column name="entry_name">qIyDera [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Keedera</column>
       <column name="definition_de">Keedera [AUTOTRANSLATED]</column>
@@ -22791,7 +22832,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qel</column>
+      <column name="entry_name">qel [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kell</column>
       <column name="definition_de">Kell [AUTOTRANSLATED]</column>
@@ -22834,7 +22875,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qeltar</column>
+      <column name="entry_name">qeltar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Keltar</column>
       <column name="definition_de">Keltar [AUTOTRANSLATED]</column>
@@ -22877,7 +22918,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qeylor</column>
+      <column name="entry_name">qeylor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Key'lor</column>
       <column name="definition_de">Key’lor [AUTOTRANSLATED]</column>
@@ -22920,7 +22961,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qI'tang</column>
+      <column name="entry_name">qI'tang [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ki'tang</column>
       <column name="definition_de">Ki’tang [AUTOTRANSLATED]</column>
@@ -22963,7 +23004,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tlha'ang</column>
+      <column name="entry_name">tlha'ang [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Klaang</column>
       <column name="definition_de">Klaang [AUTOTRANSLATED]</column>
@@ -23006,7 +23047,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tlhagh</column>
+      <column name="entry_name">tlhagh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:2,name,fic</column>
       <column name="definition">Klag</column>
       <column name="definition_de">Klag [AUTOTRANSLATED]</column>
@@ -23049,7 +23090,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tlhotlhoS</column>
+      <column name="entry_name">tlhotlhoS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Klothos</column>
       <column name="definition_de">Klothos [AUTOTRANSLATED]</column>
@@ -23092,7 +23133,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qIrom taj</column>
+      <column name="entry_name">qIrom taj [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Knife of Kirom</column>
       <column name="definition_de">Messer von Kirom [AUTOTRANSLATED]</column>
@@ -23135,7 +23176,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qobor</column>
+      <column name="entry_name">qobor [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kobor</column>
       <column name="definition_de">Kobor [AUTOTRANSLATED]</column>
@@ -23178,7 +23219,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoDraq</column>
+      <column name="entry_name">qoDraq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kodrak</column>
       <column name="definition_de">Kodrak [AUTOTRANSLATED]</column>
@@ -23221,7 +23262,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qo'lar</column>
+      <column name="entry_name">qo'lar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kohlar</column>
       <column name="definition_de">Kohlar [AUTOTRANSLATED]</column>
@@ -23260,11 +23301,11 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source"></column>
+      <column name="source">[1] {MAGIC:src}, [2] {VOY - Prophecy:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qolana</column>
+      <column name="entry_name">qolana [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kolana</column>
       <column name="definition_de">Kolana [AUTOTRANSLATED]</column>
@@ -23307,7 +23348,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qolaQ</column>
+      <column name="entry_name">qolaQ [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kolax</column>
       <column name="definition_de">Kolax [AUTOTRANSLATED]</column>
@@ -23350,7 +23391,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoloS</column>
+      <column name="entry_name">qoloS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kolos</column>
       <column name="definition_de">Kolos [AUTOTRANSLATED]</column>
@@ -23393,7 +23434,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qonmel</column>
+      <column name="entry_name">qonmel [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Konmel</column>
       <column name="definition_de">Konmel [AUTOTRANSLATED]</column>
@@ -23436,7 +23477,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoragha</column>
+      <column name="entry_name">qoragha [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Koraga</column>
       <column name="definition_de">Koraga [AUTOTRANSLATED]</column>
@@ -23479,7 +23520,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoral</column>
+      <column name="entry_name">qoral [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Koral</column>
       <column name="definition_de">Koral [AUTOTRANSLATED]</column>
@@ -23522,7 +23563,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoratlh</column>
+      <column name="entry_name">qoratlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Korath</column>
       <column name="definition_de">Korath [AUTOTRANSLATED]</column>
@@ -23565,7 +23606,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qorInar</column>
+      <column name="entry_name">qorInar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Korinar</column>
       <column name="definition_de">Korinar [AUTOTRANSLATED]</column>
@@ -23608,7 +23649,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qornan</column>
+      <column name="entry_name">qornan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kornan</column>
       <column name="definition_de">Kornan [AUTOTRANSLATED]</column>
@@ -23651,7 +23692,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoroq</column>
+      <column name="entry_name">qoroq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Korok</column>
       <column name="definition_de">Korok [AUTOTRANSLATED]</column>
@@ -23694,7 +23735,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qorotlh</column>
+      <column name="entry_name">qorotlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Koroth</column>
       <column name="definition_de">Koroth [AUTOTRANSLATED]</column>
@@ -23737,7 +23778,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qorrIS</column>
+      <column name="entry_name">qorrIS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Korris</column>
       <column name="definition_de">Korris [AUTOTRANSLATED]</column>
@@ -23780,7 +23821,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qotlh</column>
+      <column name="entry_name">qotlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Koth</column>
       <column name="definition_de">Koth [AUTOTRANSLATED]</column>
@@ -23823,7 +23864,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qoSaq</column>
+      <column name="entry_name">qoSaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kozak</column>
       <column name="definition_de">Kosak [AUTOTRANSLATED]</column>
@@ -23866,7 +23907,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">QelIq</column>
+      <column name="entry_name">QelIq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Krelik</column>
       <column name="definition_de">Krelik [AUTOTRANSLATED]</column>
@@ -23909,7 +23950,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Qen</column>
+      <column name="entry_name">Qen [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Krenn</column>
       <column name="definition_de">Krenn [AUTOTRANSLATED]</column>
@@ -23952,7 +23993,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qolje</column>
+      <column name="entry_name">qolje [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kulge</column>
       <column name="definition_de">Kulge [AUTOTRANSLATED]</column>
@@ -23995,7 +24036,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qurak</column>
+      <column name="entry_name">qurak [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kurak</column>
       <column name="definition_de">Kurak [AUTOTRANSLATED]</column>
@@ -24038,7 +24079,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qurIy</column>
+      <column name="entry_name">qurIy [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kuri</column>
       <column name="definition_de">Kuri [AUTOTRANSLATED]</column>
@@ -24081,7 +24122,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">qer'In</column>
+      <column name="entry_name">qer'In [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Kurn</column>
       <column name="definition_de">Kurn [AUTOTRANSLATED]</column>
@@ -24124,7 +24165,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lIq'or</column>
+      <column name="entry_name">lIq'or [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">L'Kor</column>
       <column name="definition_de">L'Kor [AUTOTRANSLATED]</column>
@@ -24167,7 +24208,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lIn'an</column>
+      <column name="entry_name">lIn'an [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">L'Naan</column>
       <column name="definition_de">L'Naan [AUTOTRANSLATED]</column>
@@ -24210,7 +24251,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lanetlh</column>
+      <column name="entry_name">lanetlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Laneth</column>
       <column name="definition_de">Laneth [AUTOTRANSLATED]</column>
@@ -24253,7 +24294,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">largh</column>
+      <column name="entry_name">largh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Larg</column>
       <column name="definition_de">Groß [AUTOTRANSLATED]</column>
@@ -24296,7 +24337,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">larna'</column>
+      <column name="entry_name">larna' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Larna</column>
       <column name="definition_de">Larna [AUTOTRANSLATED]</column>
@@ -24339,7 +24380,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">leSqIt</column>
+      <column name="entry_name">leSqIt [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Leskit</column>
       <column name="definition_de">Leskit [AUTOTRANSLATED]</column>
@@ -24382,7 +24423,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lInqaSa</column>
+      <column name="entry_name">lInqaSa [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Linkasa</column>
       <column name="definition_de">Linkasa [AUTOTRANSLATED]</column>
@@ -24425,7 +24466,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lorgh</column>
+      <column name="entry_name">lorgh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Lorgh</column>
       <column name="definition_de">Lorgh [AUTOTRANSLATED]</column>
@@ -24468,7 +24509,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">lurqan</column>
+      <column name="entry_name">lurqan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Lurkan</column>
       <column name="definition_de">Lurkan [AUTOTRANSLATED]</column>
@@ -24511,7 +24552,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mI'char</column>
+      <column name="entry_name">mI'char [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">M'Char</column>
       <column name="definition_de">M'Char [AUTOTRANSLATED]</column>
@@ -24554,7 +24595,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mI'qota rI'cho</column>
+      <column name="entry_name">mI'qota rI'cho [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">M'Kota R'Cho</column>
       <column name="definition_de">M'Kota R'Cho [AUTOTRANSLATED]</column>
@@ -24597,7 +24638,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">me'nIy</column>
+      <column name="entry_name">me'nIy [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">M'Nea</column>
       <column name="definition_de">M’Nea [AUTOTRANSLATED]</column>
@@ -24640,7 +24681,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mIr'eq</column>
+      <column name="entry_name">mIr'eq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">M'Rek</column>
       <column name="definition_de">M’Rek [AUTOTRANSLATED]</column>
@@ -24683,7 +24724,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mIr'el</column>
+      <column name="entry_name">mIr'el [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">M'Rel</column>
       <column name="definition_de">M'Rel [AUTOTRANSLATED]</column>
@@ -24726,7 +24767,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mIt'oqra'</column>
+      <column name="entry_name">mIt'oqra' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">M'tokra</column>
       <column name="definition_de">M’tokra [AUTOTRANSLATED]</column>
@@ -24769,7 +24810,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ma'a</column>
+      <column name="entry_name">ma'a [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ma'ah</column>
       <column name="definition_de">Ma'ah [AUTOTRANSLATED]</column>
@@ -24812,7 +24853,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">magh</column>
+      <column name="entry_name">magh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Magh</column>
       <column name="definition_de">Magh [AUTOTRANSLATED]</column>
@@ -24855,7 +24896,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">matHa'</column>
+      <column name="entry_name">matHa' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Maht-H'a</column>
       <column name="definition_de">Maht-Ha [AUTOTRANSLATED]</column>
@@ -24898,7 +24939,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">malpara</column>
+      <column name="entry_name">malpara [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Malpara</column>
       <column name="definition_de">Malpara [AUTOTRANSLATED]</column>
@@ -24941,7 +24982,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">marab</column>
+      <column name="entry_name">marab [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Marab</column>
       <column name="definition_de">Marab [AUTOTRANSLATED]</column>
@@ -24984,7 +25025,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mempa' mIch</column>
+      <column name="entry_name">mempa' mIch [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Mempa sector</column>
       <column name="definition_de">Mempa-Sektor [AUTOTRANSLATED]</column>
@@ -25027,7 +25068,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mIral</column>
+      <column name="entry_name">mIral [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Miral</column>
       <column name="definition_de">Miral [AUTOTRANSLATED]</column>
@@ -25070,7 +25111,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">moragh</column>
+      <column name="entry_name">moragh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Morag</column>
       <column name="definition_de">Morag [AUTOTRANSLATED]</column>
@@ -25083,7 +25124,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes"></column>
+      <column name="notes">He was responsible for patrolling the Federation-Klingon border, under the command of Governor Torak.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -25109,11 +25150,54 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source"></column>
+      <column name="source">[1] {MAGIC:src}, [2] {TNG - Aquiel:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">moraq</column>
+      <column name="entry_name">torak [PLACEHOLDER]</column>
+      <column name="part_of_speech">n:name,fic</column>
+      <column name="definition">Torak</column>
+      <column name="definition_de">TRANSLATE</column>
+      <column name="definition_fa">TRANSLATE</column>
+      <column name="definition_sv">TRANSLATE</column>
+      <column name="definition_ru">TRANSLATE</column>
+      <column name="definition_zh_HK">TRANSLATE</column>
+      <column name="definition_pt">TRANSLATE</column>
+      <column name="definition_fi">TRANSLATE</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This was the name of a governor near the Federation-Klingon border.</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="source">[1] {MAGIC:src}, [2] {TNG - Aquiel:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">moraq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Morak</column>
       <column name="definition_de">Morak [AUTOTRANSLATED]</column>
@@ -25152,11 +25236,11 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source"></column>
+      <column name="source">[1] {MAGIC:src}, [2] {VOY - Prophecy:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">morqa'</column>
+      <column name="entry_name">morqa' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Morka</column>
       <column name="definition_de">Morka [AUTOTRANSLATED]</column>
@@ -25199,7 +25283,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mawgha'</column>
+      <column name="entry_name">mawgha' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Mow'ga</column>
       <column name="definition_de">Mow’ga [AUTOTRANSLATED]</column>
@@ -25242,7 +25326,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">mur'eq</column>
+      <column name="entry_name">mur'eq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Mur'Eq</column>
       <column name="definition_de">Mur'Eq [AUTOTRANSLATED]</column>
@@ -25285,7 +25369,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">nga'ren</column>
+      <column name="entry_name">nga'ren [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">N'Garen</column>
       <column name="definition_de">N’Garen [AUTOTRANSLATED]</column>
@@ -25328,7 +25412,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">nIngtaw</column>
+      <column name="entry_name">nIngtaw [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ning'tao</column>
       <column name="definition_de">Ning’tao [AUTOTRANSLATED]</column>
@@ -25371,7 +25455,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">noghra'</column>
+      <column name="entry_name">noghra' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Noggra</column>
       <column name="definition_de">Noggra [AUTOTRANSLATED]</column>
@@ -25414,7 +25498,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">nu'Daq</column>
+      <column name="entry_name">nu'Daq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Nu'Daq</column>
       <column name="definition_de">Nu'Daq [AUTOTRANSLATED]</column>
@@ -25457,7 +25541,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'oraq</column>
+      <column name="entry_name">'oraq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Orak</column>
       <column name="definition_de">Orak [AUTOTRANSLATED]</column>
@@ -25500,7 +25584,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'orento'</column>
+      <column name="entry_name">'orento' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Orantho</column>
       <column name="definition_de">Orantho [AUTOTRANSLATED]</column>
@@ -25543,7 +25627,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'ortIqan</column>
+      <column name="entry_name">'ortIqan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ortikan</column>
       <column name="definition_de">Ortikan [AUTOTRANSLATED]</column>
@@ -25586,7 +25670,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">pIr'ang</column>
+      <column name="entry_name">pIr'ang [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">P'Rang</column>
       <column name="definition_de">P'Rang [AUTOTRANSLATED]</column>
@@ -25629,7 +25713,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">paHaS</column>
+      <column name="entry_name">paHaS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Pahash</column>
       <column name="definition_de">Pahash [AUTOTRANSLATED]</column>
@@ -25672,7 +25756,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">partaq</column>
+      <column name="entry_name">partaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Par'tok</column>
       <column name="definition_de">Par'tok [AUTOTRANSLATED]</column>
@@ -25715,7 +25799,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Qu'vat</column>
+      <column name="entry_name">Qu'vat [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Qu'Vat (planet)</column>
       <column name="definition_de">Qu’Vat (Planet) [AUTOTRANSLATED]</column>
@@ -25758,7 +25842,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Qu'vat mID</column>
+      <column name="entry_name">Qu'vat mID [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,deriv</column>
       <column name="definition">Qu'Vat colony</column>
       <column name="definition_de">Kolonie Qu'Vat [AUTOTRANSLATED]</column>
@@ -25801,7 +25885,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Qu'vat javtIm</column>
+      <column name="entry_name">Qu'vat javtIm [PLACEHOLDER]</column>
       <column name="part_of_speech">n:deriv,fic</column>
       <column name="definition">augment virus (taboo topic)</column>
       <column name="definition_de">Augment-Virus (Tabu-Thema) [AUTOTRANSLATED]</column>
@@ -25844,7 +25928,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">QuchHa'</column>
+      <column name="entry_name">QuchHa' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:being,deriv,fic</column>
       <column name="definition">QuchHa' (Klingon infected by augment virus)</column>
       <column name="definition_de">QuchHa' (Klingone mit Augment-Virus infiziert) [AUTOTRANSLATED]</column>
@@ -25887,7 +25971,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">HemQuch</column>
+      <column name="entry_name">HemQuch [PLACEHOLDER]</column>
       <column name="part_of_speech">n:being,deriv,fic</column>
       <column name="definition">HemQuch (Klingon not infected by augment virus)</column>
       <column name="definition_de">HemQuch (Klingone nicht mit Augment-Virus infiziert) [AUTOTRANSLATED]</column>
@@ -25930,7 +26014,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">retlhaw</column>
+      <column name="entry_name">retlhaw [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Reclaw</column>
       <column name="definition_de">Wiederklau [AUTOTRANSLATED]</column>
@@ -25973,7 +26057,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">roDeq</column>
+      <column name="entry_name">roDeq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Rodek</column>
       <column name="definition_de">Rodek [AUTOTRANSLATED]</column>
@@ -26016,7 +26100,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">rorgh</column>
+      <column name="entry_name">rorgh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Rorg</column>
       <column name="definition_de">Rorg [AUTOTRANSLATED]</column>
@@ -26059,7 +26143,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">rur'Iq qIchlu'pu'bogh</column>
+      <column name="entry_name">rur'Iq qIchlu'pu'bogh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Rurik the Damned</column>
       <column name="definition_de">Rurik der Verdammte [AUTOTRANSLATED]</column>
@@ -26102,7 +26186,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">raynar</column>
+      <column name="entry_name">raynar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Rynar</column>
       <column name="definition_de">Rynar [AUTOTRANSLATED]</column>
@@ -26145,7 +26229,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Sabaq</column>
+      <column name="entry_name">Sabaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Sabak</column>
       <column name="definition_de">Sabak [AUTOTRANSLATED]</column>
@@ -26188,7 +26272,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Sarpeq'e' ghIjlaHbe'bogh vay'</column>
+      <column name="entry_name">Sarpeq'e' ghIjlaHbe'bogh vay' [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Sarpek the Fearless</column>
       <column name="definition_de">Sarpek der Furchtlose [AUTOTRANSLATED]</column>
@@ -26231,7 +26315,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Senara</column>
+      <column name="entry_name">Senara [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Shenara</column>
       <column name="definition_de">Shenara [AUTOTRANSLATED]</column>
@@ -26274,7 +26358,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">SIvang</column>
+      <column name="entry_name">SIvang [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">ShiVang</column>
       <column name="definition_de">ShiVang [AUTOTRANSLATED]</column>
@@ -26317,7 +26401,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Sovaq</column>
+      <column name="entry_name">Sovaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Shovak</column>
       <column name="definition_de">Schowok [AUTOTRANSLATED]</column>
@@ -26360,7 +26444,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">SIrella</column>
+      <column name="entry_name">SIrella [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Sirella</column>
       <column name="definition_de">Sirella [AUTOTRANSLATED]</column>
@@ -26403,7 +26487,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">SI'lIvIn</column>
+      <column name="entry_name">SI'lIvIn [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Slivin</column>
       <column name="definition_de">Slivin [AUTOTRANSLATED]</column>
@@ -26446,7 +26530,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Sompeq</column>
+      <column name="entry_name">Sompeq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Sompek</column>
       <column name="definition_de">Sompek [AUTOTRANSLATED]</column>
@@ -26489,7 +26573,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tong vey</column>
+      <column name="entry_name">tong vey [PLACEHOLDER]</column>
       <column name="part_of_speech">n:place,fic</column>
       <column name="definition">Tong Vey (city)</column>
       <column name="definition_de">Tong Vey (Stadt) [AUTOTRANSLATED]</column>
@@ -26532,7 +26616,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">palqar</column>
+      <column name="entry_name">palqar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Palkar</column>
       <column name="definition_de">Palkar [AUTOTRANSLATED]</column>
@@ -26575,7 +26659,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Sorval</column>
+      <column name="entry_name">Sorval [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Sorval</column>
       <column name="definition_de">Sorval [AUTOTRANSLATED]</column>
@@ -26618,7 +26702,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">SI'teQ</column>
+      <column name="entry_name">SI'teQ [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Stex</column>
       <column name="definition_de">Stex [AUTOTRANSLATED]</column>
@@ -26661,7 +26745,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Say'nan</column>
+      <column name="entry_name">Say'nan [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Synon</column>
       <column name="definition_de">Synon [AUTOTRANSLATED]</column>
@@ -26704,7 +26788,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">Sareq</column>
+      <column name="entry_name">Sareq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Sarek (Vulcan name)</column>
       <column name="definition_de">Sarek</column>
@@ -26747,7 +26831,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tI'ghetlh</column>
+      <column name="entry_name">tI'ghetlh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">T'Greth</column>
       <column name="definition_de">T’Greth [AUTOTRANSLATED]</column>
@@ -26786,11 +26870,11 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source"></column>
+      <column name="source">[1] {MAGIC:src}, [2] {VOY - Prophecy:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tI'qar</column>
+      <column name="entry_name">tI'qar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">T'Kar</column>
       <column name="definition_de">T’Kar [AUTOTRANSLATED]</column>
@@ -26833,7 +26917,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tI'Im</column>
+      <column name="entry_name">tI'Im [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">T'im</column>
       <column name="definition_de">Tim [AUTOTRANSLATED]</column>
@@ -26876,7 +26960,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">talIj</column>
+      <column name="entry_name">talIj [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Talij</column>
       <column name="definition_de">Talij [AUTOTRANSLATED]</column>
@@ -26919,7 +27003,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tanaS</column>
+      <column name="entry_name">tanaS [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Tanas</column>
       <column name="definition_de">Tanas [AUTOTRANSLATED]</column>
@@ -26962,7 +27046,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tavana</column>
+      <column name="entry_name">tavana [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Tavana</column>
       <column name="definition_de">Tavana [AUTOTRANSLATED]</column>
@@ -27005,7 +27089,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">telpe</column>
+      <column name="entry_name">telpe [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Tel-Peh</column>
       <column name="definition_de">Tel-Peh [AUTOTRANSLATED]</column>
@@ -27048,7 +27132,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">teloq</column>
+      <column name="entry_name">teloq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Telok</column>
       <column name="definition_de">Telok [AUTOTRANSLATED]</column>
@@ -27091,7 +27175,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tenavIq</column>
+      <column name="entry_name">tenavIq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Tenavik</column>
       <column name="definition_de">Tenavik [AUTOTRANSLATED]</column>
@@ -27134,7 +27218,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tlhopaq</column>
+      <column name="entry_name">tlhopaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Thopok</column>
       <column name="definition_de">Thopok [AUTOTRANSLATED]</column>
@@ -27177,7 +27261,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">togh</column>
+      <column name="entry_name">togh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Togg</column>
       <column name="definition_de">Togg [AUTOTRANSLATED]</column>
@@ -27220,7 +27304,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">to'qat</column>
+      <column name="entry_name">to'qat [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Toh'Kaht</column>
       <column name="definition_de">Toh'Kaht [AUTOTRANSLATED]</column>
@@ -27263,7 +27347,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">toral</column>
+      <column name="entry_name">toral [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Toral</column>
       <column name="definition_de">Toral [AUTOTRANSLATED]</column>
@@ -27306,7 +27390,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">torva</column>
+      <column name="entry_name">torva [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Torva</column>
       <column name="definition_de">Torva [AUTOTRANSLATED]</column>
@@ -27349,7 +27433,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tI'rIj</column>
+      <column name="entry_name">tI'rIj [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Trij</column>
       <column name="definition_de">Trij [AUTOTRANSLATED]</column>
@@ -27392,7 +27476,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">tumeq</column>
+      <column name="entry_name">tumeq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Tumek</column>
       <column name="definition_de">Tumek</column>
@@ -27435,7 +27519,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'urSI'va</column>
+      <column name="entry_name">'urSI'va [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ursva</column>
       <column name="definition_de">Ursva [AUTOTRANSLATED]</column>
@@ -27478,7 +27562,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">vagh</column>
+      <column name="entry_name">vagh [PLACEHOLDER]</column>
       <column name="part_of_speech">n:3,name,fic</column>
       <column name="definition">Vagh</column>
       <column name="definition_de">Vagh [AUTOTRANSLATED]</column>
@@ -27521,7 +27605,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">vornaq</column>
+      <column name="entry_name">vornaq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Vor'nak</column>
       <column name="definition_de">Vor'nak [AUTOTRANSLATED]</column>
@@ -27564,7 +27648,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">vor'In</column>
+      <column name="entry_name">vor'In [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Vorn</column>
       <column name="definition_de">Vorn [AUTOTRANSLATED]</column>
@@ -27607,7 +27691,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">voroq</column>
+      <column name="entry_name">voroq [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Vorok</column>
       <column name="definition_de">Worok [AUTOTRANSLATED]</column>
@@ -27650,7 +27734,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">vI'raQ</column>
+      <column name="entry_name">vI'raQ [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Vrax (place name)</column>
       <column name="definition_de">Vrax (Ortsname) [AUTOTRANSLATED]</column>
@@ -27693,7 +27777,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">wI'mar</column>
+      <column name="entry_name">wI'mar [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">W'mar</column>
       <column name="definition_de">W'mar [AUTOTRANSLATED]</column>
@@ -27736,7 +27820,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">yI'tem</column>
+      <column name="entry_name">yI'tem [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Y'tem</column>
       <column name="definition_de">Y'tem [AUTOTRANSLATED]</column>
@@ -27779,7 +27863,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">ya'vang</column>
+      <column name="entry_name">ya'vang [PLACEHOLDER]</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Ya'Vang</column>
       <column name="definition_de">Ya’Vang [AUTOTRANSLATED]</column>
