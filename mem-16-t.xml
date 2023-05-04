@@ -7796,9 +7796,10 @@ MO has said that this is not a reference to the Stan Laurel and Oliver Hardy mov
       <column name="source">[1] {TKW p.23:src}</column>
     </table>
     <table name="mem">
+      <!-- Not marked "deriv" because it's not derived in-universe. -->
       <column name="_id"></column>
       <column name="entry_name">tIq Hom</column>
-      <column name="part_of_speech">n:deriv,food</column>
+      <column name="part_of_speech">n:food</column>
       <column name="definition">dim sum, snack (type of food dish that comes in small portions)</column>
       <column name="definition_de">Dim Sum (kleine asiatische Speise)</column>
       <column name="definition_fa">مبلغ کم [AUTOTRANSLATED]</column>
