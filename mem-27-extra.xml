@@ -11571,7 +11571,7 @@ The scientific name for each planet is {Sol:n:nolink} followed by a name, e.g., 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'aS</column>
-      <column name="part_of_speech">n:name,fic,terran</column>
+      <column name="part_of_speech">n:name,fic,terran,nodict</column>
       <column name="definition">Oz</column>
       <column name="definition_de">Oz</column>
       <column name="definition_fa">اوز [AUTOTRANSLATED]</column>
