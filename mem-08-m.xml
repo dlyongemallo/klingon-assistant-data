@@ -4938,7 +4938,7 @@ This was also used for the "logic" menu (instructions about program flow control
       <column name="_id"></column>
       <column name="entry_name">meQ</column>
       <column name="part_of_speech">v:1,i_c,klcp1</column>
-      <column name="definition">burn, be on fire</column>
+      <column name="definition">burn (be on fire)</column>
       <column name="definition_de">brennen, verbrennen</column>
       <column name="definition_fa">سوزاندن [AUTOTRANSLATED]</column>
       <column name="definition_sv">brinna</column>
