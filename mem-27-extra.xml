@@ -19173,7 +19173,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">borgh voDleH</column>
+      <column name="entry_name">borgh HI''a'</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">Borg Queen</column>
       <column name="definition_de">Borg-Königin [AUTOTRANSLATED]</column>
@@ -19195,7 +19195,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{borgh:n}, {voDleH:n}</column>
+      <column name="components">{borgh:n}, {HI''a':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

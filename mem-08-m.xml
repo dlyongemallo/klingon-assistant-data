@@ -8503,7 +8503,7 @@ Verbiä {'al:v:2} käytetään satunnaislukuihin ({mI' 'al:n}). [AUTOTRANSLATED]
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="hidden_notes">This word was printed in the {Saarbrücken qepHom'a' 2016:src} booklet with a space. In a clarification about terminology for sciences and scientists printed in the {Saarbrücken qepHom'a' 2019:src} booklet, this was implied to be an error.</column>
+          <column name="hidden_notes">This word was printed in the {Saarbrücken qepHom'a' 2016:src} booklet with a space. In a clarification about terminology for sciences and scientists printed in the {Saarbrücken qepHom'a' 2019:src} booklet, this was implied to be an error. The spelling {mI'tej:n:nolink} is confirmed in {MAGIC:src}.</column>
           <column name="components">{mI':n}, {tej:n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
