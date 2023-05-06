@@ -2064,7 +2064,7 @@ Do not confuse this with {ra'wI':n}, which is also translated as "commander" in 
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qang:n}</column>
-      <column name="notes">The {la'quv:n:nolink} is head of the Klingon High Council, and the highest ranked {yaS:n}.</column>
+      <column name="notes">The {la'quv:n:nolink} is head of the Klingon High Command, and the highest ranked {yaS:n}.</column>
       <column name="notes_de">Der {la'quv:n:nolink} ist Leiter des Klingonischen Hohen Rates und der {yaS:n} mit dem höchsten Rang. [AUTOTRANSLATED]</column>
       <column name="notes_fa">{la'quv:n:nolink} رئیس شورای عالی کلینگون و بالاترین رتبه {yaS:n} است. [AUTOTRANSLATED]</column>
       <column name="notes_sv">{la'quv:n:nolink} är chef för Klingon High Council och den högst rankade {yaS:n}. [AUTOTRANSLATED]</column>
@@ -5844,7 +5844,7 @@ Tämä sana on sukupuolineutraali. Tarvittaessa voi käyttää termejä {loD lIw
       <column name="notes_fi">Tämä viittaa aineen tilaan. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">LCD and plasma are both types of flatscreen television technologies.</column>
       <column name="components"></column>
-      <column name="examples"></column>
+      <column name="examples">{lI'choD 'IqngIl:n}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
