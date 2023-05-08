@@ -8951,7 +8951,7 @@ On sanonta {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v}, jota käytetää
       <column name="_id"></column>
       <column name="entry_name">vutpa'</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">galley</column>
+      <column name="definition">galley, kitchen</column>
       <column name="definition_de">Kombüse, Küche</column>
       <column name="definition_fa">کافه [AUTOTRANSLATED]</column>
       <column name="definition_sv">kök, kabyss</column>
@@ -8980,7 +8980,7 @@ On sanonta {nong; vulqangan rur@@nong:v:1, vulqangan:n, rur:v}, jota käytetää
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags">kitchen, cooking room</column>
+      <column name="search_tags">cooking room</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
