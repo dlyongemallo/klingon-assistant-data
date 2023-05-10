@@ -2892,7 +2892,7 @@ Tämä sana on myös kirjoitettu {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</co
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'oy'naQ</column>
-      <column name="part_of_speech">n:deriv</column>
+      <column name="part_of_speech">n:deriv,weap</column>
       <column name="definition">painstik</column>
       <column name="definition_de">Schmerzstock</column>
       <column name="definition_fa">بدجنس [AUTOTRANSLATED]</column>

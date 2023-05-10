@@ -20464,7 +20464,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">maSta'qa' [PLACEHOLDER]</column>
-      <column name="part_of_speech">n:</column>
+      <column name="part_of_speech">n:weap,fic</column>
       <column name="definition">ma'Staka (symbolic pugil stick)</column>
       <column name="definition_de">TRANSLATE</column>
       <column name="definition_fa">TRANSLATE</column>
@@ -20475,7 +20475,7 @@ You say "bye" to someone who is doing the action of {DoH:v}, and when you ask a 
       <column name="definition_fi">TRANSLATE</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{qelHay'ya:n{</column>
+      <column name="see_also">{qelHay'ya:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
