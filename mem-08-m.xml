@@ -1080,7 +1080,7 @@ The writers who came up with this apparently looked up words for "good" and "nig
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This can refer to both the abstract concept and a specific business.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {batlh malja' DaHuq.:sen}
@@ -1093,7 +1093,7 @@ The writers who came up with this apparently looked up words for "good" and "nig
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">company</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
