@@ -9702,7 +9702,7 @@ On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoa
       <column name="_id"></column>
       <column name="entry_name">qoq</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">robot</column>
+      <column name="definition">robot, drone (robotic)</column>
       <column name="definition_de">Roboter</column>
       <column name="definition_fa">ربات [AUTOTRANSLATED]</column>
       <column name="definition_sv">robot</column>
@@ -9721,7 +9721,7 @@ On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoa
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">This is defined as just "robot" in {TKD:src}. The "drone" definition comes from {MAGIC:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -9739,7 +9739,7 @@ On toinenkin verbi, {gher:v}, jota käytetään luetteloiden ja vastaavien kokoa
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="source">[1] {TKD:src}, [2] {MAGIC:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
