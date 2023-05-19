@@ -3495,7 +3495,7 @@ Tätä verbiä voidaan myös käyttää ilmaisemaan, että subjekti on kääntyn
       <column name="_id"></column>
       <column name="entry_name">Qey'</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be cool (temperature)</column>
+      <column name="definition">be cool (in temperature)</column>
       <column name="definition_de">kühl sein</column>
       <column name="definition_fa">خنک باشد (دما) [AUTOTRANSLATED]</column>
       <column name="definition_sv">var sval (temperatur) [AUTOTRANSLATED]</column>

@@ -4990,7 +4990,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="definition_fi">liikkua ajassa eteenpäin (kohti tulevaisuutta)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{vIbHa':v}</column>
-      <column name="see_also">{vIb:v:2}, {poH qut:n}</column>
+      <column name="see_also">{vIb:v:2}, {poHqut:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -5078,7 +5078,7 @@ When used with {-lu':v}, this prefix means "Someone (indefinite subject) does so
       <column name="definition_fi">liikkua ajassa taaksepäin (kohti menneisyyttä)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{vIb:v:1}</column>
-      <column name="see_also">{poH qut:n}</column>
+      <column name="see_also">{poHqut:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>

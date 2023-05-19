@@ -7959,7 +7959,7 @@ This word can also be used for animals to refer to their body hair or fur.[3]</c
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">poH qut</column>
+      <column name="entry_name">poHqut</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">time crystal</column>
       <column name="definition_de">Zeitkristall</column>
@@ -7996,7 +7996,9 @@ Para os Klingons fora de {bo'retlh:n}, os cristais de tempo eram um mito, um sí
       <column name="notes_fi">Tämä on harvinainen ja vaarallinen resurssi, joka löytyy {bo'retlh:n}: n pyhältä planeetalta. Yhden koskettaminen saa aikaan visioita tulevaisuudesta, ja yhden poistaminen vaatii suurta uhrausta. Sitä voidaan käyttää virtalähteenä aikamatkatekniikassa.
 
 Klingonsille {bo'retlh:n}: n ulkopuolella aikakiteet olivat myytti, Kahlessin symboli ja {Qo'noS:n}: n nimimerkki. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">In Greek philosophy, "Chronos" is the personification of time. If time crystals are the namesake of {Qo'noS:n:nolink}, then the similarity to the planet's name is not a coincidence.</column>
+      <column name="hidden_notes">In Greek philosophy, "Chronos" is the personification of time. If time crystals are the namesake of {Qo'noS:n:nolink}, then the similarity to the planet's name is not a coincidence.
+
+Written as a compound noun in {MAGIC:src}.</column>
       <column name="components">{poH:n}, {qut:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>

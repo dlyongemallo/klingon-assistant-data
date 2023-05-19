@@ -6992,7 +6992,7 @@ Kymmenien miljoonien kohdalla {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolin
       <column name="_id"></column>
       <column name="entry_name">bIr</column>
       <column name="part_of_speech">v:is,klcp1</column>
-      <column name="definition">be cold</column>
+      <column name="definition">be cold (in temperature)</column>
       <column name="definition_de">kalt sein</column>
       <column name="definition_fa">سرد بودن</column>
       <column name="definition_sv">vara kall</column>
@@ -11114,7 +11114,7 @@ Tätä sanaa käytetään sanastoissa {bo'Dagh'a' lo':sen} ja {bo'DaghHom lo':se
       <column name="definition_fi">eräs planeetta, Boreth</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{ghochwI':n}, {poH qut:n}</column>
+      <column name="see_also">{ghochwI':n}, {poHqut:n}</column>
       <column name="notes">A planet in the Klingon Empire. According to Klingon mythology, it is here that {qeylIS'e' lIjlaHbe'bogh vay':n:name} will return.
 
 The Story of the Promise states that:
@@ -11257,7 +11257,7 @@ Lupauksen tarinassa todetaan:
       <column name="_id"></column>
       <column name="entry_name">buj</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be neither warm nor cool (temperature)</column>
+      <column name="definition">be neither warm nor cool (in temperature)</column>
       <column name="definition_de">weder warm noch kalt sein (Temperatur)</column>
       <column name="definition_fa">نه گرم باشد و نه خنک (دما) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara ljummen</column>

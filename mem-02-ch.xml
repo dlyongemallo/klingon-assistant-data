@@ -8357,7 +8357,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expre
       <column name="_id"></column>
       <column name="entry_name">chur</column>
       <column name="part_of_speech">v:is</column>
-      <column name="definition">be uncomfortable (physically)</column>
+      <column name="definition">be uncomfortable (experience physical discomfort)</column>
       <column name="definition_de">sich nicht wohlfühlen</column>
       <column name="definition_fa">ناراحت (از لحاظ جسمی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara obekväm (fysiskt)</column>
@@ -8400,7 +8400,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expre
       <column name="_id"></column>
       <column name="entry_name">churHa'</column>
       <column name="part_of_speech">v:is,deriv</column>
-      <column name="definition">be comfortable (physically)</column>
+      <column name="definition">be comfortable (experience physical comfort)</column>
       <column name="definition_de">sich wohlfühlen</column>
       <column name="definition_fa">راحت باش (از لحاظ جسمی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">vara bekväm (fysiskt)</column>
