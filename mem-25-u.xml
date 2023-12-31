@@ -10,6 +10,7 @@
       <column name="definition_zh_HK">元音{u:sen:nolink}</column>
       <column name="definition_pt">a vogal {u:sen:nolink}</column>
       <column name="definition_fi">vokaali {u:sen:nolink}</column>
+      <column name="definition_fr">la voyelle {u:sen:nolink} [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -21,6 +22,7 @@
       <column name="notes_zh_HK">這是指聲音，而不是任何字母或字形。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere ao som, e não a qualquer letra ou glifo. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä viittaa ääneen eikä mihinkään kirjaimeen tai kuvioon. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Cela fait référence au son, et non à une lettre ou à un glyphe. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -31,6 +33,7 @@
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -39,6 +42,7 @@
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2009.07.27:src}</column>
     </table>
     <table name="mem">
@@ -53,6 +57,7 @@
       <column name="definition_zh_HK">孤獨 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser sozinho</column>
       <column name="definition_fi">olla yksinäinen</column>
+      <column name="definition_fr">être seul [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'IQ:v}, {'It:v}, {mob:v:1}</column>
@@ -64,6 +69,7 @@
       <column name="notes_zh_HK">這是指情感，而不是孤獨的實際狀態。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso se refere à emoção, não ao estado real de estar sozinho. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä viittaa tunteeseen, ei todelliseen yksinolon tilaan. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Cela fait référence à l’émotion, et non à l’état réel d’être seul. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -74,6 +80,7 @@
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -82,6 +89,7 @@
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
     <table name="mem">
@@ -96,6 +104,7 @@
       <column name="definition_zh_HK">抓</column>
       <column name="definition_pt">segurar, agarrar</column>
       <column name="definition_fi">pitää kiinni, pidellä</column>
+      <column name="definition_fr">tenir, saisir [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'uchHa':v}</column>
       <column name="see_also"></column>
@@ -121,6 +130,9 @@ Quando o objeto deste verbo é {'olQan:n}, muitas vezes pode ser traduzido como 
       <column name="notes_fi">Kun sitä käytetään asejärjestelmiin, sitä käytetään kohteen lukitsemiseen. Katso {'uch:v:2}.
 
 Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittää" tai "ottaa käyttöön".[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Lorsqu'il est appliqué aux systèmes d'armes, cela est utilisé pour verrouiller une cible. Voir [broken link: 1].
+
+Lorsque l'objet de ce verbe est {'olQan:n}, il peut souvent être traduit par « occuper » ou « prendre en charge ».[2]{'uch:v:2} [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -131,6 +143,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags">occupy, take up</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -139,6 +152,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}, [2] {qep'a' 25 (2018):src}</column>
     </table>
     <table name="mem">
@@ -153,6 +167,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">鎖定（目標） [AUTOTRANSLATED]</column>
       <column name="definition_pt">bloquear (um alvo)</column>
       <column name="definition_fi">lukittua kohteeseen</column>
+      <column name="definition_fr">verrouiller (une cible) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DoS:n}, {buS:v}</column>
@@ -164,6 +179,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="notes_zh_HK">這是{'uch:v:1}在武器系統環境中的應用。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma aplicação do {'uch:v:1} para um contexto de sistemas de armas. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on {'uch:v:1} -sovelluksen käyttö asejärjestelmien yhteydessä. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il s'agit d'une application de {'uch:v:1} dans un contexte de systèmes d'armes. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -175,6 +191,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -183,6 +200,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 24 (2017):src}</column>
     </table>
     <table name="mem">
@@ -197,6 +215,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">包括、由...組成 [AUTOTRANSLATED]</column>
       <column name="definition_pt">incluir, consistir em, ser composto de</column>
       <column name="definition_fi">sisältää, koostua jostakin</column>
+      <column name="definition_fr">inclure, consister en, être composé de [AUTOTRANSLATED]</column>
       <column name="synonyms">{yugh:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{tamlerQeD:n}</column>
@@ -208,6 +227,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="notes_zh_HK">這用於談論化學。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso é usado para falar sobre química. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä käytetään puhumaan kemiasta. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci est utilisé pour parler de chimie. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -218,6 +238,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -226,7 +247,56 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2015:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">'uch</column>
+      <column name="part_of_speech">v:4,idiom,t_c</column>
+      <column name="definition">absorb (of music)</column>
+      <column name="definition_de">absorbieren (über Musik)</column>
+      <column name="definition_fa">جذب (از موسیقی) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">absorbera (av musik) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">поглощать (музыку) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">吸收（音​​樂的） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">absorver (de música) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">(musiikista) ottaa valtaansa</column>
+      <column name="definition_fr">absorber (de la musique) [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">The idiomatic way of saying that someone is absorbed in music is to make use of {'uch:v:1}.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">La manière idiomatique de dire que quelqu'un est absorbé par la musique est d'utiliser {'uch:v:1}.[1]. [AUTOTRANSLATED]</column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples">
+▶ {jIm 'uch QoQDaj.:sen@@jemS tIy qIrq:n, 'uch:v:4, QoQ:n, -Daj:n} "Jim is absorbed in his music."</column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2023:src}</column>
     </table>
         <table name="mem">
           <column name="_id"></column>
@@ -240,6 +310,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
           <column name="definition_zh_HK">放手</column>
           <column name="definition_pt">soltar de</column>
           <column name="definition_fi">päästää irti, hellittää ote jostain</column>
+          <column name="definition_fr">lâcher prise [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'uch:v:1}</column>
           <column name="see_also"></column>
@@ -251,6 +322,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{'uch:v:1}, {-Ha':v}</column>
           <column name="examples"></column>
@@ -261,6 +333,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -269,6 +342,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {HQ 12.2, Jun. 2003:src}</column>
         </table>
     <table name="mem">
@@ -283,6 +357,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">核糖核酸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">RNA</column>
       <column name="definition_fi">RNA</column>
+      <column name="definition_fr">ARN [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{roSghaH:n}</column>
@@ -294,7 +369,10 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes">It was confirmed during the Q &amp; A session that this is not grammatically considered a body part.</column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes">It was confirmed during the Q &amp; A session that this is not grammatically considered a body part.
+
+The four nucleotide bases used in RNA are A, C, G, and U.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -304,6 +382,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -312,6 +391,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
     <table name="mem">
@@ -326,6 +406,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">激光</column>
       <column name="definition_pt">laser</column>
       <column name="definition_fi">laser</column>
+      <column name="definition_fr">laser [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'otlh:n}</column>
@@ -337,6 +418,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The word {'uD'a':n:nolink} appears in {HQ 1.3, Sept. 1992:src}, where it is also defined as just "laser".
 
 Shintaro Uda was a co-inventor of the beam antenna.</column>
@@ -349,6 +431,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -357,6 +440,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
     <table name="mem">
@@ -371,6 +455,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">激光手術刀</column>
       <column name="definition_pt">bisturi a laser</column>
       <column name="definition_fi">laserveitsi</column>
+      <column name="definition_fr">scalpel laser [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HaqwI':n}</column>
@@ -382,6 +467,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{'uD:n}, {Haqtaj:n}</column>
       <column name="examples"></column>
@@ -392,6 +478,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -400,6 +487,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {HQ 1.3, Sept. 1992:src}</column>
     </table>
     <table name="mem">
@@ -414,6 +502,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">重</column>
       <column name="definition_pt">ser pesado</column>
       <column name="definition_fi">olla raskas, painava</column>
+      <column name="definition_fr">être lourd [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tIS:v}</column>
       <column name="see_also">{cheb:n}, {ngI':v}</column>
@@ -425,6 +514,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -436,6 +526,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags">burden</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -444,6 +535,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
     <table name="mem">
@@ -458,6 +550,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">毛蟲</column>
       <column name="definition_pt">lagarta</column>
       <column name="definition_fi">toukka</column>
+      <column name="definition_fr">chenille [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghargh:n}</column>
@@ -469,6 +562,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">Tämä on pieni mutkikas juttu, josta joku muuttuu {Su'wan ghew:n}: ksi. Sitä ei käytetä {qagh:n}: n valmistamiseen. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">C'est une petite chose tortueuse qui se transforme d'une manière ou d'une autre en un {Su'wan ghew:n}. Il n’est pas utilisé pour créer {qagh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The {'ugh:sen:nolink}ly {Duq:sen:nolink}ling becomes a {Su'wan:sen:nolink}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -479,6 +573,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -487,6 +582,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2018.08.31:src}, [2] {The Little Prince:src}</column>
     </table>
     <table name="mem">
@@ -501,6 +597,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">宿醉、宿酒</column>
       <column name="definition_pt">ter uma ressaca, estar de ressaca</column>
       <column name="definition_fi">olla krapulassa</column>
+      <column name="definition_fr">avoir la gueule de bois, avoir la gueule de bois [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chech:v}, {HIq:n}, {wuQ:v}, {nuch Hergh:n}</column>
@@ -512,6 +609,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -522,6 +620,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -530,6 +629,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
     <table name="mem">
@@ -544,9 +644,10 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">uj（線性測量單位、34.83 cm） [AUTOTRANSLATED]</column>
       <column name="definition_pt">uj (unidade de medida linear, 34,83 ​​cm)</column>
       <column name="definition_fi">eräs pituuden yksikkö, uj (n. 34,83 cm)</column>
+      <column name="definition_fr">uj (unité de mesure linéaire, 34,83 ​​cm) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{'ab:v}, {'aD:v}, {juch:v}, {Saw':v}, {woch:v}, {juv:v}, {'uj'a':n}, {morgh:n}, {lID:v}</column>
+      <column name="see_also">{'ab:v:1}, {'aD:v}, {juch:v:1}, {Saw':v}, {woch:v}, {juv:v}, {'uj'a':n}, {morgh:n}, {lID:v}</column>
       <column name="notes">Based on the measurements given on the {BoP:src} poster, one {'uj:n:nolink} is very close to 34.83 cm.
 
 Three {'uj:n:nolink} is about 3'5", five {'uj:n:nolink} is about 5'8", and six {'uj:n:nolink} is about 6'10".[2]</column>
@@ -561,6 +662,9 @@ Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fu
       <column name="notes_fi">{BoP:src}-julisteen mittausten perusteella yksi {'uj:n:nolink} on hyvin lähellä 34,83 ​​cm.
 
 Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {'uj:n:nolink} on noin 6'10 ".[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">D'après les mesures indiquées sur l'affiche {BoP:src}, un {'uj:n:nolink} mesure très près de 34,83 ​​cm.
+
+Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ 5'8", et six {'uj:n:nolink} mesurent environ 6'10".[2]. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">In {KGT:src}, this unit is described as "about 35 cm". Also, Okrand has not been consistent in writing the plural of this in English, using "ujs" in earlier work but switching to "ujes" later.</column>
       <column name="components"></column>
       <column name="examples">
@@ -574,7 +678,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
 ▶ {SaqtaHvIS toQDuj wa'vatlh loS vI' jav chorgh 'uj 'ab 'oH:sen:nolink} "Landing Formation Height: 36.46 M"[4]
 ▶ {cha' 'ujmo' jIH woch law' SoH woch puS:sen:nolink} "I'm two {'uj:sen:nolink}es taller than you."[5]
 ▶ {ron SuvwI'; chorgh 'ujmey lID:sen@@ron:v:1, SuvwI':n, chorgh:n:1, 'uj:n, -mey:n, lID:v} or {chorgh 'ujmey lID SuvwI'; ron:sen@@chorgh:n:1, 'uj:n, -mey:n, lID:v, SuvwI':n, ron:v:1} "the warrior rolled (haphazardly) for eight ujes"[6]
-▶ {rav cha' 'uj(mey) 'aqroS loS 'uj(mey) 'ab:sen@@rav ...:sen, cha':n:num, 'uj:n, -mey:n, 'aqroS ...:sen, loS:n:1,num, 'uj:n, -mey:n, 'ab:v} "has a length between two and four ujes" (it's at least two ujes and no more than four)[7]</column>
+▶ {rav cha' 'uj(mey) 'aqroS loS 'uj(mey) 'ab:sen@@rav ...:sen, cha':n:num, 'uj:n, -mey:n, 'aqroS ...:sen, loS:n:1,num, 'uj:n, -mey:n, 'ab:v:1} "has a length between two and four ujes" (it's at least two ujes and no more than four)[7]</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -582,6 +686,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags">unit, meter, metre, centimeter, centimetre</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -590,6 +695,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}, [2] {msn 1997.10.22:src}, [3] {SkyBox 32:src} (reprinted in {HQ 6.2, p.9, Jun. 1997:src}), [4] {BoP:src}, [5] {Saarbrücken qepHom'a' 2015:src}, [6] {KLI mailing list 2019.03.01:src}, [7] {qep'a' 26 (2019):src}</column>
     </table>
     <table name="mem">
@@ -604,6 +710,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">長度單位（313.47厘米） [AUTOTRANSLATED]</column>
       <column name="definition_pt">unidade de comprimento (313.47 cm)</column>
       <column name="definition_fi">eräs pituuden yksikkö, iso uj (n. 313,47 cm)</column>
+      <column name="definition_fr">unité de longueur (313,47 cm) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -615,7 +722,8 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Um {'uj'a':n:nolink} é igual a nove {'uj:n:nolink}. No entanto, não existe uma unidade {'ujHom:n:nolink} que denote um nono de um {'uj:n:nolink}.[1] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Yksi {'uj'a':n:nolink} on yhtä suuri kuin yhdeksän {'uj:n:nolink}. Ei kuitenkaan ole yksikköä {'ujHom:n:nolink}, joka merkitsisi {'uj:n:nolink}: n yhdeksäsosaa.[1] [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">Maltz said he's term the term {'ujHom:n:nolink} used in a story about a merchant lacking honor, something about the merchant not filling the order properly.[1]</column>
+      <column name="notes_fr">Un {'uj'a':n:nolink} est égal à neuf {'uj:n:nolink}. Cependant, il n'existe pas d'unité {'ujHom:n:nolink} désignant un neuvième d'un {'uj:n:nolink}.[1] [AUTOTRANSLATED]</column>
+      <column name="hidden_notes">Maltz said he's heard the term {'ujHom:n:nolink} used in a story about a merchant lacking honor, something about the merchant not filling the order properly.[1]</column>
       <column name="components">{'uj:n}, {-'a':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -625,6 +733,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -633,6 +742,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {s.k 1999.02.03:src} (also forwarded to {KLI mailing list 1999.02.03:src})</column>
     </table>
     <table name="mem">
@@ -647,6 +757,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">Ujilli [AUTOTRANSLATED]</column>
       <column name="definition_pt">Ujilli</column>
       <column name="definition_fi">Ujilli</column>
+      <column name="definition_fr">Ujilli [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -658,6 +769,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">他是莫凱家族（{mo'qay tuq:n:name}）的成員。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Ele é um membro da Casa de Mo'Kai ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
       <column name="notes_fi">Hän on Mo'Kain talon ({mo'qay tuq:n:name}) jäsen. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il est membre de la Maison des Mo'Kai ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -668,6 +780,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -676,6 +789,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {DSC - Battle at the Binary Stars:src}, [2] {Saarbrücken qepHom'a' 2019:src}</column>
     </table>
     <table name="mem">
@@ -690,6 +804,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">電、電力</column>
       <column name="definition_pt">eletricidade</column>
       <column name="definition_fi">sähkö</column>
+      <column name="definition_fr">électricité [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{peQ:n}</column>
@@ -701,6 +816,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">This is a reference to the "Underwriter's Laboratories". A label with the acronym "UL" is found on all electrical appliances in the US.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -711,6 +827,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -719,6 +836,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
         <table name="mem">
@@ -733,6 +851,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">電路 [AUTOTRANSLATED]</column>
           <column name="definition_pt">circuito</column>
           <column name="definition_fi">virtapiiri</column>
+          <column name="definition_fr">circuit [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -744,6 +863,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes">There is a note that {'ul ghomey:n:nolink} means "circuits", though it's not clear why this note is necessary.</column>
           <column name="components">{'ul:n}, {gho:n}</column>
           <column name="examples"></column>
@@ -754,6 +874,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -762,6 +883,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {qep'a' 27 (2020):src}</column>
         </table>
         <table name="mem">
@@ -776,6 +898,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">電源插座 [AUTOTRANSLATED]</column>
           <column name="definition_pt">tomada elétrica</column>
           <column name="definition_fi">pistorasia</column>
+          <column name="definition_fr">prise électrique [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{rarwI':n}</column>
@@ -787,6 +910,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{'ul:n}, {ghom'oH:n}</column>
           <column name="examples"></column>
@@ -797,6 +921,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags">socket</column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -805,6 +930,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {qep'a' 28 (2021):src}</column>
         </table>
         <table name="mem">
@@ -819,6 +945,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">電工</column>
           <column name="definition_pt">eletricista</column>
           <column name="definition_fi">sähköasentaja</column>
+          <column name="definition_fr">électricien [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{'ul:n}</column>
@@ -830,6 +957,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{'ul:n}, {pat:n}, {mutlh:v}, {-wI':v}</column>
           <column name="examples"></column>
@@ -840,6 +968,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -848,6 +977,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {KLI mailing list 2012.01.10:src}</column>
         </table>
         <table name="mem">
@@ -862,6 +992,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">電源插頭</column>
           <column name="definition_pt">Tomada</column>
           <column name="definition_fi">pistoke</column>
+          <column name="definition_fr">prise électrique [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -873,6 +1004,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{'ul:n}, {rarwI':n}</column>
           <column name="examples"></column>
@@ -883,6 +1015,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -891,6 +1024,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {qep'a' 25 (2018):src}</column>
         </table>
         <table name="mem">
@@ -905,6 +1039,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">電筒</column>
           <column name="definition_pt">lanterna</column>
           <column name="definition_fi">taskulamppu</column>
+          <column name="definition_fr">lampe de poche [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -916,6 +1051,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{'ul:n}, {Sech:n}</column>
           <column name="examples"></column>
@@ -926,6 +1062,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags">torch, electric torch</column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -934,6 +1071,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {TNK:src}</column>
         </table>
         <table name="mem">
@@ -949,6 +1087,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">電心、電池</column>
           <column name="definition_pt">bateria, célula eletroquímica</column>
           <column name="definition_fi">akku, paristo, sähkökemiallinen kenno</column>
+          <column name="definition_fr">batterie, cellule électrochimique [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{HoSHal:n}, {Huj:v:2}</column>
@@ -960,6 +1099,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes">This word appears in {TNK:src} only in the plural as {'ul 'aplo'mey:n:nolink} "batteries". Technically, what is commonly called a "battery" is a single cell, and a "battery" is an array ({DaH:n}) of such cells.</column>
           <column name="components">{'ul:n}, {'aplo':n}</column>
           <column name="examples"></column>
@@ -970,6 +1110,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -978,6 +1119,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {TNK:src}</column>
         </table>
     <table name="mem">
@@ -992,6 +1134,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">有資格</column>
       <column name="definition_pt">ser qualificado</column>
       <column name="definition_fi">olla pätevä</column>
+      <column name="definition_fr">être qualifié [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'umHa':v}</column>
       <column name="see_also">{po':v}, {Han:v}, {Hen:v}</column>
@@ -1003,6 +1146,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1013,6 +1157,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags">fit, worthy</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1021,6 +1166,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
         <table name="mem">
@@ -1035,6 +1181,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">冇資格、不合格</column>
           <column name="definition_pt">ser desqualificado</column>
           <column name="definition_fi">olla epäpätevä</column>
+          <column name="definition_fr">être incompétent [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'um:v}</column>
           <column name="see_also"></column>
@@ -1046,6 +1193,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes">This word is not actually defined in the {paq'batlh:src}, but its derivation and meaning are clear.</column>
           <column name="components">{'um:v}, {-Ha':v}</column>
           <column name="examples">
@@ -1062,6 +1210,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags">unfit, unworthy</column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -1070,6 +1219,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {paq'batlh 2ed p.102-103:src}</column>
         </table>
     <table name="mem">
@@ -1084,6 +1234,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">花瓣</column>
       <column name="definition_pt">pétala</column>
       <column name="definition_fi">terälehti</column>
+      <column name="definition_fr">pétale [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'InSong:n}</column>
@@ -1095,6 +1246,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">"Petaluma" is a town in California.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1105,6 +1257,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1113,6 +1266,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 23 (2016):src}</column>
     </table>
     <table name="mem">
@@ -1127,6 +1281,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">生態系統，環境 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ecossistema, meio ambiente</column>
       <column name="definition_fi">ekosysteemi, ympäristö</column>
+      <column name="definition_fr">écosystème, environnement [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{but:v}, {qo':n}, {yIn:n}</column>
@@ -1138,6 +1293,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Umberto Eco.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1148,6 +1304,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1156,6 +1313,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 26 (2019):src}</column>
     </table>
     <table name="mem">
@@ -1170,6 +1328,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">利潤（錢） [AUTOTRANSLATED]</column>
       <column name="definition_pt">lucro (dinheiro)</column>
       <column name="definition_fi">(liike)voitto</column>
+      <column name="definition_fr">profit (argent) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngeSlIch 'ap:n}</column>
@@ -1181,6 +1340,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr">Cela signifie un profit strictement au sens monétaire, et non un avantage ou un bénéfice général.[broken link: 1][1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1191,6 +1351,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1199,6 +1360,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi">liikevoitto, voitto</column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 28 (2021):src}</column>
     </table>
     <table name="mem">
@@ -1213,6 +1375,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">鍋（用於食物準備）（總稱） [AUTOTRANSLATED]</column>
       <column name="definition_pt">panela (para preparação de alimentos) (termo geral)</column>
       <column name="definition_fi">pata, kattila (ruoanvalmistusta varten)</column>
+      <column name="definition_fr">pot (pour la préparation des aliments) (terme général) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuDwI':n}, {'un naQ:n}, {bo'Dagh:n}</column>
@@ -1224,6 +1387,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1234,6 +1398,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1242,23 +1407,119 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'un naQ</column>
+          <column name="part_of_speech">n:deriv,food</column>
+          <column name="definition">stirring stick, mixing stick</column>
+          <column name="definition_de">Rührstab für Lebensmittel</column>
+          <column name="definition_fa">تکان دادن چوب، مخلوط کردن چوب [AUTOTRANSLATED]</column>
+          <column name="definition_sv">blandningskäpp, omrörningspinne, käpp/pinne för omrörning</column>
+          <column name="definition_ru">палочка для перемешивания, палочка для перемешивания [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">攪拌棒</column>
+          <column name="definition_pt">bastão de agitação, bastão misturador</column>
+          <column name="definition_fi">sekoituspuikko (käytetään ruoanvalmistuksessa)</column>
+          <column name="definition_fr">bâtonnet à mélanger, bâton à mélanger [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{DuDwI':n}, {ngawDeq:n}</column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'un:n}, {naQ:n:1}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {KGT:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'un quD</column>
+          <column name="part_of_speech">n:deriv,fic,food</column>
+          <column name="definition">artificially produced {quD:n:nolink}</column>
+          <column name="definition_de">künstlich hergestelltes {quD:n:nolink}</column>
+          <column name="definition_fa">مصنوعی تولید شده {quD:n:nolink} [AUTOTRANSLATED]</column>
+          <column name="definition_sv">artificiellt framställd {quD:n:nolink}</column>
+          <column name="definition_ru">искусственно произведенный {quD:n:nolink} [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">人工製作的{quD:n:nolink}</column>
+          <column name="definition_pt">produzido artificialmente {quD:n:nolink}</column>
+          <column name="definition_fi">eräs elintarvike, keinotekoisesti tuotettu {quD:n:nolink}</column>
+          <column name="definition_fr">produit artificiellement {quD:n:nolink} [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{quD:n}, {burgh quD:n}</column>
+          <column name="notes">This is {quD:n} produced using chemicals.</column>
+          <column name="notes_de">Dies ist {quD:n} das mit Chemikalien hergestellt wird.</column>
+          <column name="notes_fa">این {quD:n} است که با استفاده از مواد شیمیایی تولید می شود. [AUTOTRANSLATED]</column>
+          <column name="notes_sv">Detta är {quD:n} producerat med kemikalier. [AUTOTRANSLATED]</column>
+          <column name="notes_ru">Это {quD:n} производится с использованием химических веществ. [AUTOTRANSLATED]</column>
+          <column name="notes_zh_HK">這是使用化學品生產的{quD:n}。 [AUTOTRANSLATED]</column>
+          <column name="notes_pt">Este é o {quD:n} produzido com produtos químicos. [AUTOTRANSLATED]</column>
+          <column name="notes_fi">Tämä on {quD:n}, joka on valmistettu kemikaaleilla. [AUTOTRANSLATED]</column>
+          <column name="notes_fr">Il s’agit de {quD:n} produit à partir de produits chimiques. [AUTOTRANSLATED]</column>
+          <column name="hidden_notes">The definition actually says "artificially produced qud" in both K-E and E-K word lists.</column>
+          <column name="components">{'un:n}, {quD:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {KGT:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'un naQ</column>
-      <column name="part_of_speech">n:deriv,food</column>
-      <column name="definition">stirring stick, mixing stick</column>
-      <column name="definition_de">Rührstab für Lebensmittel</column>
-      <column name="definition_fa">تکان دادن چوب، مخلوط کردن چوب [AUTOTRANSLATED]</column>
-      <column name="definition_sv">blandningskäpp, omrörningspinne, käpp/pinne för omrörning</column>
-      <column name="definition_ru">палочка для перемешивания, палочка для перемешивания [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">攪拌棒</column>
-      <column name="definition_pt">bastão de agitação, bastão misturador</column>
-      <column name="definition_fi">sekoituspuikko (käytetään ruoanvalmistuksessa)</column>
+      <column name="entry_name">'unqal</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">kettle</column>
+      <column name="definition_de">Wasserkessel, Wasserkocher</column>
+      <column name="definition_fa">کتری [AUTOTRANSLATED]</column>
+      <column name="definition_sv">vattenkokare [AUTOTRANSLATED]</column>
+      <column name="definition_ru">чайник [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">壺 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">chaleira [AUTOTRANSLATED]</column>
+      <column name="definition_fi">vedenkeitin, vesipannu</column>
+      <column name="definition_fr">bouilloire [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{DuDwI':n}, {ngawDeq:n}</column>
+      <column name="see_also">{pub:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -1267,8 +1528,11 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{'un:n}, {naQ:n:1}</column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes">Maltz said that, as far as he knew, the resemblance of this word to {'un qal:n@@'un:n, qal:v} "corrupt pot" was just a coincidence.[1]
+
+The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at least one brand of kettle corn named Uncle So-and-So.</column>
+      <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1277,6 +1541,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1285,50 +1550,8 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {KGT:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">'un quD</column>
-      <column name="part_of_speech">n:deriv,fic,food</column>
-      <column name="definition">artificially produced {quD:n:nolink}</column>
-      <column name="definition_de">künstlich hergestelltes {quD:n:nolink}</column>
-      <column name="definition_fa">مصنوعی تولید شده {quD:n:nolink} [AUTOTRANSLATED]</column>
-      <column name="definition_sv">artificiellt framställd {quD:n:nolink}</column>
-      <column name="definition_ru">искусственно произведенный {quD:n:nolink} [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">人工製作的{quD:n:nolink}</column>
-      <column name="definition_pt">produzido artificialmente {quD:n:nolink}</column>
-      <column name="definition_fi">eräs elintarvike, keinotekoisesti tuotettu {quD:n:nolink}</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also">{quD:n}, {burgh quD:n}</column>
-      <column name="notes">This is {quD:n} produced using chemicals.</column>
-      <column name="notes_de">Dies ist {quD:n} das mit Chemikalien hergestellt wird.</column>
-      <column name="notes_fa">این {quD:n} است که با استفاده از مواد شیمیایی تولید می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är {quD:n} producerat med kemikalier. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это {quD:n} производится с использованием химических веществ. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是使用化學品生產的{quD:n}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é o {quD:n} produzido com produtos químicos. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on {quD:n}, joka on valmistettu kemikaaleilla. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">The definition actually says "artificially produced qud" in both K-E and E-K word lists.</column>
-      <column name="components">{'un:n}, {quD:n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="source">[1] {KGT:src}</column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 30 (2023):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1342,6 +1565,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">籃</column>
       <column name="definition_pt">cesta</column>
       <column name="definition_fi">kori</column>
+      <column name="definition_fr">panier [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1353,6 +1577,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">這是用於搬運物品的編織容器。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um recipiente trançado para transportar coisas. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on kudottu astia tavaroiden kuljettamiseen. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il s'agit d'un conteneur tissé pour transporter des objets. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is a pot ({'un:n}) made of what looks like "wattle" fencing. "Underwater basket weaving" is an idiom used pejoratively to refer to a supposedly useless university or college course. The Proto-Semitic word for "jar, vessel; boat" was *ˀunw(at)-.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1363,6 +1588,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1371,6 +1597,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
     <table name="mem">
@@ -1385,6 +1612,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">跁低、蹲下</column>
       <column name="definition_pt">agachamento (para baixo)</column>
       <column name="definition_fi">kyykistyä, istua kyykyssä</column>
+      <column name="definition_fr">s'accroupir [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ba':v}, {joD:v}, {tor:v:1}</column>
@@ -1396,6 +1624,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1406,7 +1635,8 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="search_tags"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags">crouch</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -1414,6 +1644,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
     <table name="mem">
@@ -1428,6 +1659,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">是令人討厭的、令人作嘔的、令人厭惡的、令人厭惡的、icky的 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser repugnante, nojento, revoltante</column>
       <column name="definition_fi">olla epämiellyttävä, inhottava, vastenmielinen, ällö</column>
+      <column name="definition_fr">être peu recommandable, être dégoûtant, être répugnant, être répugnant, être dégueulasse [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'eyHa':v}, {yIH:n}, {ngIm:v}, {natlh:v:2}</column>
@@ -1439,6 +1671,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">有一個成語，{'up; yIH rur@@'up:v, yIH:n, rur:v}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Existe um idioma, {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">On idioomi {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il existe un idiome, {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">Throw "up".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1449,6 +1682,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1457,7 +1691,55 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">'uppol</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">stunt, feat</column>
+      <column name="definition_de">Stunt, (Glanz)Leistung</column>
+      <column name="definition_fa">شیرین کاری، شاهکار [AUTOTRANSLATED]</column>
+      <column name="definition_sv">stunt, feat [AUTOTRANSLATED]</column>
+      <column name="definition_ru">трюк, подвиг [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">特技，壯舉 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">façanha, façanha [AUTOTRANSLATED]</column>
+      <column name="definition_fi">temppu, taidonnäyte</column>
+      <column name="definition_fr">cascade, exploit [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{ngIl:v}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes">Climbing up and sitting on a flagpole was a stunt which was a popular fad in the 1920s.</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 30 (2023):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1471,10 +1753,11 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">吹哨</column>
       <column name="definition_pt">apitar, assobiar</column>
       <column name="definition_fi">viheltää</column>
+      <column name="definition_fr">siffler [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{bom:v}, {bo'Degh:n}, {Huy:v:1}</column>
-      <column name="notes">If there's an object, it's the thing being whistled.</column>
+      <column name="see_also">{mu'vIb:n}, {yItram:n}, {Su'wIn:n}, {la'qab:n}, {bom:v}, {Huy:v:1}, {bo'Degh:n}</column>
+      <column name="notes">This is used for whistling without an instrument (except perhaps one's fingers).[3] If there's an object, it's the thing (tune, birdcall, or whatever) being whistled.[1] Though it's a bit redundant, it's fine to say {la'qab vI'uq:sen@@la'qab:n, vI-:v, 'uq:v}.[2]</column>
       <column name="notes_de">Wenn es ein Objekt gibt, wird es gepfiffen. [AUTOTRANSLATED]</column>
       <column name="notes_fa">اگر یک شی وجود داشته باشد ، این مورد سوت زدن است. [AUTOTRANSLATED]</column>
       <column name="notes_sv">Om det finns ett objekt är det saken som visslas. [AUTOTRANSLATED]</column>
@@ -1482,6 +1765,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">如果有物體，那就是被吹口哨的東西。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Se existe um objeto, é a coisa que está sendo assobiada. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Jos siellä on esine, se vihelletään. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">S'il y a un objet, c'est la chose qui est sifflée.[1] Même si c'est un peu redondant, on peut dire {la'qab vI'uq:sen@@la'qab:n, vI-:v, 'uq:v}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1492,6 +1776,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1500,7 +1785,8 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {qep'a' 25 (2018):src}</column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 25 (2018):src}, [2] {Saarbrücken qepHom'a' 2023:src}, [3] {KLI mailing list 2023.12.15:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1514,6 +1800,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">晚餐</column>
       <column name="definition_pt">jantar</column>
       <column name="definition_fi">illallinen</column>
+      <column name="definition_fr">dîner [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ram:n}, {nay':n}, {ghem:n}, {megh:n}, {nIQ:n}</column>
@@ -1525,6 +1812,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -1536,6 +1824,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1544,6 +1833,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
     <table name="mem">
@@ -1558,6 +1848,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">宴會、饗宴</column>
       <column name="definition_pt">banquete, festa</column>
       <column name="definition_fi">juhla-ateria, pidot, kestit</column>
+      <column name="definition_fr">banquet, fête [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1569,6 +1860,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{'uQ:n}, {-'a':n}</column>
       <column name="examples"></column>
@@ -1579,6 +1871,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1587,6 +1880,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}</column>
     </table>
     <table name="mem">
@@ -1601,6 +1895,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">飯廳</column>
       <column name="definition_pt">sala de jantar</column>
       <column name="definition_fi">ruokasali</column>
+      <column name="definition_fr">salle à manger, salle à manger [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SopmeH pa':n}</column>
@@ -1612,6 +1907,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">This is just a regular noun-noun construction. It was used as an example in a message on the {msn:src} newsgroup to show that the known vocabulary and existing grammar can be used to say a lot of things which aren't explicitly spelled out.</column>
       <column name="components">{'uQ:n}, {pa':n:1}</column>
       <column name="examples"></column>
@@ -1622,6 +1918,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1630,6 +1927,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {msn 1997.06.18:src}</column>
     </table>
     <table name="mem">
@@ -1644,6 +1942,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">賣國</column>
       <column name="definition_pt">trair, cometer traição</column>
       <column name="definition_fi">tehdä maanpetos</column>
+      <column name="definition_fr">trahison, commettre une trahison [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{magh:v}, {bolwI':n}, {'urmang:n}</column>
@@ -1655,6 +1954,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">This is missing from the K-E side of {TKDA:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1665,6 +1965,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1673,6 +1974,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKDA:src}</column>
     </table>
     <table name="mem">
@@ -1687,6 +1989,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">賣國賊</column>
       <column name="definition_pt">traidor</column>
       <column name="definition_fi">maanpetturi</column>
+      <column name="definition_fr">traitre [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bolwI':n}, {maghwI':n}</column>
@@ -1698,6 +2001,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">這是犯叛國罪的人。對於背叛某人的人，請參閱{maghwI':n}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esta é uma pessoa que comete traição. Para uma pessoa que trai alguém, consulte {maghwI':n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on henkilö, joka tekee maanpetoksen. Jos joku pettää jonkun, katso {maghwI':n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">C'est une personne qui commet une trahison. Pour une personne qui trahit quelqu'un, voir {maghwI':n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">This is missing from the K-E side of {TKDA:src}.</column>
       <column name="components">{'ur:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -1708,6 +2012,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1716,6 +2021,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKDA:src}</column>
     </table>
     <table name="mem">
@@ -1730,6 +2036,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">篤、戳</column>
       <column name="definition_pt">espetar</column>
       <column name="definition_fi">pistää, tökätä</column>
+      <column name="definition_fr">piquer, piquer [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuQ:v:1}, {'urghwI':n}</column>
@@ -1741,6 +2048,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1751,6 +2059,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1759,6 +2068,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2014:src}</column>
     </table>
         <table name="mem">
@@ -1773,6 +2083,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">修補匠 [AUTOTRANSLATED]</column>
           <column name="definition_pt">consertar (mexer para tentar consertár)</column>
           <column name="definition_fi">värkätä, väsäillä</column>
+          <column name="definition_fr">bricoler [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1784,6 +2095,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr">Cette expression d'argot signifie littéralement « simplement piquer/jaber ». Si le contexte est clair et que "poke" au sens littéral n'est pas ce que l'on entend, {'urgh:v} seul peut être utilisé.[1] [AUTOTRANSLATED]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'urgh:v}, {neH:adv}</column>
           <column name="examples"></column>
@@ -1794,6 +2106,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -1802,6 +2115,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {Saarbrücken qepHom'a' 2021:src}</column>
         </table>
     <table name="mem">
@@ -1816,6 +2130,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">撲克（紙牌遊戲）</column>
       <column name="definition_pt">Poker (jogo de cartas)</column>
       <column name="definition_fi">pokeri</column>
+      <column name="definition_fr">Poker (jeu de cartes) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Degh:n:1}, {'echletHom:n}, {SuD:v:2}</column>
@@ -1827,6 +2142,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">Maltz viittasi federaation korttipeliin "Poker" nimellä {'urghwI':n:nolink}, vaikka muut klingonit eivät todennäköisesti ymmärtäisikään tätä.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Maltz a appelé le jeu de cartes de la Fédération « Poker » {'urghwI':n:nolink}, bien que les autres Klingons ne comprendraient probablement pas cela.[1] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'urgh:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -1837,6 +2153,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1845,6 +2162,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2014:src}</column>
     </table>
     <table name="mem">
@@ -1859,6 +2177,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">叛國罪</column>
       <column name="definition_pt">traição</column>
       <column name="definition_fi">maanpetos</column>
+      <column name="definition_fr">trahison [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ur:v}, {Daw':n}, {QuS:n}</column>
@@ -1870,7 +2189,8 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="hidden_notes"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes">Maltz noted that {-mang:sen:nolink} is not a nominalizing suffix.[1]</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -1880,6 +2200,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1888,7 +2209,8 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="source">[1] {TKD:src}</column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {TKD:src}, [2] {qep'a' 30 (2023):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1902,9 +2224,10 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">腿</column>
       <column name="definition_pt">perna</column>
       <column name="definition_fi">jalka</column>
+      <column name="definition_fr">jambe [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{qam:n}, {ghIv:n}, {qIv:n}, {to'waQ:n}, {ngIb:n:1}, {Do'ghI':n}, {reStav:n}</column>
+      <column name="see_also">{qam:n}, {ghIv:n}, {qIv:n}, {to'waQ:n}, {ngIb:n:1}, {Do'ghI':n}, {reStav:n}, {tutren:n}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -1913,6 +2236,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1923,6 +2247,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1931,8 +2256,197 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'uS cha'neH</column>
+          <column name="part_of_speech">n:body,deriv</column>
+          <column name="definition">crus (lower part of leg)</column>
+          <column name="definition_de">Unterschenkel </column>
+          <column name="definition_fa">crus (قسمت پایین ساق پا) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">crus (nedre delen av benet) [AUTOTRANSLATED]</column>
+          <column name="definition_ru">голень (нижняя часть ноги) [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">小腿（腿的下部） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">crus (parte inferior da perna) [AUTOTRANSLATED]</column>
+          <column name="definition_fi">sääri</column>
+          <column name="definition_fr">crus (partie inférieure de la jambe) [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{'uS nev'ob:n}</column>
+          <column name="notes">This refers to the entire lower part of the leg, which consists of {'uS reStav:n} in the front and {Do'ghI':n} in the back. Even when the context is clear, {'uS:n:nolink} is seldom if ever left out of {'uS cha'neH:n:nolink}.[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'uS:n}, {cha'neH:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {KLI mailing list 2023.12.29:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'uS nev'ob</column>
+          <column name="part_of_speech">n:body,deriv</column>
+          <column name="definition">thigh</column>
+          <column name="definition_de">Oberschenkel</column>
+          <column name="definition_fa">ران [AUTOTRANSLATED]</column>
+          <column name="definition_sv">lår [AUTOTRANSLATED]</column>
+          <column name="definition_ru">бедро [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">大腿 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">coxa [AUTOTRANSLATED]</column>
+          <column name="definition_fi">reisi</column>
+          <column name="definition_fr">cuisse [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{'uS cha'neH:n}</column>
+          <column name="notes">This refers to the entire upper part of the leg, i.e., the thigh. Unless specificity is called for, {'uS:n:nolink} is generally left out of {'uS nev'ob:n:nolink}.[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'uS:n}, {nev'ob:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {KLI mailing list 2023.12.29:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'uS reStav</column>
+          <column name="part_of_speech">n:body,deriv</column>
+          <column name="definition">shin</column>
+          <column name="definition_de">Schienbein (vorderer Teil des Unterschenkels)</column>
+          <column name="definition_fa">ساق پا [AUTOTRANSLATED]</column>
+          <column name="definition_sv">skenben [AUTOTRANSLATED]</column>
+          <column name="definition_ru">голень [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">脛 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">canela [AUTOTRANSLATED]</column>
+          <column name="definition_fi">sääri</column>
+          <column name="definition_fr">tibia [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This refers to the front of the lower part of the leg, i.e., the shin. Unless specificity is called for, {'uS:n:nolink} is generally left out of {'uS reStav:n:nolink}.[2]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'uS:n}, {reStav:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {KLI mailing list 2023.12.29:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'uS tutren</column>
+          <column name="part_of_speech">n:body,deriv</column>
+          <column name="definition">knee pit</column>
+          <column name="definition_de">Kniekehle </column>
+          <column name="definition_fa">گودال زانو [AUTOTRANSLATED]</column>
+          <column name="definition_sv">knäskålen [AUTOTRANSLATED]</column>
+          <column name="definition_ru">коленная яма [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">膝坑 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">fossa do joelho [AUTOTRANSLATED]</column>
+          <column name="definition_fi">polvitaive</column>
+          <column name="definition_fr">fosse au genou [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'uS:n}, {tutren:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {qep'a' 30 (2023):src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'uSgheb</column>
@@ -1945,6 +2459,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">公雞</column>
       <column name="definition_pt">uma espécie de pássaro, galo</column>
       <column name="definition_fi">eräs kukon kaltainen lintu</column>
+      <column name="definition_fr">une sorte d'oiseau, coq (fait du chahut à l'aube) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'Degh:n}, {jajlo' Qa':n}</column>
@@ -1956,6 +2471,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">這是一種吵鬧的鳥，已知會在黎明時引起騷動，已被比喻為公雞（但比公雞兇猛得多）。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este é um pássaro barulhento, conhecido por fazer um tumulto ao amanhecer, que foi comparado a um galo (mas é muito mais feroz do que um galo). [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on meluisa lintu, jonka tiedetään tekevän kynnyksen aamunkoitteessa, jota on verrattu kukkoon (mutta se on paljon kovempaa kuin kukko). [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il s'agit d'un oiseau bruyant connu pour faire du chahut à l'aube, qui a été comparé à un coq (mais il est beaucoup plus féroce qu'un coq). [AUTOTRANSLATED]</column>
       <column name="hidden_notes">The "leghorn" is a type of chicken, and Foghorn Leghorn is a cartoon leghorn rooster.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1966,6 +2482,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -1974,6 +2491,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {HQ 10.4, Dec. 2001:src}</column>
     </table>
     <table name="mem">
@@ -1988,6 +2506,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">鐵（元素）</column>
       <column name="definition_pt">ferro (elemento)</column>
       <column name="definition_fi">rauta</column>
+      <column name="definition_fr">fer (élément) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tamler:n}, {baS:n}</column>
@@ -1999,6 +2518,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The USS Constitution had the nickname "Old Ironsides".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2009,6 +2529,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2017,6 +2538,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2015:src}</column>
     </table>
     <table name="mem">
@@ -2031,6 +2553,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">薄醬</column>
       <column name="definition_pt">molho de gladst</column>
       <column name="definition_fi">eräs kastike gladstille</column>
+      <column name="definition_fr">sauce pour le plaisir [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhatlh:n}, {tlhatlh vIychorgh:n}, {Se'tu':n}, {po'lIgh:n}</column>
@@ -2042,6 +2565,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">{'uSu':n:nolink} é nativo dos habitantes originais do planeta Tanganika.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">{'uSu':n:nolink} on peräisin Tanganika-planeetan alkuperäisiltä asukkailta.[2]</column>
+      <column name="notes_fr">{'uSu':n:nolink} est originaire des premiers habitants de la planète Tanganika.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes">One type of lighter soy sauce is called "usukuchi shoyu" (薄口醤油) in Japanese. Also, the "yuzu" plant is used in the creation of some sauces in Asian cuisine. However, if this word is a pun, it wasn't due to Okrand, but the writers of {DS9 - Melora:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2052,6 +2576,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2060,6 +2585,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}, [2] {KCD:src}</column>
     </table>
     <table name="mem">
@@ -2074,6 +2600,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">必要、需要</column>
       <column name="definition_pt">ser essencial, ser necessário</column>
       <column name="definition_fi">olla välttämätön, tarpeellinen</column>
+      <column name="definition_fr">être essentiel, être nécessaire [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'utbe':v}</column>
       <column name="see_also"></column>
@@ -2085,6 +2612,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">Of the "ut"most importance.</column>
       <column name="components"></column>
       <column name="examples">
@@ -2096,6 +2624,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2104,6 +2633,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
         <table name="mem">
@@ -2118,6 +2648,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">不必要、不需要</column>
           <column name="definition_pt">ser desnecessário, não-essencial</column>
           <column name="definition_fi">olla tarpeeton</column>
+          <column name="definition_fr">être non essentiel, être inutile [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'ut:v}</column>
           <column name="see_also"></column>
@@ -2129,6 +2660,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes">This word is not defined as such in canon, but appears in a sentence in {TKW:src}[1]. This entry is here for ease of reference only.</column>
           <column name="components"></column>
           <column name="examples">
@@ -2140,6 +2672,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -2148,6 +2681,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {TKW p.45:src}</column>
         </table>
         <table name="mem">
@@ -2162,6 +2696,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="definition_zh_HK">樂趣是不重要的。</column>
           <column name="definition_pt">Prazer não é essencial.</column>
           <column name="definition_fi">Nautinto on tarpeetonta.</column>
+          <column name="definition_fr">Le plaisir n'est pas essentiel. [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2173,6 +2708,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{'utbe':v}, {bel:n}</column>
           <column name="examples"></column>
@@ -2183,6 +2719,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
           <column name="search_tags"></column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -2191,6 +2728,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
           <column name="search_tags_zh_HK"></column>
           <column name="search_tags_pt"></column>
           <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
           <column name="source">[1] {TKW p.45:src}</column>
         </table>
     <table name="mem">
@@ -2205,6 +2743,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">抽屜櫃 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cômoda</column>
       <column name="definition_fi">lipasto</column>
+      <column name="definition_fr">commode [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'voD:n}, {DeSwar:n}, {yorgh:n}</column>
@@ -2216,6 +2755,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">這是指一個抽屜櫃，而不管當前是否有抽屜。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a uma cômoda, independentemente de haver ou não gavetas no momento. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä viittaa lipastoon riippumatta siitä, onko siinä todella laatikoita tällä hetkellä. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il s’agit d’une commode, qu’elle contienne ou non actuellement des tiroirs. [AUTOTRANSLATED]</column>
       <column name="hidden_notes">"Drawer" is slang for "underwear", and Under Armour (UA) is a brand of casual and sports clothing.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2226,6 +2766,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2234,6 +2775,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {qep'a' 23 (2016):src}</column>
     </table>
     <table name="mem">
@@ -2248,9 +2790,10 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">軍官、退休人員 [AUTOTRANSLATED]</column>
       <column name="definition_pt">oficial, oficial emérito</column>
       <column name="definition_fi">eläköitynyt upseeri</column>
+      <column name="definition_fr">officier, officier émérite [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{yaS:n}, {paj:v}, {Deq:v}</column>
+      <column name="see_also">{yaS:n:1h}, {paj:v}, {Deq:v}</column>
       <column name="notes">This refers to an officer who ended service in retirement.[2]</column>
       <column name="notes_de">Dies bezieht sich auf einen Offizier, der seinen Dienst im Ruhestand beendet hat[2] [AUTOTRANSLATED]</column>
       <column name="notes_fa">این اشاره به افسری است که در بازنشستگی خدمت خود را به پایان رسانده است.[2] [AUTOTRANSLATED]</column>
@@ -2259,6 +2802,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">這指的是一名退休後退休的軍官。[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Refere-se a um oficial que encerrou o serviço na aposentadoria.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi"></column>
+      <column name="notes_fr">Il s'agit d'un officier qui a mis fin à son service à la retraite.[broken link: 1][2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2269,6 +2813,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2277,6 +2822,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi">evp.</column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {KGT p.51:src}</column>
     </table>
     <table name="mem">
@@ -2291,6 +2837,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">撳低</column>
       <column name="definition_pt">pressionar para baixo</column>
       <column name="definition_fi">painaa alas</column>
+      <column name="definition_fr">Appuyer [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yuv:v}, {leQ:n}</column>
@@ -2302,6 +2849,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="notes_zh_HK">該動詞用於單擊計算機鼠標按鈕（即使該操作實際上是按下然後釋放）。單擊超鏈接時，使用動詞{wIv:v}而不是{'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_pt">Esse verbo é usado para clicar no botão do mouse do computador (mesmo que a ação seja realmente pressionar e soltar). Para clicar em um hiperlink, o verbo {wIv:v} é usado em vez de {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä verbiä käytetään napsauttamaan tietokoneen hiiren painiketta (vaikka toiminnon tarkoituksena on todella painaa alas ja sitten vapauttaa). Hyperlinkkiä napsautettaessa käytetään verbiä {wIv:v} eikä {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ce verbe est utilisé pour cliquer sur le bouton d'une souris d'ordinateur (même si l'action consiste en fait à appuyer puis à relâcher). Pour cliquer sur un hyperlien, le verbe {wIv:v} est utilisé à la place de {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2312,6 +2860,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags">click</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2320,6 +2869,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {Saarbrücken qepHom'a' 2014:src}</column>
     </table>
     <table name="mem">
@@ -2334,6 +2884,7 @@ Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {
       <column name="definition_zh_HK">百萬</column>
       <column name="definition_pt">milhão</column>
       <column name="definition_fi">miljoonaa</column>
+      <column name="definition_fr">million (élément formant un nombre) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mI':n}, {bIp:n:num}, {Saghan:n:num}</column>
@@ -2357,6 +2908,11 @@ För hundratals miljoner är de nummerbildande elementen {vatlh'uy':n:num@@vatlh
       <column name="notes_fi">Kymmenien miljoonien verran {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolink}: een tai {vatlh:n:num} {bIp:n:num}: n kanssa.
 
 Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}, {SaDbIp:n:num@@SaD:n, bIp:n} tai {SanIDbIp:n:num@@SanID:n, bIp:n} ovat mahdollisia.[2][3] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Il s’agit d’un élément formant un nombre, et non d’un nombre en soi. Le nombre 1 000 000 (un million) est {wa''uy':n:num,nolink} en Klingon.
+
+Pour des dizaines de millions, on pourrait combiner {maH:n:2,num} avec {'uy':n:num,nolink} ou {vatlh:n:num} avec {bIp:n:num}.[2]
+
+Pour des centaines de millions, les éléments formant des nombres {vatlh'uy':n:num@@vatlh:n, 'uy':n} ou {SaDbIp:n:num@@SaD:n, bIp:n} ou {SanIDbIp:n:num@@SanID:n, bIp:n} sont possibles.[3] [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2367,6 +2923,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2375,6 +2932,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {'eSrIv 6, Feb. 2020:src} ({KLI mailing list 2020.01.28:src}), [3] {qep'a' 27 (2020):src}</column>
     </table>
     <table name="mem">
@@ -2389,6 +2947,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="definition_zh_HK">宇宙</column>
       <column name="definition_pt">universo</column>
       <column name="definition_fi">maailmankaikkeus</column>
+      <column name="definition_fr">univers [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngeHbej:n}, {'u' Dop:n}, {'u' quq:n}</column>
@@ -2400,6 +2959,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="notes_zh_HK">這也是歌劇的名字，它講述了許多與《 {paq'batlh:n}》中的事件相同的事件。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este também é o nome de uma ópera, que narra muitos dos mesmos eventos encontrados no {paq'batlh:n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on myös oopperan nimi, joka kertoo monia samoja tapahtumia kuin {paq'batlh:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">C'est aussi le nom d'un opéra qui raconte bon nombre des mêmes événements que ceux trouvés dans le {paq'batlh:n}. [AUTOTRANSLATED]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2410,6 +2970,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2418,6 +2979,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}</column>
     </table>
     <table name="mem">
@@ -2432,6 +2994,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="definition_zh_HK">相反時空</column>
       <column name="definition_pt">universo espelho</column>
       <column name="definition_fi">peilimaailma</column>
+      <column name="definition_fr">univers miroir [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'u' quq:n}</column>
@@ -2443,6 +3006,7 @@ Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">A "Doppelgänger" is the double of a person from the mirror universe.
 
 At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to {'u' Dop:n:nolink} being based on the "opposite" meaning.</column>
@@ -2455,6 +3019,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2463,6 +3028,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2018.01.08:src}, [2] {qep'a' 26 (2019):src}</column>
     </table>
     <table name="mem">
@@ -2477,6 +3043,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="definition_zh_HK">平行時空</column>
       <column name="definition_pt">universo paralelo</column>
       <column name="definition_fi">rinnakkaistodellisuus</column>
+      <column name="definition_fr">univers parallèle [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'u' Dop:n}</column>
@@ -2488,6 +3055,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{'u':n}, {quq:v}</column>
       <column name="examples"></column>
@@ -2498,6 +3066,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2506,5 +3075,6 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2018.01.08:src}</column>
     </table>
