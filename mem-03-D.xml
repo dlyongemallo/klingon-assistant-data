@@ -1115,7 +1115,7 @@ Aikaelementtinä {DaHjaj:n} edeltää kaikkia adverbaaleja.[2][2][2][1, sec. 6.7
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes">This is short for {DaHjaj po:n@@DaHjaj:n, pov:n}.[1]</column>
+      <column name="notes">This is short for {DaHjaj pov:n@@DaHjaj:n, pov:n}.[1]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -5326,7 +5326,7 @@ Ce verbe peut être appliqué aux avions, pour lesquels voir {Der:v:2}.[1] [AUTO
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
-▶ {juDev 'ej Dujvam ra'wI' DagheS 'e' vItlhob:sen}</column>
+▶ {juDev 'ej Dujvam ra'wI' DagheS 'e' vItlhob.:sen}</column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
@@ -13231,7 +13231,7 @@ The logo of Star Alliance, the largest airline alliance on Earth, is often paint
       <column name="definition_de">schockiert sein, erstaunt sein</column>
       <column name="definition_fa">خشمگین شو [AUTOTRANSLATED]</column>
       <column name="definition_sv">bli bedövas [AUTOTRANSLATED]</column>
-      <column name="definition_ru">быть оглушенным, быть остолбеневшим</column>
+      <column name="definition_ru">быть ошеломлённым</column>
       <column name="definition_zh_HK">被驚呆了 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser chocado, ser espantado</column>
       <column name="definition_fi">olla hämmästynyt, olla järkyttynyt</column>
@@ -13239,11 +13239,11 @@ The logo of Star Alliance, the largest airline alliance on Earth, is often paint
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mer:v}, {mot:v}</column>
-      <column name="notes">This means in the sense of astonished, astounded, dumbfounded, shocked. It is stronger than {yay':v}</column>
-      <column name="notes_de">Dies ist im sinne von erstaunt, umgeworfen, schockiert. Es ist stärker als {yay':v}</column>
+      <column name="notes">This means in the sense of astonished, astounded, dumbfounded, shocked. It is stronger than {yay':v}.</column>
+      <column name="notes_de">Dies ist im sinne von erstaunt, umgeworfen, schockiert. Es ist stärker als {yay':v}.</column>
       <column name="notes_fa">این به معنای حیرت زده ، حیرت زده ، گنگ ، شوکه شده است. از {yay':v} قوی تر است [AUTOTRANSLATED]</column>
       <column name="notes_sv">Detta innebär i betydelsen förvånad, förvånad, dumfundad, chockad. Det är starkare än {yay':v} [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это употребляется в смысле изумленный, ошеломленный, шокированый. Это сильнее, чем {yay':v}</column>
+      <column name="notes_ru">Это употребляется в смысле изумленный, ошеломленный, шокированый. Это сильнее, чем {yay':v}.</column>
       <column name="notes_zh_HK">這意味著驚訝，震驚，傻眼，震驚。它比{yay':v}強 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Isso significa, no sentido de atônito, atônito, aturdido, chocado. É mais forte que {yay':v} [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä tarkoittaa hämmästyneenä, hämmästyneenä, tyhmänä, järkyttyneenä. Se on vahvempi kuin {yay':v} [AUTOTRANSLATED]</column>

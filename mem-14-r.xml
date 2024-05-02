@@ -5145,7 +5145,7 @@ This was defined as "side". The clarification "exterior surface" was added based
       <column name="definition_de">Schienbein, Unterarm</column>
       <column name="definition_fa">ساقه ، ساعد [AUTOTRANSLATED]</column>
       <column name="definition_sv">shin, underarm [AUTOTRANSLATED]</column>
-      <column name="definition_ru">голень, предплечье [AUTOTRANSLATED]</column>
+      <column name="definition_ru">голень, предплечье (внешняя сторона)</column>
       <column name="definition_zh_HK">脛前臂 [AUTOTRANSLATED]</column>
       <column name="definition_pt">canela, antebraço</column>
       <column name="definition_fi">sääri (etupuoli), kyynärvarsi (ulkopuoli)</column>
@@ -6513,7 +6513,7 @@ Tämän verbin refleksiivisellä muodolla on erityinen merkitys. Katso selitys a
       <column name="notes_fr">Ce mot est utilisé par les petits enfants ou par les adultes qui parlent de petits enfants ou qui en parlent. Les adultes utilisent généralement {Sen:v:1} à la place.
 
 La forme réfléchie de ce verbe a une signification particulière. Voir l'exemple ci-dessous et sous {SIq:v} pour une explication. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">This is a reference to the nursery rhyme "Little Jack Horner" (see {rIl:v:2}).</column>
+      <column name="hidden_notes">This is a reference to the nursery rhyme "Little Jack Horner" (see {rIlwI':n}).</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {nujDajDaq rIl'egh ghu.:sen:nolink} "The baby sucks its thumb."</column>
@@ -6561,9 +6561,9 @@ La forme réfléchie de ce verbe a une signification particulière. Voir l'exemp
       <column name="notes_pt">O uso desse verbo é restrito ao {gheb:n}, enquanto {SuS:v} é um termo mais geral que se aplica a todos os instrumentos de sopro. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämän verbin käyttö on rajoitettu {gheb:n}: een, kun taas {SuS:v} on yleisempi termi, joka koskee kaikkia puhallinsoittimia. [AUTOTRANSLATED]</column>
       <column name="notes_fr">L'usage de ce verbe est limité au {gheb:n}, tandis que {SuS:v} est un terme plus général qui s'applique à tous les instruments à vent. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes">This is a reference to the nursery rhyme "Little Jack Horner" (see {rIl:v:1}).
+      <column name="hidden_notes">This is a reference to the nursery rhyme "Little Jack Horner" (see {rIlwI':n}).
 
-{gheb rIl:sen:nolink} is a reference to the horn of Gabriel.</column>
+In addition, {gheb rIl:sen@@gheb:n, rIl:v:2} is a reference to the horn of Gabriel.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -6610,7 +6610,7 @@ La forme réfléchie de ce verbe a une signification particulière. Voir l'exemp
       <column name="notes_pt">Essa palavra é usada por crianças pequenas ou por adultos conversando com ou sobre crianças pequenas. Os adultos normalmente usam {SenwI':n}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä sanaa käyttävät pienet lapset tai aikuiset, jotka puhuvat pienille lapsille tai puhuvat niistä. Aikuiset käyttävät yleensä {SenwI':n}: ää. [AUTOTRANSLATED]</column>
       <column name="notes_fr">Ce mot est utilisé par les petits enfants ou par les adultes qui parlent de petits enfants ou qui en parlent. Les adultes utilisent généralement {SenwI':n} à la place. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">The nursery rhyme "Little Jack Horner" is about a child who used his thumb ({rIl:v:1}), to pull out a plum from a Christmas pie. Since {rIl:v:2} means "to play (a horn)", {rIlwI':n:nolink} is a reference to the name "Horner".</column>
       <column name="components">{rIl:v:1}, {-wI':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -7042,7 +7042,7 @@ At {Saarbrücken qepHom'a' 2017:src}, the definition included only "a cracking a
       <column name="definition_de">klicken</column>
       <column name="definition_fa">کلیک [AUTOTRANSLATED]</column>
       <column name="definition_sv">klick [AUTOTRANSLATED]</column>
-      <column name="definition_ru">щелкнуть [AUTOTRANSLATED]</column>
+      <column name="definition_ru">щелчок</column>
       <column name="definition_zh_HK">點擊 [AUTOTRANSLATED]</column>
       <column name="definition_pt">clique</column>
       <column name="definition_fi">klik-ääni</column>
@@ -7154,7 +7154,7 @@ At {Saarbrücken qepHom'a' 2017:src}, the definition included only "a cracking a
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">A "writ of summons" is a legal document notifying a party to appear before a court.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {DurIt tlhIngan yejquv.:sen:nolink} "Summoned to the Klingon High Council."[1]</column>
@@ -8094,7 +8094,7 @@ One of the tracks on the Robin Williams comedy album "Reality... What a Concept"
       <column name="definition_de">Zäpfchen</column>
       <column name="definition_fa">توفان [AUTOTRANSLATED]</column>
       <column name="definition_sv">dröja [AUTOTRANSLATED]</column>
-      <column name="definition_ru">язычок [AUTOTRANSLATED]</column>
+      <column name="definition_ru">нёбный язычок</column>
       <column name="definition_zh_HK">小舌 [AUTOTRANSLATED]</column>
       <column name="definition_pt">úvula</column>
       <column name="definition_fi">kitakieleke</column>
