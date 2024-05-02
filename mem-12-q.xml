@@ -69,7 +69,7 @@
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">{jIH:n:1h}: {SoH:n} = {qa-:v:pref,nolink} [AUTOTRANSLATED]</column>
-      <column name="notes_fr">[broken link: 1] : [broken link: 2] = [broken link: 3]{jIH:n:1h}{SoH:n}{qa-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -155,7 +155,7 @@
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rol:n}, {loch:n}, {mIn:n}, {ghIch:n}, {nuj:n}, {qogh:n:2,body}, {qevpob:n}, {woS:n}, {nach:n}, {'alnum:n}</column>
-      <column name="notes">One's face is shown as a symbol of identity or honor.[2] Various aspects of dueling are expressed in terms of showing one's face (see {Hay':v}).[3] See also {cha' qabDu':n} and {qabDu' law':n} for idiomatic uses of this word.</column>
+      <column name="notes">Killing without showing one's face is associated with a lack of honor.[2] Various aspects of dueling are expressed in terms of showing one's face (see {Hay':v}).[3] See also {cha' qabDu':n} and {qabDu' law':n} for idiomatic uses of this word.</column>
       <column name="notes_de">Das eigene Gesicht wird als Symbol für Identität oder Ehre dargestellt.[2] Verschiedene Aspekte des Duellierens werden durch das Zeigen des eigenen Gesichts ausgedrückt (siehe {Hay':v}) .[3] Siehe auch {cha' qabDu':n} und {qabDu' law':n} für die idiomatische Verwendung dieses Wortes. [AUTOTRANSLATED]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv">Enas ansikte visas som en symbol för identitet eller ära.[2] Olika aspekter av duellering uttrycks i termer av att visa sitt ansikte (se {Hay':v}).[3] Se även {cha' qabDu':n} och {qabDu' law':n} för idiomatiska användningar av detta ord. [AUTOTRANSLATED]</column>
@@ -297,7 +297,7 @@
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
-          <column name="notes">This command is used to challenge someone to a duel. It is often shortened to {HI'ang!:sen:nolink} See {Hay':v} for more etails.</column>
+          <column name="notes">This command is used to challenge someone to a duel. It is often shortened to {HI'ang!:sen:nolink} See {Hay':v} for more details.</column>
           <column name="notes_de">Dieser Befehl wird verwendet, um jemanden zu einem Duell herauszufordern. Es wird oft zu {HI'ang!:sen:nolink} abgekürzt. Weitere Informationen finden Sie unter {Hay':v}. [AUTOTRANSLATED]</column>
           <column name="notes_fa">این دستور برای به چالش کشیدن کسی برای دوئل استفاده می شود. اغلب در {HI'ang!:sen:nolink} کوتاه شده است برای اطلاعات بیشتر به {Hay':v} مراجعه کنید. [AUTOTRANSLATED]</column>
           <column name="notes_sv">Detta kommando används för att utmana någon till en duell. Det förkortas ofta till {HI'ang!:sen:nolink} Se {Hay':v} för mer information. [AUTOTRANSLATED]</column>
@@ -2330,7 +2330,7 @@ Ce mot s'applique aux personnes et aux animaux.[2] [AUTOTRANSLATED]</column>
       <column name="definition_ru">настаивать на чём-то</column>
       <column name="definition_zh_HK">咬定 [AUTOTRANSLATED]</column>
       <column name="definition_pt">insistir</column>
-      <column name="definition_fi">vaatia itsepintaisesti jotain, vaatimalla vaatia, ehdottomasti haluta jotain</column>
+      <column name="definition_fi">vaatia itsepintaisesti jotain, vaatimalla vaatia, ehdottomasti haluta jotain, olla vakaasti sitä mieltä että</column>
       <column name="definition_fr">insister [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
@@ -2537,7 +2537,7 @@ Ce mot s'applique aux personnes et aux animaux.[2] [AUTOTRANSLATED]</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Este verbo é usado na formação de perguntas de marca com o sufixo {-'a':v:suff}. Em tal pergunta, {qar'a':sen:nolink} segue o verbo ou vem no final da frase. ({TKDA 6.4:src}) [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä verbiä käytetään muodostettaessa tunnistekysymyksiä loppuliitteellä {-'a':v:suff}. Tällaisessa kysymyksessä {qar'a':sen:nolink} joko seuraa verbiä tai tulee lauseen loppuun. ({TKDA 6.4:src}) [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce verbe est utilisé pour former des questions-étiquettes avec le suffixe {-'a':v:suff}. Dans une telle question, {qar'a':sen:nolink} suit le verbe ou vient à la fin de la phrase. ([broken link: 3]){TKDA 6.4:src} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3951,7 +3951,7 @@ Il semble que pour certains verbes {X:sen:nolink} qui prennent un objet, lorsque
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s'agit d'un rassemblement ou d'une cérémonie pour se souvenir et honorer une personne décédée.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4655,9 +4655,7 @@ Tidigare brukade detta vara {quvqa'meH vIttlhegh:n:nolink}.[1] [AUTOTRANSLATED]<
           <column name="notes_fi">Nämä ovat joukko sananlaskuja, joita käytetään kunnioituksen tai uskottavuuden palauttamiseen sen jälkeen, kun jotakin on nolostettu julkisessa ympäristössä.
 
 Aikaisemmin tämä oli {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</column>
-          <column name="notes_fr">Il s'agit d'un ensemble de proverbes utilisés pour restaurer le respect ou la crédibilité après avoir été embarrassé dans un cadre public.[broken link: 1]
-
-Dans le passé, c'était {quvqa'meH vIttlhegh:n:nolink}.[1][2] [AUTOTRANSLATED]</column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{qa'meH:n}, {vIttlhegh:n}</column>
           <column name="examples"></column>
@@ -5798,7 +5796,7 @@ The information about the length comes from {The Star Trek Encyclopedia, 4th ed.
       <column name="definition_zh_HK">帶來 [AUTOTRANSLATED]</column>
       <column name="definition_pt">trazer</column>
       <column name="definition_fi">tuoda</column>
-      <column name="definition_fr">apporter [AUTOTRANSLATED]</column>
+      <column name="definition_fr">apporter, emmener</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6086,7 +6084,7 @@ Ce mot est une forme fossilisée. Il fait référence à un groupe unique, les �
       <column name="definition_zh_HK">攜帶、傳達 [AUTOTRANSLATED]</column>
       <column name="definition_pt">transportar, conduzir</column>
       <column name="definition_fi">kantaa, kuljettaa, välittää</column>
-      <column name="definition_fr">porter, transmettre [AUTOTRANSLATED]</column>
+      <column name="definition_fr">porter, transmettre</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HIj:v}, {Qay:v}</column>
@@ -7651,10 +7649,7 @@ Seu retorno é profetizado na História da Promessa, que afirma que:
 
 Hänen paluunsa on ennustettu Lupauksen tarinassa, jossa todetaan seuraavaa:
 ▶ {ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen}[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Kahless est le légendaire premier empereur Klingon, qui a uni le peuple Klingon. Il existe deux versions de son titre. L'ancienne version, {qeylIS lIjlaHbogh pagh:n:name@@qeylIS:n, lIj:v, -laH:v, -bogh:v, pagh:n:1}, s'applique uniquement à Kahless, tandis que la version plus récente, {qeylIS'e' lIjlaHbe'bogh vay':n:name,nolink}, peut également être appliquée à Kahless et à d'autres dirigeants/héros. Ce serait un signe d'arrogance extrême ou de manque de respect d'utiliser l'ancienne version pour quelqu'un d'autre que Kahless.[2]
-
-Son retour est prophétisé dans l'Histoire de la Promesse, qui déclare que :
-▶ [broken link: 4]{ghIq chalDaq HovDaq SIq qeylIS 'ej jatlh pa' DaqHomvetlh wovDaq HInej.:sen} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components">{qeylIS:n:name}, {-'e':n}, {lIj:v}, {-laH:v}, {-be':v}, {-bogh:v}, {vay':n}</column>
       <column name="examples"></column>
@@ -9685,7 +9680,7 @@ Maltz semblait réticent à parler de ce dont il s’agissait exactement.[2] [AU
       <column name="notes_zh_HK">此動詞還用於註冊帳戶以使用服務。參見{qI':v:2}。 [AUTOTRANSLATED]</column>
       <column name="notes_pt">Este verbo também é usado para se inscrever em uma conta para usar um serviço. Consulte {qI':v:2}. [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tätä verbiä käytetään myös tilin luomiseen palvelua varten. Katso {qI':v:2}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce verbe est également utilisé pour créer un compte afin d'utiliser un service. Voir [broken link: 1].{qI':v:2} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -12204,7 +12199,7 @@ Il peut également être utilisé pour l'appareil que certains humains utilisent
       <column name="definition_zh_HK">鉻鹽 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sais de cromo</column>
       <column name="definition_fi">kromisuola</column>
-      <column name="definition_fr">sels de chrome [AUTOTRANSLATED]</column>
+      <column name="definition_fr">sels de chrome</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qo'rIn DIr:n}</column>
@@ -12251,7 +12246,7 @@ Il peut également être utilisé pour l'appareil que certains humains utilisent
       <column name="definition_zh_HK">皮革 [AUTOTRANSLATED]</column>
       <column name="definition_pt">couro</column>
       <column name="definition_fi">nahka</column>
-      <column name="definition_fr">cuir [AUTOTRANSLATED]</column>
+      <column name="definition_fr">cuir</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DIr:n}</column>
@@ -13387,7 +13382,7 @@ Il n’y a pas qu’une seule façon de dire « pompier ». Certaines options so
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr">Cela signifie littéralement « celui qui endort les feux ». Il est appliqué à une personne, mais généralement pas avant qu'il ne soit éteint.[broken link: 1][1] [AUTOTRANSLATED]</column>
+          <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
           <column name="components">{qul:n}, {QongmoH:v:0}, {-wI':v}</column>
           <column name="examples"></column>
@@ -14700,7 +14695,7 @@ Ce mot ne peut pas être utilisé pour un trou dans le sol (pour lequel voir {Qe
       <column name="definition_zh_HK">假髮</column>
       <column name="definition_pt">peruca</column>
       <column name="definition_fi">peruukki</column>
-      <column name="definition_fr">perruque [AUTOTRANSLATED]</column>
+      <column name="definition_fr">perruque</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jIb:n}, {jech:n}</column>
@@ -15728,7 +15723,7 @@ Notez que {ghaj:v} et {Hutlh:v} peuvent être utilisés avec ce nom pour indique
       <column name="notes_zh_HK"></column>
       <column name="notes_pt">Esta é uma figura salvadora que é venerada por uma minoria religiosa de Klingons que viajaram para o Quadrante Delta.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fi">Tämä on pelastushahmo, jota kunnioittaa Delta-kvadranttiin matkustanut klingonilaisten uskonnollinen vähemmistö.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'une figure sauveuse vénérée par une minorité religieuse de Klingons qui ont voyagé dans le quadrant Delta.[broken link: 1][2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>

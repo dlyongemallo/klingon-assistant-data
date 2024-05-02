@@ -297,7 +297,7 @@
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Saj:n}, {yach:v:2}</column>
-      <column name="notes">This is no Klingon word for "cuddle", but {yachchuq:v@@yach:v:1, -chuq:v} gets the idea across.[2]</column>
+      <column name="notes">There is no Klingon word for "cuddle", but {yachchuq:v@@yach:v:1, -chuq:v} gets the idea across.[2]</column>
       <column name="notes_de">Dies ist kein klingonisches Wort für "Kuscheln", aber {yachchuq:v@@yach:v:1, -chuq:v} bringt die Idee auf den Punkt.[2] [AUTOTRANSLATED]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv">Detta är inget Klingon-ord för "cuddle", men {yachchuq:v@@yach:v:1, -chuq:v} får idén över.[2] [AUTOTRANSLATED]</column>
@@ -1069,7 +1069,9 @@ Tout lieu spécifiquement désigné pour l’exécution d’une ou plusieurs tâ
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
-          <column name="hidden_notes">Maltz noted that {-qeq:sen:nolink} is not a nominalizing suffix.[1]</column>
+          <column name="hidden_notes">Maltz noted that {-qeq:sen:nolink} is not a nominalizing suffix.[1]
+
+Reverse of "kick my ...".</column>
           <column name="components"></column>
           <column name="examples"></column>
           <column name="examples_de"></column>
@@ -1585,20 +1587,7 @@ In addition to the military meaning, this can refer to a member of an official b
 Puolustusvoimien korkein upseeri, korkeimman esikunnan ({ra'ghomquv:n}) päällikkö, on ylipäällikkö ({la'quv:n}). Luutnanteista ({Sogh:n}) ja sitä korkeammista voidaan käyttää nimitystä {ra'wI':n}. Nimitystä {la''a':n} käytetään sotilasarvosta riippumatta upseereista, jotka ovat vastuussa tietyistä puolustusvoimien erityisyksiköistä.
 
 Sotilasmerkityksen lisäksi tämä sana voi viitata säännöstelyvaltaa käyttävien virallisten ryhmien/toimielinten jäseniin (oletettavasti viranomaisiin).[3]</column>
-      <column name="notes_fr">Il existe neuf grades ({patlh:n}) d'officiers[2] :
-▶ [broken link: 3] "amiral"
-▶ {Sa':n} "général"
-▶ [broken link: 5] "commodore"
-▶ [broken link: 6] "brigadier"
-▶ [broken link: 7] "capitaine"
-▶ {la':n} "commandant"
-▶ [broken link: 9] "lieutenant"
-▶ [broken link: 10] "enseigne"
-▶ [broken link: 11] "yeoman"
-
-L'officier militaire le plus haut placé, le chef du {ra'ghomquv:n}, est le {la'quv:n}. Une personne de rang {Sogh:n} ou supérieur peut également être appelée {ra'wI':n}. Le titre spécial {la''a':n} est utilisé pour les officiers responsables de certaines unités spécialisées au sein de l'armée, quel que soit leur grade officiel. Les officiers et l'équipage ({beq:n}) d'un navire constituent sa compagnie ({wey:n}).[2]
-
-Outre la signification militaire, cela peut désigner un membre d'un organisme officiel doté d'un pouvoir de régulation.[3]{'aj:n}{totlh:n}{'ech:n}{HoD:n}{Sogh:n}{lagh:n}{ne':n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2218,7 +2207,7 @@ Maltz thought there must have been, historically, a connection between this word
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr">Il s’agit de l’élément chimique métallique de symbole Ni et de numéro atomique 28. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">"Nike" is the Greek goddess of victory ({yay:n:2}).</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -3503,13 +3492,7 @@ Generally, when a verb describing a state of being is used as an imperative, the
 Jos komento on annettu useammalle henkilölle ja objektia ei ole, ole varovainen, että käytät sen sijaan {pe-:v}-komentoa.
 
 Yleensä kun olotilaa kuvaavaa verbiä käytetään välttämättömänä, sen kanssa käytetään loppuliitteitä {-'egh:v} ja {-moH:v}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{SoH:n}:[broken link: 2] = [broken link: 3] (imp.)
-{SoH:n}:{ghaH:n}/[broken link: 6] = [broken link: 7] (imp.)
-{tlhIH:n}:[broken link: 9]/[broken link: 10] = [broken link: 11] (imp.)
-
-Si la commande est donnée à plusieurs personnes et que l'objet n'est aucun, veillez à utiliser {pe-:v} à la place.
-
-Généralement, lorsqu'un verbe décrivant un état d'être est utilisé à l'impératif, les suffixes {-'egh:v} et {-moH:v} sont utilisés avec lui.[2]{pagh:n:1h}{yI-:v:pref,nolink}{'oH:n}{yI-:v:pref,nolink}{ghaH:n}{'oH:n}{yI-:v:pref,nolink} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -5451,7 +5434,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUT
       <column name="definition_zh_HK">嚼 [AUTOTRANSLATED]</column>
       <column name="definition_pt">mastigar</column>
       <column name="definition_fi">pureskella</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">mâcher [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{choptaH:v}, {tlhIS:v}, {ngal:v}, {yIv:v:2}</column>
@@ -5498,7 +5481,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUT
       <column name="definition_zh_HK">煩惱、煩、煩惱、煩惱 [AUTOTRANSLATED]</column>
       <column name="definition_pt">irritar, incomodar</column>
       <column name="definition_fi">ärsyttää, häiritä, vaivata</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">ennuyer, déranger, irriter, irriter [AUTOTRANSLATED]</column>
       <column name="synonyms">{nuQ:v}, {berghmoH:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{yIv:v:1}</column>
@@ -5545,7 +5528,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/HVOJkR51lBU} [AUT
       <column name="definition_zh_HK">中山裝 [AUTOTRANSLATED]</column>
       <column name="definition_pt">túnica</column>
       <column name="definition_fi">tunika</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">tunique [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhay:n:2h}</column>
@@ -5610,7 +5593,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">無袖上衣 [AUTOTRANSLATED]</column>
       <column name="definition_pt">camisa sem mangas</column>
       <column name="definition_fi">hihaton paita</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">t-shirt sans manches [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yIvbeH:n:1}, {wep:n:2}, {tlhay:n:2h}</column>
@@ -5657,7 +5640,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
           <column name="definition_zh_HK">背心 [AUTOTRANSLATED]</column>
           <column name="definition_pt">colete</column>
           <column name="definition_fi">liivi</column>
-          <column name="definition_fr"></column>
+          <column name="definition_fr">gilet, gilet [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -5704,7 +5687,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">相信，但找到門。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Confie, mas localize as portas.</column>
       <column name="definition_fi">Luota, mutta etsi ovet. ?</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">Faites confiance, mais localisez les portes. [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -5751,7 +5734,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">信任但要驗證。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Confie, mas verifique.</column>
       <column name="definition_fi">Luota, mutta varmista.</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">Faites confiance, mais vérifiez. [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghIlaSnoS:n}</column>
@@ -5798,7 +5781,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">以尊重或尊重的方式說話 [AUTOTRANSLATED]</column>
       <column name="definition_pt">falar de uma maneira honrosa ou respeitosa</column>
       <column name="definition_fi">puhua kunniallisesti tai kunnioittavasti</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">parler de manière honorable ou respectueuse [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{vaq:v}, {tIch:v}</column>
       <column name="see_also">{-neS:v:suff}</column>
@@ -5846,7 +5829,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">類似子宮的動物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">animal tipo cervídeo</column>
       <column name="definition_fi">eräs hirveä muistuttava eläin</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">animal ressemblant à un cervidé, type d'animal [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -5893,7 +5876,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">治療</column>
       <column name="definition_pt">terapia</column>
       <column name="definition_fi">hoito</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">traitement, thérapie [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{rach:v}</column>
@@ -5940,7 +5923,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">打巴掌 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tapa, bater com a palma da mão</column>
       <column name="definition_fi">läimäyttää, iskeä kämmenellä</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">gifler, frapper avec la paume [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{toch:n}</column>
@@ -5987,7 +5970,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">收成 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fazer colheita</column>
       <column name="definition_fi">korjata (satoa)</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">récolte [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{wIj:v}, {poch:v}, {Du':n}, {Du' naH:n}, {naH tlhab:n}, {yotlh:n}, {tIr:n}, {qInut:n}</column>
@@ -6025,7 +6008,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">yobta' yupma'</column>
-      <column name="part_of_speech">n:fic,deriv</column>
+      <column name="part_of_speech">n:deriv,fic</column>
       <column name="definition">harvest festival</column>
       <column name="definition_de">Erntefest</column>
       <column name="definition_fa">جشنواره برداشت [AUTOTRANSLATED]</column>
@@ -6034,7 +6017,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">豐收節日 [AUTOTRANSLATED]</column>
       <column name="definition_pt">festival da colheita</column>
       <column name="definition_fi">eräs juhla, sadonkorjuujuhla</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">fête de la moisson [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yob:v}, {yupma':n}</column>
@@ -6081,7 +6064,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">盾牌、擋箭牌</column>
       <column name="definition_pt">escudo</column>
       <column name="definition_fi">kilpi</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">bouclier (plaque de matériau, pas champ de force) [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yoD:v}, {SIryoD:n}</column>
@@ -6128,7 +6111,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">屏蔽 [AUTOTRANSLATED]</column>
       <column name="definition_pt">se proteger (com escudo)</column>
       <column name="definition_fi">suojata (kilvellä)</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">bouclier [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yoD:n}</column>
@@ -6175,7 +6158,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">復興 [AUTOTRANSLATED]</column>
       <column name="definition_pt">renascimento, avivamento</column>
       <column name="definition_fi">uusi tuleminen, elpyminen</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">renaissance, renouveau [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6222,7 +6205,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">哮喘 [AUTOTRANSLATED]</column>
       <column name="definition_pt">asma [AUTOTRANSLATED]</column>
       <column name="definition_fi">astma</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">asthme [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6269,7 +6252,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">勇敢</column>
       <column name="definition_pt">ser corajoso</column>
       <column name="definition_fi">olla rohkea, urhea</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">soit brave [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{jaq:v}, {yoHwI':n}, {toDuj:n}, {qajunpaQ:n}</column>
@@ -6308,7 +6291,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">yoHwI'</column>
-      <column name="part_of_speech">n:deriv,being</column>
+      <column name="part_of_speech">n:being,deriv</column>
       <column name="definition">brave one</column>
       <column name="definition_de">Mutige/r</column>
       <column name="definition_fa">شجاع [AUTOTRANSLATED]</column>
@@ -6317,7 +6300,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">勇敢人</column>
       <column name="definition_pt">um corajoso</column>
       <column name="definition_fi">urho, urhea henkilö</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">courageux [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{nuch:n}</column>
       <column name="see_also"></column>
@@ -6365,7 +6348,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">判斷 [AUTOTRANSLATED]</column>
       <column name="definition_pt">julgamento</column>
       <column name="definition_fi">tuomio, arvio, lausunto</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">jugement [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{noH:v}, {chov:v}, {nuD:v}, {meqba':n}, {ruv:n}</column>
@@ -6412,7 +6395,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">衝突 [AUTOTRANSLATED]</column>
       <column name="definition_pt">conflito</column>
       <column name="definition_fi">konflikti, yhteenotto</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">conflit [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{may':n}, {noH:n}</column>
@@ -6459,7 +6442,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">中子</column>
       <column name="definition_pt">nêutron</column>
       <column name="definition_fi">neutroni</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">neutron [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HeySel:n}, {valtIn:n}, {tem:n}</column>
@@ -6506,7 +6489,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">滿意</column>
       <column name="definition_pt">ser satisfeito</column>
       <column name="definition_fi">olla tyytyväinen</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">être satisfait [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bel:v:is}, {yonmoH:v}</column>
@@ -6554,7 +6537,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">滿足</column>
       <column name="definition_pt">satisfazer</column>
       <column name="definition_fi">tyydyttää</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">satisfaire [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -6601,7 +6584,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">進入</column>
       <column name="definition_pt">entrar</column>
       <column name="definition_fi">käydä sisään</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">Montez [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{Haw':v}</column>
       <column name="see_also">{lel:v}, {lIt:v}, {'el:v}</column>
@@ -6649,7 +6632,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">褲</column>
       <column name="definition_pt">calça</column>
       <column name="definition_fi">housut</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">pantalon [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qogh:n:1}, {yopwaH bID:n}, {ngayvo'wan:n}</column>
@@ -6697,7 +6680,7 @@ Em {TNK:src}, esta palavra é usada para traduzir "camisa" e {yIvbeH SeQHa':n:no
       <column name="definition_zh_HK">短褲</column>
       <column name="definition_pt">calção, short</column>
       <column name="definition_fi">shortsit</column>
-      <column name="definition_fr"></column>
+      <column name="definition_fr">shorts [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yopwaH:n}, {bID:n}</column>
@@ -7098,11 +7081,7 @@ Some of the known districts on {Qo'noS:n} are:
 Kronosin ({Qo'noS:n}) tunnettuja alueita ovat:
 ▶ {HuD beQ yoS:n}
 ▶ {tlhIng yoS:n}</column>
-      <column name="notes_fr">Il s'agit d'une zone au sein d'un {Sep:n}, contenant généralement au moins un {veng:n}.[2] important.
-
-Certains des districts connus sur {Qo'noS:n} sont :
-▶ [broken link: 5]
-▶ [broken link: 6]{HuD beQ yoS:n}{tlhIng yoS:n} [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -8808,7 +8787,7 @@ Les tonalités de la gamme musicale Klingon sont : {yu:n}, {bIm:n}, {'egh:n}, {
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s’agit d’un groupe de personnes partageant un intérêt commun (et probablement relativement étroit) ou une caractéristique commune. Une telle communauté n’est généralement pas un groupe formellement ou officiellement organisé.[broken link: 1][1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The example of "Klingon-speaking community" was given.[1]</column>
       <column name="components"></column>
       <column name="examples"></column>
