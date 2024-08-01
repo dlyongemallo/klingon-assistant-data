@@ -8316,7 +8316,7 @@ Regardez Gowron dire ceci : {YouTube video:url:http://youtu.be/4gCJJiBXaE4} [A
       <column name="definition_fr">être gros [AUTOTRANSLATED]</column>
       <column name="synonyms">{ror:v}</column>
       <column name="antonyms">{lang:v}</column>
-      <column name="see_also">{tlhagh:n:1}, {juch:v}, {vaS:v}</column>
+      <column name="see_also">{tlhagh:n:1}, {juch:v:1}, {vaS:v}</column>
       <column name="notes">This verb does not carry a connotation of bulk due to body fat or the like, for which see {ror:v}.[2]
 
 It can also be used in typography to describe a "bold" font. See {ngutlh tu'qom:n}.</column>
@@ -9780,6 +9780,53 @@ Written as a compound noun in {MAGIC:src}.</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KGT:src}, [2] {Saarbrücken qepHom'a' 2014:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">por Ho'Du'</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">rake (for leaves)</column>
+          <column name="definition_de">Rechen (für Blätter)</column>
+          <column name="definition_fa">چنگک زدن (برای برگها) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">kratta (för löv) [AUTOTRANSLATED]</column>
+          <column name="definition_ru">грабли (для листьев) [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">耙子（用於樹葉） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">ancinho (para folhas) [AUTOTRANSLATED]</column>
+          <column name="definition_fi">harava</column>
+          <column name="definition_fr">râteau (pour les feuilles) [AUTOTRANSLATED]</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{lam Ho'Du':n}</column>
+          <column name="notes">This is the kind of rake used for collecting dead leaves.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr">C'est le genre de râteau utilisé pour ramasser les feuilles mortes.[1] [AUTOTRANSLATED]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{por:n}, {Ho':n:1}, {-Du':n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2023:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">por pur</column>
