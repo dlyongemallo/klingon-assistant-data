@@ -622,7 +622,7 @@ The original description said "sharp and poisonous", but it was clarified that M
       <column name="definition_de">es</column>
       <column name="definition_fa">آن</column>
       <column name="definition_sv">den, det</column>
-      <column name="definition_ru">он, она, оно, его, её (для вещей, не способных использовать речь)</column>
+      <column name="definition_ru">оно (для неговорящих вещей)</column>
       <column name="definition_zh_HK">它、牠</column>
       <column name="definition_pt">ele/ela (objetos, seres não capazes de linguagem)</column>
       <column name="definition_fi">se</column>
@@ -652,7 +652,25 @@ The imperative verb prefix when {'oH:n:nolink} is the object is {yI-:v:pref}.</c
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
+      <column name="notes_ru">Множественное число этого местоимения — {bIH:n:pro}.
+
+Глагольные префиксы, когда {'oH:n:nolink} является подлежащим:
+▶ {'oH:n:nolink}:{pagh:n:1h} = {0:v:pref}
+▶ {'oH:n:nolink}:{jIH:n:1h} = {mu-:v:pref}
+▶ {'oH:n:nolink}:{maH:n:1h} = {nu-:v:pref}
+▶ {'oH:n:nolink}:{SoH:n} = {Du-:v:pref}
+▶ {'oH:n:nolink}:{tlhIH:n} = {lI-:v:pref}
+▶ {'oH:n:nolink}:{ghaH:n}/{'oH:n:nolink}/{chaH:n}/{bIH:n} = {0:v:pref}
+
+Глагольные префиксы, когда {'oH:n:nolink} является дополнением:
+▶ {jIH:n:1h}:{'oH:n:nolink} = {vI-:v:pref}
+▶ {maH:n:1h}:{'oH:n:nolink} = {wI-:v:pref}
+▶ {SoH:n}:{'oH:n:nolink} = {Da-:v:pref}
+▶ {tlhIH:n}:{'oH:n:nolink} = {bo-:v:pref}
+▶ {ghaH:n}/{'oH:n:nolink}:{'oH:n:nolink} = {0:v:pref}
+▶ {chaH:n}/{bIH:n}:{'oH:n:nolink} = {lu-:v:pref}
+
+Глагольный префикс повелительного наклонения, когда {'oH:n:nolink} является дополнением: {yI-:v:pref}.</column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">Tämän pronominin monikko on {bIH:n:pro}.
@@ -792,6 +810,53 @@ The sentence {wI'oj:sen@@wI-:v, 'oj:v} appears on {KGT p.101:src}, but this is b
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {Saarbrücken qepHom'a' 2017:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
+      <column name="entry_name">'olDop</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">pedal (like on a bicycle)</column>
+      <column name="definition_de">Pedal (wie beim Fahrrad) [AUTOTRANSLATED]</column>
+      <column name="definition_fa">پدال (مانند دوچرخه) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">pedal (som på en cykel) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">педаль (как на велосипеде) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">踏板（如自行車） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">pedal (como em uma bicicleta) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">poljin (kuten polkupyörässä) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">pédaler (comme sur un vélo) [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 31 (2024):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -1306,7 +1371,7 @@ Un verbe couramment utilisé avec {'olQan:n:nolink} est {'uch:v:1}. [AUTOTRANSLA
       <column name="definition_fr">couler [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'al:v:1}, {'ay:v}</column>
-      <column name="see_also">{luS:v}, {Qal:v}</column>
+      <column name="see_also">{luS:v}, {Qal:v:1}</column>
       <column name="notes">This can be used for sinking into water and so on.</column>
       <column name="notes_de">Dies kann zum Eintauchen in Wasser usw. verwendet werden. [AUTOTRANSLATED]</column>
       <column name="notes_fa">این می تواند برای غرق شدن در آب و غیره استفاده شود. [AUTOTRANSLATED]</column>
@@ -1773,7 +1838,7 @@ Verbs related to aircraft (or spacecraft) movement include: {Dav:v:2}, {Der:v:2}
       <column name="entry_name">'orgh</column>
       <column name="part_of_speech">v:i</column>
       <column name="definition">skitter</column>
-      <column name="definition_de">gleiten, rutschen</column>
+      <column name="definition_de">flitzen, huschen, rutschen</column>
       <column name="definition_fa">اسکیت باز [AUTOTRANSLATED]</column>
       <column name="definition_sv">skitter [AUTOTRANSLATED]</column>
       <column name="definition_ru">бегать [AUTOTRANSLATED]</column>
@@ -2697,7 +2762,7 @@ Ce mot s’écrit aussi {'orghenya'ngan:n:nolink}. [AUTOTRANSLATED]</column>
           <column name="definition_fr">théorie quantique, mécanique quantique, physique quantique [AUTOTRANSLATED]</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
-          <column name="see_also">{'otlh:n}, {HapQeD:n}, {'otlhtej:n}, {QeD:n}, {SuyDar:n}, {mergh:v}, {wuvchuq:v}</column>
+          <column name="see_also">{'otlh:n}, {HapQeD:n}, {'otlhtej:n}, {QeD:n}, {SuyDar:n}, {mergh:v:1}, {wuvchuq:v}</column>
           <column name="notes"></column>
           <column name="notes_de"></column>
           <column name="notes_fa"></column>
@@ -3836,6 +3901,53 @@ Toutes les chansons Klingons ont {'o'meghmey:n:nolink}. Si une chanson disparaî
       <column name="search_tags_fr"></column>
       <column name="source">[1] {KLI mailing list 2020.03.30:src}, [2] {Saarbrücken qepHom'a' 2020:src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'o'nI' 'atlhqam</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">yeast</column>
+          <column name="definition_de">Hefe</column>
+          <column name="definition_fa">مخمر [AUTOTRANSLATED]</column>
+          <column name="definition_sv">jäst [AUTOTRANSLATED]</column>
+          <column name="definition_ru">дрожжи [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">酵母菌 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">levedura [AUTOTRANSLATED]</column>
+          <column name="definition_fi">hiiva [AUTOTRANSLATED]</column>
+          <column name="definition_fr">levure</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'o'nI':n}, {'atlhqam:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {qep'a' 31 (2024):src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'o'roy'</column>

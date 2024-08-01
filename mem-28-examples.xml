@@ -1802,7 +1802,7 @@ Si les personnes à qui vous parlez sont vos supérieurs, pensez à ajouter {-ne
       <column name="entry_name">maH DIS poH</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">decade</column>
-      <column name="definition_de">Dekade</column>
+      <column name="definition_de">Dekade, Jahrzehnt</column>
       <column name="definition_fa">دهه</column>
       <column name="definition_sv">årtionde [AUTOTRANSLATED]</column>
       <column name="definition_ru">десяток, десятилетие</column>
@@ -2378,7 +2378,7 @@ This was not explicitly mentioned in the {Saarbrücken qepHom'a' 2021:src} bookl
       <column name="entry_name">yaD pach</column>
       <column name="part_of_speech">n:body,deriv</column>
       <column name="definition">toenail</column>
-      <column name="definition_de">Zeh-Nagel</column>
+      <column name="definition_de">Zehennagel</column>
       <column name="definition_fa">دست و پنجه نرم کردن [AUTOTRANSLATED]</column>
       <column name="definition_sv">tånagel [AUTOTRANSLATED]</column>
       <column name="definition_ru">ноготь на пальце ноги [AUTOTRANSLATED]</column>
@@ -2398,7 +2398,7 @@ This was not explicitly mentioned in the {Saarbrücken qepHom'a' 2021:src} bookl
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
-      <column name="hidden_notes">{yaDpach:n@@nolink} (without a space) has never appeared in canon, but some people use it on the basis that it is obvious by analogy with {nItlhpach:n:1}.</column>
+      <column name="hidden_notes">{yaDpach:n@@nolink} (without a space) has never appeared in canon, but some people use it on the basis that it is obvious by analogy with {nItlhpach:n:1}. ({yaD pach:n:nolink} has never appeared in canon either, but is just a noun-noun construction as described in {TKD 3.4:src}.)</column>
       <column name="components">{yaD:n:1}, {pach:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
