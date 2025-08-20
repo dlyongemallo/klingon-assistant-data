@@ -753,7 +753,14 @@
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {bImejDI' reH betleHlIj yItlhap.:sen}
+▶ {juHwIjDaq Dochvetlh vItlhap.:sen}
+▶ {"GO" DajuSDI' cha'vatlh QaS yItlhap:sen:nolink}[2]
+▶ {jopDI' 'ovwI' veb, 'echletHom tlhap:sen@@jop:v:1, -DI':v, 'ovwI':n, veb:v, 'echletHom:n, tlhap:v} "When the next player takes his/her turn, he/she takes a card"[2]
+▶ {ngIq gholvo' wa'maH QaS yItlhap.:sen:nolink} "Collect 10 forces from every player."[2]
+▶ {jagh Duj DaQaw' 'ach pagh qama' Datlhapqa'.:sen:nolink} "Detruisez le vaisseau ennemi sans prendre des prisonniers."[2]
+▶ {qeylIS 'etlh Datlhapqa' 'e' DaQapbe'.:sen:nolink} "Vous échouez de reprendre l'épée de Kahless."[2]</column>
       <column name="search_tags">retrieve</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -762,9 +769,7 @@
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="search_tags_fr">
-▶ {jagh Duj DaQaw' 'ach pagh qama' Datlhapqa'.:sen:nolink} "Detruisez le vaisseau ennemi sans prendre des prisonniers."[2]
-▶ {qeylIS 'etlh Datlhapqa' 'e' DaQapbe'.:sen:nolink} "Vous échouez de reprendre l'épée de Kahless."[2]</column>
+      <column name="search_tags_fr"></column>
       <column name="source">[1] {TKD:src}, [2] {Klingon Monopoly:src}</column>
     </table>
         <table name="mem">
@@ -2929,7 +2934,7 @@ In the 1985 film "Fletch", Irwin M. "Fletch" Fletcher is an investigative report
       <column name="entry_name">tlhewle'</column>
       <column name="part_of_speech">n</column>
       <column name="definition">argon</column>
-      <column name="definition_de">Argon [AUTOTRANSLATED]</column>
+      <column name="definition_de">Argon</column>
       <column name="definition_fa">آرگون [AUTOTRANSLATED]</column>
       <column name="definition_sv">argon [AUTOTRANSLATED]</column>
       <column name="definition_ru">аргон [AUTOTRANSLATED]</column>
@@ -6122,7 +6127,7 @@ The request that resulted in this word specified that a favor is "an act done ou
       <column name="entry_name">tlhoyteH</column>
       <column name="part_of_speech">n</column>
       <column name="definition">thrash lute</column>
-      <column name="definition_de">Thrash Laute [AUTOTRANSLATED]</column>
+      <column name="definition_de">Thrash-Laute</column>
       <column name="definition_fa">لوت [AUTOTRANSLATED]</column>
       <column name="definition_sv">lutning [AUTOTRANSLATED]</column>
       <column name="definition_ru">Трэш лютню [AUTOTRANSLATED]</column>
