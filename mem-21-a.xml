@@ -10,19 +10,19 @@
       <column name="definition_zh_HK">元音{a:sen:nolink}</column>
       <column name="definition_pt">a vogal {a:sen:nolink}</column>
       <column name="definition_fi">vokaali {a:sen:nolink}</column>
-      <column name="definition_fr">la voyelle {a:sen:nolink} [AUTOTRANSLATED]</column>
+      <column name="definition_fr">la voyelle {a:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This refers to the sound, and not to any letter or glyph.</column>
-      <column name="notes_de">Dies bezieht sich auf den Ton und nicht auf Buchstaben oder Glyphen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به صدا اشاره دارد و به هیچ حرف یا حروف گلی اشاره نمی کند. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bezieht sich auf den Laut, nicht den Buchstaben oder das Zeichen.</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv">Namnet på ett ljud, inte en skriven bokstav eller glyf.</column>
-      <column name="notes_ru">Это относится к звуку, а не к букве или глифу. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指聲音，而不是任何字母或字形。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso se refere ao som, e não a qualquer letra ou glifo. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa ääneen eikä mihinkään kirjaimeen tai kuvioon. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela fait référence au son, et non à une lettre ou à un glyphe. [AUTOTRANSLATED]</column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère au son, pas à la lettre ou au glyphe.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -104,19 +104,19 @@
       <column name="definition_zh_HK">長度/高度為 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ter um comprimento/altura de</column>
       <column name="definition_fi">olla pituudeltaan/korkeudeltaan jotain</column>
-      <column name="definition_fr">avoir une longueur/hauteur de [AUTOTRANSLATED]</column>
+      <column name="definition_fr">avoir une longueur/hauteur de</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'uj:n}, {woch:v}, {tIq:v}, {jen:v}, {run:v}, {juch:v:1}, {Saw':v}, {juv:v}</column>
       <column name="notes">Both {'ab:v:1,nolink} and {'aD:v} mean "have a length of", but they are used in different contexts. {'ab:v:1,nolink} is used for long items and to express height. The object of {'ab:v:1,nolink} is the length or height of the subject.</column>
-      <column name="notes_de">Sowohl {'ab:v:1,nolink} als auch {'aD:v} bedeuten "haben eine Länge von", werden jedoch in unterschiedlichen Kontexten verwendet. {'ab:v:1,nolink} wird für lange Gegenstände und zum Ausdrücken der Höhe verwendet. Das Objekt von {'ab:v:1,nolink} ist die Länge oder Höhe des Subjekts. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">هر دو {'ab:v:1,nolink} و {'aD:v} به معنای "طول" دارند ، اما در متن های مختلف استفاده می شوند. {'ab:v:1,nolink} برای موارد طولانی و بیان قد استفاده می شود. هدف {'ab:v:1,nolink} طول یا ارتفاع موضوع است. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Sowohl {'ab:v:1,nolink} und {'aD:v} bedeuten "eine Länge von ... haben", aber sie werden in unterschiedlichen Kontexten benutzt. {'ab:v:1,nolink} wir für lange Gegenstände benutzt und um Höhe auszudrücken. Das Objekt von {'ab:v:1,nolink} ist die Länge oder Höhe des Objekts.</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Tanto {'ab:v:1,nolink} quanto {'aD:v} significam "tamanho", mas são usados ​​em contextos diferentes. {'ab:v:1,nolink} é usado para itens longos e para expressar altura. O objeto de {'ab:v:1,nolink} é o comprimento ou a altura do assunto. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Sekä {'ab:v:1,nolink} että {'aD:v} tarkoittavat "on pituus", mutta niitä käytetään eri tilanteissa. {'ab:v:1,nolink}: ta käytetään pitkiä esineitä varten ja korkeuden ilmaisemiseen. {'ab:v:1,nolink}: n kohde on kohteen pituus tai korkeus. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{'ab:v:1,nolink} et {'aD:v} signifient tous deux « avoir une longueur de », mais ils sont utilisés dans des contextes différents. {'ab:v:1,nolink} est utilisé pour les éléments longs et pour exprimer la hauteur. L'objet de {'ab:v:1,nolink} est la longueur ou la hauteur du sujet. [AUTOTRANSLATED]</column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Et {'ab:v:1,nolink} et {'aD:v} signifient "avoir une longueur de", mais on les utilise dans les contextes différents. {'ab:v:1,nolink} s'utilise pour les choses longues et pour exprimer la hauteur. L'objet de {'ab:v:1,nolink} est la longueur ou la hauteur du sujet.</column>
       <column name="hidden_notes">In anatomy, abduction refers to moving away from a midline. In particular, abduction at the shoulder means raising the arms up, an action which is often done to measure the length of something. Its counterpart, adduction, refers to movement towards a midline.</column>
       <column name="components"></column>
       <column name="examples">
@@ -128,24 +128,40 @@
 ▶ {HIvtaHvIS toQDuj cha'vatlh wejmaH Soch vI' vagh chorgh 'uj 'ab 'oH:sen:nolink} "Attack Formation Height: 82.75 M"[3]
 ▶ {qughtaHvIS toQDuj HutmaH vI' jav wa' 'uj 'ab 'oH:sen:nolink} "Cruise Formation Height: 31.56 M"[3]
 ▶ {SaqtaHvIS toQDuj wa'vatlh loS vI' jav chorgh 'uj 'ab 'oH:sen:nolink} "Landing Formation Height: 36.46 M"[3]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {wej 'ujmey 'ab 'oy'naQ.:sen:nolink} "Schmerzstöcke sind etwas länger als ein Meter."[1]
+▶ {jav 'ujmey 'ab SuvwI'.:sen:nolink} "Der Krieger ist sechs uj groß." (etwa 2,08m)[2]
+▶ {vagh 'ujmey vI'ab.:sen:nolink} "Ich bin fünf uj groß." (etwa 1,73m)[2]
+▶ {wej 'uj 'ab naQjej.:sen:nolink} "Der Speer ist 3 uj lang" (etwa 1,04m)[2]
+▶ {loSmaH jav vI' Soch loS 'uj 'ab meH:sen:nolink} "Brückenhöhe: 16.28m"[3]
+▶ {HIvtaHvIS toQDuj cha'vatlh wejmaH Soch vI' vagh chorgh 'uj 'ab 'oH:sen:nolink} "Höhe der Angriffsformation: 82.75m"[3]
+▶ {qughtaHvIS toQDuj HutmaH vI' jav wa' 'uj 'ab 'oH:sen:nolink} "Höhe der Reiseformation: 31.56m"[3]
+▶ {SaqtaHvIS toQDuj wa'vatlh loS vI' jav chorgh 'uj 'ab 'oH:sen:nolink} "Höhe der Landeformation: 36.46m"[3]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {wej 'ujmey 'ab 'oy'naQ.:sen:nolink} "Bâtons de douleur sont un peu plus longs d'un mètre."[1]
+▶ {jav 'ujmey 'ab SuvwI'.:sen:nolink} "Le guerrier fait six ujes de haut." (environ 2,08m)[2]
+▶ {vagh 'ujmey vI'ab.:sen:nolink} "Je suis haut de 5 ujes." (environ 1,72m)[2]
+▶ {wej 'uj 'ab naQjej.:sen:nolink} "La lance fait 3 ujes de long." (environ 1,04m)[2]
+▶ {loSmaH jav vI' Soch loS 'uj 'ab meH:sen:nolink} "Hauteur de la passerelle: 16.28m"[3]
+▶ {HIvtaHvIS toQDuj cha'vatlh wejmaH Soch vI' vagh chorgh 'uj 'ab 'oH:sen:nolink} "Hauteur de la formation d'attaque: 82.75m"[3]
+▶ {qughtaHvIS toQDuj HutmaH vI' jav wa' 'uj 'ab 'oH:sen:nolink} "Hauteur de la formation de voyage: 31.56m"[3]
+▶ {SaqtaHvIS toQDuj wa'vatlh loS vI' jav chorgh 'uj 'ab 'oH:sen:nolink} "Hauteur de la formation d'atterrissage: 36.46m"[3]</column>
       <column name="search_tags">length, height, long, high, have a length of, have a height of</column>
-      <column name="search_tags_de"></column>
+      <column name="search_tags_de">lang, hoch</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="search_tags_fr"></column>
-      <column name="source">[1] {SkyBox 32:src} (reprinted in {HQ 6.2, p.9, Jun. 1997:src}), [2] {msn 1997.10.22:src}, [3] {BoP:src}</column>
+      <column name="search_tags_fr">long, haut</column>
+      <column name="source">[1] {SkyBox S32:src} (reprinted in {HQ 6.2, p.9, Jun. 1997:src}), [2] {msn 1997.10.22:src}, [3] {BoP:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -159,19 +175,19 @@
       <column name="definition_zh_HK">處於某個緯度 [AUTOTRANSLATED]</column>
       <column name="definition_pt">estar em uma latitude [AUTOTRANSLATED]</column>
       <column name="definition_fi">olla leveysasteella</column>
-      <column name="definition_fr">être à une latitude [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être à une latitude</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngotrI':n}</column>
       <column name="notes">When used to specify location (as opposed to linear dimension), the object of this verb is expressed in {lawrI'(mey):n@@lawrI':n, -mey:n}, so {X 'ab:sen:nolink} could be translated as "be at latitude X".[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Wenn dieses Wort benutzt wird um einen Ort auszudrücken (im Gegensat zu Länge/Höhe), wird das Objekt in {lawrI'(mey):n@@lawrI':n, -mey:n} ausgedrückt, also könnte {X 'ab:sen:nolink} mit "auf geographischer Breite X sein" übersetzt werden.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Lorsqu'il est utilisé pour spécifier un emplacement (par opposition à une dimension linéaire), l'objet de ce verbe est exprimé en {lawrI'(mey):n@@lawrI':n, -mey:n}, donc {X 'ab:sen:nolink} pourrait être traduit par "être à la latitude X".[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Quand ce mot est utilisé pour exprimer une position (contrairement à une dimension linéaire), l'objet de ce verbe est exprimé en {lawrI'(mey):n@@lawrI':n, -mey:n}, alors {X 'ab:sen:nolink} pourrait être traduit par "être à la latitude X".[1]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -196,6 +212,53 @@
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">'abcheD</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">vitamin</column>
+      <column name="definition_de">Vitamin [AUTOTRANSLATED]</column>
+      <column name="definition_fa">ویتامین [AUTOTRANSLATED]</column>
+      <column name="definition_sv">vitamin [AUTOTRANSLATED]</column>
+      <column name="definition_ru">витамин [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">維他命 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">Vitamina [AUTOTRANSLATED]</column>
+      <column name="definition_fi">vitamiini [AUTOTRANSLATED]</column>
+      <column name="definition_fr">vitamine [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes">Vitamins A, B, C, D, and E.</column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 32 (2025):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">'ach</column>
       <column name="part_of_speech">conj</column>
       <column name="definition">but, nevertheless, even so, however, whereas</column>
@@ -206,20 +269,20 @@
       <column name="definition_zh_HK">但是、儘管如此、然而、儘管如此 [AUTOTRANSLATED]</column>
       <column name="definition_pt">mas, no entanto, mesmo assim, enquanto</column>
       <column name="definition_fi">mutta, silti, kuitenkin, kun taas</column>
-      <column name="definition_fr">mais néanmoins, quand même, alors que [AUTOTRANSLATED]</column>
+      <column name="definition_fr">mais, néanmoins, toutefois, cependant, tandis que, alors que</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">
 ▶ {ro' mojchugh ghIt:sen}</column>
       <column name="notes">This is sometimes shortened to {'a:conj:nolink}.</column>
-      <column name="notes_de">Dies wird manchmal zu {'a:conj:nolink} verkürzt. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این گاهی اوقات به {'a:conj:nolink} کوتاه می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Ibland förkortas detta till {'a:conj:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это иногда сокращается до {'a:conj:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">有時將其縮短為{'a:conj:nolink}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Às vezes, isso é encurtado para {'a:conj:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä lyhennetään joskus {'a:conj:nolink}-muotoon. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ceci est parfois abrégé en {'a:conj:nolink}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Die wird manchmal zu {'a:conj:nolink} verkürzt.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est parfois abrégé à {'a:conj:nolink}.</column>
       <column name="hidden_notes">This was defined as "but, nevertheless, even so, however" in {TKD:src}. The definition "whereas" for expressing contrast was added at {qep'a' 25 (2018):src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -254,7 +317,7 @@
       <column name="definition_zh_HK">虛空 [AUTOTRANSLATED]</column>
       <column name="definition_pt">vazio</column>
       <column name="definition_fi">tyhjiö</column>
-      <column name="definition_fr">vide [AUTOTRANSLATED]</column>
+      <column name="definition_fr">vide</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{logh:n}, {chIm:v}, {pagh:n:1}</column>
@@ -303,7 +366,7 @@ The example which came with the request is about outer space, so this seems to b
       <column name="definition_zh_HK">頸背頸背後頸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">nuca</column>
       <column name="definition_fi">niska</column>
-      <column name="definition_fr">nuque, peau, nuque [AUTOTRANSLATED]</column>
+      <column name="definition_fr">nuque, peau du cou</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mong:n}, {mong'em:n}</column>
@@ -349,20 +412,20 @@ The example which came with the request is about outer space, so this seems to b
       <column name="definition_ru">наковальня [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">砧 [AUTOTRANSLATED]</column>
       <column name="definition_pt">bigorna [AUTOTRANSLATED]</column>
-      <column name="definition_fi">alasin [AUTOTRANSLATED]</column>
+      <column name="definition_fi">alasin</column>
       <column name="definition_fr">enclume</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This refers to the block used in blacksmithing, and not to the bone in the ear.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist dasGerät, dass ein Schmied verwendet, nicht der Knochen im Ohr.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ceci est l'appareil usé par les forgerons, pas l'os dans l'oreille.[1]</column>
       <column name="hidden_notes">The Acme Corporation makes the anvils which are frequently dropped on Wile E. Coyote.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -397,7 +460,7 @@ The example which came with the request is about outer space, so this seems to b
       <column name="definition_zh_HK">靜脈、動脈、血管 [AUTOTRANSLATED]</column>
       <column name="definition_pt">veia, artéria, vaso sanguíneo</column>
       <column name="definition_fi">verisuoni, laskimo, valtimo</column>
-      <column name="definition_fr">veine, artère, vaisseau sanguin [AUTOTRANSLATED]</column>
+      <column name="definition_fr">veine, artère, vaisseau sanguin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mej'aD:n}, {paw'aD:n}, {'Iw:n}, {regh:v}</column>
@@ -446,7 +509,7 @@ A German word for "vein" is "Ader".</column>
           <column name="definition_zh_HK">毛細血管 [AUTOTRANSLATED]</column>
           <column name="definition_pt">capilar</column>
           <column name="definition_fi">hiussuoni, kapillaari</column>
-          <column name="definition_fr">capillaire [AUTOTRANSLATED]</column>
+          <column name="definition_fr">capillaire</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -493,31 +556,33 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">有一個長度、衡量 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ter um comprimento de, medir</column>
       <column name="definition_fi">olla pituudeltaan jotain</column>
-      <column name="definition_fr">avoir une longueur de, mesurer [AUTOTRANSLATED]</column>
+      <column name="definition_fr">avoir une longueur de</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'uj:n}, {juch:v:1}, {Saw':v}, {juv:v}, {men:v}</column>
       <column name="notes">Both {'aD:v:nolink} and {'ab:v:1} mean "have a length of", but they are used slightly differently. For flat objects such as tabletops, {'aD:v:nolink} is used for one dimension while {juch:v:1} is used for the other. For long objects, and for height, {'ab:v:1,nolink} is used instead.[2]</column>
-      <column name="notes_de">Sowohl {'aD:v:nolink} als auch {'ab:v:1} bedeuten "haben eine Länge von", werden jedoch geringfügig unterschiedlich verwendet. Für flache Objekte wie Tischplatten wird {'aD:v:nolink} für eine Dimension verwendet, während {juch:v:1} für die andere verwendet wird. Für lange Objekte und für die Höhe wird stattdessen {'ab:v:1,nolink} verwendet.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">هر دو {'aD:v:nolink} و {'ab:v:1} به معنی "دارای طول" هستند ، اما از آنها کمی متفاوت استفاده می شود. در مورد اشیاء مسطح مانند تبلت ، {'aD:v:nolink} برای یک بعد استفاده می شود ، در حالی که {juch:v:1} برای دیگری استفاده می شود. در عوض برای اشیاء طولانی و از ارتفاع ، به جای آن از {'ab:v:1,nolink} استفاده می شود.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Både {'aD:v:nolink} och {'ab:v:1} betyder "har en längd på", men de används något annorlunda. För platta objekt som bordsskivor används {'aD:v:nolink} för en dimension medan {juch:v:1} används för den andra. För långa föremål och för höjd används istället {'ab:v:1,nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Как {'aD:v:nolink}, так и {'ab:v:1} означают «иметь длину», но они используются немного по-разному. Для плоских объектов, таких как столешницы, {'aD:v:nolink} используется для одного измерения, а {juch:v:1} - для другого. Для длинных объектов и для высоты вместо этого используется {'ab:v:1,nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">{'aD:v:nolink}和{'ab:v:1}均表示「長度為」，但用法略有不同。對於諸如桌面之類的扁平物體，{'aD:v:nolink}用於一個尺寸，而{juch:v:1}用於另一尺寸。對於長物體和高度，將使用{'ab:v:1,nolink}代替。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Ambos {'aD:v:nolink} e {'ab:v:1} significam "têm um comprimento de", mas são usados ​​de forma ligeiramente diferente. Para objetos planos, como tampos de mesa, {'aD:v:nolink} é usado para uma dimensão enquanto {juch:v:1} é usado para a outra. Para objetos longos e para altura, {'ab:v:1,nolink} é usado em seu lugar.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Sekä {'aD:v:nolink} että {'ab:v:1} tarkoittavat "on pituus", mutta niitä käytetään hieman eri tavalla. Litteille esineille, kuten pöytälevyille, {'aD:v:nolink} käytetään yhdessä ulottuvuudessa ja {juch:v:1} toisessa. Pitkille esineille ja korkeudelle käytetään sen sijaan {'ab:v:1,nolink}[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">{'aD:v:nolink} et {'ab:v:1} signifient « avoir une longueur de », mais ils sont utilisés légèrement différemment. Pour les objets plats tels que les dessus de table, {'aD:v:nolink} est utilisé pour une dimension tandis que {juch:v:1} est utilisé pour l'autre. Pour les objets longs et pour la hauteur, {'ab:v:1,nolink} est utilisé à la place.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Sowohl {'ab:v:1,nolink} und {'aD:v} bedeuten "eine Länge von ... haben", aber sie werden leicht unteschiedlich benutzt. Für flache Objekte, so wie Tischplatten, wird {'aD:v:nolink} für eine Dimension benutzt und {juch:v:1} für die andere. Für lange Objekte und Höhe wird stattdessen {'ab:v:1,nolink} benutzt.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Et {'ab:v:1,nolink} et {'aD:v} signifient "avoir une longueur de", mais on les utilise un peu différemment. Pour les objets plats, comme le dessus d'une table, {'aD:v:nolink} s'utilise pour une dimension et {juch:v:1} pour l'autre. Pour les objets longs et la hauteur, on utilise plutôt {'ab:v:1,nolink}.</column>
       <column name="hidden_notes">In anatomy, abduction refers to moving away from a midline. In particular, abduction at the shoulder means raising the arms up, an action which is often done to measure the length of something. Its counterpart, adduction, refers to movement towards a midline.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {wejvatlh loSmaH loS vI' vagh wej 'uj 'aD Duj:sen:nolink} "Length: 120 M"[3]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {wejvatlh loSmaH loS vI' vagh wej 'uj 'aD Duj:sen:nolink} "Länge: 120m"[3]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {wejvatlh loSmaH loS vI' vagh wej 'uj 'aD Duj:sen:nolink} "Longueur: 120m"[3]</column>
       <column name="search_tags">long</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -541,7 +606,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">展示、表現</column>
       <column name="definition_pt">mostrar, demonstrar, apresentar</column>
       <column name="definition_fi">osoittaa, näyttää, ilmentää</column>
-      <column name="definition_fr">montrer, démontrer, afficher [AUTOTRANSLATED]</column>
+      <column name="definition_fr">montrer, démontrer, afficher</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ang:v}, {chIw:v}</column>
@@ -570,14 +635,40 @@ A German word for "vein" is "Ader".</column>
   "About avenging their stolen pride,
    About caring for their weapons,
    For they represent the purity of their blood."[3]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {qab yon Da'agh. qablIj yon yI'aghHa' 'aghHa'pa' 'etlhwIj.:sen:nolink} "Nimm diesen selbstgefälligen Ausdruck von deinem Gesicht, bevor meine Klinge es für dich erledigt."[2]
+▶ {'ej Hoch vengHomDaq Hoch vengDaq je:sen:nolink}
+   {Suchbogh ghaH qeylIS luQoy:sen:nolink}
+   {woQ le'yo' je 'aghbej ghaH:sen:nolink}
+  "In jeder Stadt, in jedem Dorf
+   Sprach Kahless zu ihnen,
+   Voller Stolz und Autorität,
+  {le'yo'raj nIHlu'ta'mo' penoD jatlh qeylIS:sen:nolink}
+   {nuHmeyraj tIQorgh:sen:nolink}
+   {watlh 'Iwraj 'e' lu'aghmo' nuHmey jej:sen:nolink}
+  "Darüber, den verlorenen Stolz zu rächen,
+   Sich um ihre Waffen zu kümmern,
+   Da sie die Reinheit ihres Blutes darstellen."[3, 2. Ausgabe, S. 122-123]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {qab yon Da'agh. qablIj yon yI'aghHa' 'aghHa'pa' 'etlhwIj.:sen:nolink} "Efface cet air suffisant de ton visage avant que ma lame ne le fasse pour toi."[2]
+▶ {'ej Hoch vengHomDaq Hoch vengDaq je:sen:nolink}
+   {Suchbogh ghaH qeylIS luQoy:sen:nolink}
+   {woQ le'yo' je 'aghbej ghaH:sen:nolink}
+  "Et dans toutes les villages et toutes les villes
+   Que Kahless visita, ils l'écoutaient
+   Montrant fierté et autorité,"
+  {le'yo'raj nIHlu'ta'mo' penoD jatlh qeylIS:sen:nolink}
+   {nuHmeyraj tIQorgh:sen:nolink}
+   {watlh 'Iwraj 'e' lu'aghmo' nuHmey jej:sen:nolink}
+  "De venger leur fierté volée,
+   De prendre soin de leurs armes,
+   Parce qu'ils représentent la purité de leur sang."[3]</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -594,26 +685,26 @@ A German word for "vein" is "Ader".</column>
       <column name="entry_name">'aghnIDnem</column>
       <column name="part_of_speech">n</column>
       <column name="definition">fuse (electrical)</column>
-      <column name="definition_de">(elektrische) Sicherung</column>
+      <column name="definition_de">Sicherung (elektrisch)</column>
       <column name="definition_fa">فیوز (برق) [AUTOTRANSLATED]</column>
       <column name="definition_sv">säkring (elektrisk) [AUTOTRANSLATED]</column>
       <column name="definition_ru">предохранитель (электрический) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">保險絲（電氣） [AUTOTRANSLATED]</column>
       <column name="definition_pt">fusível (elétrico) [AUTOTRANSLATED]</column>
-      <column name="definition_fi">sulake (sähkö) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">sulake</column>
       <column name="definition_fr">fusible, coupe-circuit</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This refers to a device for preventing the overloading of an electrical circuit.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist das Bauteil, das verwendet wird um eine Überlast in einem Stromkreis zu verhindern.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ceci est l'élément qu'on utilise pour prévenir une surcharge dans un circuit électrique.</column>
       <column name="hidden_notes">The lyrics to the Beatles song "When I'm Sixty Four" contains the phrase "mending a fuse".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -648,7 +739,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">用具 [AUTOTRANSLATED]</column>
       <column name="definition_pt">parafernália</column>
       <column name="definition_fi">varusteet, tarvikkeet</column>
-      <column name="definition_fr">attirail [AUTOTRANSLATED]</column>
+      <column name="definition_fr">attirail, équipement</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Hov leng:n}</column>
@@ -695,7 +786,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">原型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">protótipo</column>
       <column name="definition_fi">prototyyppi</column>
-      <column name="definition_fr">prototype [AUTOTRANSLATED]</column>
+      <column name="definition_fr">prototype</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngong:n}</column>
@@ -742,7 +833,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">馬俱 [AUTOTRANSLATED]</column>
       <column name="definition_pt">arreios</column>
       <column name="definition_fi">valjaat</column>
-      <column name="definition_fr">harnais [AUTOTRANSLATED]</column>
+      <column name="definition_fr">harnais</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -789,19 +880,19 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">上將</column>
       <column name="definition_pt">almirante</column>
       <column name="definition_fi">amiraali</column>
-      <column name="definition_fr">amiral [AUTOTRANSLATED]</column>
+      <column name="definition_fr">amiral</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This is the 1st rank of {yaS:n:1h}.[2]</column>
-      <column name="notes_de">Dies ist der 1. Rang von {yaS:n:1h}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این رتبه اول {yaS:n:1h} است.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är den första rankingen av {yaS:n:1h}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это 1-й ранг {yaS:n:1h}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是{yaS:n:1h}的第一等級。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é o 1º ranking do {yaS:n:1h}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist der erste Rank eines {yaS:n:1h}.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
       <column name="notes_fi">Tämä on upseeriston ({yaS:n:1h}) korkein sotilasarvo.[2]</column>
-      <column name="notes_fr">Il s'agit du 1er rang de {yaS:n:1h}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci est le premier rang des {yaS:n:1h}.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -836,30 +927,30 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">漂浮（氣體中／上）</column>
       <column name="definition_pt">flutuar (no ar)</column>
       <column name="definition_fi">leijua</column>
-      <column name="definition_fr">flotter (dans/sur l'air) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">flotter (dans/sur l'air)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'oq:v}</column>
       <column name="see_also">{puv:v}, {'ay:v}</column>
       <column name="notes">This is also used for random numbers, such as when throwing dice ({mI' nagh:n}). See {'al:v:2}.</column>
-      <column name="notes_de">Dies wird auch für Zufallszahlen verwendet, z. B. beim Würfeln ({mI' nagh:n}). Siehe {'al:v:2}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این همچنین برای اعداد تصادفی ، مانند هنگام پرتاب تاس ({mI' nagh:n}) استفاده می شود. به {'al:v:2} مراجعه کنید. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies wird auch für Zufallszahlen benutzt, wie z.B. beim Würfeln ({mI' nagh:n}). Siehe {'al:v:2}.</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
-      <column name="notes_zh_HK">這也用於隨機數，例如擲骰子（{mI' nagh:n}）時。參見{'al:v:2}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso também é usado para números aleatórios, como ao jogar dados ({mI' nagh:n}). Consulte {'al:v:2}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä käytetään myös satunnaislukuihin, kuten noppaa heitettäessä ({mI' nagh:n}). Katso {'al:v:2}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci s'utilise aussi pour les nombres aléatoires, par exemple quand on lance des dés ({mI' nagh:n}). Voir {'al:v:2}.</column>
       <column name="hidden_notes">Muhammad Ali said to "float like a butterfly and sting like a bee".</column>
       <column name="components"></column>
       <column name="examples">The fact that this can be used adjectivally for numbers[2] suggests that it is a stative verb, but it is not out of the question that maybe it can be used adjectivally only for numbers but can take an object otherwise.</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">Da man dieses Verb adjektivisch für Zahlen[2] benutzen kann, legt nahe, dass es ein statisches Verb ist, aber es ist nicht unmöglich, dass es vielleicht nur für Zahlen adjektivisch benutzt werden kann, aber sonst ein Objekt haben kann.</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">Le fait qu'on peut utiliser ce mot adjectivement pour les nombres[2] suggère qu'il est un verbe statique, mais il n'est pas hors question que peut-être il peut être utilisé adjectivement pour les nombres seulement, mais peut autrement prendre un objet.</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -871,6 +962,53 @@ A German word for "vein" is "Ader".</column>
       <column name="search_tags_fr"></column>
       <column name="source">[1] {Saarbrücken qepHom'a' 2016:src}, [2] {qep'a' 26 (2019):src}</column>
     </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'alwI'</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">parachute</column>
+          <column name="definition_de">Schweber, Fallschirm</column>
+          <column name="definition_fa">چتر نجات [AUTOTRANSLATED]</column>
+          <column name="definition_sv">fallskärm [AUTOTRANSLATED]</column>
+          <column name="definition_ru">парашют [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">降落傘 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">pára-quedas</column>
+          <column name="definition_fi">laskuvarjo</column>
+          <column name="definition_fr">parachute</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This is an informal term for the old-fashioned contraption that resembles an umbrella. A more technical term is unknown. An apparatus that creates a force field to counter gravity is a {tlham rI'gheS:n}.[1]</column>
+          <column name="notes_de">Dies ist ein informeller Ausdruck für das altmodische Gerät, das einem Schirm ähnelt. Ein technischerer Ausdruck is unbekannt. Ein Apparat, der ein Kraftfeld generiert, um der Schwerkraft entgegenzuwirken ist ein {tlham rI'gheS:n}.[1]</column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr">Ceci est un terme informel pour l'engin démodé qui ressemble à un parapluie. Un mot plus technique n'est pas connu. Le dispositif, qui crée un type de champ de force qui bloque la gravitation, est un {tlham rI'gheS:n}.[1]</column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'al:v:1}, {-wI':v}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2020:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'al</column>
@@ -883,32 +1021,36 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">隨機（數字） [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser aleatório</column>
       <column name="definition_fi">olla satunnainen (luvusta)</column>
-      <column name="definition_fr">être aléatoire (nombre) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être aléatoire (nombre)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mI':n}</column>
       <column name="notes">This is just the verb {'al:v:1} applied to numbers.</column>
-      <column name="notes_de">Dies ist nur das Verb {'al:v:1}, das auf Zahlen angewendet wird. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این فقط فعل {'al:v:1} است که به اعداد اعمال می شود. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist einfach das Verb {'al:v:1} auf Zahlen angewendet.</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv">Det här är bara verbet {'al:v:1} använt på siffror.</column>
-      <column name="notes_ru">Это просто глагол {'al:v:1}, применяемый к числам. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這只是應用於數字的動詞{'al:v:1}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é apenas o verbo {'al:v:1} aplicado aos números. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on vain verbi {'al:v:1}, jota käytetään numeroihin. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C'est juste le verbe {'al:v:1} appliqué aux nombres. [AUTOTRANSLATED]</column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est seulement le verbe {'al:v:1} appliqué sur les nombres.</column>
       <column name="hidden_notes">Based on the explanation and the examples, this is a stative verb. However, the definition of {'al:v:1:nolink} as "float (in/on air)" rather than "be floating" leaves open the possibility that it can take an object in other contexts.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {'al mI':sen@@'al:v:2, mI':n} "the number is random"[2]
 ▶ {mI' 'al:n}</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {'al mI':sen@@'al:v:2, mI':n} "Die Zahl ist zufällig"[2]
+▶ {mI' 'al:n}</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {'al mI':sen@@'al:v:2, mI':n} "le nombre est aléatoire"[2]
+▶ {mI' 'al:n}</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -932,7 +1074,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">私生子，私生子 [AUTOTRANSLATED]</column>
       <column name="definition_pt">bastardo, filho ilegítimo</column>
       <column name="definition_fi">äpärä, avioton lapsi</column>
-      <column name="definition_fr">bâtard, enfant illégitime [AUTOTRANSLATED]</column>
+      <column name="definition_fr">bâtard, enfant illégitime</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -979,7 +1121,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">帶釦</column>
       <column name="definition_pt">fivela (de cinto)</column>
       <column name="definition_fi">(vyön) solki</column>
-      <column name="definition_fr">boucle (de ceinture) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">boucle (de ceinture)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qogh:n:1}</column>
@@ -1021,12 +1163,12 @@ A German word for "vein" is "Ader".</column>
       <column name="definition">freckle</column>
       <column name="definition_de">Sommersprosse</column>
       <column name="definition_fa">کک مک [AUTOTRANSLATED]</column>
-      <column name="definition_sv">fräkne [AUTOTRANSLATED]</column>
+      <column name="definition_sv">fräkne</column>
       <column name="definition_ru">веснушка [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">雀斑 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sardas</column>
       <column name="definition_fi">pisama</column>
-      <column name="definition_fr">tache de rousseur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">tache de rousseur</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qab:n}</column>
@@ -1073,7 +1215,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">斧頭與穗末端 [AUTOTRANSLATED]</column>
       <column name="definition_pt">machado com ponta no fim</column>
       <column name="definition_fi">eräs ase; kirves, jonka päässä on piikki</column>
-      <column name="definition_fr">hache avec pointe au bout [AUTOTRANSLATED]</column>
+      <column name="definition_fr">hache avec pique au bout</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'obmaQ:n}</column>
@@ -1110,6 +1252,53 @@ A German word for "vein" is "Ader".</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">'alqen</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">seam</column>
+      <column name="definition_de">Naht [AUTOTRANSLATED]</column>
+      <column name="definition_fa">درز [AUTOTRANSLATED]</column>
+      <column name="definition_sv">söm [AUTOTRANSLATED]</column>
+      <column name="definition_ru">шва [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">接縫 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">costura [AUTOTRANSLATED]</column>
+      <column name="definition_fi">sauma [AUTOTRANSLATED]</column>
+      <column name="definition_fr">couture [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes">This refers to a suture or stitching that joins any two pieces of material.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 32 (2025):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">'altlhIq</column>
       <column name="part_of_speech">n</column>
       <column name="definition">exclamation (grammatical category)</column>
@@ -1125,14 +1314,14 @@ A German word for "vein" is "Ader".</column>
       <column name="antonyms"></column>
       <column name="see_also">{mu'tlhegh:n}</column>
       <column name="notes">This is included among the {chuvmey:n}.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist in den {chuvmey:n} beinhaltet.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Ceci est inclus parmi les {chuvmey:n}.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci est inclu dans les {chuvmey:n}.[1]</column>
       <column name="hidden_notes">In the International Phonetic Alphabet, the exclamation mark is the symbol for the alveolar click.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1157,64 +1346,17 @@ A German word for "vein" is "Ader".</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
-      <column name="entry_name">'alwI'</column>
-      <column name="part_of_speech">n:deriv</column>
-      <column name="definition">parachute</column>
-      <column name="definition_de">Schweber, Fallschirm</column>
-      <column name="definition_fa">چتر نجات [AUTOTRANSLATED]</column>
-      <column name="definition_sv">fallskärm [AUTOTRANSLATED]</column>
-      <column name="definition_ru">парашют [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">降落傘 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">pára-quedas</column>
-      <column name="definition_fi">laskuvarjo</column>
-      <column name="definition_fr">parachute [AUTOTRANSLATED]</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes">This is an informal term for the old-fashioned contraption that resembles an umbrella. A more technical term is unknown. An apparatus that creates a force field to counter gravity is a {tlham rI'gheS:n}.[1]</column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="notes_fr">Il s’agit d’un terme informel désignant un engin à l’ancienne qui ressemble à un parapluie. Un terme plus technique est inconnu. Un appareil qui crée un champ de force pour contrer la gravité est un {tlham rI'gheS:n}.[1]. [AUTOTRANSLATED]</column>
-      <column name="hidden_notes"></column>
-      <column name="components">{'al:v:1}, {-wI':v}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="search_tags_fr"></column>
-      <column name="source">[1] {Saarbrücken qepHom'a' 2020:src}</column>
-    </table>
-    <table name="mem">
-      <column name="_id"></column>
       <column name="entry_name">'al'on</column>
       <column name="part_of_speech">n</column>
       <column name="definition">glass (material)</column>
       <column name="definition_de">Glas</column>
       <column name="definition_fa">شیشه (مواد) [AUTOTRANSLATED]</column>
-      <column name="definition_sv">glas (material) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">glas (material)</column>
       <column name="definition_ru">стекло (материал) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">玻璃（材料） [AUTOTRANSLATED]</column>
       <column name="definition_pt">vidro (material)</column>
       <column name="definition_fi">lasi (materiaali)</column>
-      <column name="definition_fr">verre (matériau) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">verre (matière)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{baS:n}, {Sor Hap:n}, {mep:n}</column>
@@ -1258,12 +1400,12 @@ A German word for "vein" is "Ader".</column>
       <column name="definition">island</column>
       <column name="definition_de">Insel</column>
       <column name="definition_fa">جزیره، ابخست</column>
-      <column name="definition_sv">ö [AUTOTRANSLATED]</column>
+      <column name="definition_sv">ö</column>
       <column name="definition_ru">остров [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">島</column>
       <column name="definition_pt">ilha</column>
       <column name="definition_fi">saari</column>
-      <column name="definition_fr">île [AUTOTRANSLATED]</column>
+      <column name="definition_fr">île</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{puH:n}, {yuwey:n}, {cha'Har:n}</column>
@@ -1310,19 +1452,19 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">學堂</column>
       <column name="definition_pt">academia</column>
       <column name="definition_fi">akatemia</column>
-      <column name="definition_fr">académie [AUTOTRANSLATED]</column>
+      <column name="definition_fr">académie, type d'école/université</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yejHaD:n}, {yej'an:n}</column>
       <column name="notes">This is a specialized school.[2] (For the most general word for a place of learning, see {DuSaQ:n}.)</column>
-      <column name="notes_de">Dies ist eine spezialisierte Schule.[2] (Das allgemeinste Wort für einen Lernort finden Sie unter {DuSaQ:n}.) [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist eine spezialisierte Schule.[2] (Für den allgemeinsten Ausdruck für einen Ort des Lernens, siehe {DuSaQ:n}.)</column>
       <column name="notes_fa"></column>
-      <column name="notes_sv">Detta är en specialskola.[2] (För {DuSaQ:n} för det mest allmänna ordet för en plats för lärande). [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это специализированная школа.[2] (наиболее общее слово для места обучения см. {DuSaQ:n}.) [AUTOTRANSLATED]</column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Esta é uma escola especializada.[2] (Para a palavra mais genérica para um local de aprendizado, consulte {DuSaQ:n}.) [AUTOTRANSLATED]</column>
+      <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s'agit d'une école spécialisée.[2] (Pour le mot le plus général désignant un lieu d'apprentissage, voir {DuSaQ:n}.) [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci est une école spécialisée.[2] (Pour le terme le plus général pour un lieu d'isntruction, voir {DuSaQ:n}.)</column>
       <column name="hidden_notes">This is a reference to the Academy of Motion Picture Arts and Sciences (AMPAS).</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1357,7 +1499,7 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">陽台 [AUTOTRANSLATED]</column>
       <column name="definition_pt">sacada</column>
       <column name="definition_fi">parveke</column>
-      <column name="definition_fr">balcon [AUTOTRANSLATED]</column>
+      <column name="definition_fr">balcon</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1404,19 +1546,19 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">花哨, 華而不實, 浮誇 [AUTOTRANSLATED]</column>
       <column name="definition_pt">berrante, espalhafatoso, ostentoso [AUTOTRANSLATED]</column>
       <column name="definition_fi">prameus, räikeys, röyhkeys, pröystäilevyys, huomiota herättävyys</column>
-      <column name="definition_fr">criard, criard, ostentatoire [AUTOTRANSLATED]</column>
+      <column name="definition_fr">côté criard, caractère tape-à-l'œuil, vulgarité, ostentation</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{parbIng:n}</column>
       <column name="notes">This is typically used as the object of the verbs {'ang:v}, {'agh:v}, {chIw:v}, and the like, but it's not restricted to those.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist üblicherweise das Objekt eines Verbs wie {'ang:v}, {'agh:v}, {chIw:v} o.ä., aber es ist nicht auf diese beschränkt.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Ceci est généralement utilisé comme objet des verbes {'ang:v}, {'agh:v}, {chIw:v}, etc., mais cela ne se limite pas à ceux-là.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci est usuellement l'objet d'un verbe comme {'ang:v}, {'agh:v}, {chIw:v} ou similaire, mais n'est pas restreint à ces verbes.[1]</column>
       <column name="hidden_notes">"Gaudeamus igitur" is a song commonly sung or performed at university graduation ceremonies in some European countries.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1451,29 +1593,25 @@ A German word for "vein" is "Ader".</column>
       <column name="definition_zh_HK">嘥</column>
       <column name="definition_pt">ser um desperdício</column>
       <column name="definition_fi">olla tuhlausta, haaskausta</column>
-      <column name="definition_fr">être un déchet [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être un gâchis, une perte, un gaspillage</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This can be used for when someone sacrifices forces for a certain goal or just wastes their resources.[1]
 
 Most Klingon lexicographers consider this and {'an:v:2} to be two homophonous words, but historically, the "be a waste" meaning developed out of the "be petrified" meaning, perhaps because something loses any original use it may have had if it is turned to stone.[3]</column>
-      <column name="notes_de">Dies kann verwendet werden, wenn jemand Kräfte für ein bestimmtes Ziel opfert oder nur seine Ressourcen verschwendet.[1]
+      <column name="notes_de">Dies kann benutzt werden, wenn jemand Kräfte einem bestimmten Ziel opfert oder einfach seine Ressourcen verschwendet.[1]
 
-Die meisten klingonischen Lexikographen betrachten dies und {'an:v:2} als zwei homophone Wörter, aber historisch gesehen ist die Bedeutung "eine Verschwendung sein" aus der Bedeutung "versteinert sein" entstanden, vielleicht weil etwas seine ursprüngliche Verwendung verliert, die es möglicherweise hatte, wenn es in Stein verwandelt wurde .[3] [AUTOTRANSLATED]</column>
+Die meisten klingonischen Lexicografen sehen dieses Wort und {'an:v:2} als zwei homophone Wörter an, aber historisch hat sich die "Verschwendung sein"-Bedeutung aus der "versteinert sein"-Bedeutung entwickelt, vielleicht weil etwas seinen ursprünglichen Zweck verliert, wenn es versteinert wurde.[3]</column>
       <column name="notes_fa"></column>
-      <column name="notes_sv">Detta kan användas när någon offrar styrkor för ett visst mål eller bara slösar bort sina resurser.[1]
-
-De flesta lexikografer från Klingon betraktar detta och {'an:v:2} som två homofona ord, men historiskt sett betyder "vara ett slöseri" betydelse som utvecklats utifrån "bli förstenad" betydelse, kanske för att något förlorar den ursprungliga användningen som det kan ha haft om det förvandlas till sten .[3] [AUTOTRANSLATED]</column>
+      <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Isso pode ser usado para quando alguém sacrifica forças por um determinado objetivo ou apenas desperdiça seus recursos.[1]
-
-A maioria dos lexicógrafos Klingon considera isso e {'an:v:2} como duas palavras homófonas, mas historicamente, o significado "ser um desperdício" desenvolvido a partir do significado "ser petrificado", talvez porque algo perde qualquer uso original que poderia ter tido se fosse transformado em pedra .[3] [AUTOTRANSLATED]</column>
+      <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Cela peut être utilisé lorsque quelqu'un sacrifie ses forces pour un certain objectif ou gaspille simplement ses ressources.[1]
+      <column name="notes_fr">Ceci peut s'utiliser quand quelqu'un sacrifie des forces pour un certain but ou simplement gaspille ses ressources.[1]
 
-La plupart des lexicographes klingons considèrent ceci et {'an:v:2} comme deux mots homophoniques, mais historiquement, le sens « être un déchet » s'est développé à partir du sens « être pétrifié », peut-être parce que quelque chose perd toute utilité originale qu'il aurait pu avoir s'il est transformé en pierre. .[3] [AUTOTRANSLATED]</column>
+La plupart des lexicographes klingons considèrent ce mot et {'an:v:2} comme deux mots homophones, mais historiquement, la significaiont de "être un gâchis" s'est développé de la signification "être pétrifié", probablement parce qu'une chose perd son utilisation originale quand elle a été pétrifié.[3]</column>
       <column name="hidden_notes">This was revealed to express "it's such a waste", as one might say if one sees an almost full bottle of cola in the garbage. It was defined as "waste [as someone sacrifices forces for a certain goal or just wastes one's resources]" in the KLI new words list in 2018, but as a verb.[1] Some people found this to be confusing (believing that it can take an object), and Dr. Okrand was asked for clarification. At the {Saarbrücken qepHom'a':src} a few months later, Dr. Okrand recorded a {video:url:http://youtu.be/f2cgPd-TBJE&amp;start=229} explaining the usage, revising the definition to "be a waste" (noting that to "waste" something, with an object, is {'anmoH:v}).[2] Some people felt that this was still unclear, so at the {Saarbrücken qepHom'a':src} after that (in 2019), the homophonous {'an:v:2} was revealed, and an explanation was given about how these verbs were historically related.[3]
 
 The German definition "Verschwendung sein" comes from the {Saarbrücken qepHom'a' 2019:src} booklet.[3]</column>
@@ -1510,7 +1648,7 @@ The German definition "Verschwendung sein" comes from the {Saarbrücken qepHom'a
           <column name="definition_zh_HK">犧</column>
           <column name="definition_pt">sacrifício</column>
           <column name="definition_fi">uhrata, tuhlata, haaskata</column>
-          <column name="definition_fr">sacrifice, gaspillage [AUTOTRANSLATED]</column>
+          <column name="definition_fr">sacrifier, gaspiller, gâcher</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{weS:v}</column>
@@ -1557,37 +1695,25 @@ The German definition "Verschwendung sein" comes from the {Saarbrücken qepHom'a
       <column name="definition_zh_HK">被嚇呆了 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser petrificado</column>
       <column name="definition_fi">olla kivettynyt</column>
-      <column name="definition_fr">être pétrifié [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être pétrifié</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nagh:n}, {'an'or:n}</column>
       <column name="notes">This is used to talk about fossils. Most Klingon lexicographers consider this and {'an:v:1} to be two homophonous words, but historically, the "be a waste" meaning developed out of the "be petrified" meaning, perhaps because something loses any original use it may have had if it is turned to stone.
 
 When applied to people, it can only mean literal turning to stone. (It does not mean "really scared" as "petrified" does in English.)</column>
-      <column name="notes_de">Dies wird verwendet, um über Fossilien zu sprechen. Die meisten klingonischen Lexikographen betrachten dies und {'an:v:1} als zwei homophone Wörter, aber historisch gesehen ist die Bedeutung "eine Verschwendung sein" aus der Bedeutung "versteinert sein" entstanden, vielleicht weil etwas seine ursprüngliche Verwendung verliert, die es möglicherweise hatte, wenn es in Stein verwandelt wurde .
+      <column name="notes_de">Dies wird benutzt, um über Fossilien zu sprechen. Die meisten klingonischen Lexicografen sehen dieses Wort und {'an:v:1} als zwei homophone Wörter an, aber historisch hat sich die "Verschwendung sein"-Bedeutung aus der "versteinert sein"-Bedeutung entwickelt, vielleicht weil etwas seinen ursprünglichen Zweck verliert, wenn es versteinert wurde.
 
-Wenn es auf Menschen angewendet wird, kann es nur bedeuten, sich buchstäblich in Stein zu verwandeln. (Es bedeutet nicht "wirklich ängstlich" wie "versteinert" auf Englisch.) [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این مورد برای صحبت در مورد فسیل ها استفاده می شود. اکثر واژگان شناس كلنگون این و {'an:v:1} را دو كلمه همگن می دانند ، اما از نظر تاریخی ، معنای "یك زباله" است كه از معنای "ذكر شده" ساخته می شود ، شاید به این دلیل كه چیزی هر نوع استفاده اصلی را كه اگر به سنگ تبدیل شده باشد از دست می دهد. .
+Wenn es für Personen benutzt wird, bedeutet es nur wörtlich zu Stein geworden zu sein. (Es bedeutet nicht "große Angst haben" wie in "vor Angst versteinert sein" wie auf Deutsch.)</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci s'utilise pour parler de fossiles. La plupart des lexicographes klingons considèrent ce mot et {'an:v:2} comme deux mots homophones, mais historiquement, la significaiont de "être un gâchis" s'est développé de la signification "être pétrifié", probablement parce qu'une chose perd son utilisation originale quand elle a été pétrifié.
 
-وقتی برای مردم اعمال می شود ، این فقط به معنای واقعی کلمه تبدیل به سنگ است. (به معنای "واقعاً ترسیدن" همانطور که "petrified" در انگلیسی انجام می دهد نیست.) [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta används för att prata om fossil. De flesta lexikografer från Klingon anser att detta och {'an:v:1} är två homofona ord, men historiskt sett betyder "vara ett slöseri" betydelse utvecklad av "förstenad" betydelse, kanske för att något förlorar någon ursprunglig användning det kan ha haft om det vändes till sten .
-
-När den tillämpas på människor kan det bara betyda bokstavlig vändning till sten. (Det betyder inte "riktigt rädd" som "förstenad" gör på engelska.) [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это используется, чтобы говорить об окаменелостях. Большинство клингонских лексикографов считают это и {'an:v:1} двумя гомофонными словами, но исторически значение «быть пустой тратой» возникло из значения «окаменеть», возможно, потому, что что-то теряет свое первоначальное использование, если превратить его в камень. .
-
-Применительно к людям это может означать буквально превращение в камень. (Это не означает «действительно напуган», как «окаменевший» на английском языке.) [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是用來談論化石的。大多數克林崗語詞典的編撰者都認為這和{'an:v:1}是兩個諧音詞，但從歷史上看，「成為浪費」的意思是從「被石化」的意思發展而來的，也許是因為如果某物變成石頭，它會失去其原有的用途。
-
-當應用於人時，它只能意味著從字面上變成石頭。 （這並不像英語中的「石化」那樣表示「真的害怕」。） [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso é usado para falar sobre fósseis. A maioria dos lexicógrafos Klingon considera isso e {'an:v:1} como duas palavras homófonas, mas historicamente, o significado "ser um desperdício" desenvolvido a partir do significado "ser petrificado", talvez porque algo perde qualquer uso original que poderia ter tido se fosse transformado em pedra .
-
-Quando aplicado a pessoas, só pode significar literalmente virar pedra. (Não significa "realmente assustado" como "petrificado" em inglês.) [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä käytetään puhumaan fossiileista. Suurin osa Klingonin leksikografeista pitää tätä ja {'an:v:1}-sanaa kahtena homofonisena sanana, mutta historiallisesti "olla tuhla" -merkitys, joka on kehittynyt "olla kivettynyt" -merkinnästä, ehkä siksi, että jokin menettää alkuperäisen käyttötarkoituksensa, joka sillä voi olla, jos se muutetaan kiveksi .
-
-Kun sitä käytetään ihmisiin, se voi tarkoittaa vain kirjaimellista kivenmuutosta. (Se ei tarkoita "todella peloissaan", kuten "kivettynyt" englanniksi.) [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ceci est utilisé pour parler de fossiles. La plupart des lexicographes klingons considèrent ceci et {'an:v:1} comme deux mots homophoniques, mais historiquement, le sens « être un déchet » s'est développé à partir du sens « être pétrifié », peut-être parce que quelque chose perd toute utilisation originale qu'il aurait pu avoir s'il est transformé en pierre. .
-
-Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer littéralement en pierre. (Cela ne signifie pas « vraiment effrayé » comme le fait « pétrifié » en anglais.) [AUTOTRANSLATED]</column>
+Quand ce mot s'utilise pour les gens, il signifie seulement littéralement transformé enpierre. (Il ne signifie pas "avoir très peur" comme dans "pétrifié de peur" comme en français.)</column>
       <column name="hidden_notes">The German definition comes from the {Saarbrücken qepHom'a' 2019:src} booklet.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1624,19 +1750,19 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">安多利星</column>
       <column name="definition_pt">Andoria</column>
       <column name="definition_fi">eräs planeetta, Andoria</column>
-      <column name="definition_fr">Andorie [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Andoria, Andor</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'anDorya'ngan:n}</column>
       <column name="notes">A planet in the Federation. Also called {'anDorya':n:nolink}. Not to be confused with the country on Earth called {'anDo'ra':n}.</column>
-      <column name="notes_de">Ein Planet in der Föderation. Wird auch als {'anDorya':n:nolink} bezeichnet. Nicht zu verwechseln mit dem Land auf der Erde namens {'anDo'ra':n}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Ein Planet in der Föderation. Auch {'anDorya':n:nolink} genannt. Nicht zu verwechseln mit dem irdischen Land {'anDo'ra':n}.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Планета в Федерации. Также называется {'anDorya':n:nolink}. Не путать со страной на Земле под названием {'anDo'ra':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">聯邦中的一顆行星。也稱為{'anDorya':n:nolink}。不要與地球上叫做{'anDo'ra':n}的國家相混淆。 [AUTOTRANSLATED]</column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi">Eräs Yhdistyneiden planeettojen liiton ({yuQjIjQa':n}) perustajajäsenistä. Kutsutaan myös nimellä {'anDorya':n:nolink}. Ei pidä sekoittaa Maan valtioon nimeltä {'anDo'ra':n}.</column>
-      <column name="notes_fr">Une planète dans la Fédération. Également appelé {'anDorya':n:nolink}. A ne pas confondre avec le pays sur Terre appelé {'anDo'ra':n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Une planète dans la Fédération. Aussi appellé {'anDorya':n:nolink}. Ne pas confondre avec le pays terrien {'anDo'ra':n}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1765,7 +1891,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">安多利人</column>
       <column name="definition_pt">Andoriano</column>
       <column name="definition_fi">andorialainen</column>
-      <column name="definition_fr">Andorien [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Andorien</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'anDor:n}</column>
@@ -1812,19 +1938,19 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">anicium [AUTOTRANSLATED]</column>
       <column name="definition_pt">anicium</column>
       <column name="definition_fi">eräs yhdiste, anicium</column>
-      <column name="definition_fr">anicium [AUTOTRANSLATED]</column>
+      <column name="definition_fr">anicium</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This is a chemical compound which reacts to create an explosion when combined with {yuryum:n}.</column>
-      <column name="notes_de">Dies ist eine chemische Verbindung, die in Kombination mit {yuryum:n} zu einer Explosion reagiert. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این یک ترکیب شیمیایی است که هنگام ایجاد ترکیب با {yuryum:n} واکنش نشان می دهد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en kemisk förening som reagerar för att skapa en explosion när den kombineras med {yuryum:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это химическое соединение, которое в сочетании с {yuryum:n} реагирует на взрыв. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一種化學物質，與{yuryum:n}結合時會發生爆炸。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é um composto químico que reage para criar uma explosão quando combinado com {yuryum:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on kemiallinen yhdiste, joka reagoi muodostaen räjähdyksen yhdistettynä {yuryum:n}: een. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un composé chimique qui réagit pour créer une explosion lorsqu'il est combiné avec {yuryum:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist eine chemische Verbindung, die in Verbindung mit {yuryum:n} eine Explosion erzeugt.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est un composé chimique qui crée une explosion en combinaison avec {yuryum:n}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1859,19 +1985,19 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">安東尼</column>
       <column name="definition_pt">Antony</column>
       <column name="definition_fi">eräs Shex'pirin näytelmän hahmo, Antonius</column>
-      <column name="definition_fr">Antoine [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Antoine</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhI'yopatra':n:name}</column>
       <column name="notes">This is a name from {wIlyam SeQpIr:n:name}'s play {'antonI' tlhI'yopatra' je:sen:nolink}.</column>
-      <column name="notes_de">Dies ist ein Name aus {wIlyam SeQpIr:n:name}s Spiel {'antonI' tlhI'yopatra' je:sen:nolink}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist ein Name aus {wIlyam SeQpIr:n:name}s Stück {'antonI' tlhI'yopatra' je:sen:nolink}.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
-      <column name="notes_zh_HK">這是{wIlyam SeQpIr:n:name}的戲劇{'antonI' tlhI'yopatra' je:sen:nolink}的名字。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é um nome da peça de {wIlyam SeQpIr:n:name} de {'antonI' tlhI'yopatra' je:sen:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on nimi {wIlyam SeQpIr:n:name}: n näytelmästä {'antonI' tlhI'yopatra' je:sen:nolink}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un nom tiré de la pièce de théâtre {'antonI' tlhI'yopatra' je:sen:nolink} de {wIlyam SeQpIr:n:name}. [AUTOTRANSLATED]</column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est un nom de la pièce {'antonI' tlhI'yopatra' je:sen:nolink} de {wIlyam SeQpIr:n:name}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1906,19 +2032,19 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">洋蔥</column>
       <column name="definition_pt">cebola</column>
       <column name="definition_fi">sipuli</column>
-      <column name="definition_fr">oignon [AUTOTRANSLATED]</column>
+      <column name="definition_fr">oignon</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oQqar:n}, {gharlIq 'oQqar:n}</column>
       <column name="notes">This is what Klingons would call the Terran vegetable.</column>
-      <column name="notes_de">Dies ist, was Klingonen das terranische Gemüse nennen würden. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این چیزی است که کلینگون ها آن را سبزیجات Terran می نامند. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Det här är vad Klingons skulle kalla Terran-grönsaken. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это то, что клингоны назвали бы терранским овощем. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這就是克林崗人所說的人族蔬菜。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso é o que os klingons chamariam de vegetal terráqueo. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä Klingons kutsuisi Terran-vihannekseksi. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C'est ce que les Klingons appelleraient le légume Terran. [AUTOTRANSLATED]</column>
+      <column name="notes_de">So nennen Klingonen das irdische Gemüse.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">C'est le nom que les klingons donnent au légume terrien.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1953,19 +2079,19 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">化石 [AUTOTRANSLATED]</column>
       <column name="definition_pt">fóssil</column>
       <column name="definition_fi">fossiili</column>
-      <column name="definition_fr">fossile [AUTOTRANSLATED]</column>
+      <column name="definition_fr">fossile</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'an'orQeD:n}, {'an'ortej:n}, {'an:v:2}, {molHa':v}, {Hom:n:1}</column>
       <column name="notes">The same word is used for fossils of plants, bones, etc.</column>
-      <column name="notes_de">Das gleiche Wort wird für Fossilien von Pflanzen, Knochen usw. verwendet. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">همین کلمه برای فسیل های گیاهان ، استخوان ها و غیره استفاده می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Samma ord används för fossil av växter, ben osv. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это же слово используется для окаменелостей растений, костей и т. Д. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">同一詞用於植物，骨骼等的化石。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">A mesma palavra é usada para fósseis de plantas, ossos, etc. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Das gleiche Wort wird für Fossilien von Pflanzen, Knochen etc. benutzt.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Le même mot est utilisé pour désigner les fossiles de plantes, d’os, etc. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Le même mot s'utilise pour les fossiles de planets, d'os etc.</column>
       <column name="hidden_notes">Rhona Fenwick is a Klingon speaker who is an archeologist.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2000,7 +2126,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">古生物學 [AUTOTRANSLATED]</column>
       <column name="definition_pt">paleontologia</column>
       <column name="definition_fi">paleontologia</column>
-      <column name="definition_fr">paléontologie [AUTOTRANSLATED]</column>
+      <column name="definition_fr">paléontologie</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'an'or:n}, {QeD:n}, {'an'ortej:n}</column>
@@ -2047,7 +2173,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">古生物學家 [AUTOTRANSLATED]</column>
       <column name="definition_pt">paleontólogo</column>
       <column name="definition_fi">paleontologi</column>
-      <column name="definition_fr">paléontologiste [AUTOTRANSLATED]</column>
+      <column name="definition_fr">paléontologue, paléontologiste</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'an'or:n}, {tej:n}, {'an'orQeD:n}</column>
@@ -2099,14 +2225,14 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="antonyms"></column>
       <column name="see_also">{'agh:v}, {cha':v}</column>
       <column name="notes">This verb can be used colloquially to express the definition of a word within the same language (but not when translating). See {ghaS:v}.[3]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dieses Verb kann umgangssprachlich benutzt werden, um die Definition eines Worts in der selben Sprache auszudrücken (aber nicht zu übersetzen). Siehe {ghaS:v}.[3]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Ce verbe peut être utilisé familièrement pour exprimer la définition d'un mot dans la même langue (mais pas lors de la traduction). Voir {ghaS:v}.[3] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ce verbe peut familièrement être utilisé pour exprimer la définition d'un mot dans la meme langue (mais pas en traduisant). Voir {ghaS:v}.[3]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -2143,7 +2269,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">只有沒有榮譽的敵人才會拒絕在戰鬥中展示自己。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Apenas um inimigo sem honra recusa se mostrar em batalha.</column>
       <column name="definition_fi">Vain vihollinen, jolla ei ole kunniaa, kieltäytyy paljastamasta itseään taistelussa.</column>
-      <column name="definition_fr">Seul un ennemi sans honneur refuse de se montrer au combat. [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Seul un ennemi sans honneur refuse de se montrer pendant le combat.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2190,7 +2316,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">博物馆</column>
       <column name="definition_pt">museu</column>
       <column name="definition_fi">museo</column>
-      <column name="definition_fr">musée [AUTOTRANSLATED]</column>
+      <column name="definition_fr">musée</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2231,14 +2357,14 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="entry_name">'angwIl</column>
       <column name="part_of_speech">n:inhps,anim</column>
       <column name="definition">an individual member of the Kos'Karii</column>
-      <column name="definition_de">Kos'Karii (Einzahl)</column>
+      <column name="definition_de">ein einzelner Kos'Karii</column>
       <column name="definition_fa">Kos'Karii (تک) [AUTOTRANSLATED]</column>
       <column name="definition_sv">Kos'Karii (singel) [AUTOTRANSLATED]</column>
       <column name="definition_ru">Кос'Карий (одиночка) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">科斯卡里（單一） [AUTOTRANSLATED]</column>
       <column name="definition_pt">Kos'Karii (singular)</column>
       <column name="definition_fi">eräs myyttinen käärmeen kaltainen eläin, kos'karii</column>
-      <column name="definition_fr">un membre individuel du Kos'Karii [AUTOTRANSLATED]</column>
+      <column name="definition_fr">un Kos'Karii individuel</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2285,7 +2411,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">被打敗了 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser amolgado, amassado</column>
       <column name="definition_fi">olla hammastettu, lovettu, kuhmuinen, kolhittu ?</column>
-      <column name="definition_fr">être cabossé [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être enfoncé, être cabossé</column>
       <column name="synonyms"></column>
       <column name="antonyms">{taw':v}</column>
       <column name="see_also">{retlaw:n}</column>
@@ -2332,7 +2458,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
           <column name="definition_zh_HK">凹痕 [AUTOTRANSLATED]</column>
           <column name="definition_pt">amassar</column>
           <column name="definition_fi">loveta, hammastaa, kolhia, lommottaa ?</column>
-          <column name="definition_fr">bosse [AUTOTRANSLATED]</column>
+          <column name="definition_fr">enfoncé, bosseler, cabosser</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{retlaw:n}</column>
@@ -2379,7 +2505,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">會費，通行費 [AUTOTRANSLATED]</column>
       <column name="definition_pt">imposto, tributo</column>
       <column name="definition_fi">vero, tulli, maksu</column>
-      <column name="definition_fr">cotisations, péage [AUTOTRANSLATED]</column>
+      <column name="definition_fr">cotisation, péage</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qav'ap:n}</column>
@@ -2426,7 +2552,7 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">丸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Pellet, grão, grânulos</column>
       <column name="definition_fi">pelletti, pieni pallo, kuula</column>
-      <column name="definition_fr">pastille [AUTOTRANSLATED]</column>
+      <column name="definition_fr">pastille, boulette, pellet</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -2521,19 +2647,19 @@ Lorsqu’il est appliqué aux gens, cela ne peut signifier que se transformer li
       <column name="definition_zh_HK">案例、容器 [AUTOTRANSLATED]</column>
       <column name="definition_pt">caso, recipiente</column>
       <column name="definition_fi">kotelo, rasia, lipas, säiliö, laatikko</column>
-      <column name="definition_fr">caisse, conteneur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">boîte, étui, conteneur, récipient</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngaSwI':n}, {vey:n}</column>
       <column name="notes">This is the general term for a small container.[3]</column>
-      <column name="notes_de">Dies ist der allgemeine Begriff für einen kleinen Behälter.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این اصطلاح عمومی برای یک ظرف کوچک است.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är den allmänna termen för en liten behållare.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это общий термин для небольшого контейнера.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一個小容器的總稱。[3] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é o termo geral para um pequeno recipiente.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on yleinen termi pienelle kontille.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C'est le terme général désignant un petit conteneur.[3] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist der allgemeine Ausdruck für einen kleinen Behälter.[3]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est le mot général pour un petit conteneur.[3]</column>
       <column name="hidden_notes">This word was originally used to translated "Limited Edition" for {Klingon Monopoly:src}, as {'aplo'mey puS neH chenmoHlu'pu':sen:nolink}, before {'aplo':n:nolink} was changed to {vey:n}. The Klingon version of the list of the game box's "contents" also has the heading {ngaS 'aplo':sen:nolink}.
 
 Perhaps a reference to the Apollo Lunar Sample Return Container from the Apollo 11 mission.</column>
@@ -2565,24 +2691,24 @@ Perhaps a reference to the Apollo Lunar Sample Return Container from the Apollo 
       <column name="definition">calcium</column>
       <column name="definition_de">Calcium</column>
       <column name="definition_fa">کلسیم [AUTOTRANSLATED]</column>
-      <column name="definition_sv">kalcium [AUTOTRANSLATED]</column>
+      <column name="definition_sv">kalcium</column>
       <column name="definition_ru">кальций [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鈣 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cálcio</column>
       <column name="definition_fi">kalsium</column>
-      <column name="definition_fr">calcium [AUTOTRANSLATED]</column>
+      <column name="definition_fr">calcium</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'evtlhev:n}, {baS:n}, {tamler:n}</column>
       <column name="notes">This is the metallic chemical element with the symbol Ca and atomic number 20.</column>
-      <column name="notes_de">Dies ist das metallische chemische Element mit dem Symbol Ca und der Ordnungszahl 20. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این عنصر شیمیایی فلزی با نماد Ca و عدد اتمی 20 است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är det metalliska kemiska elementet med symbolen Ca och atomnummer 20. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это металлический химический элемент с символом Ca и атомным номером 20. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是金屬化學元素，符號為Ca，原子序數為20。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é o elemento químico metálico com o símbolo Ca e o número atômico 20. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on metallinen kemiallinen alkuaine, jolla on symboli Ca ja atominumero 20. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit de l’élément chimique métallique de symbole Ca et de numéro atomique 20. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist das metallische Element mit dem Symbol Ca und der Ordnungszahl 20.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est l'élément métallique avec le symbole Ca et le numéro atomique 20.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2617,19 +2743,19 @@ Perhaps a reference to the Apollo Lunar Sample Return Container from the Apollo 
       <column name="definition_zh_HK">一隻鷹般的鳥 [AUTOTRANSLATED]</column>
       <column name="definition_pt">um pássaro parecido com um falcão</column>
       <column name="definition_fi">eräs haukan kaltainen lintu</column>
-      <column name="definition_fr">un oiseau ressemblant à un faucon [AUTOTRANSLATED]</column>
+      <column name="definition_fr">un oiseau ressemblant à un faucon</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'Degh:n}</column>
       <column name="notes">This is a particular kind of {toQ:n} which flies particularly fast.</column>
-      <column name="notes_de">Dies ist eine besondere Art von {toQ:n}, die besonders schnell fliegt. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این نوع خاصی از {toQ:n} است که به سرعت سریع پرواز می کند. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en viss typ av {toQ:n} som flyger särskilt snabbt. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это особый вид {toQ:n}, который летит особенно быстро. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一種特別飛行的{toQ:n}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é um tipo particular de {toQ:n} que voa particularmente rápido. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on erityinen {toQ:n}, joka lentää erityisen nopeasti. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un type particulier de {toQ:n} qui vole particulièrement vite. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist eine bestimmte Art {toQ:n}, der besonders schnell fliegt.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est un type de {toQ:n}, qui vole très vite.</column>
       <column name="hidden_notes">"Apus" is the Latin name for the birds commonly known as swifts.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2679,12 +2805,10 @@ Man beachte dass es bei der Wettervorhersage (siehe {muD Dotlh:n}) üblich ist {
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">Tämä viittaa ennustamiseen, joka perustuu deduktiiviseen päättelyyn, tutkimukseen tai tieteeseen.
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère à faire des prédictions basé sur le raisonnement déductif ou la recherche ou la science.
 
-Huomaa, että sääennusteissa (katso {muD Dotlh:n}) käytetään yleensä {'e' -lu:sen@@'e':n, -lu':v}: ta {net:n}: n sijaan, mutta {net:n:nolink}: n käyttö ei olisi väärin. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit de prédictions basées sur un raisonnement déductif, sur la recherche ou sur la science.
-
-Notez que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance à utiliser {'e' -lu:sen@@'e':n, -lu':v} plutôt que {net:n}, mais utiliser {net:n:nolink} ne serait pas une erreur. [AUTOTRANSLATED]</column>
+À noter que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance d'utiliser {'e' -lu':sen@@'e':n, -lu':v} plutôt que {net:n}, mais il ne serait pas faux d'utiliser {net:n:nolink}.</column>
       <column name="hidden_notes">The word for "reason" or "intellect" in Arabic is "'aql".</column>
       <column name="components"></column>
       <column name="examples">
@@ -2695,14 +2819,28 @@ Notez que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance à
 ▶ {SIS 'e' 'aqlu'law':sen@@SIS:v, 'e':n, 'aq:v, -lu':v, -law':v} "it would appear that it will rain, it seems that it will rain"
 ▶ {ghaytan SIS 'e' 'aqlu':sen@@ghaytan:adv, SIS:v, 'e':n, 'aq:v, -lu':v} "it's likely that it will rain"
 ▶ {SIS 'e' 'aqlu', javmaH vatlhvI' DIch:sen@@SIS:v, 'e':n, 'aq:v, -lu':v, jav:n:1,num, maH:n:2,num, vatlhvI':n, DIch:n} "it is predicted that it will rain, 60% certainty", or "there's a 60% chance it will rain"</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {SIS 'e' vI'aq:sen@@SIS:v, 'e':n, vI-:v, 'aq:v} "Ich sage voraus, dass es regnen wird.", "Ich sage Regen voraus.""
+▶ {SIS 'e' 'aqlu':sen@@SIS:v, 'e':n, 'aq:v, -lu':v} "Es ist vorhergesagt, dass es regnen wird"
+▶ {SIS 'e' 'aqlu'bej:sen@@SIS:v, 'e':n, 'aq:v, -lu':v, -bej:v} "Es ist mit Sicherheit vorhergesagt, dass es regnen wird"
+▶ {SISbe' 'e' 'aqlu'bej:sen@@SIS:v, -be':v, 'e':n, 'aq:v, -lu':v, -bej:v} "Es ist mit Sicherheit vorhergesagt, dass es nicht regnen wird"
+▶ {SIS 'e' 'aqlu'law':sen@@SIS:v, 'e':n, 'aq:v, -lu':v, -law':v} "Es sieht aus als ob es regnen wird", "es scheint, dass es regnen wird"
+▶ {ghaytan SIS 'e' 'aqlu':sen@@ghaytan:adv, SIS:v, 'e':n, 'aq:v, -lu':v} "Es ist wahrscheinlich, dass es regnen wird"
+▶ {SIS 'e' 'aqlu', javmaH vatlhvI' DIch:sen@@SIS:v, 'e':n, 'aq:v, -lu':v, jav:n:1,num, maH:n:2,num, vatlhvI':n, DIch:n} "Es ist vorhergesagt, dass es regnen wird, 60% Sicherheit", oder "Es gibt 60% Chance, dass es regnen wird"</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {SIS 'e' vI'aq:sen@@SIS:v, 'e':n, vI-:v, 'aq:v} "Je prédis qu'il va pleuvoir." ou "Je prédis la pluie"
+▶ {SIS 'e' 'aqlu':sen@@SIS:v, 'e':n, 'aq:v, -lu':v} "Il est prédit qu'il va pleuvoir"
+▶ {SIS 'e' 'aqlu'bej:sen@@SIS:v, 'e':n, 'aq:v, -lu':v, -bej:v} "Il est prédit avec certainté qu'il va pleuvoir"
+▶ {SISbe' 'e' 'aqlu'bej:sen@@SIS:v, -be':v, 'e':n, 'aq:v, -lu':v, -bej:v} "Il est prédit avec certainté qu'il ne va pas pleuvoir"
+▶ {SIS 'e' 'aqlu'law':sen@@SIS:v, 'e':n, 'aq:v, -lu':v, -law':v} "il semble qu'il va pleuvoir"
+▶ {ghaytan SIS 'e' 'aqlu':sen@@ghaytan:adv, SIS:v, 'e':n, 'aq:v, -lu':v} "Il est probable qu'il va pleuvoir"
+▶ {SIS 'e' 'aqlu', javmaH vatlhvI' DIch:sen@@SIS:v, 'e':n, 'aq:v, -lu':v, jav:n:1,num, maH:n:2,num, vatlhvI':n, DIch:n} "Il est prédit qu'il va pleuvoir avec 60% de certainté"</column>
       <column name="search_tags">forecast</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2716,6 +2854,53 @@ Notez que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance à
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">'aqghu'al</column>
+      <column name="part_of_speech">n:archaic</column>
+      <column name="definition">bow (ancient Klingon weapon)</column>
+      <column name="definition_de">Bogen (alte Klingonwaffe) [AUTOTRANSLATED]</column>
+      <column name="definition_fa">کمان (سلاح باستانی کلینگون) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">Bow (Ancient Klingon Weapon) [AUTOTRANSLATED]</column>
+      <column name="definition_ru">лук (древнее клинговое оружие) [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">弓（古代克林貢武器） [AUTOTRANSLATED]</column>
+      <column name="definition_pt">arco (arma antiga de Klingon) [AUTOTRANSLATED]</column>
+      <column name="definition_fi">Bow (muinainen Klingon -ase) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">arc (ancienne arme Klingon) [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{HurwI':n}</column>
+      <column name="notes">Archaic name for a Klingon bow weapon of a particular traditional type, not used so much these days. The word has been replaced in most contexts by {HurwI':n:nolink}, a more general term for "bow", but the traditional term pops up now and again.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 32 (2025):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">'aqleH</column>
       <column name="part_of_speech">n:fic,weap</column>
       <column name="definition">ak'leth (type of weapon; half ax, half bat'leth)</column>
@@ -2726,7 +2911,7 @@ Notez que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance à
       <column name="definition_zh_HK">武器類型（半斧、半蝙蝠） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de arma (meio machado, meio bat'leth)</column>
       <column name="definition_fi">eräs ase (puoliksi kirves, puoliksi bat'leth)</column>
-      <column name="definition_fr">type d'arme (moitié hache, moitié bat'leth) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">type d'arme (moitié hache, moitié bat'leth)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Qach:v}</column>
@@ -2773,19 +2958,19 @@ Notez que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance à
       <column name="definition_zh_HK">刀型（通用型） [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de faca (uso geral)</column>
       <column name="definition_fi">eräs yleiskäyttöinen veitsi</column>
-      <column name="definition_fr">type de couteau (usage général) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">type de couteau (pour usage général)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This is a general purpose knife that seems to be able to cut through anything.</column>
-      <column name="notes_de">Dies ist ein Allzweckmesser, das anscheinend alles durchschneiden kann. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این یک چاقوی عمومی است که به نظر می رسد می تواند هر چیزی را از بین ببرد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en kniv med allmänna ändamål som verkar kunna klippa igenom vad som helst. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это нож общего назначения, который, кажется, способен прорезать что угодно. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一把通用刀具，似乎可以切穿任何東西。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esta é uma faca de uso geral que parece capaz de cortar qualquer coisa. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on yleiskäyttöinen veitsi, joka näyttää pystyvän leikkaamaan kaiken. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit d’un couteau à usage général qui semble pouvoir couper n’importe quoi. [AUTOTRANSLATED]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">The phrase "Act now!" is used repeatedly in TV informercials for Ginsu knives.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2821,37 +3006,25 @@ Notez que les prévisions météorologiques (voir {muD Dotlh:n}) ont tendance à
       <column name="definition_zh_HK">桌子的底面、天花板 [AUTOTRANSLATED]</column>
       <column name="definition_pt">superfície inferior de uma mesa, teto</column>
       <column name="definition_fi">yläosan alaosa, pöydän alapinta, katon alapinta</column>
-      <column name="definition_fr">surface inférieure d'une table, plafond [AUTOTRANSLATED]</column>
+      <column name="definition_fr">surface inférieure d'une table, plafond</column>
       <column name="synonyms"></column>
       <column name="antonyms">{bIS'ub:n}, {rav:n:1}</column>
       <column name="see_also">{Dung:n}, {rav'eq:n}, {pa' beb:n}, {raS:n}</column>
       <column name="notes">The other face of an object's {'aqroS:n:1,nolink} is its {yor:n}.[1]
 
 This word can be used to refer to a ceiling, though the terms {pa' beb:n} and {rav'eq:n} (which depend on whether there are any floors above it) are more common.[1]</column>
-      <column name="notes_de">Die andere Seite von {'aqroS:n:1,nolink} eines Objekts ist {yor:n}.[1]
+      <column name="notes_de">Die andere Seite eines Objekts von seiner {'aqroS:n:1,nolink} ist seine {yor:n}.[1]
 
-Dieses Wort kann verwendet werden, um sich auf eine Decke zu beziehen, obwohl die Begriffe {pa' beb:n} und {rav'eq:n} (die davon abhängen, ob sich darüber Stockwerke befinden) häufiger vorkommen.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">چهره دیگر {'aqroS:n:1,nolink} یک شیء {yor:n}.[1] آن است
+Das Wort kann für eine (Raum-)Decke benutzt werden, wobei die Ausdrücke {pa' beb:n} und {rav'eq:n} (die davon abhängen, ob es darüber weitere Stockwerke gibt) häufiger sind.[1]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">L'autre surface de la {'aqroS:n:1,nolink} d'un objet est sa {yor:n}.[1]
 
-این کلمه را می توان برای اشاره به سقف استفاده کرد ، گرچه اصطلاحات {pa' beb:n} و {rav'eq:n} (که بستگی به آن دارد که آیا طبقه ای بالاتر از آن وجود دارد) متداول تر است. [1] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Det andra ansiktet på ett objekts {'aqroS:n:1,nolink} är dess {yor:n}.[1]
-
-Detta ord kan användas för att hänvisa till ett tak, men termerna {pa' beb:n} och {rav'eq:n} (som beror på om det finns några golv ovanför) är vanligare.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Другой стороной {'aqroS:n:1,nolink} объекта является его {yor:n}.[1]
-
-Это слово можно использовать для обозначения потолка, хотя термины {pa' beb:n} и {rav'eq:n} (которые зависят от того, есть ли над ним какие-либо этажи) более распространены.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">對象的{'aqroS:n:1,nolink}的另一面是其{yor:n}.[1]
-
-儘管術語{pa' beb:n}和{rav'eq:n}（取決於上面是否有地板）更為常見，但該詞可用於表示天花板。[1] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">A outra face do {'aqroS:n:1,nolink} de um objeto é seu {yor:n}.[1]
-
-Esta palavra pode ser usada para se referir a um teto, embora os termos {pa' beb:n} e {rav'eq:n} (que dependem da existência de andares acima) sejam mais comuns.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Objektin {'aqroS:n:1,nolink} toinen puoli on sen {yor:n}.[1]
-
-Tätä sanaa voidaan käyttää viittaamaan kattoon, vaikka termit {pa' beb:n} ja {rav'eq:n} (jotka riippuvat siitä, onko sen yläpuolella kerroksia) ovat yleisempiä.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">L'autre face du {'aqroS:n:1,nolink} d'un objet est son {yor:n}.[1].
-
-Ce mot peut être utilisé pour désigner un plafond, bien que les termes {pa' beb:n} et {rav'eq:n} (qui dépendent de la présence ou non d'un étage au-dessus) soient plus courants.[1] [AUTOTRANSLATED]</column>
+Ce mot peut s'utiliser pour parler d'un plafond, mais les termes {pa' beb:n} et {rav'eq:n} (qui dépendent de s'il y a des étages en-dessus) sont plus courants.[1]</column>
       <column name="hidden_notes">"Across".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2872,7 +3045,7 @@ Ce mot peut être utilisé pour désigner un plafond, bien que les termes {pa' b
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {HQ 8.3, p.2, Sept. 1999:src}</column>
+      <column name="source">[1] {HQ 8.3, p.2, Sep. 1999:src}</column>
     </table>
     <table name="mem">
       <!-- TODO: Add note about Greek word "across". -->
@@ -2887,51 +3060,43 @@ Ce mot peut être utilisé pour désigner un plafond, bien que les termes {pa' b
       <column name="definition_zh_HK">最大 [AUTOTRANSLATED]</column>
       <column name="definition_pt">máximo, valor mais alto</column>
       <column name="definition_fi">enintään, enimmäismäärä, maksimi</column>
-      <column name="definition_fr">maximum [AUTOTRANSLATED]</column>
+      <column name="definition_fr">maximum</column>
       <column name="synonyms"></column>
       <column name="antonyms">{rav:n:2}</column>
       <column name="see_also">{vuS:v}, {rav ... 'aqroS ...:sen}</column>
       <column name="notes">This word is used to specify a limit or restriction.
 
 In other contexts, consider using the verb suffix {-qu':v}. For example: {nom yIghoSqu'!:sen}</column>
-      <column name="notes_de">Dieses Wort wird verwendet, um eine Grenze oder Einschränkung anzugeben.
+      <column name="notes_de">Dieses Wort wird benutzt, um ein Limit oder eine Einschränkung auszudrücken.
 
-In anderen Kontexten sollten Sie das Verbsuffix {-qu':v} verwenden. Zum Beispiel: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این کلمه برای تعیین حد یا محدودیت استفاده می شود.
+In anderem Kontext sollte das Verbsuffix {-qu':v} erwogen werden. Beispielsweise: {nom yIghoSqu'!:sen}</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ce mot s'utilise pour préciser une limite ou restriction.
 
-در سایر زمینه ها ، با استفاده از پسوند فعل {-qu':v} در نظر بگیرید. به عنوان مثال: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta ord används för att ange en gräns eller begränsning.
-
-Överväg i andra sammanhang att använda verbetsuffix {-qu':v}. Till exempel: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это слово используется для обозначения лимита или ограничения.
-
-В других контекстах рассмотрите возможность использования суффикса глагола {-qu':v}. Например: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">該詞用於指定限製或限制。
-
-在其他情況下，請考慮使用動詞後綴{-qu':v}。例如：{nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esta palavra é usada para especificar um limite ou restrição.
-
-Em outros contextos, considere usar o sufixo verbal {-qu':v}. Por exemplo: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä sanaa käytetään määrittämään raja tai rajoitus.
-
-Harkitse muissa yhteyksissä verbiliitteen {-qu':v} käyttöä. Esimerkiksi: {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce mot est utilisé pour spécifier une limite ou une restriction.
-
-Dans d’autres contextes, envisagez d’utiliser le suffixe verbal {-qu':v}. Par exemple : {nom yIghoSqu'!:sen} [AUTOTRANSLATED]</column>
+Dans d'autres contextes, on peut considérer le suffixe verbal {-qu':v}. Par exemple: {nom yIghoSqu'!:sen}</column>
       <column name="hidden_notes">"Across".
 It's unclear why {'aqroS:n:2,nolink} seems to precede the noun while {rav:n:2,nolink} seems to follow the noun.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {'aqroS qughDo:sen:nolink}: {pIvlob Hut vI' vagh:sen:nolink} "Maximum Cruising Speed - Warp 9.5"[1]
 ▶ {Qapchu'meH 'aqroS chuq:n:nolink} "maximum effective range"[1]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {'aqroS qughDo:sen:nolink}: {pIvlob Hut vI' vagh:sen:nolink} "Maximale Reisegeschwindigkeit - Warp 9.5"[1]
+▶ {Qapchu'meH 'aqroS chuq:n:nolink} "maximale effektive Reichweite"[1]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {'aqroS qughDo:sen:nolink}: {pIvlob Hut vI' vagh:sen:nolink} "Vitesse de croisière maximale - Warp 9.5"[1]
+▶ {Qapchu'meH 'aqroS chuq:n:nolink} "portée efficace maximale"[1]</column>
       <column name="search_tags">most, utmost, extreme, below</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -2941,55 +3106,102 @@ It's unclear why {'aqroS:n:2,nolink} seems to precede the noun while {rav:n:2,no
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {BoP:src}, [2] {HQ 8.3, p.2, Sept. 1999:src}</column>
+      <column name="source">[1] {BoP:src}, [2] {HQ 8.3, p.2, Sep. 1999:src}</column>
     </table>
-    <table name="mem">
-      <column name="_id"></column>
-      <column name="entry_name">'aqroS qughDo</column>
-      <column name="part_of_speech">n</column>
-      <column name="definition">maximum cruising speed</column>
-      <column name="definition_de">höchste Reisegeschwindigkeit</column>
-      <column name="definition_fa">حداکثر سرعت کروز [AUTOTRANSLATED]</column>
-      <column name="definition_sv">maximal fartshastighet [AUTOTRANSLATED]</column>
-      <column name="definition_ru">максимальная крейсерская скорость [AUTOTRANSLATED]</column>
-      <column name="definition_zh_HK">最大巡航速度 [AUTOTRANSLATED]</column>
-      <column name="definition_pt">velocidade máxima de cruzeiro</column>
-      <column name="definition_fi">suurin matkanopeus</column>
-      <column name="definition_fr">vitesse de croisière maximale [AUTOTRANSLATED]</column>
-      <column name="synonyms"></column>
-      <column name="antonyms"></column>
-      <column name="see_also"></column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
-      <column name="notes_fa"></column>
-      <column name="notes_sv"></column>
-      <column name="notes_ru"></column>
-      <column name="notes_zh_HK"></column>
-      <column name="notes_pt"></column>
-      <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
-      <column name="hidden_notes"></column>
-      <column name="components">{'aqroS:n:2}, {qughDo:n}</column>
-      <column name="examples"></column>
-      <column name="examples_de"></column>
-      <column name="examples_fa"></column>
-      <column name="examples_sv"></column>
-      <column name="examples_ru"></column>
-      <column name="examples_zh_HK"></column>
-      <column name="examples_pt"></column>
-      <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
-      <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
-      <column name="search_tags_fa"></column>
-      <column name="search_tags_sv"></column>
-      <column name="search_tags_ru"></column>
-      <column name="search_tags_zh_HK"></column>
-      <column name="search_tags_pt"></column>
-      <column name="search_tags_fi"></column>
-      <column name="search_tags_fr"></column>
-      <column name="source">[1] {BoP:src}</column>
-    </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'aqroS patlh</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">record (e.g., world record)</column>
+          <column name="definition_de">Rekord (z. B. Weltrekord)</column>
+          <column name="definition_fa">رکورد (به عنوان مثال، رکورد جهانی) [AUTOTRANSLATED]</column>
+          <column name="definition_sv">rekord (t.ex. världsrekord) [AUTOTRANSLATED]</column>
+          <column name="definition_ru">рекорд (например, мировой рекорд) [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">紀錄（例如世界紀錄） [AUTOTRANSLATED]</column>
+          <column name="definition_pt">recorde (por exemplo, recorde mundial) [AUTOTRANSLATED]</column>
+          <column name="definition_fi">ennätys</column>
+          <column name="definition_fr">record (p. ex., record du monde)</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes">This means the best performance or achievement of its kind, as in a world record for speed running.[1]</column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2024:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
+          <column name="entry_name">'aqroS qughDo</column>
+          <column name="part_of_speech">n</column>
+          <column name="definition">maximum cruising speed</column>
+          <column name="definition_de">höchste Reisegeschwindigkeit</column>
+          <column name="definition_fa">حداکثر سرعت کروز [AUTOTRANSLATED]</column>
+          <column name="definition_sv">maximal fartshastighet [AUTOTRANSLATED]</column>
+          <column name="definition_ru">максимальная крейсерская скорость [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">最大巡航速度 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">velocidade máxima de cruzeiro</column>
+          <column name="definition_fi">suurin matkanopeus</column>
+          <column name="definition_fr">vitesse de croisière maximale</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also"></column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components">{'aqroS:n:2}, {qughDo:n}</column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {BoP:src}</column>
+        </table>
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'aqroS ...</column>
@@ -3039,6 +3251,53 @@ It's unclear why {'aqroS:n:2,nolink} seems to precede the noun while {rav:n:2,no
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">'aqSIl</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">torque</column>
+      <column name="definition_de">Drehmoment</column>
+      <column name="definition_fa">گشتاور [AUTOTRANSLATED]</column>
+      <column name="definition_sv">vridmoment [AUTOTRANSLATED]</column>
+      <column name="definition_ru">крутящий момент [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">扭力 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">torque [AUTOTRANSLATED]</column>
+      <column name="definition_fi">vääntömomentti</column>
+      <column name="definition_fr">couple (physique)</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also"></column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2024:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">'aqtu'</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Aktuh</column>
@@ -3049,19 +3308,19 @@ It's unclear why {'aqroS:n:2,nolink} seems to precede the noun while {rav:n:2,no
       <column name="definition_zh_HK">Aktuh [AUTOTRANSLATED]</column>
       <column name="definition_pt">Aktuh</column>
       <column name="definition_fi">Aktuh</column>
-      <column name="definition_fr">Aktuh [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Aktuh</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mellota':n:name}, {ghe'naQ:n}</column>
       <column name="notes">A character in a famous Klingon opera.</column>
-      <column name="notes_de">Eine Figur in einer berühmten klingonischen Oper. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">شخصیتی در یک اپرای معروف کلینگون. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Eine Rolle in einer berühmten Klingonischen Oper.</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv">En roll i en känd klingonsk opera.</column>
-      <column name="notes_ru">Персонаж в известной клингонской опере. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">著名的克林崗歌劇中的角色。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Um personagem de uma famosa ópera Klingon. [AUTOTRANSLATED]</column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Un personnage d'un célèbre opéra klingon. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Un rôle dans un opéra fameux klingon.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3096,19 +3355,19 @@ It's unclear why {'aqroS:n:2,nolink} seems to precede the noun while {rav:n:2,no
       <column name="definition_zh_HK">葫蘆南瓜西葫蘆 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cabaça, abóbora</column>
       <column name="definition_fi">eräs kurpitsan kaltainen kasvi</column>
-      <column name="definition_fr">courge, courge, citrouille [AUTOTRANSLATED]</column>
+      <column name="definition_fr">courge, citrouille, potiron</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{naH:n}</column>
       <column name="notes">This refers to the trailing or climbing plant itself.</column>
-      <column name="notes_de">Dies bezieht sich auf die Schlepp- oder Kletterpflanze selbst. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این مربوط به خود گیاه کوهنوردی یا کوهنوردی است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta avser släp- eller klättringsanläggningen själv. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к самому висячему или вьющемуся растению. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指拖尾植物或攀援植物本身。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Refere-se à planta de reboque ou trepadeira em si. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bezieht sich auf die Rankenpflanze selbst</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Il s’agit de la plante rampante ou grimpante elle-même. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci se réfère à la plante à tiges même.</column>
       <column name="hidden_notes">"Luffa acutangula" is a type of gourd known as vegetable gourd or Chinese okra. In the episode {TOS - The Apple:src}, a character named Akuta smashes a Persian melon.
 
 The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':n, naH:n}.</column>
@@ -3130,7 +3389,7 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="search_tags_fr"></column>
+      <column name="search_tags_fr">calebasse, potimarron</column>
       <column name="source">[1] {qep'a' 27 (2020):src}</column>
     </table>
     <table name="mem">
@@ -3145,7 +3404,7 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="definition_zh_HK">額頭</column>
       <column name="definition_pt">testa</column>
       <column name="definition_fi">otsa</column>
-      <column name="definition_fr">front [AUTOTRANSLATED]</column>
+      <column name="definition_fr">front (partie du visage)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Quch:n}</column>
@@ -3192,19 +3451,19 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="definition_zh_HK">看著墮落的戰士身體的行為 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ato de vigiar o corpo de um guerreiro caído</column>
       <column name="definition_fi">kaatuneen soturin ruumiin vartiointi</column>
-      <column name="definition_fr">Ak'voh, acte de veiller sur le corps d'un guerrier tombé au combat [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Ak'voh, acte de veiller sur le corps d'un guerrier tombé au combat</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{nol:n}, {Heghtay:n}, {SonchIy:n}</column>
       <column name="notes">This is an ancient tradition where the comrades of a warrior who had died in battle stayed with the body to keep away predators, which allowed the spirit ({qa':n}) to leave the body when it was ready for the journey to Sto-Vo-Kor ({Suto'vo'qor:n}).</column>
-      <column name="notes_de">Dies ist eine alte Tradition, in der die Kameraden eines Kriegers, der im Kampf gestorben war, beim Körper blieben, um Raubtiere fernzuhalten, wodurch der Geist ({qa':n}) den Körper verlassen konnte, als er für die Reise nach Sto-Vo-Kor bereit war ( {Suto'vo'qor:n}). [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این یک سنت باستانی است که در آن رفقای یک رزمنده که در نبرد جان باخته بود ، در کنار بدن قرار گرفتند تا شکارچیان را دور نگه دارند ، که این امر به روح ({qa':n}) اجازه می داد هنگام آماده شدن برای سفر به استو وو-کور ، بدن را ترک کند. ({Suto'vo'qor:n}). [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en gammal tradition där kamraterna till en krigare som hade dött i striden stannade med kroppen för att hålla undan rovdjur, vilket gjorde det möjligt för andan ({qa':n}) att lämna kroppen när den var redo för resan till Sto-Vo-Kor ( {Suto'vo'qor:n}). [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это древняя традиция, когда товарищи воина, погибшего в бою, оставались с телом, чтобы удерживать хищников, что позволило духу ({qa':n}) покинуть тело, когда оно было готово к путешествию в Сто-Во-Кор ( {Suto'vo'qor:n}). [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一種古老的傳統，在戰鬥中喪生的戰士的同志們與屍體呆在一起，以遠離掠食者，這使得靈魂（{qa':n}）在準備前往Sto-Vo-Kor的旅程中離開了屍體（ {Suto'vo'qor:n}）。 [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist eine antike Tradition, bei der die Kameraden eines Kriegers, der im Kampf gestorben ist, bei seinem Körper blieben, um Raubtiere fernzuhalten, was dem Geist erlaubte ({qa':n}) den Körper zu verlassen, wenn er für die Reise nach Sto-Vo-Kor ({Suto'vo'qor:n}) bereit war.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">Tämä on ikivanha perinne, jossa taistelussa kuolleiden sotureiden toverit pysyivät ruumiin kanssa pitääkseen saalistajat, mikä antoi henkelle ({qa':n}) mahdollisuuden lähteä ruumiista, kun se oli valmis matkalle Sto-Vo-Koriin ( {Suto'vo'qor:n}). [AUTOTRANSLATED]</column>
-      <column name="notes_fr"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci es tune tradition ancienne où les camerades d'un guerrier mort dans la bataille restaient avec son corps pour éloigner les prédateurs, ce qui permettait à l'esprit ({qa':n}) de quitter le corps quand il était prêt pour le voyage à Sto-Vo-Kor ({Suto'vo'qor:n}).</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3239,33 +3498,25 @@ The request was for the plant. Presumably, the fruit be {'aquta' naH:n@@'aquta':
       <column name="definition_zh_HK">多少？多少？ [AUTOTRANSLATED]</column>
       <column name="definition_pt">quantos?</column>
       <column name="definition_fi">kuinka monta? kuinka paljon?</column>
-      <column name="definition_fr">combien? combien? [AUTOTRANSLATED]</column>
+      <column name="definition_fr">combien?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'arlogh:ques}</column>
       <column name="notes">This question word follows the noun to which it refers, which never has a plural suffix.[1]
 
 Grammatically, a plural prefix is used if the questioned noun can be singular or plural and the translation is "how many?" A singular prefix is used if the questioned noun is something that can't be counted and the translation is "how much?"[2]</column>
-      <column name="notes_de">Dieses Fragewort folgt dem Substantiv, auf das es sich bezieht und das niemals ein Plural-Suffix hat.[1]
+      <column name="notes_de">Dieses Fragewort bezieht sich auf das Nomen, auf das es sich bezieht, das niemals ein Pluralsuffix hat.[1]
 
-Grammatisch wird ein Pluralpräfix verwendet, wenn das fragliche Substantiv Singular oder Plural sein kann und die Übersetzung "wie viele?" Lautet. Ein singuläres Präfix wird verwendet, wenn das fragliche Substantiv nicht gezählt werden kann und die Übersetzung "wie viel?" [2] lautet [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این کلمه سؤالی از اسمی که به آن اشاره می شود ، پیروی می کند ، که هرگز پسوند جمع ندارد.[1]
-
-از نظر گرامری ، پیشوند جمع در صورتی استفاده می شود که اسم سؤال شده می تواند مفرد یا جمع باشد و ترجمه آن "چند است؟" پیشوند مفرد در صورتی استفاده می شود که اسم مورد سؤال چیزی باشد که نمی توان آن را شمارش کرد و ترجمه "چقدر است؟" [2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta frågeford följer det substantiv som det hänvisar till, som aldrig har ett pluralsuffix.[1]
-
-Grammatiskt används ett flertalsprefix om det ifrågasatta substantivet kan vara singular eller plural och översättningen är "hur många?" Ett singulärt prefix används om det ifrågasatta substantivet är något som inte kan räknas och översättningen är "hur mycket?" [2] [AUTOTRANSLATED]</column>
+Grammatikalisch wird ein Pluralpräfix benutzt, wenn das erfragte Nomen Singular oder Plural sein kann. In diesem Fall wird es mit "wie viele" übersetzt. Ein Singularpräfix wird benutzt wenn das Nomen nicht gezählt werden kann. In diesem Fall ist die Übersetzung "wie viel".[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Esta palavra interrogativa segue o substantivo ao qual se refere, que nunca tem um sufixo de plural.[1]
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ce mot interrogatif suit le nom auquel il se réfère, qui n'a jamais de suffixe de pluriel.[1]
 
-Gramaticamente, um prefixo de plural é usado se o substantivo questionado puder ser singular ou plural e a tradução for "quantos?" Um prefixo singular é usado se o substantivo questionado for algo que não pode ser contado e a tradução for "quanto?" [2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä kysymyssana seuraa substantiivia, johon se viittaa, ja jolla ei koskaan ole monikon loppuliitettä.
-
-Kieliopillisesti monikon etuliitettä käytetään, jos kyseenalaistettu substantiivi voi olla yksikkö tai monikko ja käännös on "kuinka monta?" Yksittäistä etuliitettä käytetään, jos kyseenalaistettua substantiivia ei voida laskea ja käännös on "kuinka paljon?" [2][1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce mot interrogatif suit le nom auquel il fait référence, qui n'a jamais de suffixe pluriel.[1]
-
-Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut être singulier ou pluriel et que la traduction est « combien ? Un préfixe singulier est utilisé si le nom interrogé est quelque chose qui ne peut pas être compté et que la traduction est "combien ?"[2] [AUTOTRANSLATED]</column>
+Grammaticalement, un préfix au pluriel s'utilise quand le nom auqel il se réfère peut être ou singulier ou pluriel. Un préfixe au singulier s'utilise quand le nom n'est pas dénombrable.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
@@ -3274,14 +3525,24 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
 ▶ {Dochvetlh DIlmeH Huch 'ar DaneH?:sen}
 ▶ {Duj 'ar DIlegh?:sen:nolink} "How many ships do we see?"[2]
 ▶ {bIQ 'ar wIlegh?:sen:nolink} "How much water do we see?"[2]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {Haw'pu' yaS 'ar?:sen:nolink} "Sie viele Offiziere sind geflohen?" ({TKD S.70:src})
+▶ {nIn 'ar wIghaj?:sen}
+▶ {Dochvetlh DIlmeH Huch 'ar DaneH?:sen}
+▶ {Duj 'ar DIlegh?:sen:nolink} "Wie viele Schiffe sehen wir?"[2]
+▶ {bIQ 'ar wIlegh?:sen:nolink} "Wie viel Wasser sehen wir?"[2]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {Haw'pu' yaS 'ar?:sen:nolink} "Combien d'officiers se sont enfuis?" ({TKD p.70:src})
+▶ {nIn 'ar wIghaj?:sen}
+▶ {Dochvetlh DIlmeH Huch 'ar DaneH?:sen}
+▶ {Duj 'ar DIlegh?:sen:nolink} "Combien de vaisseaux voyons-nous?"[2]
+▶ {bIQ 'ar wIlegh?:sen:nolink} "Combien d'eau voyons-nous?"[2]</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -3297,7 +3558,7 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="_id"></column>
       <column name="entry_name">'arDeH</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">ivy-like plant</column>
+      <column name="definition">vine, vine-like plant</column>
       <column name="definition_de">Efeu-ähnliche Pflanze</column>
       <column name="definition_fa">گیاه آبی مانند [AUTOTRANSLATED]</column>
       <column name="definition_sv">murgrönaliknande växt [AUTOTRANSLATED]</column>
@@ -3305,11 +3566,11 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="definition_zh_HK">常春藤般的植物 [AUTOTRANSLATED]</column>
       <column name="definition_pt">planta parecida com a ivy</column>
       <column name="definition_fi">eräs muratin kaltainen kasvi</column>
-      <column name="definition_fr">plante ressemblant à du lierre [AUTOTRANSLATED]</column>
+      <column name="definition_fr">plante ressemblant au lierre</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
-      <column name="notes"></column>
+      <column name="notes">This refers to vine-like plants, including ivy-like plants.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -3318,7 +3579,9 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
-      <column name="hidden_notes">The ivy belongs to the genus "Hedera".</column>
+      <column name="hidden_notes">The ivy belongs to the genus "Hedera".
+
+This was originally defined as "ivy-like plant"[1], but was subsequently expanded to include all "vine-like" plants.[2]</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -3329,7 +3592,7 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
       <column name="examples_fr"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">ivy</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
@@ -3338,7 +3601,7 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {Saarbrücken qepHom'a' 2016:src}</column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2016:src}, [2] {qep'a' 32 (2025):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -3352,7 +3615,7 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="definition_zh_HK">惡化 [AUTOTRANSLATED]</column>
       <column name="definition_pt">piorar</column>
       <column name="definition_fi">pahentua, huonontua</column>
-      <column name="definition_fr">empirer [AUTOTRANSLATED]</column>
+      <column name="definition_fr">empirer, se dégrader, s'aggraver, se détériorer</column>
       <column name="synonyms">{Sab:v}</column>
       <column name="antonyms">{Dub:v}, {rach:v}</column>
       <column name="see_also">{qab:v}</column>
@@ -3399,7 +3662,7 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="definition_zh_HK">多少次？</column>
       <column name="definition_pt">Quantas vezes?</column>
       <column name="definition_fi">kuinka monta kertaa?</column>
-      <column name="definition_fr">combien de fois? [AUTOTRANSLATED]</column>
+      <column name="definition_fr">combien de fois?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3446,37 +3709,39 @@ Grammaticalement, un préfixe pluriel est utilisé si le nom interrogé peut êt
       <column name="definition_zh_HK">幾點了？</column>
       <column name="definition_pt">Que horas são?</column>
       <column name="definition_fi">Paljonko kello on?</column>
-      <column name="definition_fr">Quelle heure est-il? [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Quelle heure est-il?</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghorgh:ques}, {Qoylu'taH:sen}</column>
       <column name="notes">This is the most common of several ways of asking for the time in Klingon. One can also ask, {'arlogh wab Qoylu'pu'?:sen:nolink} or {qen 'arlogh Qoylu'pu'?:sen:nolink} The answer to this question is, for example, {cha'logh Qoylu'pu':sen:nolink} "It has been heard twice", meaning "two o'clock".
 
 The Federation's 24-hour system ({tera' poH:n}) is sometimes used in interplanetary communication. When working within this system, the way to ask for the time is to issue the command, {rep yIper!:sen:nolink} In replying to this command, the hours are not counted, but rather numbered from 1 to 24. For example, {tera' rep cha':sen:nolink} or {rep cha':sen:nolink} is "two o'clock". When context is clear, {tera':n} may be left out.</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist die häufigste von mehreren Arten auf Klingonisch nach der Zeit zu fragen. Man kann auch {'arlogh wab Qoylu'pu'?:sen:nolink} oder {qen 'arlogh Qoylu'pu'?:sen:nolink} fragen. Die Antwort auf diese Frage ist zum Beispiel {cha'logh Qoylu'pu':sen:nolink} "Man hat es zweimal gehört", was "zwei Uhr" bedeutet.
+
+Das 24-Stunden-System der Föderation ({tera' poH:n}) wird manchmal in interplanetärer Kommunikation benutzt. Wenn man mit diesem System arbeitet, fragt man mit dem Befehl {rep yIper!:sen:nolink} nach der Zeit. Wenn man auf diesen Befehl antwortet werden die Stunden nicht gezählt sondern von 1 bis 24 nummeriert. Zum Beispiel {tera' rep cha':sen:nolink} oder {rep cha':sen:nolink} ist "zwei Uhr". Wenn der Kontext klar ist, kann {tera':n} weggelassen werden.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">Tämä on yleisin monista tapoista kysyä aikaa Klingonissa. Voidaan myös kysyä, {'arlogh wab Qoylu'pu'?:sen:nolink} tai {qen 'arlogh Qoylu'pu'?:sen:nolink} Vastaus tähän kysymykseen on esimerkiksi {cha'logh Qoylu'pu':sen:nolink} "Se on kuultu kahdesti ", mikä tarkoittaa" kaksi ".
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est la manière la plus courante de plusieures manières de demander le temps en Klingon. On peut aussi demander {'arlogh wab Qoylu'pu'?:sen:nolink} ou {qen 'arlogh Qoylu'pu'?:sen:nolink} La réponse à cette question est, par exemple, {cha'logh Qoylu'pu':sen:nolink} "On l'a entendu deux fois", signifiant "deux heures".
 
-Liiton 24 tunnin järjestelmää ({tera' poH:n}) käytetään joskus planeettojen välisessä viestinnässä. Kun työskentelet tässä järjestelmässä, aika kysyä on antaa komento, {rep yIper!:sen:nolink} Vastaamalla tähän komentoon tunteja ei lasketa, vaan numeroidaan 1: stä 24. Esimerkiksi {tera' rep cha':sen:nolink} tai {rep cha':sen:nolink} on "kaksi o 'kello". Kun asiayhteys on selvä, {tera':n} voidaan jättää pois. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit de la manière la plus courante de demander l’heure en Klingon. On peut aussi demander, {'arlogh wab Qoylu'pu'?:sen:nolink} ou {qen 'arlogh Qoylu'pu'?:sen:nolink} La réponse à cette question est, par exemple, {cha'logh Qoylu'pu':sen:nolink} "Il a été entendu deux fois", ce qui signifie "deux heures".
-
-Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois utilisé dans les communications interplanétaires. Lorsque vous travaillez dans ce système, la façon de demander l'heure est d'émettre la commande {rep yIper!:sen:nolink}. En répondant à cette commande, les heures ne sont pas comptées, mais plutôt numérotées de 1 à 24. Par exemple, {tera' rep cha':sen:nolink} ou {rep cha':sen:nolink} est "deux o 'horloge". Lorsque le contexte est clair, {tera':n} peut être laissé de côté.{'arlogh wab Qoylu'pu'?:sen:nolink}{qen 'arlogh Qoylu'pu'?:sen:nolink} [AUTOTRANSLATED]</column>
+Le système de 24 heures de la Fédération ({tera' poH:n}) est parfois utilisé dans la communication interplanetaire. Quand on travaille dans ce système, la manière de demander le temps est avec l'ordre {rep yIper!:sen:nolink} Quand on répond à cet ordre, les heures ne sont pas comptées, mais plutôt numérotées de 1 à 24. Par exemple, {tera' rep cha':sen:nolink} ou {rep cha':sen:nolink} est "deux heures". Quand le contexte est clair, {tera':n} peut être omis.</column>
       <column name="hidden_notes">The sentence {vagh rep bImejnIS:sen:nolink} "Checkout time is 5 a.m." is heard in {Conversational Klingon:src} (released in 1992), with no explanation of why {vagh rep:n@@vagh:n:1, rep:n} means what it means. According to the time-telling system actually described on that tape, "5 a.m." should've been {vaghvatlh rep:sen:nolink}.</column>
       <column name="components"></column>
       <column name="examples">
 ▶ {mamejDI' 'arlogh Qoylu'pu'?:sen@@ma-:v, mej:v, -DI':v, 'arlogh Qoylu'pu'?:sen} "What time do we leave?"</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {mamejDI' 'arlogh Qoylu'pu'?:sen@@ma-:v, mej:v, -DI':v, 'arlogh Qoylu'pu'?:sen} "Zu welcher Zeit fahren wir ab?"</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {mamejDI' 'arlogh Qoylu'pu'?:sen@@ma-:v, mej:v, -DI':v, 'arlogh Qoylu'pu'?:sen} "À quelle heure partons-nous?"</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -3493,26 +3758,26 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="entry_name">'aSteD</column>
       <column name="part_of_speech">n</column>
       <column name="definition">occupation, job</column>
-      <column name="definition_de">Beruf, Beschäftigung, Job</column>
+      <column name="definition_de">Beruf, Arbeit</column>
       <column name="definition_fa">شغل، شغل [AUTOTRANSLATED]</column>
       <column name="definition_sv">yrke, jobb [AUTOTRANSLATED]</column>
       <column name="definition_ru">занятие, работа [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">職業、工作 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ocupação, trabalho [AUTOTRANSLATED]</column>
-      <column name="definition_fi">ammatti, työ [AUTOTRANSLATED]</column>
+      <column name="definition_fi">ammatti, työ</column>
       <column name="definition_fr">profession, travail, métier, emploi</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{QapmIw:n}</column>
       <column name="notes">This is not the same as {QapmIw:n:nolink}.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist nicht das Gleiche wie {QapmIw:n:nolink}.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ceci n'est pas le même que {QapmIw:n:nolink}.[1]</column>
       <column name="hidden_notes">"A steady job".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3547,19 +3812,19 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">繼承 [AUTOTRANSLATED]</column>
       <column name="definition_pt">herdar</column>
       <column name="definition_fi">periä</column>
-      <column name="definition_fr">hériter [AUTOTRANSLATED]</column>
+      <column name="definition_fr">hériter</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This refers to inheritance in the sense that if a father dies, his son inherits his possessions.</column>
-      <column name="notes_de">Dies bezieht sich auf das Erbe in dem Sinne, dass wenn ein Vater stirbt, sein Sohn seinen Besitz erbt. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به ارث اشاره دارد به این معنا که اگر پدری بمیرد ، پسرش اموال خود را به ارث می برد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta hänvisar till arv i den meningen att om en far dör, arver hans son sina ägodelar. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к наследованию в том смысле, что, если отец умирает, его сын наследует его имущество. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指繼承，即父親去世，兒子繼承其財產。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso se refere à herança no sentido de que, se um pai morre, seu filho herda seus bens. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa perintöön siinä mielessä, että jos isä kuolee, hänen poikansa perii omaisuutensa. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit d’héritage dans le sens où si un père décède, son fils hérite de ses biens. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bezieht sich auf Erbe im Sinne, dass, wenn ein Vater stirbt, der Sohn seinen Besitz erbt.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère à l'héritage dans le sens que, quand un père meurt, le fils hérite ses biens.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3594,7 +3859,7 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">圍城 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cerco</column>
       <column name="definition_fi">piiritys, saarto</column>
-      <column name="definition_fr">siège [AUTOTRANSLATED]</column>
+      <column name="definition_fr">siège</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3606,7 +3871,7 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">C'est dans le sens d'une attaque d'un lieu fortifié, pas dans le sens d'une chose sur laquelle on s'asseoit.</column>
       <column name="hidden_notes">A reference to the episode {DS9 - The Siege of AR-558:src} ({'at:n}, {ray:n}), and maybe also to the Siege of Troy.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3641,7 +3906,7 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">A'trom [AUTOTRANSLATED]</column>
       <column name="definition_pt">A'trom</column>
       <column name="definition_fi">A'trom</column>
-      <column name="definition_fr">A'trom [AUTOTRANSLATED]</column>
+      <column name="definition_fr">A'trom</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HuS:n:name}</column>
@@ -3688,19 +3953,19 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">真菌的類型 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de fungo</column>
       <column name="definition_fi">eräs sieni</column>
-      <column name="definition_fr">type de champignon [AUTOTRANSLATED]</column>
+      <column name="definition_fr">type de champignon ou moisissure</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SIylaw':n}, {wech:v}, {tera' yav 'atlhqam:n}</column>
       <column name="notes">This is typically found on the feet of some sort of Klingon animal or on Klingon trees. In non-scientific, everyday speech, this seems to function as a general term for "fungus".[2]</column>
-      <column name="notes_de">Dies ist normalerweise an den Füßen eines klingonischen Tieres oder an klingonischen Bäumen zu finden. In der nichtwissenschaftlichen Alltagssprache scheint dies als allgemeiner Begriff für "Pilz" zu fungieren.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به طور معمول در پای نوعی از حیوانات کلینگون یا درختان کلینگون یافت می شود. در گفتار روزمره غیر علمی ، به نظر می رسد که این به عنوان یک اصطلاح کلی برای "قارچ" عمل می کند.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta finns vanligtvis på fötter på ett slags Klingon-djur eller på Klingon-träd. I icke-vetenskapliga vardagliga tal verkar detta fungera som en allmän term för "svamp".[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Обычно это встречается на ногах какого-то клингонского животного или на клингонских деревьях. В ненаучной повседневной речи это, по-видимому, служит общим термином «гриб».[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這通常在某種克林崗動物的腳上或克林貢樹上發現。在非科學的日常用語中，這似乎是「真菌」的總稱。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso geralmente é encontrado nos pés de algum tipo de animal Klingon ou em árvores Klingon. No discurso cotidiano não científico, isso parece funcionar como um termo geral para "fungo".[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä löytyy tyypillisesti jonkinlaisen klingonilaisen eläimen jaloista tai klingonipuista. Ei-tieteellisessä, jokapäiväisessä puheessa tämä näyttää toimivan yleisenä terminä "sieni".[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">On le trouve généralement sur les pieds d'une sorte d'animal Klingon ou sur des arbres Klingons. Dans le langage courant et non scientifique, cela semble fonctionner comme un terme général désignant « champignon ».[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
       <column name="hidden_notes">"Athlete's foot". Also "huitlacoche".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3735,19 +4000,19 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">一種模具 [AUTOTRANSLATED]</column>
       <column name="definition_pt">tipo de fungo</column>
       <column name="definition_fi">eräs homesieni</column>
-      <column name="definition_fr">type de moule [AUTOTRANSLATED]</column>
+      <column name="definition_fr">type de moisissure</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This literally means "soft fungus".</column>
-      <column name="notes_de">Dies bedeutet wörtlich "weicher Pilz". [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به معنای واقعی کلمه به معنای "قارچ نرم" است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta betyder bokstavligen "mjuk svamp". [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это буквально означает «мягкий грибок». [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這字面意思是「軟木耳」。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso significa literalmente "fungo mole". [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "pehmeää sientä". [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela signifie littéralement « champignon mou ». [AUTOTRANSLATED]</column>
+      <column name="notes_de">Wörtlich "weicher Pilz".</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Littéralement "champignon/moisissure mou(e)</column>
       <column name="hidden_notes"></column>
       <column name="components">{'atlhqam:n}, {tun:v}</column>
       <column name="examples"></column>
@@ -3782,7 +4047,7 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">守衛</column>
       <column name="definition_pt">guardar</column>
       <column name="definition_fi">vartioida</column>
-      <column name="definition_fr">garde [AUTOTRANSLATED]</column>
+      <column name="definition_fr">garder</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'avwI':n}</column>
@@ -3829,7 +4094,7 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">警衛</column>
       <column name="definition_pt">guarda</column>
       <column name="definition_fi">vartija</column>
-      <column name="definition_fr">garde [AUTOTRANSLATED]</column>
+      <column name="definition_fr">garde, gardien</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bIghHa':n}, {qama':n}</column>
@@ -3876,7 +4141,7 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">當逃脫的囚犯尋找警衛時，他總能找到一個。 [AUTOTRANSLATED]</column>
       <column name="definition_pt">Quando um prisioneiro escapado procura um guarda, ele sempre encontra um.</column>
       <column name="definition_fi">Kun paennut vanki etsii vartijaa, hän aina löytää sellaisen.</column>
-      <column name="definition_fr">Lorsqu'un évadé cherche un gardien, il en trouve toujours un. [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Lorsqu'un prisonnier évadé cherche un gardien, il en trouve toujours un.</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -3923,19 +4188,19 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">通過，通過 [AUTOTRANSLATED]</column>
       <column name="definition_pt">atravessar, passar (matéria)</column>
       <column name="definition_fi">käydä läpi (aineen)</column>
-      <column name="definition_fr">traverser, traverser (matière) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">traverser, passer à travers (matière)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vegh:v}, {tol:v}</column>
       <column name="notes">This refers to passing through matter, as ghosts, phased lifeforms, or particles may do.</column>
-      <column name="notes_de">Dies bezieht sich auf das Durchlaufen von Materie, wie es Geister, phasenweise Lebensformen oder Partikel tun können. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به معنای گذر از ماده است ، همانطور که ارواح ، شکل های مرحله زندگی یا ذرات ممکن است انجام دهند. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta hänför sig till att passera genom materien, som spöken, fasformade livsformer eller partiklar kan göra. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к прохождению через материю, как это могут делать призраки, фазированные формы жизни или частицы. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指穿過物質，就像鬼影，分階段的生命形式或粒子可能發生的那樣。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso se refere à passagem pela matéria, como fantasmas, formas de vida em fases ou partículas. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa aineen kulkemiseen, kuten aaveet, vaiheittaiset elämänmuodot tai hiukkaset voivat tehdä. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela fait référence au passage à travers la matière, comme peuvent le faire les fantômes, les formes de vie en phase ou les particules. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bezieht sich auf das Passieren durch Materie, so wie es Geister, Energiewesen oder Teilchen tun.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère au passage de la matière comme le feront les fantômes, les êtres d'énergie ou les particules.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -3970,33 +4235,25 @@ Le système 24 heures sur 24 de la Fédération ({tera' poH:n}) est parfois util
       <column name="definition_zh_HK">飲料類型（根汁汽水）</column>
       <column name="definition_pt">tipo de bebida (cerveja de raiz)</column>
       <column name="definition_fi">eräs juurioluen kaltainen juoma</column>
-      <column name="definition_fr">type de boisson (root beer) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">type de boisson (racinette)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qo'la' 'awje':n}</column>
       <column name="notes">This is a type of beverage made from (among other things) the {melchoQ:n} of a {teghbat:n}. It has a superficial resemblance to Terran root beer.[1, p.95]
 
 This word refers not to a specific drink, but to a narrow class of related drinks.[2]</column>
-      <column name="notes_de">Dies ist eine Getränkeart, die unter anderem aus dem {melchoQ:n} eines {teghbat:n} hergestellt wird. Es hat eine oberflächliche Ähnlichkeit mit terranischem Wurzelbier.[1, p.95]
+      <column name="notes_de">Dies ist eine Art Getränk, dass (u.a.) aus dem {melchoQ:n} eines {teghbat:n} gemacht wird. Es hat eine oberflächliche Ähnlichkeit mit irdischem root beer (oft mit "Malzbier" übersetzt, ist aber süß).[1, S.95]
 
-Dieses Wort bezieht sich nicht auf ein bestimmtes Getränk, sondern auf eine enge Klasse verwandter Getränke.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این نوعی نوشیدنی است که از (از جمله موارد دیگر) {melchoQ:n} یک {teghbat:n} ساخته شده است. این شباهت سطحی با آبجو ریشه Terran.[1, p.95] دارد
-
-این کلمه نه به یک نوشیدنی خاص بلکه به یک کلاس باریک از نوشیدنی های مربوط اشاره دارد. [2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en typ av dryck tillverkad av (bland annat) {melchoQ:n} av en {teghbat:n}. Det har en ytlig likhet med Terran rotöl. [1, p.95]
-
-Detta ord hänvisar inte till en specifik drink, utan till en smal klass relaterade drycker. [2] [AUTOTRANSLATED]</column>
+Dieses Wort bezieht sich nicht auf ein bestimmtes Getränk, sondern auf eine enge Art ähnlicher Getränke.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Este é um tipo de bebida feita a partir (entre outras coisas) da {melchoQ:n} de uma {teghbat:n}. Tem uma semelhança superficial com a cerveja de raiz terráquea.[1, p.95]
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est un type de boisson fait (entre autres choses) de la {melchoQ:n} d'un {teghbat:n}. Il ressemble superficiellement à la racinette terrienne.[1, p.95]
 
-Esta palavra não se refere a uma bebida específica, mas a uma classe restrita de bebidas relacionadas.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on eräänlainen juoma, joka on valmistettu (muun muassa) {teghbat:n}: n {melchoQ:n}: stä. Sillä on pinnallinen samankaltaisuus Terran-juuren oluen kanssa.[1, p.95]
-
-Tämä sana ei tarkoita tiettyä juomaa, vaan suppeaa sukulaisjuomaryhmää[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un type de boisson fabriquée à partir (entre autres) du {melchoQ:n} d'un {teghbat:n}. Elle présente une ressemblance superficielle avec la bière de racine Terran.[1, p.95]
-
-Ce mot ne fait pas référence à une boisson spécifique, mais à une classe restreinte de boissons apparentées.[2] [AUTOTRANSLATED]</column>
+This word refers not to a specific drink, but to a narrow class of related drinks.[2]</column>
       <column name="hidden_notes">"A&amp;W" is a brand of root beer.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4031,19 +4288,19 @@ Ce mot ne fait pas référence à une boisson spécifique, mais à une classe re
       <column name="definition_zh_HK">音符（聲音），音調 [AUTOTRANSLATED]</column>
       <column name="definition_pt">nota musical (som), tom [AUTOTRANSLATED]</column>
       <column name="definition_fi">sävel</column>
-      <column name="definition_fr">note de musique (son), tonalité [AUTOTRANSLATED]</column>
+      <column name="definition_fr">note de musique (son), ton</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'awtIr ngutlh:n}, {QoQ ngutlh:n}</column>
       <column name="notes">This refers to the sound, not the musical notation.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies bezieht sich auf den Klang, nicht die Notation.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">Cela fait référence au son et non à la notation musicale.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci se réfère au son, pas la notation musicale.[1]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4078,19 +4335,19 @@ Ce mot ne fait pas référence à une boisson spécifique, mais à une classe re
           <column name="definition_zh_HK">音符（特定聲音的書面符號） [AUTOTRANSLATED]</column>
           <column name="definition_pt">nota musical (notação escrita para som específico) [AUTOTRANSLATED]</column>
           <column name="definition_fi">(viivastolle kirjoitettu) nuotti</column>
-          <column name="definition_fr">note de musique (notation écrite pour un son spécifique) [AUTOTRANSLATED]</column>
+          <column name="definition_fr">note de musique (notation écrite pour un ton spécifique)</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
           <column name="notes">This is a written musical note referring to a specific note (such as {yu:n} or {bIm:n}).[1]</column>
-          <column name="notes_de"></column>
+          <column name="notes_de">Dies ist eine geschriebene Musiknote, die sich auf einen bestimmten (so wie {yu:n} oder {bIm:n}) bezieht.[1]</column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
           <column name="notes_ru"></column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr">Il s'agit d'une note musicale écrite faisant référence à une note spécifique (telle que {yu:n} ou {bIm:n}).[1] [AUTOTRANSLATED]</column>
+          <column name="notes_fr">Ceci est une note musicale écrite qui se réfère à un certain son (comme {yu:n} ou {bIm:n}).[1]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'awtIr:n}, {ngutlh:n}</column>
           <column name="examples"></column>
@@ -4125,7 +4382,7 @@ Ce mot ne fait pas référence à une boisson spécifique, mais à une classe re
       <column name="definition_zh_HK">刺 [AUTOTRANSLATED]</column>
       <column name="definition_pt">picar</column>
       <column name="definition_fi">pistää, kirvellä, kirpaista, polttaa</column>
-      <column name="definition_fr">piquer [AUTOTRANSLATED]</column>
+      <column name="definition_fr">piquer</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'oy':v}, {tlhar:v}</column>
@@ -4150,14 +4407,28 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
   "Kahless, Kahless, Kahless,
    You are but a glob fly!
    You sound irritating, but you lack the sting!"[3]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {mu'aw' mInDu'wIj.} "Meine Augen stechen."[2]
+▶ {qeylIS qeylIS qeylIS:sen:nolink}
+   {ghIlab ghew neH SoH:sen:nolink}
+   {nuQ wablIj 'ach bI'aw'laHbe':sen:nolink}
+  "Kahless, Kahless, Kahless,
+   Du bist doch nur eine Globfliege!
+   Dein Klang nervt, aber dir fehlt der Stachel!"[3]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {mu'aw' mInDu'wIj.} "Mes yeux piquent."[2]
+▶ {qeylIS qeylIS qeylIS:sen:nolink}
+   {ghIlab ghew neH SoH:sen:nolink}
+   {nuQ wablIj 'ach bI'aw'laHbe':sen:nolink}
+  "Kahless, Kahless, Kahless,
+   Tu n'es qu'une mouche pygmée!
+   Ton son est agaçant, mais tu ne peux pas piquer!"[3]</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -4181,19 +4452,19 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="definition_zh_HK">漂浮（液體中或上）</column>
       <column name="definition_pt">flutuador (em / no líquido)</column>
       <column name="definition_fi">kellua, keijua</column>
-      <column name="definition_fr">flotter (dans/sur un liquide) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">flotter (dans/sur un liquide)</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'oq:v}</column>
       <column name="see_also">{'al:v:1}</column>
       <column name="notes">This means to float in/on water or other liquids. For something floating freely in space, see {rIjHa':v}.</column>
-      <column name="notes_de">Dies bedeutet, in / auf Wasser oder anderen Flüssigkeiten zu schwimmen. Informationen zu etwas, das frei im Raum schwebt, finden Sie unter {rIjHa':v}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به معنی شناور شدن در / روی آب یا مایعات دیگر است. برای چیزی که آزادانه در فضا شناور است ، به {rIjHa':v} مراجعه کنید. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta betyder att flyta i / på vatten eller andra vätskor. För {rIjHa':v} för något som flyter fritt i rymden. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это означает плавать в / на воде или других жидкостях. Что-то свободно плавающее в космосе, смотрите {rIjHa':v}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這意味著要漂浮在水或其他液體中/上面。有關可在太空中自由漂浮的東西，請參閱{rIjHa':v}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso significa flutuar na água ou em outros líquidos. Para algo flutuando livremente no espaço, consulte {rIjHa':v}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä tarkoittaa kellumista vedessä tai muissa nesteissä. Jos haluat jotain, joka kelluu vapaasti avaruudessa, katso {rIjHa':v}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela signifie flotter dans/sur l’eau ou d’autres liquides. Pour quelque chose flottant librement dans l’espace, voir {rIjHa':v}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bedeutet in oder auf dem Wasser oder einer anderen Flüssigkeit treiben. Für frei im Weltall treiben, siehe {rIjHa':v}.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci signifie flotter dans ou sur l'eau ou un autre liquide. Pour flotter librement dans l'espace, voir {rIjHa':v}.</column>
       <column name="hidden_notes">Floaters are found in the vitreous of the eye.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4233,14 +4504,14 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This is the closest Klingon equivalent, and is quite similar.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies ist das nächste klingonische Äquivalent und recht ähnlich.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">C'est l'équivalent klingon le plus proche et il est assez similaire.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">Ceci est l'équivalent klingon le plus proche et assez similaire.[1]</column>
       <column name="hidden_notes">Backwards of "salvia".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4275,19 +4546,19 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="definition_zh_HK">部分</column>
       <column name="definition_pt">seção, parte, componente, peça</column>
       <column name="definition_fi">osa, pala, komponentti</column>
-      <column name="definition_fr">section, partie, composant, morceau [AUTOTRANSLATED]</column>
+      <column name="definition_fr">section, partie, composant, morceau, constituant</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mutlh:v}, {baylaD:n}</column>
       <column name="notes">This can be used for any kind of building element, construction part, or even Lego pieces.[3] It can also refer to sections of a book.[4]</column>
-      <column name="notes_de">Dies kann für jede Art von Bauelement, Bauteil oder sogar Lego-Teilen verwendet werden.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این می تواند برای هر نوع عنصر ساختمان ، قسمت ساخت و ساز یا حتی قطعات لگو استفاده شود.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta kan användas för alla typer av byggnadselement, konstruktionsdelar eller till och med Lego-bitar.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это может быть использовано для любого вида строительных элементов, строительных деталей или даже деталей Lego.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">它可以用於任何類型的建築元素，建築零件，甚至是樂高積木。[3] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso pode ser usado para qualquer tipo de elemento de construção, peça de construção ou mesmo peças de Lego.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä voidaan käyttää mihin tahansa rakennusosaan, rakennusosaan tai jopa Lego-kappaleisiin[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela peut être utilisé pour tout type d'élément de construction, de pièce de construction ou même de pièces Lego.[3] Il peut également faire référence à des sections d'un livre.[4] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies kann für jede Art Konstruktionselement, Bauteil oder sogar Legosteine benutzt werden.[3] Es kann sich auch auf Abschnitte eines Buchs beziehen.[4]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci peut s'utiliser pour toute sorte d'élément de construction ou même les briques Lego.[3] Il peut aussi se référer aux parties d'un livre.[4]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">{paq 'ay'mey:n}, {taw 'ay':n}</column>
@@ -4308,7 +4579,7 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {TKD:src}, [2] {KGT:src}, [3] {Saarbrücken qepHom'a' 2015:src}, [4] {paq'batlh 2ed:src} ({KL mailing list 2022.05.27:src})</column>
+      <column name="source">[1] {TKD:src}, [2] {KGT:src}, [3] {Saarbrücken qepHom'a' 2015:src}, [4] {paq'batlh 2ed:src} ({KLI mailing list 2022.05.27:src})</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -4321,20 +4592,20 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="definition_ru">файл, досье, портфолио [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">文件、檔案、檔案袋 [AUTOTRANSLATED]</column>
       <column name="definition_pt">arquivo, dossiê, portfólio [AUTOTRANSLATED]</column>
-      <column name="definition_fi">tiedosto, asiakirja-aineisto, portfolio [AUTOTRANSLATED]</column>
-      <column name="definition_fr">dossier, dossier, portfolio</column>
+      <column name="definition_fi">kansio, asiakirja-aineisto, portfolio</column>
+      <column name="definition_fr">fichier, dossier, portfolio</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ta:n}, {tamey ngo':n}</column>
       <column name="notes">This refers to a collection of textual and/or visual materials organized together. It refers to the information, and not to the medium in which it is stored. It does not refer to a collection of other things (such as toys).[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies bezieht sich auf eine Sammlung von Text- und/oder visuellem Material, das gemeinsam organisiert ist. Das Wort bezieht sich also auf die Daten/Information, nicht auf das Medium, auf dem die Information gespeichert ist. It does not refer to a collection of other things (such as toys).[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ceci se réfère à une collection de materiaux textuels et/ou visuels organisés ensemble. Il se réfère à l'information et non au média sur lequel elle est enregistrée. Il ne se réfère pas à une collection d'autres choses (comme les jouets).[1]</column>
       <column name="hidden_notes">Manila folders are made from the abacá plant.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -4369,7 +4640,7 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="definition_zh_HK">老師、教授 [AUTOTRANSLATED]</column>
       <column name="definition_pt">professor mestre, professor</column>
       <column name="definition_fi">mestari, professori</column>
-      <column name="definition_fr">maître enseignant, professeur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">maître enseignant, professeur</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghojmoHwI':n}</column>
@@ -4406,6 +4677,53 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">'a'ren</column>
+      <column name="part_of_speech">n</column>
+      <column name="definition">present, present time</column>
+      <column name="definition_de">Gegenwart, gegenwärtige Zeit</column>
+      <column name="definition_fa">حال، زمان حال [AUTOTRANSLATED]</column>
+      <column name="definition_sv">nutid, samtid</column>
+      <column name="definition_ru">настоящее, настоящее время [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">現在，現在的時間 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">presente, tempo presente [AUTOTRANSLATED]</column>
+      <column name="definition_fi">nykyhetki</column>
+      <column name="definition_fr">présent, temps présent</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{DaH:adv}, {ghen:v}, {pa'logh:n}, {tuch:n}</column>
+      <column name="notes"></column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi">nykyaika</column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {Saarbrücken qepHom'a' 2024:src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">'a'Setbur</column>
       <column name="part_of_speech">n:name,fic</column>
       <column name="definition">Azetbur</column>
@@ -4416,7 +4734,7 @@ The example from {CK:src} literally means "My eyes sting me", which shows that {
       <column name="definition_zh_HK">「阿澤特巴爾」</column>
       <column name="definition_pt">Azetbur</column>
       <column name="definition_fi">Azetbur</column>
-      <column name="definition_fr">Azetbur [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Azetbur</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>

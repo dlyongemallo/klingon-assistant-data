@@ -10,19 +10,19 @@
       <column name="definition_zh_HK">元音{u:sen:nolink}</column>
       <column name="definition_pt">a vogal {u:sen:nolink}</column>
       <column name="definition_fi">vokaali {u:sen:nolink}</column>
-      <column name="definition_fr">la voyelle {u:sen:nolink} [AUTOTRANSLATED]</column>
+      <column name="definition_fr">la voyelle {u:sen:nolink}</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This refers to the sound, and not to any letter or glyph.</column>
-      <column name="notes_de">Dies bezieht sich auf den Ton und nicht auf Buchstaben oder Glyphen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به صدا اشاره دارد و به هیچ حرف یا حروف گلی اشاره نمی کند. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bezieht sich auf den Laut, nicht den Buchstaben oder das Zeichen.</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv">Namnet på ett ljud, inte en skriven bokstav eller glyf.</column>
-      <column name="notes_ru">Это относится к звуку, а не к букве или глифу. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指聲音，而不是任何字母或字形。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso se refere ao som, e não a qualquer letra ou glifo. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa ääneen eikä mihinkään kirjaimeen tai kuvioon. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela fait référence au son, et non à une lettre ou à un glyphe. [AUTOTRANSLATED]</column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère au son, pas à la lettre ou au glyphe.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -57,19 +57,19 @@
       <column name="definition_zh_HK">孤獨 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser sozinho</column>
       <column name="definition_fi">olla yksinäinen</column>
-      <column name="definition_fr">être seul [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être seul, se sentir seul</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{'IQ:v}, {'It:v}, {mob:v:1}</column>
+      <column name="see_also">{'IQ:v}, {'It:v}, {mob:v:1}, {gharDaq:n}</column>
       <column name="notes">This refers to the emotion, not the actual state of being alone.</column>
-      <column name="notes_de">Dies bezieht sich auf die Emotion, nicht auf den tatsächlichen Zustand des Alleinseins. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این به احساسات اشاره دارد ، نه وضعیت واقعی تنها بودن. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta hänvisar till känslorna, inte till det faktiska tillståndet att vara ensam. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к эмоциям, а не к фактическому состоянию одиночества. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指情感，而不是孤獨的實際狀態。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso se refere à emoção, não ao estado real de estar sozinho. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa tunteeseen, ei todelliseen yksinolon tilaan. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Cela fait référence à l’émotion, et non à l’état réel d’être seul. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies bezieht sich auf die Emotion, nicht auf den tatsächlichen Zustand, alleine zu sein.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère à l'émotion, pas à l'état d'être seul.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -104,33 +104,25 @@
       <column name="definition_zh_HK">抓</column>
       <column name="definition_pt">segurar, agarrar</column>
       <column name="definition_fi">pitää kiinni, pidellä</column>
-      <column name="definition_fr">tenir, saisir [AUTOTRANSLATED]</column>
+      <column name="definition_fr">tenir, saisir, empoigner</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'uchHa':v}</column>
       <column name="see_also"></column>
       <column name="notes">When applied to weapons systems, this is used for locking on a target. See {'uch:v:2}.
 
 When the object of this verb is {'olQan:n}, it can often be translated "occupy" or "take up".[2]</column>
-      <column name="notes_de">Bei Anwendung auf Waffensysteme wird dies zum Festhalten an einem Ziel verwendet. Siehe {'uch:v:2}.
+      <column name="notes_de">Wenn man dieses Verb für Waffensysteme benutzt, wird es für das Erfassen eines Ziels benutzt. Siehe {'uch:v:2}.
 
-Wenn das Objekt dieses Verbs {'olQan:n} ist, kann es oft mit "besetzen" oder "aufnehmen" übersetzt werden. [2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">هنگام استفاده از سیستم های تسلیحاتی ، این برای قفل کردن هدف مورد استفاده قرار می گیرد. به {'uch:v:2} مراجعه کنید.
-
-هنگامی که هدف این فعل {'olQan:n} است ، اغلب می تواند "اشغال" یا "تصاحب" ترجمه شود. [2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">När det används på vapensystem används detta för att låsas på ett mål. Se {'uch:v:2}.
-
-När objektet för detta verb är {'olQan:n} kan det ofta översättas "ockupera" eller "ta upp". [2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Применительно к системам вооружения это используется для захвата цели. Смотрите {'uch:v:2}.
-
-Когда объектом этого глагола является {'olQan:n}, его часто можно перевести как «занять» или «занять» .[2] [AUTOTRANSLATED]</column>
+Wenn das Objekt dieses Verbs {'olQan:n} ist, kann es oft als "belegen" oder "in Anspruch nehmen" übersetzt werden.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Quando aplicado a sistemas de armas, é usado para travar em um alvo. Consulte {'uch:v:2}.
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">>Quand on l'applique sur les systèmes des armes, ceci s'utilise pour viser une cible. Voir {'uch:v:2}.
 
-Quando o objeto deste verbo é {'olQan:n}, muitas vezes pode ser traduzido como "ocupar" ou "pegar" .[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Kun sitä käytetään asejärjestelmiin, sitä käytetään kohteen lukitsemiseen. Katso {'uch:v:2}.
-
-Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittää" tai "ottaa käyttöön".[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr"></column>
+Quand l'objet de ce verbe est {'olQan:n}, il peut être traduit par "occuper" ou "prendre".[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -158,38 +150,40 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="entry_name">'uch</column>
       <column name="part_of_speech">v:2,t_c</column>
       <column name="definition">lock on (a target)</column>
-      <column name="definition_de">ausrichten (Ziel)</column>
+      <column name="definition_de">erfassen, ausrichten (Ziel)</column>
       <column name="definition_fa">قفل کردن (هدف) [AUTOTRANSLATED]</column>
       <column name="definition_sv">lås på (ett mål) [AUTOTRANSLATED]</column>
       <column name="definition_ru">заблокировать (цель) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鎖定（目標） [AUTOTRANSLATED]</column>
       <column name="definition_pt">bloquear (um alvo)</column>
       <column name="definition_fi">lukittua kohteeseen</column>
-      <column name="definition_fr">verrouiller (une cible) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">viser (une cible)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DoS:n}, {buS:v}</column>
       <column name="notes">This is an application of {'uch:v:1} to a weapons systems context.</column>
-      <column name="notes_de">Dies ist eine Anwendung von {'uch:v:1} auf einen Waffensystemkontext. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این برنامه {'uch:v:1} در زمینه سیستم های تسلیحاتی است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en applikation av {'uch:v:1} i ett vapensystem-sammanhang. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это приложение {'uch:v:1} к контексту систем вооружений. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是{'uch:v:1}在武器系統環境中的應用。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esta é uma aplicação do {'uch:v:1} para um contexto de sistemas de armas. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on {'uch:v:1} -sovelluksen käyttö asejärjestelmien yhteydessä. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'une application de {'uch:v:1} dans un contexte de systèmes d'armes. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist eine Anwendung von {'uch:v:1} im Kontext von Waffensystemen.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est une application de {'uch:v:1} dans un contexte de systèmes d'armes.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
 ▶ {DoS 'uchta':sen@@DoS:n, 'uch:v:2, -ta':v} "he/she locked on the target"</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {DoS 'uchta':sen@@DoS:n, 'uch:v:2, -ta':v} "er/sie hat ein Ziel erfasst"</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {DoS 'uchta':sen@@DoS:n, 'uch:v:2, -ta':v} "il/elle a visé une cible"</column>
       <column name="search_tags"></column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
@@ -213,19 +207,19 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">包括、由...組成 [AUTOTRANSLATED]</column>
       <column name="definition_pt">incluir, consistir em, ser composto de</column>
       <column name="definition_fi">sisältää, koostua jostakin</column>
-      <column name="definition_fr">inclure, consister en, être composé de [AUTOTRANSLATED]</column>
+      <column name="definition_fr">inclure, consister en, être composé de</column>
       <column name="synonyms">{yugh:v}</column>
       <column name="antonyms"></column>
       <column name="see_also">{tamlerQeD:n}</column>
       <column name="notes">This is used for talking about chemistry.</column>
-      <column name="notes_de">Dies wird verwendet, um über Chemie zu sprechen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این برای صحبت در مورد شیمی استفاده می شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta används för att prata om kemi. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это используется для разговоров о химии. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這用於談論化學。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Isso é usado para falar sobre química. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä käytetään puhumaan kemiasta. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ceci est utilisé pour parler de chimie. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies wird benutzt, um über Chemie zu sprechen.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci s'utilise pour parler de chimie.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -260,33 +254,35 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">吸收（音​​樂的） [AUTOTRANSLATED]</column>
       <column name="definition_pt">absorver (de música) [AUTOTRANSLATED]</column>
       <column name="definition_fi">(musiikista) ottaa valtaansa</column>
-      <column name="definition_fr">absorber (de la musique) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">absorber (parlant de musique)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">The idiomatic way of saying that someone is absorbed in music is to make use of {'uch:v:1}.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Für die idiomatische Art zu sagen, dass jemand in Musik versunken/verloren/vertieft ist, benutzt man {'uch:v:1}.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr">La manière idiomatique de dire que quelqu'un est absorbé par la musique est d'utiliser {'uch:v:1}.[1]. [AUTOTRANSLATED]</column>
+      <column name="notes_fr">La manière idiomatique de dire que quelqu'un est absorbé par la musique est d'utiliser {'uch:v:1}.[1]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples">
 ▶ {jIm 'uch QoQDaj.:sen@@jemS tIy qIrq:n, 'uch:v:4, QoQ:n, -Daj:n} "Jim is absorbed in his music."</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {jIm 'uch QoQDaj.:sen@@jemS tIy qIrq:n, 'uch:v:4, QoQ:n, -Daj:n} "Jim ist in seiner Musik versunken."</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {jIm 'uch QoQDaj.:sen@@jemS tIy qIrq:n, 'uch:v:4, QoQ:n, -Daj:n} "Jim est absorbé par sa musique."</column>
       <column name="search_tags"></column>
-      <column name="search_tags_de"></column>
+      <column name="search_tags_de">vertieft, versunken, verloren</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
@@ -308,7 +304,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
           <column name="definition_zh_HK">放手</column>
           <column name="definition_pt">soltar de</column>
           <column name="definition_fi">päästää irti, hellittää ote jostain</column>
-          <column name="definition_fr">lâcher prise [AUTOTRANSLATED]</column>
+          <column name="definition_fr">lâcher</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'uch:v:1}</column>
           <column name="see_also"></column>
@@ -355,7 +351,7 @@ Kun tämän verbin kohde on {'olQan:n}, se voidaan usein kääntää "miehittä�
       <column name="definition_zh_HK">核糖核酸 [AUTOTRANSLATED]</column>
       <column name="definition_pt">RNA</column>
       <column name="definition_fi">RNA</column>
-      <column name="definition_fr">ARN [AUTOTRANSLATED]</column>
+      <column name="definition_fr">ARN</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{roSghaH:n}</column>
@@ -404,7 +400,7 @@ The four nucleotide bases used in RNA are A, C, G, and U.</column>
       <column name="definition_zh_HK">激光</column>
       <column name="definition_pt">laser</column>
       <column name="definition_fi">laser</column>
-      <column name="definition_fr">laser [AUTOTRANSLATED]</column>
+      <column name="definition_fr">laser</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'otlh:n}</column>
@@ -417,7 +413,7 @@ The four nucleotide bases used in RNA are A, C, G, and U.</column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
-      <column name="hidden_notes">The word {'uD'a':n:nolink} appears in {HQ 1.3, Sept. 1992:src}, where it is also defined as just "laser".
+      <column name="hidden_notes">The word {'uD'a':n:nolink} appears in {HQ 1.3, Sep. 1992:src}, where it is also defined as just "laser".
 
 Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="components"></column>
@@ -453,7 +449,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">激光手術刀</column>
       <column name="definition_pt">bisturi a laser</column>
       <column name="definition_fi">laserveitsi</column>
-      <column name="definition_fr">scalpel laser [AUTOTRANSLATED]</column>
+      <column name="definition_fr">scalpel laser</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{HaqwI':n}</column>
@@ -486,7 +482,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {HQ 1.3, Sept. 1992:src}</column>
+      <column name="source">[1] {HQ 1.3, Sep. 1992:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -500,7 +496,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">重</column>
       <column name="definition_pt">ser pesado</column>
       <column name="definition_fi">olla raskas, painava</column>
-      <column name="definition_fr">être lourd [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être lourd</column>
       <column name="synonyms"></column>
       <column name="antonyms">{tIS:v}</column>
       <column name="see_also">{cheb:n}, {ngI':v}</column>
@@ -548,19 +544,19 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">毛蟲</column>
       <column name="definition_pt">lagarta</column>
       <column name="definition_fi">toukka</column>
-      <column name="definition_fr">chenille [AUTOTRANSLATED]</column>
+      <column name="definition_fr">chenille</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghargh:n}</column>
       <column name="notes">This is a little squirmy thing that somehows turns into a {Su'wan ghew:n}. It is not used to make {qagh:n}.</column>
-      <column name="notes_de">Dies ist eine kleine Sache, die sich irgendwie in eine {Su'wan ghew:n} verwandelt. Es wird nicht verwendet, um {qagh:n} zu erstellen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این یک چیز کوچک Squirmy است که بعضی از موارد به {Su'wan ghew:n} تبدیل می شود. برای ساخت {qagh:n} استفاده نمی شود. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Det här är en liten squirmy sak som somehows förvandlas till en {Su'wan ghew:n}. Det används inte för att skapa {qagh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это немного извилистая вещь, которая почему-то превращается в {Su'wan ghew:n}. Не используется, чтобы сделать {qagh:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist ein kleines, sich windendes Ding, aus dem irgendwie ein {Su'wan ghew:n} wird. Es wird nicht benutzt, um {qagh:n} zu machen.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">Tämä on pieni mutkikas juttu, josta joku muuttuu {Su'wan ghew:n}: ksi. Sitä ei käytetä {qagh:n}: n valmistamiseen. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C'est une petite chose tortueuse qui se transforme d'une manière ou d'une autre en un {Su'wan ghew:n}. Il n’est pas utilisé pour créer {qagh:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est une petite chose qui se tortille, qui d'une manière ou une autre se transforme en {Su'wan ghew:n}. Il ne s'utilise pas pour faire du {qagh:n}</column>
       <column name="hidden_notes">The {'ugh:sen:nolink}ly {Duq:sen:nolink}ling becomes a {Su'wan:sen:nolink}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -595,7 +591,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">宿醉、宿酒</column>
       <column name="definition_pt">ter uma ressaca, estar de ressaca</column>
       <column name="definition_fi">olla krapulassa</column>
-      <column name="definition_fr">avoir la gueule de bois, avoir la gueule de bois [AUTOTRANSLATED]</column>
+      <column name="definition_fr">avoir la gueule de bois, avoir mal aux cheveux</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{chech:v}, {HIq:n}, {wuQ:v}, {nuch Hergh:n}</column>
@@ -642,7 +638,7 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
       <column name="definition_zh_HK">uj（線性測量單位、34.83 cm） [AUTOTRANSLATED]</column>
       <column name="definition_pt">uj (unidade de medida linear, 34,83 ​​cm)</column>
       <column name="definition_fi">eräs pituuden yksikkö, uj (n. 34,83 cm)</column>
-      <column name="definition_fr">uj (unité de mesure linéaire, 34,83 ​​cm) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">uj (unité de longueur, 34,83 ​​cm)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ab:v:1}, {'aD:v}, {juch:v:1}, {Saw':v}, {woch:v}, {juv:v}, {'uj'a':n}, {morgh:n}, {lID:v}</column>
@@ -651,18 +647,16 @@ Shintaro Uda was a co-inventor of the beam antenna.</column>
 Three {'uj:n:nolink} is about 3'5", five {'uj:n:nolink} is about 5'8", and six {'uj:n:nolink} is about 6'10".[2]</column>
       <column name="notes_de">Basiert auf die Maßangaben auf dem {BoP:src} Poster. Ein {'uj:n:nolink} entspricht ca. 34.83 cm.
 
-Drei {'uj:n:nolink} sind etwa 3 Fuß 5 Zoll, fünf {'uj:n:nolink} sind etwa 5 Fuß 8 Zoll und sechs {'uj:n:nolink} sind etwa 6 Fuß 10 Zoll.[2]</column>
+Drei {'uj:n:nolink} sind etwa 104,1 cm, fünf {'uj:n:nolink} sind etwa 172,7 cm und sechs {'uj:n:nolink} sind etwa 208,3 cm.[2]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">{BoP:src}-julisteen mittausten perusteella yksi {'uj:n:nolink} on hyvin lähellä 34,83 ​​cm.
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Basé sur les mesures donnés sur le poster {BoP:src} poster, un {'uj:n:nolink} est très proche de 34.83 cm.
 
-Kolme {'uj:n:nolink} on noin 3'5 ", viisi {'uj:n:nolink} on noin 5'8" ja kuusi {'uj:n:nolink} on noin 6'10 ".[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">D'après les mesures indiquées sur l'affiche {BoP:src}, un {'uj:n:nolink} mesure très près de 34,83 ​​cm.
-
-Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ 5'8", et six {'uj:n:nolink} mesurent environ 6'10".[2]. [AUTOTRANSLATED]</column>
+Trois {'uj:n:nolink} sont environ 104,1 cm, fünf {'uj:n:nolink} sont environ 172,7 cm, et six {'uj:n:nolink} sont environ 208,3 cm.[2]</column>
       <column name="hidden_notes">In {KGT:src}, this unit is described as "about 35 cm". Also, Okrand has not been consistent in writing the plural of this in English, using "ujs" in earlier work but switching to "ujes" later.</column>
       <column name="components"></column>
       <column name="examples">
@@ -677,16 +671,38 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
 ▶ {cha' 'ujmo' jIH woch law' SoH woch puS:sen:nolink} "I'm two {'uj:sen:nolink}es taller than you."[5]
 ▶ {ron SuvwI'; chorgh 'ujmey lID:sen@@ron:v:1, SuvwI':n, chorgh:n:1, 'uj:n, -mey:n, lID:v} or {chorgh 'ujmey lID SuvwI'; ron:sen@@chorgh:n:1, 'uj:n, -mey:n, lID:v, SuvwI':n, ron:v:1} "the warrior rolled (haphazardly) for eight ujes"[6]
 ▶ {rav cha' 'uj(mey) 'aqroS loS 'uj(mey) 'ab:sen@@rav ...:sen, cha':n:num, 'uj:n, -mey:n, 'aqroS ...:sen, loS:n:1,num, 'uj:n, -mey:n, 'ab:v:1} "has a length between two and four ujes" (it's at least two ujes and no more than four)[7]</column>
-      <column name="examples_de"></column>
+      <column name="examples_de">
+▶ {jav 'ujmey 'ab SuvwI'.:sen:nolink} "Der Kriger ist sechs uj groß." (etwa 208,3cm)[2]
+▶ {vagh 'ujmey vI'ab.:sen:nolink} "Ich bin fünf uj groß." (etwa 172,7cm)[2]
+▶ {wej 'ujmey 'ab 'oy'naQ.:sen:nolink} "Schmerzstöcke sind etwas über einen Meter lang."[3]
+▶ {wejvatlh loSmaH loS vI' vagh wej 'uj 'aD Duj:sen:nolink} "Länge: 120m"[4]
+▶ {loSmaH jav vI' Soch loS 'uj 'ab meH:sen:nolink} "Brückenhöhe: 16.28m"[4]
+▶ {HIvtaHvIS toQDuj cha'vatlh wejmaH Soch vI' vagh chorgh 'uj 'ab 'oH:sen:nolink} "Angriffsformationshöhe: 82.75m"[4]
+▶ {qughtaHvIS toQDuj HutmaH vI' jav wa' 'uj 'ab 'oH:sen:nolink} "Reiseformationshöhe: 31.56m"[4]
+▶ {SaqtaHvIS toQDuj wa'vatlh loS vI' jav chorgh 'uj 'ab 'oH:sen:nolink} "Landeformationshöhe: 36.46m"[4]
+▶ {cha' 'ujmo' jIH woch law' SoH woch puS:sen:nolink} "Ich bin zwei {'uj:sen:nolink} größer als du."[5]
+▶ {ron SuvwI'; chorgh 'ujmey lID:sen@@ron:v:1, SuvwI':n, chorgh:n:1, 'uj:n, -mey:n, lID:v} oder {chorgh 'ujmey lID SuvwI'; ron:sen@@chorgh:n:1, 'uj:n, -mey:n, lID:v, SuvwI':n, ron:v:1} "Der Krieger ist für acht ujes herumgerollt"[6]
+▶ {rav cha' 'uj(mey) 'aqroS loS 'uj(mey) 'ab:sen@@rav ...:sen, cha':n:num, 'uj:n, -mey:n, 'aqroS ...:sen, loS:n:1,num, 'uj:n, -mey:n, 'ab:v:1} "hat eine Länger zwischen zwei und vier uj" (mindestens zwei und nicht mehr als vier)[7]</column>
       <column name="examples_fa"></column>
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
       <column name="examples_pt"></column>
       <column name="examples_fi"></column>
-      <column name="examples_fr"></column>
+      <column name="examples_fr">
+▶ {jav 'ujmey 'ab SuvwI'.:sen:nolink} "Le guerrier fait six ujes de haut." (environ 208,3cm)[2]
+▶ {vagh 'ujmey vI'ab.:sen:nolink} "Je suis haut de 5 ujes." (environ 172,7cm)[2]
+▶ {wej 'ujmey 'ab 'oy'naQ.:sen:nolink} "Bâtons de douleur sont un peu plus longs d'un mètre."[3]
+▶ {wejvatlh loSmaH loS vI' vagh wej 'uj 'aD Duj:sen:nolink} "Longueur: 120m"[4]
+▶ {loSmaH jav vI' Soch loS 'uj 'ab meH:sen:nolink} "Hauteur de la passerelle: 16.28m"[4]
+▶ {HIvtaHvIS toQDuj cha'vatlh wejmaH Soch vI' vagh chorgh 'uj 'ab 'oH:sen:nolink} "Hauteur de la formation d'attaque: 82.75m"[4]
+▶ {qughtaHvIS toQDuj HutmaH vI' jav wa' 'uj 'ab 'oH:sen:nolink} "Hauteur de la formation de voyage: 31.56m"[4]
+▶ {SaqtaHvIS toQDuj wa'vatlh loS vI' jav chorgh 'uj 'ab 'oH:sen:nolink} "Hauteur de la formation d'atterrissage: 36.46m"[4]
+▶ {cha' 'ujmo' jIH woch law' SoH woch puS:sen:nolink} "Je suis deux {'uj:sen:nolink}es plus haut que toi."[5]
+▶ {ron SuvwI'; chorgh 'ujmey lID:sen@@ron:v:1, SuvwI':n, chorgh:n:1, 'uj:n, -mey:n, lID:v} ou {chorgh 'ujmey lID SuvwI'; ron:sen@@chorgh:n:1, 'uj:n, -mey:n, lID:v, SuvwI':n, ron:v:1} "le guerrier a roulé (de façon désordonnée) fpour huit ujes"[6]
+▶ {rav cha' 'uj(mey) 'aqroS loS 'uj(mey) 'ab:sen@@rav ...:sen, cha':n:num, 'uj:n, -mey:n, 'aqroS ...:sen, loS:n:1,num, 'uj:n, -mey:n, 'ab:v:1} "a une longueur entre deux et quatre ujes" (au moins deux et pas plus de quatre ujes)[7]</column>
       <column name="search_tags">unit, meter, metre, centimeter, centimetre</column>
-      <column name="search_tags_de"></column>
+      <column name="search_tags_de">Maß, Meter, Zentimeter</column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
@@ -694,7 +710,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
       <column name="search_tags_fr"></column>
-      <column name="source">[1] {KGT:src}, [2] {msn 1997.10.22:src}, [3] {SkyBox 32:src} (reprinted in {HQ 6.2, p.9, Jun. 1997:src}), [4] {BoP:src}, [5] {Saarbrücken qepHom'a' 2015:src}, [6] {KLI mailing list 2019.03.01:src}, [7] {qep'a' 26 (2019):src}</column>
+      <column name="source">[1] {KGT:src}, [2] {msn 1997.10.22:src}, [3] {SkyBox S32:src} (reprinted in {HQ 6.2, p.9, Jun. 1997:src}), [4] {BoP:src}, [5] {Saarbrücken qepHom'a' 2015:src}, [6] {KLI mailing list 2019.03.01:src}, [7] {qep'a' 26 (2019):src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -708,19 +724,19 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">長度單位（313.47厘米） [AUTOTRANSLATED]</column>
       <column name="definition_pt">unidade de comprimento (313.47 cm)</column>
       <column name="definition_fi">eräs pituuden yksikkö, iso uj (n. 313,47 cm)</column>
-      <column name="definition_fr">unité de longueur (313,47 cm) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">unité de longueur (313,47 cm)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">One {'uj'a':n:nolink} is equal to nine {'uj:n:nolink}. However, there is no unit {'ujHom:n:nolink} denoting one-ninth of an {'uj:n:nolink}.[1]</column>
       <column name="notes_de">Ein {'uj'a':n:nolink} entspricht neun {'uj:n:nolink}. Es gibt aber keine Einheit wie {'ujHom:n:nolink} die ein Neuntel eines {'uj:n:nolink} entspräche.[1]</column>
-      <column name="notes_fa">یک {'uj'a':n:nolink} برابر است با نه {'uj:n:nolink}. با این حال ، هیچ واحدی {'ujHom:n:nolink} وجود دارد که نشان دهنده یک نهم یک {'uj:n:nolink}.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">Um {'uj'a':n:nolink} é igual a nove {'uj:n:nolink}. No entanto, não existe uma unidade {'ujHom:n:nolink} que denote um nono de um {'uj:n:nolink}.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Yksi {'uj'a':n:nolink} on yhtä suuri kuin yhdeksän {'uj:n:nolink}. Ei kuitenkaan ole yksikköä {'ujHom:n:nolink}, joka merkitsisi {'uj:n:nolink}: n yhdeksäsosaa.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Un {'uj'a':n:nolink} est égal à neuf {'uj:n:nolink}. Cependant, il n'existe pas d'unité {'ujHom:n:nolink} désignant un neuvième d'un {'uj:n:nolink}.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Un {'uj'a':n:nolink} est égal à neuf {'uj:n:nolink}. Cependant, il n'y a pas d'unité {'ujHom:n:nolink} qui est un neuvième d'un {'uj:n:nolink}.[1]</column>
       <column name="hidden_notes">Maltz said he's heard the term {'ujHom:n:nolink} used in a story about a merchant lacking honor, something about the merchant not filling the order properly.[1]</column>
       <column name="components">{'uj:n}, {-'a':n}</column>
       <column name="examples"></column>
@@ -755,19 +771,19 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">Ujilli [AUTOTRANSLATED]</column>
       <column name="definition_pt">Ujilli</column>
       <column name="definition_fi">Ujilli</column>
-      <column name="definition_fr">Ujilli [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Ujilli</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">He is a member of the House of Mo'Kai ({mo'qay tuq:n:name}).</column>
-      <column name="notes_de">Er ist Mitglied des Hauses Mo'Kai ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
-      <column name="notes_fa">وی عضو خانه موکی ({mo'qay tuq:n:name}) است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Han är medlem i House of Mo'Kai ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Он является членом Дома Мо'Кай ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">他是莫凱家族（{mo'qay tuq:n:name}）的成員。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Ele é um membro da Casa de Mo'Kai ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Hän on Mo'Kain talon ({mo'qay tuq:n:name}) jäsen. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il est membre de la Maison des Mo'Kai ({mo'qay tuq:n:name}). [AUTOTRANSLATED]</column>
+      <column name="notes_de">Er ist ein Mitglied des Haus Mo'Kai ({mo'qay tuq:n:name}).</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Il est un membre de maison Mo'Kai ({mo'qay tuq:n:name}).</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -802,7 +818,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">電、電力</column>
       <column name="definition_pt">eletricidade</column>
       <column name="definition_fi">sähkö</column>
-      <column name="definition_fr">électricité [AUTOTRANSLATED]</column>
+      <column name="definition_fr">électricité</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{peQ:n}</column>
@@ -849,7 +865,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">電路 [AUTOTRANSLATED]</column>
           <column name="definition_pt">circuito</column>
           <column name="definition_fi">virtapiiri</column>
-          <column name="definition_fr">circuit [AUTOTRANSLATED]</column>
+          <column name="definition_fr">circuit</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -896,7 +912,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">電源插座 [AUTOTRANSLATED]</column>
           <column name="definition_pt">tomada elétrica</column>
           <column name="definition_fi">pistorasia</column>
-          <column name="definition_fr">prise électrique [AUTOTRANSLATED]</column>
+          <column name="definition_fr">prise électrique</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{rarwI':n}</column>
@@ -933,6 +949,53 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
         </table>
         <table name="mem">
           <column name="_id"></column>
+          <column name="entry_name">'ul le'mIS</column>
+          <column name="part_of_speech">n:deriv</column>
+          <column name="definition">insulator</column>
+          <column name="definition_de">Isolator</column>
+          <column name="definition_fa">عایق [AUTOTRANSLATED]</column>
+          <column name="definition_sv">isolator [AUTOTRANSLATED]</column>
+          <column name="definition_ru">изолятор [AUTOTRANSLATED]</column>
+          <column name="definition_zh_HK">絕緣子 [AUTOTRANSLATED]</column>
+          <column name="definition_pt">isolador [AUTOTRANSLATED]</column>
+          <column name="definition_fi">eriste</column>
+          <column name="definition_fr">isolant</column>
+          <column name="synonyms"></column>
+          <column name="antonyms"></column>
+          <column name="see_also">{bot:v:2}</column>
+          <column name="notes"></column>
+          <column name="notes_de"></column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr"></column>
+          <column name="hidden_notes"></column>
+          <column name="components"></column>
+          <column name="examples"></column>
+          <column name="examples_de"></column>
+          <column name="examples_fa"></column>
+          <column name="examples_sv"></column>
+          <column name="examples_ru"></column>
+          <column name="examples_zh_HK"></column>
+          <column name="examples_pt"></column>
+          <column name="examples_fi"></column>
+          <column name="examples_fr"></column>
+          <column name="search_tags"></column>
+          <column name="search_tags_de"></column>
+          <column name="search_tags_fa"></column>
+          <column name="search_tags_sv"></column>
+          <column name="search_tags_ru"></column>
+          <column name="search_tags_zh_HK"></column>
+          <column name="search_tags_pt"></column>
+          <column name="search_tags_fi"></column>
+          <column name="search_tags_fr"></column>
+          <column name="source">[1] {Saarbrücken qepHom'a' 2024:src}</column>
+        </table>
+        <table name="mem">
+          <column name="_id"></column>
           <column name="entry_name">'ul pat mutlhwI'</column>
           <column name="part_of_speech">n:being,deriv</column>
           <column name="definition">electrician</column>
@@ -943,7 +1006,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">電工</column>
           <column name="definition_pt">eletricista</column>
           <column name="definition_fi">sähköasentaja</column>
-          <column name="definition_fr">électricien [AUTOTRANSLATED]</column>
+          <column name="definition_fr">électricien</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{'ul:n}</column>
@@ -983,14 +1046,14 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="entry_name">'ul rarwI'</column>
           <column name="part_of_speech">n:deriv</column>
           <column name="definition">electrical plug</column>
-          <column name="definition_de">Steckverbinder</column>
+          <column name="definition_de">Steckverbinder, Stecker</column>
           <column name="definition_fa">دوشاخه</column>
           <column name="definition_sv">elektrisk plugg [AUTOTRANSLATED]</column>
           <column name="definition_ru">электрическая вилка [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">電源插頭</column>
           <column name="definition_pt">Tomada</column>
           <column name="definition_fi">pistoke</column>
-          <column name="definition_fr">prise électrique [AUTOTRANSLATED]</column>
+          <column name="definition_fr">connecteur, fiche, prise électrique</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1037,7 +1100,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">電筒</column>
           <column name="definition_pt">lanterna</column>
           <column name="definition_fi">taskulamppu</column>
-          <column name="definition_fr">lampe de poche [AUTOTRANSLATED]</column>
+          <column name="definition_fr">lampe de poche</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -1085,7 +1148,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">電心、電池</column>
           <column name="definition_pt">bateria, célula eletroquímica</column>
           <column name="definition_fi">akku, paristo, sähkökemiallinen kenno</column>
-          <column name="definition_fr">batterie, cellule électrochimique [AUTOTRANSLATED]</column>
+          <column name="definition_fr">batterie, cellule électrochimique</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{HoSHal:n}, {Huj:v:2}</column>
@@ -1132,7 +1195,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">有資格</column>
       <column name="definition_pt">ser qualificado</column>
       <column name="definition_fi">olla pätevä</column>
-      <column name="definition_fr">être qualifié [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être qualifié</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'umHa':v}</column>
       <column name="see_also">{po':v}, {Han:v}, {Hen:v}</column>
@@ -1179,7 +1242,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">冇資格、不合格</column>
           <column name="definition_pt">ser desqualificado</column>
           <column name="definition_fi">olla epäpätevä</column>
-          <column name="definition_fr">être incompétent [AUTOTRANSLATED]</column>
+          <column name="definition_fr">être non qualifié</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'um:v}</column>
           <column name="see_also"></column>
@@ -1201,14 +1264,26 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
   "Those unfit disintegrate
    At the glance of Fek'lhr,
    So it is said."[1]</column>
-          <column name="examples_de"></column>
+          <column name="examples_de">
+▶ {nuv 'umHa' leghchugh veqlargh:sen:nolink}
+   {ngoS nuv 'umHa':sen:nolink}
+   {jatlhlu':sen:nolink}
+  "Die Ungeeigneten lösen sich auf
+   Wenn Fek'lhr sie sieht,
+   So sagt man."[1]</column>
           <column name="examples_fa"></column>
           <column name="examples_sv"></column>
           <column name="examples_ru"></column>
           <column name="examples_zh_HK"></column>
           <column name="examples_pt"></column>
           <column name="examples_fi"></column>
-          <column name="examples_fr"></column>
+          <column name="examples_fr">
+▶ {nuv 'umHa' leghchugh veqlargh:sen:nolink}
+   {ngoS nuv 'umHa':sen:nolink}
+   {jatlhlu':sen:nolink}
+  "Ceux non-qualifiés se désintègrent
+   Par le regard de Fek'lhr,
+   C'est ce qu'on dit."[1]</column>
           <column name="search_tags">unfit, unworthy</column>
           <column name="search_tags_de"></column>
           <column name="search_tags_fa"></column>
@@ -1225,14 +1300,14 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="entry_name">'uma'</column>
       <column name="part_of_speech">n</column>
       <column name="definition">petal</column>
-      <column name="definition_de">Blüte, Blütenblatt</column>
+      <column name="definition_de">Blütenblatt</column>
       <column name="definition_fa">گلبرگ</column>
       <column name="definition_sv">kronblad [AUTOTRANSLATED]</column>
       <column name="definition_ru">лепесток [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">花瓣</column>
       <column name="definition_pt">pétala</column>
       <column name="definition_fi">terälehti</column>
-      <column name="definition_fr">pétale [AUTOTRANSLATED]</column>
+      <column name="definition_fr">pétale</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'InSong:n}</column>
@@ -1270,7 +1345,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'umber</column>
-      <column name="part_of_speech">n</column>
+      <column name="part_of_speech">n:1</column>
       <column name="definition">ecosystem, environment</column>
       <column name="definition_de">Ökosystem, Umwelt</column>
       <column name="definition_fa">اکوسیستم ، محیط زیست [AUTOTRANSLATED]</column>
@@ -1279,10 +1354,10 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">生態系統，環境 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ecossistema, meio ambiente</column>
       <column name="definition_fi">ekosysteemi, ympäristö</column>
-      <column name="definition_fr">écosystème, environnement [AUTOTRANSLATED]</column>
+      <column name="definition_fr">écosystème, environnement</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{but:v}, {qo':n}, {yIn:n}</column>
+      <column name="see_also">{but:v}, {qo':n}, {yIn:n}, {'umber:n:2}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -1316,6 +1391,53 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
     </table>
     <table name="mem">
       <column name="_id"></column>
+      <column name="entry_name">'umber</column>
+      <column name="part_of_speech">n:2</column>
+      <column name="definition">context</column>
+      <column name="definition_de">Kontext [AUTOTRANSLATED]</column>
+      <column name="definition_fa">زمینه [AUTOTRANSLATED]</column>
+      <column name="definition_sv">sammanhang [AUTOTRANSLATED]</column>
+      <column name="definition_ru">контекст [AUTOTRANSLATED]</column>
+      <column name="definition_zh_HK">情境 [AUTOTRANSLATED]</column>
+      <column name="definition_pt">contexto [AUTOTRANSLATED]</column>
+      <column name="definition_fi">konteksti [AUTOTRANSLATED]</column>
+      <column name="definition_fr">contexte [AUTOTRANSLATED]</column>
+      <column name="synonyms"></column>
+      <column name="antonyms"></column>
+      <column name="see_also">{'umber:n:1}</column>
+      <column name="notes">This refers to the surroundings, environment, circumstances, background or settings that determine, specify, or clarify the meaning of an event or utterance.[1]</column>
+      <column name="notes_de"></column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr"></column>
+      <column name="hidden_notes"></column>
+      <column name="components"></column>
+      <column name="examples"></column>
+      <column name="examples_de"></column>
+      <column name="examples_fa"></column>
+      <column name="examples_sv"></column>
+      <column name="examples_ru"></column>
+      <column name="examples_zh_HK"></column>
+      <column name="examples_pt"></column>
+      <column name="examples_fi"></column>
+      <column name="examples_fr"></column>
+      <column name="search_tags"></column>
+      <column name="search_tags_de"></column>
+      <column name="search_tags_fa"></column>
+      <column name="search_tags_sv"></column>
+      <column name="search_tags_ru"></column>
+      <column name="search_tags_zh_HK"></column>
+      <column name="search_tags_pt"></column>
+      <column name="search_tags_fi"></column>
+      <column name="search_tags_fr"></column>
+      <column name="source">[1] {qep'a' 32 (2025):src}</column>
+    </table>
+    <table name="mem">
+      <column name="_id"></column>
       <column name="entry_name">'umyotlh</column>
       <column name="part_of_speech">n</column>
       <column name="definition">profit (money)</column>
@@ -1326,19 +1448,19 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">利潤（錢） [AUTOTRANSLATED]</column>
       <column name="definition_pt">lucro (dinheiro)</column>
       <column name="definition_fi">(liike)voitto</column>
-      <column name="definition_fr">profit (argent) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">profit, bénéfice (argent)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngeSlIch 'ap:n}</column>
       <column name="notes">This means profit strictly in the monetary sense, and not general advantage or benefit.[1]</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Dies bedeutet Profit im monetären Sinne, nicht ein allgemeiner Vorteil.[1]</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ce mot signifie profit dans le sens monétaire, pas un avantage général.[1]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1366,14 +1488,14 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="entry_name">'un</column>
       <column name="part_of_speech">n:food</column>
       <column name="definition">pot (for food preparation) (general term)</column>
-      <column name="definition_de">Topf (allg. Begriff für Kochtopf, auch wenn Hitze nicht involviert ist)</column>
+      <column name="definition_de">Topf (zur Essenszubereitung) (allgemeiner Begriff)</column>
       <column name="definition_fa">گلدان (برای تهیه غذا) (اصطلاح عمومی) [AUTOTRANSLATED]</column>
       <column name="definition_sv">skål (för matberedning, generell term)</column>
       <column name="definition_ru">горшок (для приготовления пищи) (общий термин) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鍋（用於食物準備）（總稱） [AUTOTRANSLATED]</column>
       <column name="definition_pt">panela (para preparação de alimentos) (termo geral)</column>
       <column name="definition_fi">pata, kattila (ruoanvalmistusta varten)</column>
-      <column name="definition_fr">pot (pour la préparation des aliments) (terme général) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">pot (pour la préparation des aliments) (terme général)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuDwI':n}, {'un naQ:n}, {bo'Dagh:n}</column>
@@ -1420,7 +1542,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">攪拌棒</column>
           <column name="definition_pt">bastão de agitação, bastão misturador</column>
           <column name="definition_fi">sekoituspuikko (käytetään ruoanvalmistuksessa)</column>
-          <column name="definition_fr">bâtonnet à mélanger, bâton à mélanger [AUTOTRANSLATED]</column>
+          <column name="definition_fr">bâtonnet à mélanger, bâton mélangeur</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{DuDwI':n}, {ngawDeq:n}</column>
@@ -1467,19 +1589,19 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
           <column name="definition_zh_HK">人工製作的{quD:n:nolink}</column>
           <column name="definition_pt">produzido artificialmente {quD:n:nolink}</column>
           <column name="definition_fi">eräs elintarvike, keinotekoisesti tuotettu {quD:n:nolink}</column>
-          <column name="definition_fr">produit artificiellement {quD:n:nolink} [AUTOTRANSLATED]</column>
+          <column name="definition_fr">{quD:n:nolink} produit artificiellement</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{quD:n}, {burgh quD:n}</column>
           <column name="notes">This is {quD:n} produced using chemicals.</column>
           <column name="notes_de">Dies ist {quD:n} das mit Chemikalien hergestellt wird.</column>
-          <column name="notes_fa">این {quD:n} است که با استفاده از مواد شیمیایی تولید می شود. [AUTOTRANSLATED]</column>
-          <column name="notes_sv">Detta är {quD:n} producerat med kemikalier. [AUTOTRANSLATED]</column>
-          <column name="notes_ru">Это {quD:n} производится с использованием химических веществ. [AUTOTRANSLATED]</column>
-          <column name="notes_zh_HK">這是使用化學品生產的{quD:n}。 [AUTOTRANSLATED]</column>
-          <column name="notes_pt">Este é o {quD:n} produzido com produtos químicos. [AUTOTRANSLATED]</column>
-          <column name="notes_fi">Tämä on {quD:n}, joka on valmistettu kemikaaleilla. [AUTOTRANSLATED]</column>
-          <column name="notes_fr">Il s’agit de {quD:n} produit à partir de produits chimiques. [AUTOTRANSLATED]</column>
+          <column name="notes_fa"></column>
+          <column name="notes_sv"></column>
+          <column name="notes_ru"></column>
+          <column name="notes_zh_HK"></column>
+          <column name="notes_pt"></column>
+          <column name="notes_fi"></column>
+          <column name="notes_fr">Ceci est {quD:n} produit chimiquement.</column>
           <column name="hidden_notes">The definition actually says "artificially produced qud" in both K-E and E-K word lists.</column>
           <column name="components">{'un:n}, {quD:n}</column>
           <column name="examples"></column>
@@ -1514,7 +1636,7 @@ Trois {'uj:n:nolink} mesurent environ 3'5", cinq {'uj:n:nolink} mesurent environ
       <column name="definition_zh_HK">壺 [AUTOTRANSLATED]</column>
       <column name="definition_pt">chaleira [AUTOTRANSLATED]</column>
       <column name="definition_fi">vedenkeitin, vesipannu</column>
-      <column name="definition_fr">bouilloire [AUTOTRANSLATED]</column>
+      <column name="definition_fr">bouilloire</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{pub:v}</column>
@@ -1563,19 +1685,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">籃</column>
       <column name="definition_pt">cesta</column>
       <column name="definition_fi">kori</column>
-      <column name="definition_fr">panier [AUTOTRANSLATED]</column>
+      <column name="definition_fr">panier</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This is a weaved container for carrying things.</column>
-      <column name="notes_de">Dies ist ein gewebter Behälter zum Tragen von Dingen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این ظرف بافی برای حمل وسایل است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en vävd behållare för att bära saker. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это сотканный контейнер для переноски вещей. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是用於搬運物品的編織容器。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é um recipiente trançado para transportar coisas. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on kudottu astia tavaroiden kuljettamiseen. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un conteneur tissé pour transporter des objets. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist ein geflochtener Behälter um Dinge zu tragen.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">C'est un récipient tressé utilisé pour porter des choses.</column>
       <column name="hidden_notes">This is a pot ({'un:n}) made of what looks like "wattle" fencing. "Underwater basket weaving" is an idiom used pejoratively to refer to a supposedly useless university or college course. The Proto-Semitic word for "jar, vessel; boat" was *ˀunw(at)-.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1595,7 +1717,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="search_tags_zh_HK"></column>
       <column name="search_tags_pt"></column>
       <column name="search_tags_fi"></column>
-      <column name="search_tags_fr"></column>
+      <column name="search_tags_fr">panière</column>
       <column name="source">[1] {qep'a' 25 (2018):src}</column>
     </table>
     <table name="mem">
@@ -1610,7 +1732,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">跁低、蹲下</column>
       <column name="definition_pt">agachamento (para baixo)</column>
       <column name="definition_fi">kyykistyä, istua kyykyssä</column>
-      <column name="definition_fr">s'accroupir [AUTOTRANSLATED]</column>
+      <column name="definition_fr">s'accroupir</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ba':v}, {joD:v}, {tor:v:1}</column>
@@ -1652,24 +1774,24 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition">be unsavory, be disgusting, be repugnant, be loathsome, be icky</column>
       <column name="definition_de">unappetitlich, widerlich, abscheulich, eklig sein</column>
       <column name="definition_fa">ناراحت کننده، نفرت انگیز، نفرت انگیز، بی رحمانه، لعنتی [AUTOTRANSLATED]</column>
-      <column name="definition_sv">vara smaklös, vara äcklig, vara frånstötande, vara avskyvärd,</column>
+      <column name="definition_sv">vara smaklös, vara äcklig, vara frånstötande, vara avskyvärd</column>
       <column name="definition_ru">быть неприятным, отвратительным, отвратительным, отвратительным, непристойным [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">是令人討厭的、令人作嘔的、令人厭惡的、令人厭惡的、icky的 [AUTOTRANSLATED]</column>
       <column name="definition_pt">ser repugnante, nojento, revoltante</column>
       <column name="definition_fi">olla epämiellyttävä, inhottava, vastenmielinen, ällö</column>
-      <column name="definition_fr">être peu recommandable, être dégoûtant, être répugnant, être répugnant, être dégueulasse [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être repoussant, être dégoûtant, être répugnant, être dégueulasse</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'eyHa':v}, {yIH:n}, {ngIm:v}, {natlh:v:2}</column>
       <column name="notes">There is an idiom, {'up; yIH rur@@'up:v, yIH:n, rur:v}.</column>
-      <column name="notes_de">Es gibt eine Redewendung, {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">یک اصطلاح ، {'up; yIH rur@@'up:v, yIH:n, rur:v} وجود دارد. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Det finns ett formspråk, {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Существует идиома {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">有一個成語，{'up; yIH rur@@'up:v, yIH:n, rur:v}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Existe um idioma, {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">On idioomi {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il existe un idiome, {'up; yIH rur@@'up:v, yIH:n, rur:v}. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Es gibt eine Redewendung, {'up; yIH rur@@'up:v, yIH:n, rur:v}.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Il y a une locution, {'up; yIH rur@@'up:v, yIH:n, rur:v}.</column>
       <column name="hidden_notes">Throw "up".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1704,7 +1826,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">特技，壯舉 [AUTOTRANSLATED]</column>
       <column name="definition_pt">façanha, façanha [AUTOTRANSLATED]</column>
       <column name="definition_fi">temppu, taidonnäyte</column>
-      <column name="definition_fr">cascade, exploit [AUTOTRANSLATED]</column>
+      <column name="definition_fr">cascade, combine, exploit</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngIl:v}</column>
@@ -1751,19 +1873,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">吹哨</column>
       <column name="definition_pt">apitar, assobiar</column>
       <column name="definition_fi">viheltää</column>
-      <column name="definition_fr">siffler [AUTOTRANSLATED]</column>
+      <column name="definition_fr">siffler</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mu'vIb:n}, {yItram:n}, {Su'wIn:n}, {la'qab:n}, {bom:v}, {Huy:v:1}, {bo'Degh:n}</column>
       <column name="notes">This is used for whistling without an instrument (except perhaps one's fingers).[3] If there's an object, it's the thing (tune, birdcall, or whatever) being whistled.[1] Though it's a bit redundant, it's fine to say {la'qab vI'uq:sen@@la'qab:n, vI-:v, 'uq:v}.[2]</column>
-      <column name="notes_de">Wenn es ein Objekt gibt, wird es gepfiffen. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">اگر یک شی وجود داشته باشد ، این مورد سوت زدن است. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Om det finns ett objekt är det saken som visslas. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Если есть объект, это вещь, которую насвистывают. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">如果有物體，那就是被吹口哨的東西。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Se existe um objeto, é a coisa que está sendo assobiada. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Jos siellä on esine, se vihelletään. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">S'il y a un objet, c'est la chose qui est sifflée.[1] Même si c'est un peu redondant, on peut dire {la'qab vI'uq:sen@@la'qab:n, vI-:v, 'uq:v}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies wird für Pfeifen ohne ein Instrument (außer vielleicht den eigenen Fingern) benutzt.[3] Wenn es ein Objekt gibt, ist es das Ding (Melodie, Vogelruf oder wasauchimmer), das gepfiffen wird.[1] Auch wenn es ein bisschen überflüssig ist, kann man {la'qab vI'uq:sen@@la'qab:n, vI-:v, 'uq:v} sagen.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci s'utilise pour siffler sans un isntrument (sauf peut-être les propres doigts).[3] S'il y a un objet, c'est la chose (mélodie, cri d'oiseau ou quoi que ça soit) qui est sifflée.[1] Même si c'est un peu redondant, on peut dire {la'qab vI'uq:sen@@la'qab:n, vI-:v, 'uq:v}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -1798,7 +1920,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">晚餐</column>
       <column name="definition_pt">jantar</column>
       <column name="definition_fi">illallinen</column>
-      <column name="definition_fr">dîner [AUTOTRANSLATED]</column>
+      <column name="definition_fr">dîner</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ram:n}, {nay':n}, {ghem:n}, {megh:n}, {nIQ:n}</column>
@@ -1839,14 +1961,14 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="entry_name">'uQ'a'</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">banquet, feast</column>
-      <column name="definition_de">Bankett, Festmahl</column>
+      <column name="definition_de">Bankett, Festmahl, Festessen</column>
       <column name="definition_fa">جشن، ضیافت، عید، مهمانی</column>
       <column name="definition_sv">bankett, fest</column>
       <column name="definition_ru">банкет, пир</column>
       <column name="definition_zh_HK">宴會、饗宴</column>
       <column name="definition_pt">banquete, festa</column>
       <column name="definition_fi">juhla-ateria, pidot, kestit</column>
-      <column name="definition_fr">banquet, fête [AUTOTRANSLATED]</column>
+      <column name="definition_fr">banquet, festin</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
@@ -1893,7 +2015,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">飯廳</column>
       <column name="definition_pt">sala de jantar</column>
       <column name="definition_fi">ruokasali</column>
-      <column name="definition_fr">salle à manger, salle à manger [AUTOTRANSLATED]</column>
+      <column name="definition_fr">salle à manger</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{SopmeH pa':n}</column>
@@ -1940,7 +2062,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">賣國</column>
       <column name="definition_pt">trair, cometer traição</column>
       <column name="definition_fi">tehdä maanpetos</column>
-      <column name="definition_fr">trahison, commettre une trahison [AUTOTRANSLATED]</column>
+      <column name="definition_fr">trahir</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{magh:v}, {bolwI':n}, {'urmang:n}</column>
@@ -1987,19 +2109,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">賣國賊</column>
       <column name="definition_pt">traidor</column>
       <column name="definition_fi">maanpetturi</column>
-      <column name="definition_fr">traitre [AUTOTRANSLATED]</column>
+      <column name="definition_fr">traître</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bolwI':n}, {maghwI':n}</column>
       <column name="notes">This is a person who commits treason. For a person who betrays someone, see {maghwI':n}.</column>
       <column name="notes_de">Das ist jemand, der einen (Hoch)Verrat begeht. Für jemanden, deinen einen anderen verrät, siehe {maghwI':n}.</column>
-      <column name="notes_fa">این شخصی است که مرتکب خیانت می شود. برای شخصی که به کسی خیانت می کند ، به {maghwI':n} مراجعه کنید. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Det här är en person som begår förräderi. För {maghwI':n} för en person som förråder någon. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это человек, который совершает государственную измену. Для человека, который предает кого-то, см. {maghwI':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是犯叛國罪的人。對於背叛某人的人，請參閱{maghwI':n}。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esta é uma pessoa que comete traição. Para uma pessoa que trai alguém, consulte {maghwI':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on henkilö, joka tekee maanpetoksen. Jos joku pettää jonkun, katso {maghwI':n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C'est une personne qui commet une trahison. Pour une personne qui trahit quelqu'un, voir {maghwI':n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est une personne qui commet une trahison (de son pays). Pour quelqu'un qui trahit une autre personne, voir {maghwI':n}.</column>
       <column name="hidden_notes">This is missing from the K-E side of {TKDA:src}.</column>
       <column name="components">{'ur:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -2027,14 +2149,14 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="entry_name">'urgh</column>
       <column name="part_of_speech">v:t_c</column>
       <column name="definition">jab, poke</column>
-      <column name="definition_de">piksen, stubsen</column>
+      <column name="definition_de">piksen, stubsen, anstubsen</column>
       <column name="definition_fa">بامزه [AUTOTRANSLATED]</column>
       <column name="definition_sv">Jab, poke [AUTOTRANSLATED]</column>
       <column name="definition_ru">тыкать [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">篤、戳</column>
       <column name="definition_pt">espetar</column>
       <column name="definition_fi">pistää, tökätä</column>
-      <column name="definition_fr">piquer, piquer [AUTOTRANSLATED]</column>
+      <column name="definition_fr">piquer, tapoter, donner un petit coup avec le doigt</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{DuQ:v:1}, {'urghwI':n}</column>
@@ -2081,19 +2203,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="definition_zh_HK">修補匠 [AUTOTRANSLATED]</column>
           <column name="definition_pt">consertar (mexer para tentar consertár)</column>
           <column name="definition_fi">värkätä, väsäillä</column>
-          <column name="definition_fr">bricoler [AUTOTRANSLATED]</column>
+          <column name="definition_fr">bricoler</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
           <column name="notes">This slang expression literally means "merely poke/jab". If the context is clear that "poke" in the literal sense is not what is meant, {'urgh:v} alone can be used.[1]</column>
-          <column name="notes_de"></column>
+          <column name="notes_de">Dieser umgangssprachliche Ausdruck bedeutet wörtlich "nur anstubsen". Wenn im Kontext klar ist, dass nicht "anstubsen" im wörtlichen Sinne gemeint ist, kann auch nur {'urgh:v} alleine benutzt werden.[1]</column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
           <column name="notes_ru"></column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr">Cette expression d'argot signifie littéralement « simplement piquer/jaber ». Si le contexte est clair et que "poke" au sens littéral n'est pas ce que l'on entend, {'urgh:v} seul peut être utilisé.[1] [AUTOTRANSLATED]</column>
+          <column name="notes_fr">Ce terme familier signifie littéralement "tapoter seulement". S'il est clair en contexte que le sens littéral de "tapoter" n'est pas voulu, {'urgh:v} peut aussi être utilisé seul.[1]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'urgh:v}, {neH:adv}</column>
           <column name="examples"></column>
@@ -2128,19 +2250,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">撲克（紙牌遊戲）</column>
       <column name="definition_pt">Poker (jogo de cartas)</column>
       <column name="definition_fi">pokeri</column>
-      <column name="definition_fr">Poker (jeu de cartes) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">Poker (jeu de cartes)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{Degh:n:1}, {'echletHom:n}, {SuD:v:2}</column>
       <column name="notes">Maltz referred to the Federation card game "Poker" as {'urghwI':n:nolink}, although other Klingons would probably not understand this.[1]</column>
-      <column name="notes_de">Maltz bezeichnete das Federation-Kartenspiel "Poker" als {'urghwI':n:nolink}, obwohl andere Klingonen dies wahrscheinlich nicht verstehen würden.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">مالتز با اشاره به بازی کارت فدراسیون "پوکر" به عنوان {'urghwI':n:nolink} ، گرچه سایر کلینگون ها احتمالاً این موضوع را درک نمی کنند.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Maltz hänvisade till Federations kortspel "Poker" som {'urghwI':n:nolink}, även om andra Klingons förmodligen inte skulle förstå detta.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Maltz nannte das Kartenspiel "Poker" aus der Föderation {'urghwI':n:nolink}, wobei andere Klingonen, dieses Wort wohl nicht verstehen würden, da es eine wörtliche Übersetzung ist.[1]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">Maltz viittasi federaation korttipeliin "Poker" nimellä {'urghwI':n:nolink}, vaikka muut klingonit eivät todennäköisesti ymmärtäisikään tätä.[1] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Maltz a appelé le jeu de cartes de la Fédération « Poker » {'urghwI':n:nolink}, bien que les autres Klingons ne comprendraient probablement pas cela.[1] [AUTOTRANSLATED]</column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Maltz réfère au jeu de cartes "poker" de la Fédération comme {'urghwI':n:nolink}, même si autres klingons ne le comprendront probablement pas, vu qu'il s'agit d'une tradution littéraire.[1]</column>
       <column name="hidden_notes"></column>
       <column name="components">{'urgh:v}, {-wI':v}</column>
       <column name="examples"></column>
@@ -2175,7 +2297,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">叛國罪</column>
       <column name="definition_pt">traição</column>
       <column name="definition_fi">maanpetos</column>
-      <column name="definition_fr">trahison [AUTOTRANSLATED]</column>
+      <column name="definition_fr">trahison</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'ur:v}, {Daw':n}, {QuS:n}</column>
@@ -2222,7 +2344,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">腿</column>
       <column name="definition_pt">perna</column>
       <column name="definition_fi">jalka</column>
-      <column name="definition_fr">jambe [AUTOTRANSLATED]</column>
+      <column name="definition_fr">jambe</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{qam:n}, {ghIv:n}, {qIv:n}, {to'waQ:n}, {ngIb:n:1}, {Do'ghI':n}, {reStav:n}, {tutren:n}</column>
@@ -2262,26 +2384,26 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="entry_name">'uS cha'neH</column>
           <column name="part_of_speech">n:body,deriv</column>
           <column name="definition">crus (lower part of leg)</column>
-          <column name="definition_de">Unterschenkel </column>
+          <column name="definition_de">Unterschenkel</column>
           <column name="definition_fa">crus (قسمت پایین ساق پا) [AUTOTRANSLATED]</column>
           <column name="definition_sv">crus (nedre delen av benet) [AUTOTRANSLATED]</column>
           <column name="definition_ru">голень (нижняя часть ноги) [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">小腿（腿的下部） [AUTOTRANSLATED]</column>
           <column name="definition_pt">crus (parte inferior da perna) [AUTOTRANSLATED]</column>
           <column name="definition_fi">sääri</column>
-          <column name="definition_fr">crus (partie inférieure de la jambe) [AUTOTRANSLATED]</column>
+          <column name="definition_fr">partie inférieure de la jambe</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{'uS nev'ob:n}</column>
           <column name="notes">This refers to the entire lower part of the leg, which consists of {'uS reStav:n} in the front and {Do'ghI':n} in the back. Even when the context is clear, {'uS:n:nolink} is seldom if ever left out of {'uS cha'neH:n:nolink}.[2]</column>
-          <column name="notes_de"></column>
+          <column name="notes_de">Dies bezieht sich auf den gesamten unteren Teil des Beins, das aus {'uS reStav:n} vorne und {Do'ghI':n} hinten besteht. Selbst wenn der Kontext klar ist, wird {'uS:n:nolink} selten bis nie aus {'uS cha'neH:n:nolink} weggelassen.[2]</column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
           <column name="notes_ru"></column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr"></column>
+          <column name="notes_fr">Ceci se réfère à toute la partie inférieure de la jambe, qui consiste en {'uS reStav:n} au front et {Do'ghI':n} à l'arrière. Même quand le contexte est clair, {'uS:n:nolink} est rarement omis de {'uS cha'neH:n:nolink}.[2]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'uS:n}, {cha'neH:n}</column>
           <column name="examples"></column>
@@ -2316,19 +2438,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="definition_zh_HK">大腿 [AUTOTRANSLATED]</column>
           <column name="definition_pt">coxa [AUTOTRANSLATED]</column>
           <column name="definition_fi">reisi</column>
-          <column name="definition_fr">cuisse [AUTOTRANSLATED]</column>
+          <column name="definition_fr">cuisse</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also">{'uS cha'neH:n}</column>
           <column name="notes">This refers to the entire upper part of the leg, i.e., the thigh. Unless specificity is called for, {'uS:n:nolink} is generally left out of {'uS nev'ob:n:nolink}.[2]</column>
-          <column name="notes_de"></column>
+          <column name="notes_de">Dies ist der gesamte obere Teil des Beins, d.h., der Oberschenkel. Außer wenn Genauigkeit nötig ist, wird {'uS:n:nolink} generell aus {'uS nev'ob:n:nolink} weggelassen.[2]</column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
           <column name="notes_ru"></column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr"></column>
+          <column name="notes_fr">Ce mot se réfère à toute la partie supérieure de la jambe, c.a.d., la cuisse. Sauf si la précision est demandée, {'uS:n:nolink} est généralement omis de {'uS nev'ob:n:nolink}.[2]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'uS:n}, {nev'ob:n}</column>
           <column name="examples"></column>
@@ -2363,19 +2485,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="definition_zh_HK">脛 [AUTOTRANSLATED]</column>
           <column name="definition_pt">canela [AUTOTRANSLATED]</column>
           <column name="definition_fi">sääri (etupuoli)</column>
-          <column name="definition_fr">tibia [AUTOTRANSLATED]</column>
+          <column name="definition_fr">tibia</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
           <column name="notes">This refers to the front of the lower part of the leg, i.e., the shin. Unless specificity is called for, {'uS:n:nolink} is generally left out of {'uS reStav:n:nolink}.[2]</column>
-          <column name="notes_de"></column>
+          <column name="notes_de">Dies ist der vordere Teil des Unterschenkels, d.h. das Schienbein. Außer wenn Genauigkeit nötig ist, wird {'uS:n:nolink} generell aus {'uS reStav:n:nolink} weggelassen.[2]</column>
           <column name="notes_fa"></column>
           <column name="notes_sv"></column>
           <column name="notes_ru"></column>
           <column name="notes_zh_HK"></column>
           <column name="notes_pt"></column>
           <column name="notes_fi"></column>
-          <column name="notes_fr"></column>
+          <column name="notes_fr">Ceci est la partie de devant de la jambe inférieure, c.a.d. le tibia. Sauf si la précision est demandée, {'uS:n:nolink} est généralement omis de {'uS reStav:n:nolink}.[2]</column>
           <column name="hidden_notes"></column>
           <column name="components">{'uS:n}, {reStav:n}</column>
           <column name="examples"></column>
@@ -2403,14 +2525,14 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="entry_name">'uS tutren</column>
           <column name="part_of_speech">n:body,deriv</column>
           <column name="definition">knee pit</column>
-          <column name="definition_de">Kniekehle </column>
+          <column name="definition_de">Kniekehle</column>
           <column name="definition_fa">گودال زانو [AUTOTRANSLATED]</column>
           <column name="definition_sv">knäskålen [AUTOTRANSLATED]</column>
           <column name="definition_ru">коленная яма [AUTOTRANSLATED]</column>
           <column name="definition_zh_HK">膝坑 [AUTOTRANSLATED]</column>
           <column name="definition_pt">fossa do joelho [AUTOTRANSLATED]</column>
           <column name="definition_fi">polvitaive</column>
-          <column name="definition_fr">fosse au genou [AUTOTRANSLATED]</column>
+          <column name="definition_fr">jarret, creux du genou</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2450,26 +2572,26 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="entry_name">'uSgheb</column>
       <column name="part_of_speech">n:anim</column>
       <column name="definition">a kind of bird, rooster (makes ruckus at dawn)</column>
-      <column name="definition_de">Vogel, ähnlich einem Hahn</column>
+      <column name="definition_de">eine Art Vogel, ähnlich einem Hahn (macht bei Sonnenaufgang Krach)</column>
       <column name="definition_fa">یک نوع پرنده، خروس [AUTOTRANSLATED]</column>
       <column name="definition_sv">en slags fågel (för oljud i gryningen, vildsintare än en tupp)</column>
       <column name="definition_ru">своего рода птица, петух [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">公雞</column>
       <column name="definition_pt">uma espécie de pássaro, galo</column>
       <column name="definition_fi">eräs kukon kaltainen lintu</column>
-      <column name="definition_fr">une sorte d'oiseau, coq (fait du chahut à l'aube) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">une sorte d'oiseau, coq (fait du bruit à l'aube)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'Degh:n}, {jajlo' Qa':n}</column>
       <column name="notes">This is a noisy bird known to make a ruckus at dawn, which has been likened to a rooster (but is much fiercer than a rooster).</column>
-      <column name="notes_de">Das ist ein lauter Vogel der morgens wie ein Hahn kräht, aber viel lauter.</column>
-      <column name="notes_fa">این یک پرنده پر سر و صدا است که در هنگام طلوع آفتاب ساخته شده است ، که به یک خروس تشبیه شده است (اما بسیار خروس تر از خروس است). [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är en bullrig fågel som är känd för att göra en ruckus i gryningen, som har jämförts med en tupp (men är mycket hårdare än en tupp). [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это шумная птица, которая, как известно, совершает шум на рассвете, которую сравнивают с петухом (но гораздо жестче, чем петух). [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是一種吵鬧的鳥，已知會在黎明時引起騷動，已被比喻為公雞（但比公雞兇猛得多）。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este é um pássaro barulhento, conhecido por fazer um tumulto ao amanhecer, que foi comparado a um galo (mas é muito mais feroz do que um galo). [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on meluisa lintu, jonka tiedetään tekevän kynnyksen aamunkoitteessa, jota on verrattu kukkoon (mutta se on paljon kovempaa kuin kukko). [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s'agit d'un oiseau bruyant connu pour faire du chahut à l'aube, qui a été comparé à un coq (mais il est beaucoup plus féroce qu'un coq). [AUTOTRANSLATED]</column>
+      <column name="notes_de">Das ist ein lauter Vogel der bei Sonnenaufgang Krach macht und der mit einem Hahn verglichen worden ist (aber viel wilder ist als ein Hahn).</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est un oiseau bruyant qui fait du bruit à l'aube et qui a été comparé à un coq (mais qui est beaucoup plus féroce qu'un coq).</column>
       <column name="hidden_notes">The "leghorn" is a type of chicken, and Foghorn Leghorn is a cartoon leghorn rooster.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2499,24 +2621,24 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition">iron (element)</column>
       <column name="definition_de">Eisen (Element)</column>
       <column name="definition_fa">آهن (عنصر) [AUTOTRANSLATED]</column>
-      <column name="definition_sv">järn (element) [AUTOTRANSLATED]</column>
+      <column name="definition_sv">järn (grundämne)</column>
       <column name="definition_ru">железо (элемент) [AUTOTRANSLATED]</column>
       <column name="definition_zh_HK">鐵（元素）</column>
       <column name="definition_pt">ferro (elemento)</column>
       <column name="definition_fi">rauta</column>
-      <column name="definition_fr">fer (élément) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">fer (élément)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tamler:n}, {baS:n}</column>
-      <column name="notes"></column>
-      <column name="notes_de"></column>
+      <column name="notes">This is the metallic element with the symbol Fe and the atomic number 26.</column>
+      <column name="notes_de">Dies ist das metallische Element mit dem Symbol Fe und der Ordnungszahl 26.</column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ceci est l'élément métallique aev le symbole Fe et le numéro atomique 26.</column>
       <column name="hidden_notes">The USS Constitution had the nickname "Old Ironsides".</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2551,19 +2673,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">薄醬</column>
       <column name="definition_pt">molho de gladst</column>
       <column name="definition_fi">eräs kastike gladstille</column>
-      <column name="definition_fr">sauce pour le plaisir [AUTOTRANSLATED]</column>
+      <column name="definition_fr">sauce pour gladst</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{tlhatlh:n}, {tlhatlh vIychorgh:n}, {Se'tu':n}, {po'lIgh:n}</column>
       <column name="notes">{'uSu':n:nolink} is native to the original inhabitants of the planet Tanganika.[2]</column>
-      <column name="notes_de">{'uSu':n:nolink} stammt von den Ureinwohnern des Planeten Tanganika.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">{'uSu':n:nolink} بومی ساکنان اصلی سیاره Tanganika است ..[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">{'uSu':n:nolink} är infödd till de ursprungliga invånarna på planeten Tanganika.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">{'uSu':n:nolink} является родным для коренных жителей планеты Танганика.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de">{'uSu':n:nolink} stammt ursprünglich von den Ureinwohnern des Planeten Tanganika.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="notes_pt">{'uSu':n:nolink} é nativo dos habitantes originais do planeta Tanganika.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_pt"></column>
       <column name="notes_fi">{'uSu':n:nolink} on peräisin Tanganika-planeetan alkuperäisiltä asukkailta.[2]</column>
-      <column name="notes_fr">{'uSu':n:nolink} est originaire des premiers habitants de la planète Tanganika.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_fr">{'uSu':n:nolink} est originaire des premiers habitants de la planète Tanganika.[2]</column>
       <column name="hidden_notes">One type of lighter soy sauce is called "usukuchi shoyu" (薄口醤油) in Japanese. Also, the "yuzu" plant is used in the creation of some sauces in Asian cuisine. However, if this word is a pun, it wasn't due to Okrand, but the writers of {DS9 - Melora:src}.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2598,7 +2720,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">必要、需要</column>
       <column name="definition_pt">ser essencial, ser necessário</column>
       <column name="definition_fi">olla välttämätön, tarpeellinen</column>
-      <column name="definition_fr">être essentiel, être nécessaire [AUTOTRANSLATED]</column>
+      <column name="definition_fr">être essentiel, être nécessaire</column>
       <column name="synonyms"></column>
       <column name="antonyms">{'utbe':v}</column>
       <column name="see_also"></column>
@@ -2646,7 +2768,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="definition_zh_HK">不必要、不需要</column>
           <column name="definition_pt">ser desnecessário, não-essencial</column>
           <column name="definition_fi">olla tarpeeton</column>
-          <column name="definition_fr">être non essentiel, être inutile [AUTOTRANSLATED]</column>
+          <column name="definition_fr">être non essentiel, être inutile</column>
           <column name="synonyms"></column>
           <column name="antonyms">{'ut:v}</column>
           <column name="see_also"></column>
@@ -2694,7 +2816,7 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
           <column name="definition_zh_HK">樂趣是不重要的。</column>
           <column name="definition_pt">Prazer não é essencial.</column>
           <column name="definition_fi">Nautinto on tarpeetonta.</column>
-          <column name="definition_fr">Le plaisir n'est pas essentiel. [AUTOTRANSLATED]</column>
+          <column name="definition_fr">Le plaisir n'est pas essentiel.</column>
           <column name="synonyms"></column>
           <column name="antonyms"></column>
           <column name="see_also"></column>
@@ -2741,19 +2863,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">抽屜櫃 [AUTOTRANSLATED]</column>
       <column name="definition_pt">cômoda</column>
       <column name="definition_fi">lipasto</column>
-      <column name="definition_fr">commode [AUTOTRANSLATED]</column>
+      <column name="definition_fr">commode</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{bo'voD:n}, {DeSwar:n}, {yorgh:n}</column>
       <column name="notes">This refers to a chest of drawers regardless of whether or not there are actually drawers in it at the moment.</column>
-      <column name="notes_de">Dies bezieht sich auf eine Kommode, unabhängig davon, ob sich derzeit tatsächlich Schubladen darin befinden oder nicht. [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این موضوع به قفسه سینه بستگی دارد بدون توجه به اینکه در حال حاضر واقعاً کشوهایی در آن وجود دارد یا خیر. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta avser en byrå oavsett om det faktiskt finns lådor i det för tillfället. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к комоду, независимо от того, есть ли на самом деле в нем ящики в данный момент. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這是指一個抽屜櫃，而不管當前是否有抽屜。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Refere-se a uma cômoda, independentemente de haver ou não gavetas no momento. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä viittaa lipastoon riippumatta siitä, onko siinä todella laatikoita tällä hetkellä. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit d’une commode, qu’elle contienne ou non actuellement des tiroirs. [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist ein Schubladenschrank, egal ob momentan tatsächlich Schubladen darin sind.</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci se réfère à une commode, peu importe s'il y a actuellement des tiroirs dedans.</column>
       <column name="hidden_notes">"Drawer" is slang for "underwear", and Under Armour (UA) is a brand of casual and sports clothing.</column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2781,26 +2903,26 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="entry_name">'utlh</column>
       <column name="part_of_speech">n:being</column>
       <column name="definition">officer, officer emeritus</column>
-      <column name="definition_de">Offizier</column>
+      <column name="definition_de">Offizier außer Dienst, pensionierter Offizier</column>
       <column name="definition_fa">افسر، مامور افسر [AUTOTRANSLATED]</column>
       <column name="definition_sv">officer emeritus, pensionerad officer</column>
       <column name="definition_ru">офицер, бывший офицер</column>
       <column name="definition_zh_HK">軍官、退休人員 [AUTOTRANSLATED]</column>
       <column name="definition_pt">oficial, oficial emérito</column>
       <column name="definition_fi">eläköitynyt upseeri</column>
-      <column name="definition_fr">officier, officier émérite [AUTOTRANSLATED]</column>
+      <column name="definition_fr">officier émérite</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yaS:n:1h}, {paj:v}, {Deq:v}</column>
       <column name="notes">This refers to an officer who ended service in retirement.[2]</column>
-      <column name="notes_de">Dies bezieht sich auf einen Offizier, der seinen Dienst im Ruhestand beendet hat[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این اشاره به افسری است که در بازنشستگی خدمت خود را به پایان رسانده است.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta hänvisar till en tjänsteman som avslutade tjänsten i pension.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это относится к офицеру, который закончил службу в отставке.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這指的是一名退休後退休的軍官。[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Refere-se a um oficial que encerrou o serviço na aposentadoria.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dies ist ein Offizier, der von Dienst pensioniert wurde.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
       <column name="notes_fi"></column>
-      <column name="notes_fr"></column>
+      <column name="notes_fr">Ce mot se réfère à un officier qui a pris sa retraite du service.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2835,19 +2957,19 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="definition_zh_HK">撳低</column>
       <column name="definition_pt">pressionar para baixo</column>
       <column name="definition_fi">painaa alas</column>
-      <column name="definition_fr">Appuyer [AUTOTRANSLATED]</column>
+      <column name="definition_fr">appuyer</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{yuv:v}, {leQ:n}</column>
       <column name="notes">This verb is used for clicking on a computer mouse button (even though the action is actually to press down and then release). For clicking on a hyperlink, the verb {wIv:v} is used rather than {'uy:v:nolink}.[2]</column>
-      <column name="notes_de">Dieses Verb wird zum Klicken auf eine Computermaus-Taste verwendet (obwohl die Aktion tatsächlich darin besteht, zu drücken und dann loszulassen). Zum Klicken auf einen Hyperlink wird das Verb {wIv:v} anstelle von {'uy:v:nolink}.[2] verwendet [AUTOTRANSLATED]</column>
-      <column name="notes_fa">این فعل برای کلیک بر روی دکمه ماوس رایانه ای استفاده می شود (حتی اگر این عمل در واقع فشار دادن پایین و سپس رها کردن باشد). برای کلیک بر روی لینک ، از فعل {wIv:v} به جای {'uy:v:nolink}.[2] استفاده می شود [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta verb används för att klicka på en datormusknapp (även om åtgärden faktiskt är att trycka ner och sedan släppa). För att klicka på en hyperlänk används verbet {wIv:v} snarare än {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Этот глагол используется для нажатия на кнопку компьютерной мыши (хотя на самом деле нужно нажать и отпустить). Для перехода по гиперссылке используется глагол {wIv:v}, а не {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">該動詞用於單擊計算機鼠標按鈕（即使該操作實際上是按下然後釋放）。單擊超鏈接時，使用動詞{wIv:v}而不是{'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Esse verbo é usado para clicar no botão do mouse do computador (mesmo que a ação seja realmente pressionar e soltar). Para clicar em um hiperlink, o verbo {wIv:v} é usado em vez de {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tätä verbiä käytetään napsauttamaan tietokoneen hiiren painiketta (vaikka toiminnon tarkoituksena on todella painaa alas ja sitten vapauttaa). Hyperlinkkiä napsautettaessa käytetään verbiä {wIv:v} eikä {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Ce verbe est utilisé pour cliquer sur le bouton d'une souris d'ordinateur (même si l'action consiste en fait à appuyer puis à relâcher). Pour cliquer sur un hyperlien, le verbe {wIv:v} est utilisé à la place de {'uy:v:nolink}.[2] [AUTOTRANSLATED]</column>
+      <column name="notes_de">Dieses Verb wird für das Klicken auf die Taste einer Computermaus benutzt (auch wenn man hier tatsächlich drückt und loslässt). Für das Klicken auf einen Hyperlink wird das Verb {wIv:v} statt {'uy:v:nolink} benutzt.[2]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ce mot s'utilise pour cliquer avec le bouton d'un souris d'ordinateur (même si cette action est d'appuyer et relâcher). Pour cliquer sur un lien, on utilise le verbe {wIv:v} plutôt que {'uy:v:nolink}.[2]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2875,14 +2997,14 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
       <column name="entry_name">'uy'</column>
       <column name="part_of_speech">n:num</column>
       <column name="definition">million (number-forming element)</column>
-      <column name="definition_de">Million</column>
+      <column name="definition_de">Million (Zahlenbildungsmorphem)</column>
       <column name="definition_fa">میلیون</column>
       <column name="definition_sv">miljon (nummerbildande element)</column>
       <column name="definition_ru">миллион</column>
       <column name="definition_zh_HK">百萬</column>
       <column name="definition_pt">milhão</column>
       <column name="definition_fi">miljoonaa</column>
-      <column name="definition_fr">million (élément formant un nombre) [AUTOTRANSLATED]</column>
+      <column name="definition_fr">million (morphème formant un nombre)</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{mI':n}, {bIp:n:num}, {Saghan:n:num}</column>
@@ -2891,26 +3013,22 @@ The pot ({'un:n}) called ({qal:sen:nolink}) the kettle black. There is also at l
 For tens of millions, one could combine {maH:n:2,num} with {'uy':n:num,nolink} or {vatlh:n:num} with {bIp:n:num}.[2]
 
 For hundreds of millions, the number-forming elements {vatlh'uy':n:num@@vatlh:n, 'uy':n} or {SaDbIp:n:num@@SaD:n, bIp:n} or {SanIDbIp:n:num@@SanID:n, bIp:n} are possible.[3]</column>
-      <column name="notes_de">Für zig Millionen könnte man {maH:n:2,num} mit {'uy':n:num,nolink} oder {vatlh:n:num} mit {bIp:n:num}.[2] kombinieren
+      <column name="notes_de">Dies ist ein Zahlenbildungsmorphem und alleinstehend keine Zahl. Die Zahl 1.000.000 (eine Million) ist {wa''uy':n:num,nolink} auf klingonisch.
 
-Für Hunderte von Millionen sind die zahlenbildenden Elemente {vatlh'uy':n:num@@vatlh:n, 'uy':n} oder {SaDbIp:n:num@@SaD:n, bIp:n} oder {SanIDbIp:n:num@@SanID:n, bIp:n} möglich.[3] [AUTOTRANSLATED]</column>
-      <column name="notes_fa">برای دهها میلیون نفر ، می توان {maH:n:2,num} را با {'uy':n:num,nolink} یا {vatlh:n:num} با {bIp:n:num}.[2] ترکیب کرد
-
-برای صدها میلیون نفر ، عناصر تشکیل دهنده شماره {vatlh'uy':n:num@@vatlh:n, 'uy':n} یا {SaDbIp:n:num@@SaD:n, bIp:n} یا {SanIDbIp:n:num@@SanID:n, bIp:n} ممکن است. [3] [AUTOTRANSLATED]</column>
-      <column name="notes_sv">För tiotals miljoner kunde man kombinera {maH:n:2,num} med {'uy':n:num,nolink} eller {vatlh:n:num} med {bIp:n:num}.[2]
-
-För hundratals miljoner är de nummerbildande elementen {vatlh'uy':n:num@@vatlh:n, 'uy':n} eller {SaDbIp:n:num@@SaD:n, bIp:n} eller {SanIDbIp:n:num@@SanID:n, bIp:n} möjliga. [3] [AUTOTRANSLATED]</column>
+Für zehn Millionen, könnte man {maH:n:2,num} mit {'uy':n:num,nolink} oder {vatlh:n:num} mit {bIp:n:num} kombinieren.[2]
+        
+Für hunderte Millionen, sind die Zahlenbildungsmorpheme {vatlh'uy':n:num@@vatlh:n, 'uy':n} oder {SaDbIp:n:num@@SaD:n, bIp:n} oder {SanIDbIp:n:num@@SanID:n, bIp:n} möglich.[3]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="notes_pt"></column>
-      <column name="notes_fi">Kymmenien miljoonien verran {maH:n:2,num} voidaan yhdistää {'uy':n:num,nolink}: een tai {vatlh:n:num} {bIp:n:num}: n kanssa.
+      <column name="notes_fi"></column>
+      <column name="notes_fr">Ceci est un morphème formant un nombre et non un nombre par lui seul. Le numéro 1.000.000 (une million) est {wa''uy':n:num,nolink} en klingon.
 
-Satoja miljoonia lukuja muodostavat elementit {vatlh'uy':n:num@@vatlh:n, 'uy':n}, {SaDbIp:n:num@@SaD:n, bIp:n} tai {SanIDbIp:n:num@@SanID:n, bIp:n} ovat mahdollisia.[2][3] [AUTOTRANSLATED]</column>
-      <column name="notes_fr">Il s’agit d’un élément formant un nombre, et non d’un nombre en soi. Le nombre 1 000 000 (un million) est {wa''uy':n:num,nolink} en Klingon.
-
-Pour des dizaines de millions, on pourrait combiner {maH:n:2,num} avec {'uy':n:num,nolink} ou {vatlh:n:num} avec {bIp:n:num}.[2]
-
-Pour des centaines de millions, les éléments formant des nombres {vatlh'uy':n:num@@vatlh:n, 'uy':n} ou {SaDbIp:n:num@@SaD:n, bIp:n} ou {SanIDbIp:n:num@@SanID:n, bIp:n} sont possibles.[3] [AUTOTRANSLATED]</column>
+Pour des dixaines de millions, on peut combiner {maH:n:2,num} avec {'uy':n:num,nolink} ou {vatlh:n:num} avec {bIp:n:num}.[2]
+        
+Pour des centained de millions, les morphèmes formant des nombres {vatlh'uy':n:num@@vatlh:n, 'uy':n} ou {SaDbIp:n:num@@SaD:n, bIp:n} ou {SanIDbIp:n:num@@SanID:n, bIp:n} sont possibles.[3]</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2945,19 +3063,19 @@ Pour des centaines de millions, les éléments formant des nombres {vatlh'uy':n:
       <column name="definition_zh_HK">宇宙</column>
       <column name="definition_pt">universo</column>
       <column name="definition_fi">maailmankaikkeus</column>
-      <column name="definition_fr">univers [AUTOTRANSLATED]</column>
+      <column name="definition_fr">univers</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ngeHbej:n}, {'u' Dop:n}, {'u' quq:n}</column>
       <column name="notes">This is also the name of an opera, which narrates many of the same events as found in the {paq'batlh:n}.</column>
       <column name="notes_de">Dies ist auch der Name einer Oper, welche einen Großteil der Geschichte des {paq'batlh:n} erzählt.</column>
-      <column name="notes_fa">این همچنین نام یک اپرا است که بسیاری از همان وقایع را که در {paq'batlh:n} یافت می شود روایت می کند. [AUTOTRANSLATED]</column>
-      <column name="notes_sv">Detta är också namnet på en opera, som berättar många av samma händelser som finns i {paq'batlh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_ru">Это также название оперы, которая повествует о многих из тех же событий, что и в {paq'batlh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_zh_HK">這也是歌劇的名字，它講述了許多與《 {paq'batlh:n}》中的事件相同的事件。 [AUTOTRANSLATED]</column>
-      <column name="notes_pt">Este também é o nome de uma ópera, que narra muitos dos mesmos eventos encontrados no {paq'batlh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fi">Tämä on myös oopperan nimi, joka kertoo monia samoja tapahtumia kuin {paq'batlh:n}. [AUTOTRANSLATED]</column>
-      <column name="notes_fr">C'est aussi le nom d'un opéra qui raconte bon nombre des mêmes événements que ceux trouvés dans le {paq'batlh:n}. [AUTOTRANSLATED]</column>
+      <column name="notes_fa"></column>
+      <column name="notes_sv"></column>
+      <column name="notes_ru"></column>
+      <column name="notes_zh_HK"></column>
+      <column name="notes_pt"></column>
+      <column name="notes_fi"></column>
+      <column name="notes_fr">C'est aussi le nom d'un opéra qui raconte la plupart de l'histoire du {paq'batlh:n}.</column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
       <column name="examples"></column>
@@ -2992,7 +3110,7 @@ Pour des centaines de millions, les éléments formant des nombres {vatlh'uy':n:
       <column name="definition_zh_HK">相反時空</column>
       <column name="definition_pt">universo espelho</column>
       <column name="definition_fi">peilimaailma</column>
-      <column name="definition_fr">univers miroir [AUTOTRANSLATED]</column>
+      <column name="definition_fr">univers-miroir</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'u' quq:n}</column>
@@ -3041,7 +3159,7 @@ At {qep'a' 26 (2019):src}, the note expanding {Dop:v:1} to {Dop:v:2} alludes to 
       <column name="definition_zh_HK">平行時空</column>
       <column name="definition_pt">universo paralelo</column>
       <column name="definition_fi">rinnakkaistodellisuus</column>
-      <column name="definition_fr">univers parallèle [AUTOTRANSLATED]</column>
+      <column name="definition_fr">univers parallèle</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'u' Dop:n}</column>
