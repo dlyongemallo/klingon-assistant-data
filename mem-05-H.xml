@@ -3549,7 +3549,7 @@ To use such a device, one may {qIp:v}, {'uy:v}, or {ngaH:v} it, depending on the
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Ha'quj:n}, {nge':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4301,7 +4301,7 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Hegh:v}, {-lu':v}, {-meH:v}, {QaQ:v}, {jajvam:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7730,7 +7730,7 @@ A {HIl'aD:n:nolink} is a set of {'ISteghmey:n@@'IStegh:n, -mey:n}.[2]</column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{HIv:v}, {-qa':v}, {veqlargh:n:name}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -8538,7 +8538,7 @@ The first item in a list of words (for example) would be {mu' wa'DIch:n@@mu':n, 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Hoch:n}, {'eb:n}, {-mey:n}, {tI-:v}, {jon:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

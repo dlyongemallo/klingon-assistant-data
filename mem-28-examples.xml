@@ -38,7 +38,7 @@ To answer in the negative, say {ghobe':excl} or {jISop vIneHbe'} "I don't want t
 Jos haluat vastata kieltävästi, sano {ghobe':excl} tai {jISop vIneHbe'} "en halua syödä".</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{bI-:v}, {ghung:v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -91,7 +91,7 @@ To answer in the negative, say {ghobe':excl} or {jItlhutlh vIneHbe'} "I don't wa
 Jos haluat vastata kieltävästi, sano {ghobe':excl} tai {jItlhutlh vIneHbe'} "en halua juoda".</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{bI-:v}, {'oj:v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -192,7 +192,7 @@ Jos puhuttelet ylempääsi, harkitse {-neS:v:suff}-päätteen lisäämistä.</co
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{cho-:v}, {yaj:v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -294,7 +294,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn".</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'oH:n:pro}, {Doch:n}, {-vam:n}, {-'e':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -347,7 +347,7 @@ To answer in the negative, say {Qo':excl} "no, I refuse".</column>
 Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn".</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Ha':excl}, {wI-:v}, {jaH:v}</column>
       <column name="examples">
 ▶ {Ha', pa'lIj wIjaH!:sen:nolink} "Come, let's go to your quarters!"
 ▶ {Ha', tach wIjaH!:sen:nolink} "Come, let's go to a bar!"
@@ -406,7 +406,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn".</column>
       <column name="notes_fi">Klingonissa tämä on pikemminkin komento kuin kysymys. Se tarkoittaa kirjaimellisesti: "Nimeä kielet, joita puhut!"</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Hol:n}, {-mey:n}, {Da-:v}, {jatlh:v}, {-bogh:v}, {tI-:v}, {ngu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -453,7 +453,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn".</column>
       <column name="notes_fi">{HIja':excl} ja {ghobe':excl} ovat mahdollisia vastauksia.</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{leng:n}, {-lIj:n}, {Da-:v}, {tIv:v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -657,7 +657,7 @@ Jos haluat vastata kieltävästi, sano {Qo':excl} "ei, kieltäydyn".</column>
       <column name="hidden_notes">In {TKD:src}, {qaleghneS:sen:nolink} is translated as "I am honored to see you", and is used as an example of the suffix {-neS:v:suff}, which expresses "extreme politeness or deference" and is used "rather infrequently by Klingons". Beginners should probably avoid using this suffix, or at least not make a habit of using it.
 
 Some websites suggest using {qaqIHneS:sen@@qa-:v, qIH:v, -neS:v} for "I am honored to meet you", and this parallels {qaleghneS:sen:nolink} in that it means something like "I meet you, your honor" and is only spoken to a social superior. Other websites further compound this error by misspelling the phrase as {qaqItlhneS:sen:nolink}. A sentence like {qaqIHmo' jIquv:sen:nolink} has a similar meaning, but doesn't have the excessively deferential overtones.</column>
-      <column name="components"></column>
+      <column name="components">{qa-:v}, {qIH:v}, {-mo':v}, {jI-:v}, {quv:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -704,7 +704,7 @@ Some websites suggest using {qaqIHneS:sen@@qa-:v, qIH:v, -neS:v} for "I am honor
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This sentence doesn't appear exactly in canon, but {qaStaH nuq jay'?:sen:nolink} "What the #$*@ is happening?" appears on {TKD p.177:src}.</column>
-      <column name="components"></column>
+      <column name="components">{qaS:v}, {-taH:v}, {nuq:ques}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -798,7 +798,7 @@ Some websites suggest using {qaqIHneS:sen@@qa-:v, qIH:v, -neS:v} for "I am honor
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{QIt:adv}, {yI-:v}, {jatlh:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1088,7 +1088,7 @@ Jos puhuttelet ylempiäsi, harkitse {-neS:v:suff}-päätteen käyttämistä.</co
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {ghItlh:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -2764,7 +2764,7 @@ This was not explicitly mentioned in the {Saarbrücken qepHom'a' 2021:src} bookl
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This sentence does not appear in canon. It is included here because it is used in some fan ceremonies.</column>
-      <column name="components"></column>
+      <column name="components">{jagh:n}, {'Iw:n}, {vI-:v}, {poQ:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -2811,7 +2811,7 @@ This was not explicitly mentioned in the {Saarbrücken qepHom'a' 2021:src} bookl
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This sentence does not appear in canon. It is included here because it is used in some fan ceremonies.</column>
-      <column name="components"></column>
+      <column name="components">{may':n}, {-wIj:n}, {'oH:n:pro}, {may':n}, {-vam:n}, {-'e':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -2984,7 +2984,7 @@ Katso se Jen Usellisin esittämänä, tuottajana Improvised Star Trek: {YouTube 
 Osta koko Warrior Woman -albumi: {Google Play -Kauppa:url:https://play.google.com/store/music/album/The_Klingon_Pop_Warrior_Warrior_Woman?Id=Bwiodbf4hmegoplslpyfcjb7woq}</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This song is a translation of "Kiss Me" by the band Sixpence None the Richer.</column>
-      <column name="components"></column>
+      <column name="components">{HI-:v}, {chop:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3077,7 +3077,7 @@ Sanat ovat:
    {vaj taHjaj taHjaj taHjaj taHjaj taHjaj tlhIngan wo'!:sen:nolink}</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This song was composed by Rich Yampell, a.k.a. {HoD Qanqor:n:name,nolink}. Note that ordinarily, a rank such as {HoD:n} follows the name in Klingon, but {HoD Qanqor:n:name,nolink} comes from a region where one's rank precedes one's name.</column>
-      <column name="components"></column>
+      <column name="components">{taH:v:1}, {-jaj:v}, {wo':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3288,7 +3288,7 @@ The lyrics are by Lawrence Schoen, and the accompanying music is by Rich Yampell
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{bang:n}, {-wI':n}, {SoH:n:pro}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3622,7 +3622,7 @@ An acceptable way to phrase this demand as a question is {nuq DaDab?:sen:nolink}
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Daq:n:1}, {Da-:v}, {Dab:v}, {-bogh:v}, {yI-:v}, {ngu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3669,7 +3669,7 @@ An acceptable way to phrase this demand as a question is {nuq DaDab?:sen:nolink}
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">In {DS9 - Sons and Daughters:src}, Worf dismisses a group of crewmen with {yIghomHa'!:sen:nolink} Since he was addressing multiple people, it should have been {peghomHa'!:sen:nolink} Furthermore, since he was addressing subordinates, he should probably have used clipped Klingon, i.e., {ghomHa'!:sen:nolink}</column>
-      <column name="components"></column>
+      <column name="components">{ghomHa':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3716,7 +3716,7 @@ An acceptable way to phrase this demand as a question is {nuq DaDab?:sen:nolink}
       <column name="notes_fi">Tämä on vastaus ilmaukseen {juDev 'ej Dujvam ra'wI' DagheS 'e' vItlhob.:sen}. Sitä seuraa {no' Hol:n} -lause {Delaq Do':excl}.[1]</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghop:n}, {-Du':n}, {-wIj:n}, {-Daq:n}, {yIn:n}, {-mey:n}, {-raj:n}, {vI-:v}, {laj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3952,7 +3952,7 @@ An acceptable way to phrase this demand as a question is {nuq DaDab?:sen:nolink}
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{lupDujHom:n}, {-wIj:n}, {lu-:v}, {buy':v}, {-moH:v}, {ghargh:n}, {-mey:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4140,7 +4140,7 @@ An acceptable way to phrase this demand as a question is {nuq DaDab?:sen:nolink}
       <column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "Klingonisoturi antautuu nolla kertaa".</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{paghlogh:adv}, {jegh:v}, {tlhIngan:n}, {SuvwI':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4189,7 +4189,7 @@ An acceptable way to phrase this demand as a question is {nuq DaDab?:sen:nolink}
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{parmaqqay:n}, {-wI':n}, {SoH:n:pro}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4244,7 +4244,7 @@ Contrary to some unreliable sources, the phrase "Urkuk lu Stalga" does not mean 
 Toisin kuin jotkut väittävät, lause "Urkuk lu Stalga" ei tarkoita "rakastan sinua, vauva" klingoniksi. Itse asiassa se ei ole klingonia ollenkaan. Rakkaan kutsuminen vauvaksi (katso {ghu:n}) ei myöskään ole hyvää klingonia.</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{qa-:v}, {muSHa':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4291,7 +4291,7 @@ Toisin kuin jotkut väittävät, lause "Urkuk lu Stalga" ei tarkoita "rakastan s
       <column name="notes_fi">Tämä tarkoittaa kirjaimellisesti "Toivon, että nautit syntymäpäivästäsi". Jos haluat toivottaa hyvää syntymäpäivää useille henkilöille, sano {qoSraj botIvjaj!}</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{qoS:n}, {-lIj:n}, {Da-:v}, {tIv:v}, {-jaj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4432,7 +4432,7 @@ Toisin kuin jotkut väittävät, lause "Urkuk lu Stalga" ei tarkoita "rakastan s
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This is one of the example Klingon phrases on the KLI web site.</column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {Dogh:v}, {-Qo':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

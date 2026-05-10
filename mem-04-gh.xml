@@ -4125,7 +4125,7 @@ Ein allgemeiner Begriff für jede Musik spielende Gruppe (egal welcher Größe) 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghe''or:n}, {-Daq:n}, {luSpet:n}, {'oH:n:pro}, {Daq:n:1}, {-lIj:n}, {-'e':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4317,7 +4317,7 @@ There is also a regional word {ley':n} which means "nose".</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghIch:n}, {-wIj:n}, {Da-:v}, {boch:v}, {-moH:v}, {-chugh:v}, {ghIch:n}, {-lIj:n}, {qa-:v}, {nob:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7724,7 +7724,7 @@ Watch Gowron say this: {YouTube video:url:http://youtu.be/7_rXiSTQmAE}</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghojwI':n}, {-pu':n}, {-lI':n}, {tI-:v}, {SaH:v:2}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9148,7 +9148,7 @@ In {TOS - The Trouble with Tribbles:src}, Nilz Baris says to Kirk, "You have abu
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghorgh:ques}, {ma-:v}, {mej:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9195,7 +9195,7 @@ In {TOS - The Trouble with Tribbles:src}, Nilz Baris says to Kirk, "You have abu
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghorgh:ques}, {tuj:v}, {-choH:v}, {-pu':v}, {bIQ:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

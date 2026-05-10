@@ -3776,7 +3776,7 @@ Das 24-Stunden-System der Föderation ({tera' poH:n}) wird manchmal in interplan
 
 Le système de 24 heures de la Fédération ({tera' poH:n}) est parfois utilisé dans la communication interplanetaire. Quand on travaille dans ce système, la manière de demander le temps est avec l'ordre {rep yIper!:sen:nolink} Quand on répond à cet ordre, les heures ne sont pas comptées, mais plutôt numérotées de 1 à 24. Par exemple, {tera' rep cha':sen:nolink} ou {rep cha':sen:nolink} est "deux heures". Quand le contexte est clair, {tera':n} peut être omis.</column>
       <column name="hidden_notes">The sentence {vagh rep bImejnIS:sen:nolink} "Checkout time is 5 a.m." is heard in {Conversational Klingon:src} (released in 1992), with no explanation of why {vagh rep:n@@vagh:n:1, rep:n} means what it means. According to the time-telling system actually described on that tape, "5 a.m." should've been {vaghvatlh rep:sen:nolink}.</column>
-      <column name="components"></column>
+      <column name="components">{'arlogh:ques}, {Qoy:v}, {-lu':v}, {-pu':v}</column>
       <column name="examples">
 ▶ {mamejDI' 'arlogh Qoylu'pu'?:sen@@ma-:v, mej:v, -DI':v, 'arlogh Qoylu'pu'?:sen} "What time do we leave?"</column>
       <column name="examples_de">

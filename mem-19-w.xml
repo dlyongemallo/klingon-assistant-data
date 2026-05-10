@@ -2674,7 +2674,7 @@ Obi-Wan Kenobi is a character in Star Wars.</column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{wa':n:num}, {SuvwI':n}, {muH:v}, {-lu':v}, {-DI':v}, {tuH:v}, {-choH:v}, {Hoch:n}, {SuvwI':n}, {-pu':n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -2721,7 +2721,7 @@ Obi-Wan Kenobi is a character in Star Wars.</column>
           <column name="notes_fi"></column>
           <column name="notes_fr">Maltz a dit que, si un élève répondait à une question du professeur avec ceci, l'élève serait probablement discipliné (sauf si c'était la bonne réponse). Il n'est pas entré dans plus de détails.[1]</column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{wa':n:num}, {wa':n:num}, {wa':n:num}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

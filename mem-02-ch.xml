@@ -2701,7 +2701,7 @@ Un {chaw':n:nolink} montre qu'on est officiellement ou légalement permis de fai
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{chay':ques}, {mu':n}, {-vam:n}, {qol:v}, {-lu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7906,7 +7906,7 @@ In the "Radio Times Star Trek 30th Anniversary Special Issue", the British expre
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{chop:v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

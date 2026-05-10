@@ -295,7 +295,7 @@ Wenn es mit {-lu':v} benutzt wird, bedeutet dieses Präfix "Man (indefinites Sub
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Da-:v}, {buQ:v}, {-lu':v}, {-DI':v}, {yI-:v}, {Suv:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1274,7 +1274,7 @@ Als Zeitadverbial steht {DaHjaj:n} vor anderen Adverbialen.[1, sec. 6.7]</column
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Da-:v}, {jon:v}, {-lu':v}, {-pa':v}, {bI-:v}, {Hegh:v}, {-jaj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1993,7 +1993,7 @@ The sentence {tlhIngan yoH Daj verengan yoH qetlh:sen:nolink} on {KGT p.179:src}
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes">On {TKD p.172:src}, "I'm lost" is given as {jIHtaHbogh naDev vISovbe'.:sen:nolink} On {PK:src}, "I'm lost" is given in both regular and clipped Klingon versions, the latter of which is {DaqwIj Sovbe'.:sen:nolink}</column>
-          <column name="components"></column>
+          <column name="components">{Daq:n:1}, {-wIj:n}, {vI-:v}, {Sov:v}, {-be':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -4095,7 +4095,7 @@ Ordet kan också användas om flygplan, se {Dav:v:2}.[1]</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Dej:v}, {-pu':v}, {-bogh:v}, {Hov:n}, {rur:v}, {qab:n}, {-lIj:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10279,7 +10279,7 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Doch:n}, {-vetlh:n}, {vI-:v}, {Sop:v}, {-laH:v}, {-be':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10326,7 +10326,7 @@ This was defined as "be stuck" with an explanation, along with a bunch of other 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Doch:n}, {-vetlh:n}, {vI-:v}, {tlhutlh:v}, {-laH:v}, {-be':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -11447,7 +11447,7 @@ Ceci peut aussi s'utiliser pour dire "Si!" (sans affixes). Une version plus fort
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{Doq:v}, {bIQtIq:n}, {bIQ:n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -11945,7 +11945,7 @@ Ceci peut aussi s'utiliser pour dire "Si!" (sans affixes). Une version plus fort
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{DoS:n}, {-mey:n}, {DI-:v}, {qIp:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -11992,7 +11992,7 @@ Ceci peut aussi s'utiliser pour dire "Si!" (sans affixes). Une version plus fort
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{DoS:n}, {wI-:v}, {qIp:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -13894,7 +13894,7 @@ Known classes of Klingon ships include {neghvar:n}, {vorcha':n}, {qItI'nga':n}, 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Du-:v}, {jey:v}, {-chugh:v}, {jagh:n}, {nIv:v}, {yI-:v}, {tuH:v}, {-Qo':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

@@ -3068,7 +3068,7 @@ This dialect is sort of half-way between the standard dialect and the {Qotmagh S
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{targh:n}, {-lIj:n}, {yI-:v}, {ngagh:v}, {yI-:v}, {ruch:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -9721,7 +9721,7 @@ Don't confuse this word with {nI':v}.</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tIq:n}, {-lIj:n}, {Da-:v}, {'ang:v}, {-nIS:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9911,7 +9911,7 @@ His supporters include {lIr'el:n:name} and {voq:n:name}. His flagship is a sarco
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tIq:n}, {-wIj:n}, {Sa-:v}, {'ang:v}, {-nIS:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -11340,7 +11340,7 @@ This word appears in a deleted line from {Star Trek V:src}: {logh veQDaq bachchu
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{toDuj:n}, {'oS:v}, {rol:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -12986,7 +12986,7 @@ Pitching downwards is indicated using a negative angle (see {taH:v:2}).</column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{to'baj:n}, {'uS:n}, {lu-:v}, {ghoD:v}, {-lu':v}, {-bogh:v}, {tI-:v}, {laj:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -13127,7 +13127,7 @@ Pitching downwards is indicated using a negative angle (see {taH:v:2}).</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{to'waQ:n}, {yIv:v:1}</column>
       <column name="examples">
 ▶ {to'waQ yIyIv.:sen:nolink} "Take your time thinking about it."
 ▶ {to'waQ vIyIvtaH.:sen:nolink} "I'm in the process of taking my time considering the matter."
@@ -14087,7 +14087,7 @@ The example sentence {qaSDI' tuch:sen:nolink} lacks some context in the message 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tuj:v}, {-qu':v}, {-choH:v}, {QuQ:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

@@ -354,7 +354,7 @@
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{qab:n}, {-wIj:n}, {vI-:v}, {So':v:1}, {-be':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -3217,7 +3217,7 @@ In British English, this word refers to what would be called a "trapezium".</col
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{qa-:v}, {Suj:v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4420,7 +4420,7 @@ This is confirmed as intransitive since {qaw'moH:v} was also glossed as "make so
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">According to the {The Star Trek Encyclopedia:src}, MO devised this phrase to honour Star Trek III visual-effects supervisor Ken Ralston and his ILM crew, who responded to every request with "No problem!"</column>
-      <column name="components"></column>
+      <column name="components">{qay':v}, {-be':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -15386,7 +15386,7 @@ Despite its definition, this is marked as a verb of quality because the {'u' quq
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{quS:n}, {-Daq:n}, {ba':v}</column>
       <column name="examples">
 ▶ {quSDaq bIba'.:sen:nolink} "What you said is quite obvious."</column>
       <column name="examples_de"></column>
@@ -15435,7 +15435,7 @@ Despite its definition, this is marked as a verb of quality because the {'u' quq
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">There is a typo in this sentence in {TKD:src}, an extraneous space after {ba':sen:nolink}.</column>
-      <column name="components"></column>
+      <column name="components">{quS:n}, {-Daq:n}, {ba':v}, {-lu':v}, {-'a':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

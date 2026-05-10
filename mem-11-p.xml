@@ -5402,7 +5402,7 @@ Katso, kun Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw}
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pe'vIl:adv}, {bI':v}, {-chu':v}</column>
       <column name="examples">
 ▶ {romuluSnganpu' Dujmey DIQaw'pu'; pe'vIl DIbI'chu'pu'.} "We destroyed the Romulans' ships all at once."</column>
       <column name="examples_de"></column>
@@ -5450,7 +5450,7 @@ Katso, kun Gowron sanoo tämän: {YouTube video:url:http://youtu.be/QAd6OugYyxw}
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pe'vIl:adv}, {mu'qaD:n}, {-mey:n}, {tI-:v}, {bach:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -6166,7 +6166,7 @@ The homophony with {pIH:v:1} might indicate that they are the same word, and tha
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pIj:adv}, {mon:v}, {-chugh:v}, {vay':n}, {yI-:v}, {voq:v}, {-Qo':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7021,7 +7021,7 @@ The homophony with {pIH:v:1} might indicate that they are the same word, and tha
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pIpyuS:n}, {yI-:v}, {ghor:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9464,7 +9464,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">The sentence in {paq'batlh:src} had a typo in the 1st edition: it said {pongwI''e':sen:nolink} rather than {pongwIj'e':sen:nolink}. This is corrected in the 2nd edition.</column>
-      <column name="components"></column>
+      <column name="components">{'oH:n:pro}, {pong:n}, {-wIj:n}, {-'e':n}</column>
       <column name="examples">
 ▶ {luqara' 'oH pongwIj'e'.:sen:nolink}[2]</column>
       <column name="examples_de"></column>
@@ -9898,7 +9898,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes">Maltz didn't know what kind of leaf this might be referring to.</column>
-          <column name="components"></column>
+          <column name="components">{por:n}, {pur:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -10606,7 +10606,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{potlh:v}, {-be':v}, {-chugh:v}, {yay:n:2}, {qatlh:ques}, {pe''egh:v}, {-lu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
