@@ -494,7 +494,7 @@
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Qagh:n}, {-mey:n}, {-lIj:n}, {tI-:v}, {chID:v}, {yI-:v}, {yoH:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7335,7 +7335,7 @@ Es gibt einen Unterschied zwischen {ghIb:v} und {Qochbe':v:nolink}, der in der d
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{QongDaq:n}, {-Daq:n}, {Qot:v}, {-be':v}, {tlhIngan:n}, {-pu':n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -8047,7 +8047,7 @@ This verb might be appropriate if Klingons engaged in shadowboxing.[1]</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Qot:v}, {-DI':v}, {gheD:n}, {tlhej:v}, {-be':v}, {wamwI':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -8429,7 +8429,7 @@ The line {yoHbogh matlhbogh je SuvwI':sen:nolink} should be {yoHbogh 'ej matlhbo
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">The actors who performed this song on {KCD:src} mispronounced the intended {Say'moHchu':v:nolink} as {SeymoHchu':v:nolink}. This error has since propagated to other recordings of the song.</column>
-      <column name="components"></column>
+      <column name="components">{Qoy:v}, {qeylIS:n:name}, {puqloD:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10527,7 +10527,7 @@ In the example, {polmeH QujwI' lIw:n:nolink} is not a fixed construction, even t
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Quv:n}, {-lIj:n}, {-Daq:n}, {yIH:n}, {tu':v}, {-be':v}, {-lu':v}, {-jaj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

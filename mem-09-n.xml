@@ -502,7 +502,7 @@
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{naDev:n}, {Doch:n}, {-vetlh:n}, {qem:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7083,7 +7083,7 @@ A leak of information would be expressed using {'otHa':v}, as in {chIch 'otHa':s
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes">The definition is as it appears in {TKD p.170:src} and {CK:src}. A more literal translation would be "How much fuel do we have?" That this refers to the amount of fuel remaining is indicated by context.</column>
-          <column name="components"></column>
+          <column name="components">{nIn:n}, {'ar:ques}, {wI-:v}, {ghaj:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -10484,7 +10484,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{not:adv}, {lay'Ha':v}, {tlhIngan:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10531,7 +10531,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{not:adv}, {mev:v}, {pegh:n}, {-mey:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10625,7 +10625,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{not:adv}, {toj:v}, {tlhIngan:n}, {-pu':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10672,7 +10672,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{not:adv}, {vI-:v}, {legh:v}, {-pu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10865,7 +10865,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{notlh:v}, {tonSaw':n}, {-lIj:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -12421,7 +12421,7 @@ It's probably a coincidence, but نوک is also the Persian word for "nipple".</
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{nuj:n}, {yaj:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

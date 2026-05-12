@@ -3029,7 +3029,7 @@ Another way to refer to the crescent moon is {maS'e' loQHa' So'lu'bogh:n}.[2]</c
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ma-:v}, {tay':v}, {-DI':v}, {vIH:v}, {-taH:v}, {-bogh:v}, {bIQ:n}, {rur:v}, {mu'qaD:n}, {-mey:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4021,7 +4021,7 @@ It's unclear what sense of "fair" is meant by this word.</column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{may':n}, {vI-:v}, {loS:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -4162,7 +4162,7 @@ It's unclear what sense of "fair" is meant by this word.</column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{may':n}, {-mey:n}, {-Daj:n}, {-vo':n}, {Haw':v}, {-be':v}, {tlhIngan:n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

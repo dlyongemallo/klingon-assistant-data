@@ -1322,7 +1322,7 @@ On peut dire {mab ngaQmoH:sen@@mab:n:2, ngaQmoH:v:2} etc., mais il s'agit un jar
       <column name="notes_fi"></column>
       <column name="notes_fr">Cette locution idiomatique signifie qu'une situation a un résultat inévitable ou qu'un plan ou un engagement est ferme et ne peut pas être changé.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ngaQ:v}, {lojmIt:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1516,7 +1516,7 @@ Das Inhaltsverzeichnis eines Buchs dagegen wird {paq 'ay'mey:n} genannt.[2]</col
 
 Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]</column>
           <column name="hidden_notes">There is a typo on the box: it actually says {naS 'aplo':sen:nolink}, but it's clear what was meant.</column>
-          <column name="components"></column>
+          <column name="components">{ngaS:v}, {'aplo':n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -2990,7 +2990,7 @@ Par comparaison, la table des matières d'un livre s'appelle {paq 'ay'mey:n}.[2]
           <column name="notes_fi"></column>
           <column name="notes_fr">Cette locution idiomatique signifie que quelque chose est complexe. Elle est souvent utilisé dans la forme {ngem Sarghmey tlha'laH:sen:nolink} pour décrire quelqu'un capable d'un exploit difficile.</column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{ngem:n}, {Sargh:n}, {-mey:n}, {tlha':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

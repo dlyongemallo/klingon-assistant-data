@@ -2856,7 +2856,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'Iw:n}, {bIQtIq:n}, {-Daq:n}, {jI-:v}, {jaH:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -2903,7 +2903,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'Iw:n}, {bIQtIq:n}, {-Daq:n}, {bI-:v}, {leng:v}, {-jaj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3280,7 +3280,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'Iw:n}, {-lIj:n}, {ghogh:n}, {yI-:v}, {Qoy:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3327,7 +3327,7 @@ It was confirmed during the Q &amp; A session at {qep'a'2 27 (2020):src} that th
       <column name="notes_fi"></column>
       <column name="notes_fr">Regarde une leçon sur ce toast (en anglais): {YouTube video:url:http://youtu.be/_mHUA5QKSG0}</column>
       <column name="hidden_notes">When this toast first appeared in {CK:src}, it was thought that its grammar was incorrect. However, this toast was repeated in {PK:src}, where it was noted that toasts follow special grammar. This grammar was finally explained in {KGT:src} (see under {-jaj:v}).[3]</column>
-      <column name="components"></column>
+      <column name="components">{'Iw:n}, {-lIj:n}, {jach:v}, {-jaj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

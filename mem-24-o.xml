@@ -119,7 +119,7 @@
       <column name="notes_fi"></column>
       <column name="notes_fr">Ceci est la première phrase de {HenrI' vagh:n:name} de {wIlyam SeQpIr:n:name}.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'o:excl}, {'ogh:v}, {-lu':v}, {-meH:v}, {qul:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3611,7 +3611,7 @@ Ce mot est aussi écrit {'orghenya'ngan:n:nolink}.</column>
       <column name="notes_fi"></column>
       <column name="notes_fr">Cette locution idiomatique signifie littéralement "Mon petit orteil fait très mal". Voir {Qay':v:2} pour une explication.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'oy':v}, {-qu':v}, {Qay'wI':n}, {-wIj:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

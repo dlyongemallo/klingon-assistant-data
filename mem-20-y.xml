@@ -2142,7 +2142,7 @@ En outre sa signification militaire, ce mot peut se référer à un membre d'un 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yay:n:2}, {chav:v}, {-lu':v}, {'e':n:pro}, {baj:v}, {-nIS:v}, {-lu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4123,7 +4123,7 @@ Généralement, quand on utilise un verb décrivant une qualité ou un état dan
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {jatlh:v}, {-Qo':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4170,7 +4170,7 @@ Généralement, quand on utilise un verb décrivant une qualité ou un état dan
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This was used as the refrain of a song in {TNG - Birthright, Part I:src}. The actors mispronounced it so badly that it was reinterpreted by the fan community and performed by the Indianapolis "il Troubadore" as {yIjaH Qey' 'oH:sen:nolink}.</column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {ja':v}, {-Qo':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4311,7 +4311,7 @@ Généralement, quand on utilise un verb décrivant une qualité ou un état dan
       <column name="notes_fi"></column>
       <column name="notes_fr">La phrase est incorrectement traduite par "Occultation !" dans les sous-titres français de Star Trek I.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {jun:v}, {-taH:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4358,7 +4358,7 @@ Généralement, quand on utilise un verb décrivant une qualité ou un état dan
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {lop:v}, {wa'leS:n}, {chaq:adv}, {ma-:v}, {Hegh:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4465,7 +4465,7 @@ Une réponse adaptée est {nuqneH:excl} "Qu'est-ce que tu veux?"
 
 Écoute comment Gowron le dit: {YouTube video:url:http://youtu.be/YogSytvb8cc}</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {qIm:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4756,7 +4756,7 @@ An earlier translation of this phrase appears in UPN's Star Trek 25th Anniversar
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yIn:v}, {-lu':v}, {-taH:v}, {'e':n:pro}, {baj:v}, {-nIS:v}, {-lu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -5132,7 +5132,7 @@ An earlier translation of this phrase appears in UPN's Star Trek 25th Anniversar
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">This was used by MO in a "get well" letter to Glen Proechel in March of 1998. According to the rule given in {KGT:src}, this should've been {yIpIv'eghmoH!:sen@@yI-:v, pIv:v, -'egh:v, -moH:v} See under {taD:v}.</column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {pIv:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -6138,7 +6138,7 @@ In {TNK:src}, wird dieses Wort benutzt, um "Hemd" zu übersetzen und {yIvbeH SeQ
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">There is a grammatical error with this sentence. It should be {tISam:sen@@tI-:v, Sam:v} rather than {yISam:sen:nolink}.</column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {voq:v}, {'ach:conj}, {lojmIt:n}, {-mey:n}, {yI-:v}, {Sam:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -6185,7 +6185,7 @@ In {TNK:src}, wird dieses Wort benutzt, um "Hemd" zu übersetzen und {yIvbeH SeQ
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{yI-:v}, {voq:v}, {'ach:conj}, {yI-:v}, {'ol:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

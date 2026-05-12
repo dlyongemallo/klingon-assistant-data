@@ -597,7 +597,7 @@ Jongler, c.a.d. jeter des objets dans l'air et les attraper dans un rythme, est 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{jagh:n}, {lu-:v}, {chargh:v}, {-lu':v}, {-ta':v}, {-bogh:v}, {HuH:n}, {ghop:n}, {-Du':n}, {-lIj:n}, {lu-:v}, {ngaS:v}, {-jaj:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3741,7 +3741,7 @@ The {msn:src} example had a typo: {ghoHtah:sen:nolink} instead of {ghoHtaH:sen:n
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{jegh:v}, {-be':v}, {tlhIngan:n}, {-pu':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -5802,7 +5802,7 @@ A "gibbet" is a structure used for public execution. It's also a term for the pr
       <column name="notes_fi"></column>
       <column name="notes_fr">Cette phrase a été dite par Worf (en Klingon) pendant son rite d'ascension.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{jI-:v}, {bech:v}, {-rup:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -6103,7 +6103,7 @@ Le préfixe impératif quand {jIH:n:1h,nolink} est l'objet est {HI-:v:pref}.</co
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{jI-:v}, {jatlh:v}, {-pa':v}, {jatlh:v}, {Hov:n}, {-mey:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -6197,7 +6197,7 @@ Le préfixe impératif quand {jIH:n:1h,nolink} est l'objet est {HI-:v:pref}.</co
       <column name="notes_fi"></column>
       <column name="notes_fr">Cette phrase est dite quand on accepte la requête de devenir le {cha'DIch:n:2} de quelqu'un.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{jI-:v}, {laj:v}, {-neS:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -11048,7 +11048,7 @@ Wenn {-Daq:n} benutzt wird, impliziert es, dass man daneben geblasen hat und die
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{juH:n}, {-wIj:n}, {-Daq:n}, {Doch:n}, {-vetlh:n}, {vI-:v}, {tlhap:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
