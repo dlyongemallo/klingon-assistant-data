@@ -5719,7 +5719,7 @@ This was defined as "side". The clarification "exterior surface" was added based
       <column name="notes_pt"></column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
-      <column name="hidden_notes">A reference to Archie "Bunker" from the 1970s sitcom All in the Family.</column>
+      <column name="hidden_notes">The apocryphal saying "Don't fire until you see the whites of their eyes!" comes from the Battle of Bunker ({bunqer:sen:nolink}) Hill.</column>
       <column name="components"></column>
       <column name="examples"></column>
       <column name="examples_de"></column>
