@@ -11494,7 +11494,7 @@ Ceci peut aussi s'utiliser pour dire "Si!" (sans affixes). Une version plus fort
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{Doq:v}, {'ej:conj}, {Qaj:n}, {wuS:n}, {rur:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -11541,7 +11541,7 @@ Ceci peut aussi s'utiliser pour dire "Si!" (sans affixes). Une version plus fort
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{Doq:v}, {'ej:conj}, {wov:v}, {-be':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

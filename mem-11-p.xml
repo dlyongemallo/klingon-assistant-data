@@ -6786,7 +6786,7 @@ The homophony with {pIH:v:1} might indicate that they are the same word, and tha
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pI-:v}, {naD:v}, {-qu':v}, {tuq:n}, {-lIj:n}, {wI-:v}, {naD:v}, {-qu':v}, {je:conj}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9608,7 +9608,7 @@ To Klingons outside of {bo'retlh:n}, time crystals were a myth, a symbol of Kahl
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{pop:n}, {'oH:n:pro}, {ghob:v}, {-'e':n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

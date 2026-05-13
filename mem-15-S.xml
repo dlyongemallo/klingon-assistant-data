@@ -14082,7 +14082,7 @@ The Chinese translation 英靈殿 is from the Chinese Memory Alpha wiki (https:/
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{Suv:v}, {-meH:v}, {'ej:conj}, {chargh:v}, {-meH:v}, {bogh:v}, {tlhIngan:n}, {-pu':n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

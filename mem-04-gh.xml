@@ -4028,7 +4028,7 @@ Ein allgemeiner Begriff für jede Musik spielende Gruppe (egal welcher Größe) 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghe'tor:n}, {-vo':n}, {nargh:v:2}, {-DI':v}, {qa':n}, {-pu':n}</column>
       <column name="examples">
 ▶ {jIjegh ghe'torvo' narghDI' qa'pu'.:sen:nolink} "I will surrender when spirits escape from Gre'thor." (That is, "I will never surrender.")</column>
       <column name="examples_de"></column>
@@ -6865,7 +6865,7 @@ In ascending order of ferocity, the verbs used to describe military confrontatio
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{ghob:n}, {tIv:v}, {-nIS:v}, {-be':v}, {-lu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

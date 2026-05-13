@@ -4868,7 +4868,7 @@ The existence of {chem:n:nolink} as an independent word was hypothesized for a l
           <column name="notes_fi"></column>
           <column name="notes_fr">Il est possible d'être plus spécfique avec, par exemple, {ra'Duch:n} "triangle" ou {wej war(mey):n@@wej:n, war:n, -mey:n} "trois colonnes" au lieu du {tu'qom:n} plus général.[1]</column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{chen:v}, {tu'qom:n}</column>
           <column name="examples">
 ▶ {tlhaj negh; chen tu'qom.:sen@@tlhaj:v, negh:n, chen:v, tu'qom:n} "The soldiers march in formation."[1]</column>
           <column name="examples_de">

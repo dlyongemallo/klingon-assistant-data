@@ -10715,7 +10715,7 @@ In the example, {polmeH QujwI' lIw:n:nolink} is not a fixed construction, even t
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Qu':n}, {Da-:v}, {tagh:v}, {-DI':v}, {'aqtu':n:name}, {mellota':n:name}, {je:conj}, {tI-:v}, {qaw:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -10859,7 +10859,7 @@ In the example, {polmeH QujwI' lIw:n:nolink} is not a fixed construction, even t
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Qu':n}, {-Daj:n}, {ta':v}, {-taH:v}, {-vIS:v}, {Hegh:v}, {'e':n:pro}, {tul:v}, {Hoch:n}, {tlhIngan:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
