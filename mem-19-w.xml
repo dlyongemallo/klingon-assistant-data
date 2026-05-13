@@ -2768,7 +2768,7 @@ Obi-Wan Kenobi is a character in Star Wars.</column>
           <column name="notes_fi"></column>
           <column name="notes_fr">Cette locution idiomatique se réfère à un évènement de la vie de {qeylIS'e' lIjlaHbe'bogh vay':n:name}, quand il se batta avec son frère {moratlh:n:name} pendantdouze jours et douze nuits (comme raconté dans le {paq'batlh:src}). L'expression ne signifie pas seulement que la durée d'un évènement est longue, mais que l'évènement est important et vaut prendre autant de temps.</column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{wa'maH:n:num}, {cha':n:num}, {pem:n}, {-mey:n}, {wa'maH:n:num}, {cha':n:num}, {ram:n}, {-mey:n}, {je:conj}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -3664,7 +3664,7 @@ Obi-Wan Kenobi is a character in Star Wars.</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{wej:adv}, {Hegh:v}, {-chugh:v}, {vay':n}, {Suv:v}, {-taH:v}, {SuvwI':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -8030,7 +8030,7 @@ Si on a des yeux "sensibles à la lumière", ils pourraient être sensibles à l
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{wo':n}, {toy':v}, {-taH:v}, {-vIS:v}, {Hegh:v}, {'e':n:pro}, {tul:v}, {Hoch:n}, {tlhIngan:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

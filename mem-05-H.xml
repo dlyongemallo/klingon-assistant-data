@@ -4631,7 +4631,7 @@ This word is listed among other militaristic terminology in the body of {KGT:src
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Hem:v}, {tlhIngan:n}, {Segh:n}, {'ej:conj}, {ma-:v}, {Hem:v}, {-taH:v}, {'e':n:pro}, {wI-:v}, {Hech:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

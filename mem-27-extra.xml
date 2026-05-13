@@ -1783,7 +1783,7 @@ Katso video tästä vitsistä: {YouTube video:url:http://youtu.be/HciuEJSpPq0}</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{loDHom:n}, {jIH:n:1}, {-DI':v}, {qIrq:n:name}, {qun:n}, {vI-:v}, {qIm:v}, {-choH:v}, {ghot:n}, {-vam:n}, {Ho':v}, {-lu':v}, {'ej:conj}, {muS:v}, {-lu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

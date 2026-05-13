@@ -4432,7 +4432,7 @@ Il y a une locution, {Hem; tlhIngan rur@@Hem:v, tlhIngan:n, rur:v}.</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tlhIngan:n}, {ngoQ:n}, {-mey:n}, {chav:v}, {-meH:v}, {HoH:v}, {tlhIngan:n}, {-pu':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

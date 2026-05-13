@@ -1462,7 +1462,7 @@ In English slang, a "lat"rine is sometimes called a "shrine".</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{latlh:n}, {je:conj}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

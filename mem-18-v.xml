@@ -4439,7 +4439,7 @@ A more common term for this is {qatru':n:nolink}.</column>
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{veqlargh:n:name}, {-lI':n}, {yI-:v}, {buS:v}, {'ej:conj}, {veqlargh:n:name}, {-wI':n}, {vI-:v}, {buS:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -9439,7 +9439,7 @@ It was stated during the Q &amp; A session that the primary meaning of this word
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{vub:n}, {-pu':n}, {jon:v}, {nuch:n}, {-pu':n}, {jon:v}, {-be':v}, {tlhIngan:n}, {-pu':n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

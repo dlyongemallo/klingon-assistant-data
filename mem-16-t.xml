@@ -4457,7 +4457,7 @@ This refers to the expression "going to hell ({Hel:sen:nolink}) in a hand ({ghop
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tay':v}, {-taH:v}, {-be':v}, {'Iw:n}, {bIQ:n}, {je:conj}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -9627,7 +9627,7 @@ Don't confuse this word with {nI':v}.</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tI-:v}, {qIp:v}, {-qu':v}, {'ej:conj}, {nom:adv}, {tI-:v}, {qIp:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

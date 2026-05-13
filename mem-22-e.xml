@@ -1555,7 +1555,7 @@ The example {'ejyaHlogh:adv:nolink} was given during the Q &amp; A session.</col
    Le jour de tous les jours
    Quand Kahless tua le vilain Molor!"</column>
       <column name="hidden_notes">These lyrics were presumably made up by the writers of the episode, who did a much better job than usual with the Klingon language. The Klingon translation contains most of the words one would expect to find to express the ideas in the English lyrics, even if the grammar is a bit strange. This was explained (or explained away) in {KGT:src}, which notes that many songs are in some form of {no' Hol:n:nolink}.</column>
-      <column name="components"></column>
+      <column name="components">{'ej:conj}, {Hum:v}, {-taH:v}, {'ej:conj}, {Dech:v}, {-taH:v}, {'Iw:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
