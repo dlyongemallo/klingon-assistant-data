@@ -693,7 +693,7 @@ Katso video tästä vitsistä: {YouTube video:url:http://youtu.be/HciuEJSpPq0}</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{Hur:n:1}, {-Daq:n}, {tu'HomI'raH:n}, {-vetlh:n}, {yI-:v}, {lan:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1360,7 +1360,7 @@ Katso video tästä vitsistä: {YouTube video:url:http://youtu.be/HciuEJSpPq0}</
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{chorgh:n:1,num}, {SaD:n:num}, {qelI'qam:n}, {HIvchuq:n}, {-'e':n}, {vI-:v}, {noH:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

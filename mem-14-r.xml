@@ -1927,7 +1927,7 @@ There is a Klingon idiom, {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2]</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{rav:n:2}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -1974,7 +1974,7 @@ There is a Klingon idiom, {'IQ; rav rur@@'IQ:v, rav:n:1, rur:v}.[2]</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{rav:n:2}, {'aqroS:n:2}</column>
       <column name="examples">
 ▶ {QujwI' ghom rav:sen:nolink}: {cha'; 'aqroS:sen:nolink}: {jav:sen:nolink} "2 to 6 players"[2]
 ▶ {rav cha' 'uj(mey) 'aqroS loS 'uj(mey) 'ab:sen@@rav ...:sen, cha':n:num, 'uj:n, -mey:n, 'aqroS ...:sen, loS:n:1,num, 'uj:n, -mey:n, 'ab:v:1} "has a length between two and four ujes" (it's at least two ujes and no more than four)[1]

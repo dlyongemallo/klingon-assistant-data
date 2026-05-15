@@ -3275,7 +3275,7 @@ It's unclear why {'aqroS:n:2,nolink} seems to precede the noun while {rav:n:2,no
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{'aqroS:n:2}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

@@ -5048,7 +5048,7 @@ The existence of the homophonous noun {Sev:n} may suggest that Klingons view the
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{SeymoH:v}, {QeH:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

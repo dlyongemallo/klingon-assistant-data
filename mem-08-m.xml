@@ -9397,7 +9397,7 @@ This idiom has its origin in {HenrI' vagh:n:name}, a play by {wIlyam SeQpIr:n:na
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{mIv:n:1}, {-Daq:n}, {pogh:n}, {cha':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

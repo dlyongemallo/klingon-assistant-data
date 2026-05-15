@@ -261,7 +261,7 @@
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{vaD:v}, {-jaj:v}, {yaD:n:1}, {-Du':n}, {-lIj:n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>

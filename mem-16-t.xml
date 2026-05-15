@@ -265,7 +265,7 @@
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{tach:n}, {-Daq:n}, {ma-:v}, {ghom:v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -9244,7 +9244,7 @@ MO has said that this is not a reference to the Stan Laurel and Oliver Hardy mov
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{tIng:n}, {-vo':n}, {'ev:n}, {-Daq:n}, {chan:n}, {-Daq:n}</column>
       <column name="examples">
 ▶ {tIngvo' 'evDaq chanDaq jIlengpu'.:sen:nolink} "I've traveled all over the place."[1]</column>
       <column name="examples_de"></column>
