@@ -10442,7 +10442,7 @@ The unusual suffix placement ({tuQmoHHa':v:nolink} rather than {tuQHa'moH:v}) oc
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{qogh:n:0}, {tuQmoH:v}, {-Ha':v}</column>
       <column name="examples">
 ▶ {qogh vItuQmoHHa'pu':sen:nolink} "I've taken off my belt; your secret is safe with me."</column>
       <column name="examples_de"></column>

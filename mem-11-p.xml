@@ -3097,7 +3097,7 @@ The {bIS'ub:n} of a {pa':n:1h,nolink} is its {rav:n:1}, and its {'aqroS:n:1} is 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pa':n:2}, {jIH:n:1}, {-pu':v}, {-be':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -4013,7 +4013,7 @@ This is also infrequently shortened to {pegh vIttlhegh:n:nolink}.[1]</column>
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pel'aQ:n:1}, {-Daj:n}, {ghor:v}, {-pa':v}</column>
       <column name="examples">
 ▶ {pel'aQDaj ghorpa' qama' yIHoH.:sen:nolink} "Kill the prisoner now, while you've got a chance."</column>
       <column name="examples_de"></column>
@@ -5499,7 +5499,7 @@ The verb {roS:v:2} means "to use the third toe". It is also homophonous with a v
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pe'vIl:adv}, {roS:v:2}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -6974,7 +6974,7 @@ The homophony with {pIH:v:1} might indicate that they are the same word, and tha
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{pIpyuS pach:n}, {Da-:v}, {Sop:v}, {Da-:v}, {neH:v}, {-chugh:v}, {pIpyuS:n}, {puS:v:1}, {Da-:v}, {ghor:v}, {-nIS:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

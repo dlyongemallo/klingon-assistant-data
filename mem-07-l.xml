@@ -5835,7 +5835,7 @@ The definition was not given. It's just explained that going online would use th
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{lIn:v:1}, {-chuq:v}</column>
           <column name="examples">
 ▶ {malInchuq:sen:nolink}
 ▶ {SulInchuq:sen:nolink}</column>

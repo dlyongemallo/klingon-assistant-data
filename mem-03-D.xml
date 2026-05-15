@@ -6283,7 +6283,7 @@ Dieses Verb kann für Flugzeuge verwendet werden, hierfür siehe {Der:v:2}.[1]</
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{De':n}, {lI':v:1}, {Sov:v}, {-lu':v}, {-DI':v}, {chaq:adv}, {Do'Ha':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -12604,7 +12604,7 @@ Ceci peut aussi s'utiliser pour dire "Si!" (sans affixes). Une version plus fort
           <column name="notes_fi"></column>
           <column name="notes_fr"></column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{Do'Ha':v}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
@@ -15651,7 +15651,7 @@ The distinction between a {DuS:n:nolink} and a {chetvI':n:1} has to do with how 
       <column name="notes_fi"></column>
       <column name="notes_fr"></column>
       <column name="hidden_notes">There is a typo in this sentence in {TKD:src}, an extra space right after {mIv:n:1}.</column>
-      <column name="components"></column>
+      <column name="components">{Du-:v}, {'IH:v}, {-choH:v}, {-moH:v}, {mIv:n:1}, {-vam:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

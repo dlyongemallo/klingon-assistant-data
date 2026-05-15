@@ -3158,7 +3158,7 @@ Watch this song performed by Rachel Bloom: {YouTube video:url:http://youtu.be/Y3
 Katso tämä kappale Rachel Bloomin esittämänä: {YouTube-video:url:http://youtu.be/Y3Q2HXXRlBM}</column>
       <column name="notes_fr"></column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{vagh:n:1,num}, {bIp:n:num}, {cha':n:num}, {netlh:n:num}, {vagh:n:1,num}, {SaD:n:num}, {jav:n:1,num}, {vatlh:n:num}, {tup:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

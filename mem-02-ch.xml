@@ -1826,7 +1826,7 @@ Le préfixe impératif quand {chaH:n:nolink} est l'objet est {tI-:v:pref}.</colu
       <column name="notes_fi"></column>
       <column name="notes_fr">Regarde comment Gowron le dit: {YouTube video:url:http://youtu.be/8Rg12lJheMc}</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{chargh:v}, {-bej:v}, {vIt:n}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>

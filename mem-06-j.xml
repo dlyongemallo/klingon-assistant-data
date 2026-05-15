@@ -4816,7 +4816,7 @@ Toutes les phrases suivantes peuvent être traduites par "Je participe au {qepHo
       <column name="notes_fi"></column>
       <column name="notes_fr">Ceci signifie littéralement "se porter volontaire pour participer". Il peut aussi s'utiliser quand l'inscription n'est pas entièrement volontaire. Il s'utilise et pour une inscription en avance et pour une décision sur-le-champ de participer à un évènement qui est sur le point de commencer.</column>
       <column name="hidden_notes"></column>
-      <column name="components"></column>
+      <column name="components">{jeS:v}, {'e':n:pro}, {Sap:v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -7121,7 +7121,7 @@ Ce verbe peut aussi s'utiliser pour faire marcher des pédales attachés à une 
           <column name="notes_fi"></column>
           <column name="notes_fr">Il s'agit d'un mot argotique pour {qIS:v}.[1]</column>
           <column name="hidden_notes"></column>
-          <column name="components"></column>
+          <column name="components">{jIr:v}, {qIvon:n}</column>
           <column name="examples"></column>
           <column name="examples_de"></column>
           <column name="examples_fa"></column>
